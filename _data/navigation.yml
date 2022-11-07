@@ -38,5 +38,8 @@ links:
         url: /our-programmes/llp/
       - title: Applied Learning Prog (ALP)
         url: /our-programmes/llp/
+  - title: Events
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
