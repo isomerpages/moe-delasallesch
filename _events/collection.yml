@@ -2,11 +2,11 @@ collections:
   events:
     output: true
     order:
-      - Achievements/.keep
-      - Achievements/2021.md
-      - Achievements/2020.md
-      - Achievements/2019.md
       - Gallery/.keep
       - Gallery/2022.md
       - Gallery/2021.md
       - Gallery/2020.md
+      - Achievements/.keep
+      - Achievements/2021.md
+      - Achievements/2020.md
+      - Achievements/2019.md
