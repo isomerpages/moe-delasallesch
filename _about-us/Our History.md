@@ -12,15 +12,15 @@ description: ""
 
 #### ST. JOHN BAPTIST DE LA SALLE
 
-<img src="/images/sch_history.png" style="width:30%">
+<img src="/images/sch_history.png" style="width:50%">
 
 The primary school building was completed in 1952. It was equipped with furniture from SJI. The school was named after the Founder of the Christian Brothers Schools, St John Baptist De La Salle.
 
 <img src="/images/1952.png" style="width:30%">
-<img src="/images/kampongbahru.png" style="width:50%">
+<img src="/images/kampongbahru.png" style="width:49%">
 
 #### DE LA SALLE SCHOOL
-<img src="/images/sch_history (1).png" style="width:30%">
+<img src="/images/sch_history (1).png" style="width:50%">
 
 De La Salle School in Kampong Bahru opened its classrooms in January 1952 under the charge of Rev Bro Thomas, Headmaster and Director. The first batch of teachers and pupils came on transfer from SJI. There were 7 teachers and 196 boys in seven classes, from Primary 1 to Standard 5.
 
@@ -32,7 +32,7 @@ On 14 May 1952, it was officially declared open by Mr R M Young, the Director of
 <img src="/images/sch_history5.png" style="width:49%">
 
 #### DE LA SALLE SCHOOL
-<img src="/images/sch_history.png" style="width:30%"> <br>
+<img src="/images/sch_history.png" style="width:50%"> <br>
 De La Salle School in Kampong Bahru made remarkable progress. Good discipline and high academic standards were established. Enrolment increased rapidly, and the school was filled to the capacity of 960 pupils in 24 classes. Indeed, the cry from year to year was for more room!
 
 <img src="/images/1992.png" style="width:30%">
@@ -92,3 +92,14 @@ On 9 November, De La Salle School vacated the holding school and moved to her sp
 
 A week later, on 16 November, the "Hello-to-Choa Chu Kang" Dinner was held in the new school grounds. Gracing the occasion as Guest of Honour was Mr Yeo Cheow Tong, then the Minister for Health and the Environment, and Member of Parliament for the Hong Kah GRC.
 
+<img src="/images/1998.png" style="width:30%">
+<img src="/images/cck.png" style="width:49%">
+
+#### ### DE LA SALLE CHOA CHU KANG
+<img src="/images/sch_history (1).png" style="width:50%">
+
+On 2 January, a staff and pupil population of 66 and 1560 respectively began a new chapter in Choa Chu Kang for the 46-year-De La Salle School.
+
+The new De La Salle School was blessed by His Grace, the late Most Rev Gregory Yong, Archbishop of Singapore on 27 May 1998. Rev Father Joachim Kang of St Teresa's Church and Rev Father Augustine Tay of St Joseph's Church concelebrated the High Mass held in the school hall, and thereafter, proceeded with the Archbishop to bless all areas of the school.
+
+After the blessing of the entire school, the bronze statue of St John Baptist De La Salle, sculpted by renowned artist, Rev Bro Joseph McNally, was unveiled in the school's assembly square.
