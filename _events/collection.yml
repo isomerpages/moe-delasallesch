@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Gallery/Gallery.md
       - Gallery/.keep
