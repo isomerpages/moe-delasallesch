@@ -1,9 +1,13 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    collection: about-us
+    url: /about-us/our-founder/
+    sublinks:
+      - title: Our Founder
+        url: /about-us/our-founder/
+      - title: The Christian Brothers
+        url: /permalink
+      - title: Our History
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: About Us
-    url: /our-founder
-    sublinks: []
