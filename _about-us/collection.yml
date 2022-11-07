@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Alumni.md
       - Our Founder.md
       - The Christian Brothers.md
       - Our History.md
