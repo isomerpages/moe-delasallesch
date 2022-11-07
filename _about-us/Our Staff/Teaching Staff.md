@@ -45,3 +45,11 @@ third_nav_title: Our Staff
 |**ST. ELIZABETH 3**|Ms Hui Wing Yan<br>Ms Woon Shio Ching<br>Ms Prema<br>| [hui_wing_yan@moe.edu.sg](mailto:hui_wing_yan@moe.edu.sg)<br>[woon_shio_ching@moe.edu.sg](mailto:woon_shio_ching@moe.edu.sg)<br>[prema_a@moe.edu.sg](mailto:prema_a@moe.edu.sg)|
 |**ST. FRANCIS 3**|Ms Wong Nicole Miin Yi<br>Ms Eu Hui Jun|[wong_nicole_miin_yi@moe.edu.sg](mailto:wong_nicole_miin_yi@moe.edu.sg)<br>[eu_hui_jun@moe.edu.sg](mailto:eu_hui_jun@moe.edu.sg)|
 |**ST. GABRIEL 3**|Miss Thiviya Thulasidharan<br>Mr Fairuzaman Haidzir| [thiviya_thulasidharan@moe.edu.sg](mailto:thiviya_thulasidharan@moe.edu.sg)<br>[fairuzaman_haidzir@moe.edu.sg](mailto:fairuzaman_haidzir@moe.edu.sg)
+
+#### Primary 4 2022
+
+| **Class** | **Form Teachers** | **Email** |
+|:---:|:---:|---|
+| **ST.ANTHONY 4** |Mrs Tracie Goh<br>Mr Lukman Umar Zainal | [huang_qianyi_tracie@moe.edu.sgg](mailto:[huang_qianyi_tracie@moe.edu.sg)<br>[lukman_umar_umar@moe.edu.sg](mailto:lukman_umar_umar@moe.edu.sg)|
+|**ST.BERNADETTE 4**|Mr Mohamed Sadiqin Subhan<br>Miss Nurulain Rashid<br>Mr Jeffrey Lee Tze We| [mohamed_sadiqin_subhan@moe.edu.sg](mailto:mohamed_sadiqin_subhan@moe.edu.sg)<br>[nurulain_rashid@moe.edu.sg](mailto:nurulain_rashid@moe.edu.sg)<br>[lee_tze_wei_jeffrey@moe.edu.sg](mailto:lee_tze_wei_jeffrey@moe.edu.sg)|
+|**ST. CHRISTOPHER 4**| Mr Abdul Gaffar Shaik Yusof<br>Ms Teo Su Zhen Porcia<br>Ms Goh Huiqi| [abdul_gaffar_shaik_yusof@moe.edu.sg](mailto:abdul_gaffar_shaik_yusof@moe.edu.sg)<br>[teo_su_zhen_porcia@moe.edu.sg](mailto:teo_su_zhen_porcia@moe.edu.sg)<br>[goh_huiqi@moe.edu.sg](mailto:goh_huiqi@moe.edu.sg)
