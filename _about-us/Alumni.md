@@ -62,3 +62,21 @@ However, in order to qualify for Phase 2A1, you would have to be an alumni membe
 In other words, you would have had to be an alumni member for approximately 1-and-a half years before your child goes to Primary One.
 
 Please see the diagram below for better clarity of this.
+
+<img src="/images/Alumni_P1_Phase_2A1.gif" style="width:90%">
+
+Alumni members who would like P1 registration for their children under priority Phase 2A1should write an email to the Alumni [dlsaalumni@gmail.com](mailto:dlsaalumni@gmail.com) with details of their full name, NRIC No, full name(s) of your child(ren) and date of application of membership. We will then write to you with a letter to present to the School to confirm your eligibility under Phase 2A1.
+
+### DLSAA HELPS OUT IN SCHOOL FUND-RAISER
+
+<img src="/images/10960330_857008904363457_2021429949786083814_o.jpg" style="width:49%" align=left> 
+
+DLSS's Funtastic Fiesta 2015 Fund-Raiser
+
+De La Salle School had its food and funfare, FUNTASTIC FIESTA 2015, on Saturday, 31 January 2015 at the school's premises at Choa Chu Kang.
+
+The alumni association did its part by helping to man one of the games stalls. The association also took the opportunity to raise some funds for its own activities by selling mainly toys at its flea market stall.
+
+The event was graced by Guest-of-Honour, Mr Alex Yam, who is the MP for Choa Chu Kang GRC. He was accompanied by Principal, Mrs Sing, VPs, Mr Chan and Mr Ching, Chairman of the SMC, Mr Kuo, and President of the DLSAA, Mr Bangras, as they sat through some wonderful dance performances and viewed the various stalls during a walkabout later on.
+
+Mr Yam greeted visitors, parents and children alike with his trademark smile and friendly banter. Here are some pictures of the performances, his walkabout and pictures of our alumni volunteers manning the stalls.
