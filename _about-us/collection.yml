@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Mission & Vision & Values.md
       - Our Founder.md
       - The Christian Brothers.md
       - Our History.md
       - Our Crest & Our Motto.md
+      - Our Mission & Vision & Values.md
