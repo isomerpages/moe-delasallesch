@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Gallery/2021.md
-      - Gallery/Gallery.md
+      - Gallery/2022.md
       - Gallery/.keep
