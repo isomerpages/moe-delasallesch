@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - The Christian Brothers.md
       - Our Founder.md
+      - The Christian Brothers.md
