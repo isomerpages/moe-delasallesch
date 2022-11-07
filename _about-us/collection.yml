@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Information.md
       - Our Founder.md
       - The Christian Brothers.md
       - Our History.md
@@ -19,3 +18,4 @@ collections:
       - Our Former School Principals.md
       - Alumni.md
       - Our School Rules.md
+      - School Information.md
