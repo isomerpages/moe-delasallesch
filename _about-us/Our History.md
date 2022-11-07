@@ -159,6 +159,38 @@ In September 2007, the school organised a Charity Walk & Family Day in aid of Th
 
 In July 2008, the school presented the Mother Tongue Language Programme 'Spice Up the Learning of Mother Tongue Languages' at the MOE Excellence through Continuous Enterprise and Learning (ExCEL) Fest. The school shared the unique ways of conducting Learning Journeys in the Mother Tongue Languages which serves to deepen Lasallians' rootedness to Singapore and organising Mother Tongue Week to reinforce the learning of the languages through games and inter-class competitions. Lasallians were involved in overseas language and cultural immersion trips to China, Taiwan, Malaysia, Brunei and India to enable them to acquire valuable experiential life skills in a global context.
 
+<img src="/images/2009.png" style="width:30%">
 
+#### DE LA SALLE SCHOOL
+<img src="/images/sch_history (1).png" style="width:50%">
 
+In 2009, the school announced that De La Salle School would undergo the PRIME upgrading project from January 2011 to December 2012. The school was held at the former Teck Whye Primary/Secondary site located at 38 Jalan Teck Whye for 2 years before moving back to its existing site.
 
+<img src="/images/2010.png" style="width:30%">
+
+#### DE LA SALLE SCHOOL
+<img src="/images/sch_history (1).png" style="width:50%">
+
+In November 2010, a 'Reconnect & Reminise' Gala Dinner was organised for all Lasallians at 11 Choa Chu Kang St 52 with Mr Choo Cheok Hai, Principal from 1968 - 1987 as the Guest of Honour.
+
+<img src="/images/2011.png" style="width:30%">
+
+#### DE LA SALLE SCHOOL
+<img src="/images/sch_history (1).png" style="width:50%">
+
+In January 2011, De La Salle School went single session at the holding site in Teck Whye Cresent. FI8ESTA'11, a fundraising carnival was organised at the school compound in Teck Whye Cresent to raise funds for the School Building Fund with Mr Alex Yam, Advisor to Yew Tee Grassroots Organisation as our Guest of Honour. The 1st Charity Golf Tournament was held at Raffles Country Club with Mr Gan Kim Yong, Minister for Health as our Guest of Honour at the Prize-presentation Ceremony cum Dinner after the tournament.
+
+Mrs Daphne Sing joined the Lasallian family as the 3rd Vice-Principal after her completion of the Leaders in Education Programme (LEP) and took over the leadership of the school on 15 December 2011 while the school bid farewell to Miss Bernadette Jane Lim.
+
+<img src="/images/2012.png" style="width:30%">
+
+#### DE LA SALLE SCHOOL
+<img src="/images/sch_history (1).png" style="width:50%">
+
+In 2012, an Arts Festival entitled Inspirations from around the World was put up to showcase Lasallians' abilities and talents in the area of visual and performing arts.
+
+PAGES or 'Purposeful Adventure for Growth and Experiences' is the main platform for our Lasallians to put into practice the values, life skills and Social Emotional Competencies that they have learnt during curriculum time. PAGES is the camping experience given to every Lasallian from Primary 1 to Primary 6 where they learn to inculcate the school values and impart life skills through enjoyable and meaningful activities. Camp activities are adventurous in nature and provide opportunities to toughen character. Camping takes the Lasallians away from their usual comforts where they learn the value of gratefulness and appreciate what they have, rather than complain what they do not have. Recognising that most of our Lasallians live in the concrete jungle of HDB flats, camping provides many opportunities for Lasallians to gain new experiences such as living in the community and working in teams.
+
+Enabling Lasallians in a Lasallian community to learn how to learn and to learn how to live; empowering them to be persons of integrity and persons for others has been the mission of the Christian Brothers' Schools in Singapore. In De La Salle School, the holistic education of our Lasallians has been our focus and will continue to be in line with the vision of our founder St John Baptist De La Salle. The Character and Talent development of our Lasallians plants the seed by which our vision of a "Lifelong Learner" and a "Caring Citizen" will emerge in the future.
+
+The final phase of upgrading work was completed at the end of November 2012 and Lasallians were grateful for the new building and upgraded facilities to start the new school year at 11 Choa Chu Kang Street 52 in January 2013. The school is grateful to the School Management Council members, parents, Lasallians, alumni and the comminuty for their generous support and donations to the School Building Development Fund.
