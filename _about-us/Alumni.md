@@ -19,3 +19,6 @@ description: ""
 <p align="center">
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAAA3ZywJUQVJCNkJCVFdGSklMNDNLSzhER1NNUU4wUi4u">DLSAA REGISTRATION FORM </a></p><br>
 
+Dear Alumni & Fellow Lasallians,
+
+“It was the best of times, it was the worst of times…it was the season of Light, it was a season of Darkness…”. This is the opening line of the novel, A Tale of Two Cities, by one of the greatest authors of the Victorian era, Charles Dickens. We live in extraordinary times and at the time of writing, Singapore was just emerging out of the circuit-breaker period imposed to counter the COVID-19 pandemic. And it harkened back to Dicken’s seminal book which was set in the years leading up to the French Revolution. I don’t believe the situation here is as grave as those times but not many Lasallians have ever experienced anything quite like this pandemic. This virus has brought so much devastation to businesses and economies and disrupted our way of life, how we work, study, play and even worship.
