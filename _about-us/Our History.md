@@ -103,3 +103,62 @@ On 2 January, a staff and pupil population of 66 and 1560 respectively began a n
 The new De La Salle School was blessed by His Grace, the late Most Rev Gregory Yong, Archbishop of Singapore on 27 May 1998. Rev Father Joachim Kang of St Teresa's Church and Rev Father Augustine Tay of St Joseph's Church concelebrated the High Mass held in the school hall, and thereafter, proceeded with the Archbishop to bless all areas of the school.
 
 After the blessing of the entire school, the bronze statue of St John Baptist De La Salle, sculpted by renowned artist, Rev Bro Joseph McNally, was unveiled in the school's assembly square.
+
+<img src="/images/1999.png" style="width:30%">
+
+#### ### DE LA SALLE SCHOOL
+<img src="/images/sch_history (1).png" style="width:50%">
+
+On 1 October, Children's Day, Mr Yeo Cheow Tong, the Minister of Communications and Information Technology, and MP for Hong Kah GRC officially opened the new De La Salle School.
+
+The school's official opening ceremony was marked successfully by the staging of a musical on the life of the Founder, entitled "In Celebration of De La Salle".
+
+<img src="/images/2001.png" style="width:30%">
+
+#### ### DE LA SALLE SCHOOL
+The school's enrolment grew to more than 2,400. In October 2001, the Ministry of Education identified the school for further upgrading under PRIME Phase 4. The offer was accepted. Upgrading works would begin in 2002 and be completed by 2004.
+
+On 16 November 2001, the school year closed with the Annual Thanksgiving Mass, celebrated by Fr Augustine Tay. It was followed by the Prize-Presentation Ceremony with Mr Anthony Thng, the Chairman of the School Management Committee as the Guest of Honour. Present, too, was Mrs Beatrice Wang Chee Ting, the Principal-Designate of De La Salle School.
+
+On 21 November 2001, De La Salle celebrated her 50th Anniversary with a Golden Jubilee Dinner at the Singapore Mandarin Hotel. His Grace, Most Reverend Nicholas Chia, the new Archbishop of Singapore was the Guest of Honour.
+
+<img src="/images/2002.png" style="width:30%">
+
+#### DE LA SALLE SCHOOL
+<img src="/images/sch_history (1).png" style="width:50%">
+
+In January 2002, De La Salle School ushered in the New Year under the leadership of the late Mrs Beatrice Wang Chee. It marked a new beginning for De La Salle School that had just turned 50. The school, though slated to undergo the Programme for Rebuilding and Improving Existing schools (PRIME) upgrading project in 2003, was informed in February 2002 that the project would be put on hold. Mrs Wang thus made plans to improve the existing school facilities to enhance Lasallians' learning.
+
+<img src="/images/2003.png" style="width:30%">
+
+#### DE LA SALLE SCHOOL
+<img src="/images/sch_history (1).png" style="width:50%">
+
+In 2003, the Outdoor Classrooms @ De La Salle School was launched to provide Lasallians with sensory experiences where they explore and learn about soil, water, plants and animals. With majority of our Lasallians living in high-rise dwellings, outdoor classrooms bridged the gulf between natural habitats and sophisticated modern living. The Outdoor Classrooms @ De La Salle School will continue to be a living and learning environment that is readily accessible to our Lasallians and teachers.
+
+De La Salle School strongly believes in the holistic development of every Lasallians who enters her doors. Opportunities are given for Lasallians to demonstrate their development in both the academics as well as the aesthetics. In order to enable us to show our appreciation of our Lasallians' abilities and gifts in their aesthetics development, De La Salle School has put up several Musicals such as Joseph and the Amazing Technicolour Dreamcoat (2004 & 2009), Sleeping Beauty's Dream (2005), Holy Moses (2006), Annie Junior (2007), Disney's Aladdin Junior (2008), High School Musical Junior (2010) and Noah The Musical (2011). In the effort to reach out to the community and to live up to our Founder's mission of helping the last, the lost and the least, the school adopted several children's homes for the Musical Charity by sponsoring less privileged children to experience the marvel and greatness of live theatre.
+
+<img src="/images/2004.png" style="width:30%">
+
+#### DE LA SALLE SCHOOL
+<img src="/images/sch_history (1).png" style="width:50%">
+
+The late Principal, Mrs Wang Chee Ting retired on 31 December 2004 and the school welcomed the new Principal, Miss Bernadette Jane Lim Bee Hiong who took office on 15 December 2005. With the massive pupil enrolment of 2400 and staff strength of 100, the school appointed Mdm Ng Siew Choo as the 2nd Vice-Principal with the 1st Vice-Principal.
+
+<img src="/images/2007.png" style="width:30%">
+
+#### DE LA SALLE SCHOOL
+<img src="/images/sch_history (1).png" style="width:50%">
+
+In September 2007, the school organised a Charity Walk & Family Day in aid of The Children of Gawad Kalinga in the Philippines. The Charity Walk was a fundraising initiative led by our Christian Brothers' Schools (CBS) and our Lasallians and their families were invited in the 2km walk at West Coats Park and participated in the fun-filled activities after the morning walk.
+
+<img src="/images/2008.png" style="width:30%">
+
+#### DE LA SALLE SCHOOL
+<img src="/images/sch_history (1).png" style="width:50%">
+
+In July 2008, the school presented the Mother Tongue Language Programme 'Spice Up the Learning of Mother Tongue Languages' at the MOE Excellence through Continuous Enterprise and Learning (ExCEL) Fest. The school shared the unique ways of conducting Learning Journeys in the Mother Tongue Languages which serves to deepen Lasallians' rootedness to Singapore and organising Mother Tongue Week to reinforce the learning of the languages through games and inter-class competitions. Lasallians were involved in overseas language and cultural immersion trips to China, Taiwan, Malaysia, Brunei and India to enable them to acquire valuable experiential life skills in a global context.
+
+
+
+
