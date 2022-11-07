@@ -81,6 +81,3 @@ third_nav_title: Our Staff
 |**ST. ELIZABETH 6**| Mdm Irene Leong<br>Mr Patrick Low Kim Hong| [leong_foong_yee_irene@moe.edu.sg](mailto:leong_foong_yee_irene@moe.edu.sg)<br>[low_kim_hong@moe.edu.sg](mailto:low_kim_hong@moe.edu.sg)|
 |**ST. FRANCIS 6**| Mrs Chia-Yeo Shin Hua<br>Mdm Siti Munira Batra| [yeo_shin_hua@moe.edu.sg](mailto:yeo_shin_hua@moe.edu.sg)<br>[siti_munira_batra@moe.edu.sg](mailto:siti_munira_batra@moe.edu.sg)|
 |**ST. GABRIEL 6**| Mr Goh Xuan Long, Daryl<br>Mdm Ng Peiling| [goh_xuan_long@moe.edu.sg](mailto:goh_xuan_long@moe.edu.sg)<br>[ng_peiling@moe.edu.sg](mailto:ng_peiling@moe.edu.sg)|
-
-
-	
