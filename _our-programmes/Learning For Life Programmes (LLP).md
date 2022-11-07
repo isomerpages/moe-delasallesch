@@ -18,3 +18,5 @@ The MSL Curriculum at De La Salle School permeates across 6 years of a Lasallian
 The school’s MSL framework is as follows:
 
 <img src="/images/DLS LLP.png" style="width:90%">
+
+<p align="right"> Adapted from Robert Greenleaf’s philosophy of Servant Leadership </p>
