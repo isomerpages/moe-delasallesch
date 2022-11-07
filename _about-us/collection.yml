@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our School Rally & Songs.md
       - Our Founder.md
       - The Christian Brothers.md
       - Our History.md
       - Our Crest & Our Motto.md
       - Our Mission & Vision & Values.md
+      - Our School Rally & Songs.md
