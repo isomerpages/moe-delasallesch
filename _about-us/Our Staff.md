@@ -34,4 +34,3 @@ description: ""
 |<p align="left">Subject Head Science|Mrs Jasmine Chen<br>[tan_cai_yun_jasmine@moe.edu.sg](mailto:tan_cai_yun_jasmine@moe.edu.sg)|
 |<p align="left">Subject Head SWB|Mrs Chia_yeo Shin Hua<br>[yeo_shin_hua@moe.edu.sg](mailto:yeo_shin_hua@moe.edu.sg)|
 |<p align="left">Subject Head SM|Mr Abdul Gaffar Shaik Yusof<br>[abdul_gaffar_shaik_yusof@moe.edu.sg](mailto:abdul_gaffar_shaik_yusof@moe.edu.sg)|
-	
