@@ -1,4 +1,5 @@
 collections:
   our-programmes:
     output: true
-    order: []
+    order:
+      - Learning For Life Programmes (LLP).md
