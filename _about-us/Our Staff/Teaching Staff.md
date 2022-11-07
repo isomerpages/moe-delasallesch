@@ -33,3 +33,15 @@ third_nav_title: Our Staff
 |**ST. FRANCIS 2**|Mrs Judy Yip<br>Ms Tay Ai Suan|[ong_judy@moe.edu.sg](mailto:ong_judy@moe.edu.sg)<br>[tay_ai_suan@moe.edu.sg](mailto:tay_ai_suan@moe.edu.sg)|
 |**ST. GABRIEL 2**|Mrs Joanne Liou<br>Mr Wong Liang Wee|[lau_siew_yee@moe.edu.sg](mailto:lau_siew_yee@moe.edu.sg)<br>[wong_liang_wee@moe.edu.sg](mailto:wong_liang_wee@moe.edu.sg)|
 |**ST. HELEN 2**|Ms Florence Lim<br>Mdm Lai Chiat Pheng<br>Mdm Mary Wong|[lim_seok_yuen_floerence@moe.edu.sg](mailto:lim_seok_yuen_floerence@moe.edu.sg)<br>[lai_chiat_pheng@moe.edu.sg](mailto:lai_chiat_pheng@moe.edu.sg)<br>[wong_yen_chin@moe.edu.sg](mailto:wong_yen_chin@moe.edu.sg)
+
+#### Primary 3 2022
+
+| **Class** | **Form Teachers** | **Email** |
+|:---:|:---:|---|
+| **ST.ANTHONY 3** |Ms Tay Li Wen<br>Mrs Amy Liew | [tay_li_wen@moe.edu.sg](mailto:[tay_li_wen@moe.edu.sg)<br>[amy_lee_may_chyou@moe.edu.sg](mailto:amy_lee_may_chyou@moe.edu.sg)|
+| **ST.BERNADETTE 3** |Mrs Agnes Yu<br>Ms Low Siok Hua | [agnes_lee_ming_chyi@moe.edu.sg](mailto:agnes_lee_ming_chyi@moe.edu.sg)<br>[low_siok_hua@moe.edu.sg](mailto:low_siok_hua@moe.edu.sg)|
+|**ST.CHRISTOPHER 3**|Mrs Grace Looi Xinyue<br>Mdm Yang Xiao Ting|[looi_xinye_grace@moe.edu.sg](mailto:looi_xinye_grace@moe.edu.sg)<br>[yang_xiao_ting@moe.edu.sg](mailto:yang_xiao_ting@moe.edu.sg)|
+|**ST.DOMINIC 3**|Ms Nor Hashanah B M R<br>Ms Mou Xingchi<br>Mrs Sally Yeo|[nor_hashanah_mohammad_razif@moe.edu.sg](mailto:nor_hashanah_mohammad_razif@moe.edu.sg)<br>[mou_xingchi@moe.edu.sg](mailto:mou_xingchi@moe.edu.sg)<br>[tan_chui_lew@moe.edu.sg](mailto:tan_chui_lew@moe.edu.sg)
+|**ST. ELIZABETH 3**|Ms Hui Wing Yan<br>Ms Woon Shio Ching<br>Ms Prema<br>| [hui_wing_yan@moe.edu.sg](mailto:hui_wing_yan@moe.edu.sg)<br>[woon_shio_ching@moe.edu.sg](mailto:woon_shio_ching@moe.edu.sg)<br>[prema_a@moe.edu.sg](mailto:prema_a@moe.edu.sg)|
+|**ST. FRANCIS 3**|Ms Wong Nicole Miin Yi<br>Ms Eu Hui Jun|[wong_nicole_miin_yi@moe.edu.sg](mailto:wong_nicole_miin_yi@moe.edu.sg)<br>[eu_hui_jun@moe.edu.sg](mailto:eu_hui_jun@moe.edu.sg)|
+|**ST. GABRIEL 3**|Miss Thiviya Thulasidharan<br>Mr Fairuzaman Haidzir| [thiviya_thulasidharan@moe.edu.sg](mailto:thiviya_thulasidharan@moe.edu.sg)<br>[fairuzaman_haidzir@moe.edu.sg](mailto:fairuzaman_haidzir@moe.edu.sg)
