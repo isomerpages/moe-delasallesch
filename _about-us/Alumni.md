@@ -69,7 +69,7 @@ Alumni members who would like P1 registration for their children under priority 
 
 ### DLSAA HELPS OUT IN SCHOOL FUND-RAISER
 
-<img src="/images/10960330_857008904363457_2021429949786083814_o.jpg" style="width:49%" align=left> 
+<img src="/images/10960330_857008904363457_2021429949786083814_o.jpg" style="width:85%">
 
 DLSS's Funtastic Fiesta 2015 Fund-Raiser
 
@@ -80,3 +80,19 @@ The alumni association did its part by helping to man one of the games stalls. T
 The event was graced by Guest-of-Honour, Mr Alex Yam, who is the MP for Choa Chu Kang GRC. He was accompanied by Principal, Mrs Sing, VPs, Mr Chan and Mr Ching, Chairman of the SMC, Mr Kuo, and President of the DLSAA, Mr Bangras, as they sat through some wonderful dance performances and viewed the various stalls during a walkabout later on.
 
 Mr Yam greeted visitors, parents and children alike with his trademark smile and friendly banter. Here are some pictures of the performances, his walkabout and pictures of our alumni volunteers manning the stalls.
+
+### THE INAUGURAL LASALLE INTER-ALUMNI FUTSAL TOURNAMENT 2015
+
+<img src="/images/10985444_909372845793729_5629749663384602359_n.jpg" style="width:85%">
+
+This tournament is probably one of the first, if not the first activity that brought together the old boys of all the CBS primary schools in friendly competition. Even though we are all from different schools there was an uncanny familiarity and bond that was palpable throughout the tournament - the LaSallian spirit.  
+  
+The competition was stiff and fierce at times, as was expected but in the end the LaSallian sense of true sportsmanship prevailed and all the old boys were thankful that they were able to partake of this event and renew old ties.  
+  
+For the DLSAA - we were mainly represented by a group of old boys from the 1983 DLSS batch. Most of them went on to SJI and graduated from there in 1987. They are Allan Toh, Jeffrey Ng, Bernard Chia, Louis Nathan, Francis Selvan, Edmund Ng, Wai Keong and Niklas Leong. I applaud your competitive spirit and your eagerness to play for your alma mater.  
+  
+We played a fantastic 1st match against SAB and won by a big margin, 6-2. Took the foot off the pedal in the 2nd match and got punished by SSS 2-1. The final match against the tournament favourites, SMSAA, we lost 4-2 as fatigue and injuries put paid to any chances of winning the tournament. Overall the DLSAA team gave a good account of themselves and have a solid base on which to build on from.  
+  
+Thanks to SMSAA (St Mike's) for taking the lead role in organising this tournament. They provided the venue, drinks, the St Michael's Challenge Shield and the medals, which was a surprise. Everyone who participated got a medal, a nice touch to end off the tournament in true LaSallian spirit.  
+  
+Check out the photos and the videos on our FB page .The SAB players are in blue jerseys, SMSAA in red and DLSAA in green. Cheers!
