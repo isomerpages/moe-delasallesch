@@ -31,8 +31,8 @@ links:
         url: /about-us/sch-info/
       - title: School NON-Financial Info
         url: https://delasalle-moe-edu-sg-admin.cwp.sg/qql/slot/u749/2021/Non%20Financial%20Info%20-%202021.pdf
-  - title: Contact Us
-    url: /contact-us/
   - title: Our Programmes
     url: /permalink
     sublinks: []
+  - title: Contact Us
+    url: /contact-us/
