@@ -2,4 +2,5 @@ collections:
   our-programmes:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - Learning For Life Programmes (LLP).md
