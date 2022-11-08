@@ -21,3 +21,5 @@ description: ""
 *   Provide Lasallians the opportunities to participate in collaborative inquiry in the learning of science.
 *   Provide Lasallians the opportunities to be inspired by science, to inquire like a scientist and to innovate using science in our natural and physical world.
 *   Activate Lasallians as mindful servant leaders who will empathize others, care for the environment and exemplify the Singapore Spirit.
+
+**OVERVIEW OF SCIENCE SYLLABUS**
