@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA Teachers In Charge.md
       - Sports & Games/.keep
       - Sports & Games/Hockey.md
       - Sports & Games/Basketball.md
@@ -24,3 +23,4 @@ collections:
       - Uniformed Groups/.keep
       - Uniformed Groups/Brownies.md
       - Uniformed Groups/Scouts.md
+      - CCA Teachers In Charge.md
