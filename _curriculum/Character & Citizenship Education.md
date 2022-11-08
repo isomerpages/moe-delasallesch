@@ -16,3 +16,19 @@ The objectives of FTGP are to:<br>
  *   Equip pupils with social and emotional (SEL) competencies.
    
 In addition to the SEL competencies that are explicitly taught, form teacher also bond with Lasallians through interaction activities. Lessons on Cyber Wellness (CW), Education and Career Guidance (ECG) and protection from abuse (Primary 1 to 4) have been incorporated in FTGP lessons to address specific issues and to reinforce the core values.
+
+2. **CCE Lessons**<br>
+CCE lessons in the Primary levels are taught in the Mother Tongues Languages (MTL). For students who offer the non-Tamil Indian Languages (NTIL) as their Mother Tongue and for those exempted from taking MTL, CCE will be taught in English.
+
+Lasallians will learn the values, knowledge and skills through three overarching ideas, namely Identity, Relationships and Choices. Topics in CCE lessons also spread across six domains, namely self, family, school, community, nation and the world.
+
+3. **Programme for Active Learning (PAL)**<br>
+To encourage learning beyond the classroom, PAL is offered to Primary 1 and 2 Lasallians. PAL gives opportunities to Lasallians the chance to discover new interests, learn new skills and develop character. Lasallians will also have the opportunity during curriculum time to try out activities in sports and outdoor education, as well as in the performing and visual arts.
+
+4. **Sexuality Education in Schools**<br>
+Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+
+5. **Lifeskills Lessons and Religious Education**<br>
+Being a Catholic school, we provide for the spiritual nourishment of our Lasallians through our Catholic faith formation curriculum and practices. Catholic Lasallians are expected to attend our Bible-based Catechism classes faithfully, in addition to the Sacrament-based Catechism classes conducted in their parish. Our school’s Catechism classes are complementary but not replacements for those in Church.
+
+While these Lasallians are attending Catechism classes, all other Lasallians will have lessons on Lifeskills. There are thus two concurrent programmes to cater to Lasallians’ moral and social growth. The only difference is that Catechism, besides its focus on inculcating values, has a faith formation dimension and content while the latter programme touches on universal values, personal and social-emotional development.
