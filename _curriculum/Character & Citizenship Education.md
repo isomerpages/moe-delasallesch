@@ -42,4 +42,12 @@ De La Salle School focusses on nurturing our pupils the Lasallian values of Fait
 <img src="/images/CCE2.jpg" style="width:60%" align=right>  
 <br clear="left"><br>
 <img src="/images/CCE3.jpg" style="width:30%" align=left>  
-<img src="/images/CCE4.jpg" style="width:65%" align=right>  
+<img src="/images/CCE4.jpg" style="width:65%" align=right>
+<br clear="left"><br>
+
+2. **Friends for Life Induction Programme ( FLIP)**<br>
+At the start of each new school year, we have the FLIP programme for every class. In this induction programme, we focus on building new friendships and forming a class identity.
+
+<img src="/images/CCE5.png" style="width:40%" align=left>  
+<img src="/images/CCE6.jpg" style="width:55%" align=right>  
+<br clear="left"><br>
