@@ -37,7 +37,7 @@ Lasallians in Primary 4-Primary 6 engage in a book battle to showcase their know
 
 <img src="/images/photo1667905875.jpeg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/photo1667905889.jpeg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/eng12.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/photo1667906060.jpeg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left">
 
 2. **Speaking Programme**
