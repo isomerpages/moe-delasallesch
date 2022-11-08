@@ -71,4 +71,6 @@ Leadership opportunities are widely available through class committees, CCA lead
 <img src="/images/CCE15.jpg" style="width:49%" align=right>  
 <br clear="left"><br>
 <img src="/images/CCE16.jpg" style="width:54%" align=left>  
-<img src="/images/CCE17.jpg" style="width:30%" align=right>  
+<img src="/images/CCE17.jpg" style="width:30%" align=right>
+<br clear="left"><br>
+<img src="/images/CCE18.jpg" style="width:70%">
