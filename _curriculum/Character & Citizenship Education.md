@@ -63,3 +63,12 @@ LEAF is a time when Lasallians will put aside their academic books and participa
 <img src="/images/CCE11.jpg" style="width:51%" align=left>  
 <img src="/images/CCE12.jpg" style="width:40%" align=right><br clear="left"><br>
 <img src="/images/CCE13.jpg" style="width:50%">
+
+4. **LEADERSHIP TRAINING PROGRAMME (TITLES)**<br>
+Leadership opportunities are widely available through class committees, CCA leaders and captains from the various sports groups, prayer leaders as well as Lasallian Leaders. Each of them plays a different role within their own spheres of influence to serve the needs of the Lasallians under their care. TITLES is a learning cycle which we use to aid our Lasallians’ development as a student leader in the classroom and in school wide positions as well. We use the same framework to allow our Lasallians to understand their development as a leader and how they can further grow into the leader that they can be.
+
+<img src="/images/CCE14.jpg" style="width:49%" align=left>  
+<img src="/images/CCE15.jpg" style="width:49%" align=right>  
+<br clear="left"><br>
+<img src="/images/CCE16.jpg" style="width:54%" align=left>  
+<img src="/images/CCE17.jpg" style="width:30%" align=right>  
