@@ -22,3 +22,15 @@ The Mother Tongue fortnight programmes will be conducted over two weeks for all 
 The objective is to develop Lasallians’ global outlook and cultural awareness through immersion in foreign school and to appreciate the rich cultures and heritage beyond the confines of the classroom.  Through immersion in a different environment where the languages are taught, Lasallians are able to apply and enhance their command in the Mother Tongue Languages.
 
 <img src="/images/DLS MTL 2.jpg" style="width:90%">
+
+#### EXTERNAL COMPETITION PARTICIPATION
+
+Storytelling, writing, bilingual translation, Singapore- Malaysia Bilingual Olympiad, Online ICT competition etc.
+
+#### CULTURAL PERFORMANCE EXPOSURE SCHEME (CPES)
+
+To create awareness and introduce to students the cultural aspects and background through authentic learning experience. Students will be more appreciative and be more aware of their own culture and the authentic learning experience allows them to be more exposed to the culture in a more fun and exciting manner.
+
+#### P3 MOTHER TONGUE CULTURAL CAMP 
+
+To create awareness and introduce to students the cultural aspects and background through authentic learning experience. Students will be more appreciative and be more aware of their own culture and the authentic learning experience allows them to be more exposed to the culture in a more fun and exciting manner.
