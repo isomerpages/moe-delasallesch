@@ -26,3 +26,5 @@ As Lasallians embark on their Arts Education journey, we hope to develop student
 1. **ArtScape**
 
 **ArtScape** was conceptualized to provide an interactive space for Lasallians to engage in Arts experience in the domains of Visual Art and Music. It is also a platform to showcase the beautiful artworks and music creation done by Lasallians in curriculum. Aligned with our innovative community, innovation and ICT tools have also been incorporated in ArtScape to enhance the learning experiences in the Arts appreciation. Lasallians will visit ArtScape as part of their outdoor learning experience in curriculum.
+
+<img src="/images/Artscape.png" style="width:90%">
