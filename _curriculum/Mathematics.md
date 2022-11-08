@@ -39,6 +39,26 @@ Mighty Mathematics is also a programme created to inculcate interest and enjoyme
 <img src="/images/Mathematics7.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/Mathematics8.jpg" style="width:30%;margin-right:15px;" align = "left"><br clear="left">
 
-6. **Math Fun Corner**
-7. **Mathematics Enrichment (E2K)**
-8. **Koobits**
+<img src="/images/Mathematics9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Mathematics10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
+4. **Math Fun Corner**
+
+Math Fun Corner is set up in the canteen and classrooms. There are various math games for students to choose such as Sudoku and Math Warrior. Sudoku allows Lasallians to develop their cognitive and observation skills as they solve puzzles by determining patterns. Meanwhile, Math Warrior requires Lasallians to be quick on their feet and skilled in their number sense in order to think strategically to outwit their opponents.
+
+<img src="/images/Mathematics11.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Mathematics12.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Mathematics13.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
+5. **Mathematics Enrichment (E2K)**
+
+E2K is an enrichment programme where Lasallians are able to foster independence in mathematical thinking skills. The rich learning experiences help to nurture 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
+
+6. **Koobits**
+
+ Koobits is an interactive learning portal for Lasallians to take part in math challenges, do extra practices and play math games. The portal gamifies learning and motivates Lasallians to revise their math knowledge daily. Teachers and parents have the flexibility to select questions for our Lasallians to practise based on their respective needs. Detailed solutions are provided for each question and there are also videos provided to explain the problem solving concepts.
+ 
+ <img src="/images/Mathematics14.jpg" style="width:49%" align=left>
+<img src="/images/Mathematics15.png" style="width:49%" align=right>
