@@ -49,3 +49,8 @@ The Science Department strongly believes that the goal of Science education is t
 -    5E inquiry-based learning to apply skills and processes of inquiry based on investigations  <br>
 -    blended learning to promote self-directed learning<br>
 -    differentiated instruction to challenge, enrich and support varied learners.
+
+<img src="/images/photo1667907320.jpeg" style="width:26%;margin-right:15px;" align = "left">
+<img src="/images/photo1667907354.jpeg" style="width:32%;margin-right:15px;" align = "left">
+<img src="/images/photo1667907364.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
