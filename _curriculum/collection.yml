@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Social Studies.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -10,3 +9,4 @@ collections:
       - Physical and Health Education.md
       - Aesthetics.md
       - Character & Citizenship Education.md
+      - Social Studies.md
