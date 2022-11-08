@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Clubs/Discovery Club.md
       - Clubs/.keep
       - Clubs/Talking Titans.md
       - Clubs/Chess Club.md
+      - Clubs/Discovery Club.md
       - Sports & Games/.keep
       - Sports & Games/Hockey.md
       - Sports & Games/Basketball.md
