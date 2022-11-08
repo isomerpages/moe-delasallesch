@@ -51,3 +51,5 @@ At the start of each new school year, we have the FLIP programme for every class
 <img src="/images/CCE5.png" style="width:40%" align=left>  
 <img src="/images/CCE6.jpg" style="width:55%" align=right>  
 <br clear="left"><br>
+<img src="/images/CCE7.png" style="width:55%" align=left>  
+<img src="/images/CCE8.png" style="width:30%" align=right>  
