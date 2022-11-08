@@ -37,3 +37,16 @@ Lasallians in Primary 4-Primary 6 engage in a book battle to showcase their know
 
 
 2. **Speaking Programme**
+
+In De La Salle School, the Speaking Programme aims to equip Lasallians with the listening and speaking skills to allow them to communicate effectively and empathetically.  The speaking programme aims to: 
+
+*   build Lasallians’ oracy and presentation skills
+*   develop confidence in speaking amongs Lasallians
+*   provide opportunities for Lasallians to perform
+
+**Speaking Programmes during Curriculum** 
+
+P1 – Poetry Recitation and Choral Reading<br>
+P2 – Readers Theatre
+
+At all levels, Lasallians are given opportunities to present in class and selected Lasallians with the aptitude for speaking are also given the opportunities to represent the school in debate and oratorical competitions.
