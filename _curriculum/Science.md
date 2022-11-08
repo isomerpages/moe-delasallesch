@@ -38,5 +38,5 @@ description: ""
 |:---:|:---:|---|---|---|
 | **Primary 3** | WA1 Performance Task | WA2 Paper | WA3 Paper | SA Paper |
 | **Primary 4** | - | SA1 Paper | - | SA2 Paper |
-| **Primary 5** |  |  |  |  |
+| **Primary 5** | WA1 Performance Task | WA2 Paper | WA3 Paper | SA Paper |
 | **Primary 6** |  |  |  |  |
