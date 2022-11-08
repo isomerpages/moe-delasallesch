@@ -74,3 +74,13 @@ Leadership opportunities are widely available through class committees, CCA lead
 <img src="/images/CCE17.jpg" style="width:30%" align=right>
 <br clear="left"><br>
 <img src="/images/CCE18.jpg" style="width:70%">
+
+5. **SHINE Programme**<br>
+The SHINE Programme focuses on supporting academically low-progress Lasallians who are at risk of losing interest and motivation in their learning. The programme aims to enhance the Social and Emotional (SE) Competencies of the selected Lasallians.
+
+Through the acquisition and application of the SE Competencies, Lasallians will be able to recognise and manage their emotions better which in turn enable them to overcome challenging situations and make responsible decisions.
+
+6. **DRUM Programme**<br>
+The DRUM programme provides opportunities for the selected Lasallians to develop and enhance their self-regulatory skills. In the programme, self-regulatory skills and social skills are explicitly taught to the Lasallians. The Lasallians will be able to develop social emotional skills and exercise discernment through experiential learning.
+
+The programme uses drumming as a platform to allow the Lasallians to apply their learning in real life situations where they are required to demonstrate high level of concentration, coordination and teamwork.
