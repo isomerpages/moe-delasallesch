@@ -27,3 +27,12 @@ Through a guided tour and hands-on activities, P3 Lasallians learnt the land con
 
 <img src="/images/Social Studies-4.jpg" style="width:49%" align=left>  
 <img src="/images/Social Studies-5.jpg" style="width:49%" align=right>
+<br clear="left"><br><br>
+3. **Learning Journey to National Museum and Images of Singapore LIVE**<br>
+P4 Lasallians visited the National Museum and Images of Singapore LIVE to learn about the history of Singapore and the contributions of our pioneers. The entire cohort then put up a National Day Performance for the school population, with knowledge that they have gained from lessons in class and their learning journey.
+
+<img src="/images/Social Studies-6.jpg" style="width:49%" align=left>  
+<img src="/images/Social Studies-7.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+<img src="/images/Social Studies-8.jpg" style="width:47%" align=left>  
+<img src="/images/Social Studies-9.jpg" style="width:52%" align=right>
