@@ -21,3 +21,6 @@ Besides the learning component, serving and community outreach through Arts is a
 Our Talent Management Framework will also provide Lasallians who demonstrate aptitude and competencies in a specific domain of Arts eg) singing, dance, music or visual Art an extensive platform for them to develop and strengthen their skills in that area.
 
 As Lasallians embark on their Arts Education journey, we hope to develop students who have the ability to view Arts in a larger context and as part of their environment; while being equipped with the critical life skills and 21st core competencies as they explore, experience and engage through Arts.
+
+#### Key Programmes
+1. **ArtScape**
