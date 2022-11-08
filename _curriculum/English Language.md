@@ -35,6 +35,11 @@ Beyond the classrooms, storytelling sessions, quizzes, book discussions and many
 **Book Battle**<br>
 Lasallians in Primary 4-Primary 6 engage in a book battle to showcase their knowledge on books. Selected Lasallians will represent the school in the annual KidLit Quiz organized by NLB.
 
+<img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/eng11.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/eng12.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
 2. **Speaking Programme**
 
 In De La Salle School, the Speaking Programme aims to equip Lasallians with the listening and speaking skills to allow them to communicate effectively and empathetically.  The speaking programme aims to: 
