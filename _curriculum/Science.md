@@ -27,6 +27,6 @@ description: ""
 |  | **Term 1** | **Term 2** | **Term 3** | **Term 4** |
 |:---:|:---:|---|---|---|
 | **Primary 3** | Diversity of living and non-living thing | Fungi and Bacteria<br>Materials | Magnets | Life Cycle of Animals and Plants |
-| **Primary 4** |  |  |  |  |
+| **Primary 4** | Digestive System<br>Plant parts and functions | Light and Shadow<br>Matter and its 3 states | Heat and Temperature | Heat and Temperature |
 | **Primary 5** |  |  |  |  |
 | **Primary 6** |  |  |  |  |
