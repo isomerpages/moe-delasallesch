@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA Schedule for 2022.md
       - Sports & Games/.keep
       - Sports & Games/Hockey.md
       - Sports & Games/Basketball.md
@@ -25,3 +24,4 @@ collections:
       - Uniformed Groups/Brownies.md
       - Uniformed Groups/Scouts.md
       - CCA Teachers In Charge.md
+      - CCA Schedule for 2022.md
