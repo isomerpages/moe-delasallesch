@@ -24,7 +24,7 @@ As part of the Mathematics curriculum to develop metacognitive awareness among o
 For our lower primary (P1 and P2), Learning Centres are conducted at the end of each term to consolidate their learning. Station activities are set up for Lasallians to participate in and our Lasallians are encouraged to apply the skills and concepts learnt during Math lessons in a fun and engaging way. We hope that this fosters an interest in learning Mathematics at a young age.
 
 <img src="/images/Mathematics2.jpg" style="width:49%" align=left>
-<img src="/images/Mathematics3.jpg" style="width:49%" align=right><br clear="left">
+<img src="/images/Mathematics3.jpg" style="width:49%" align=right><br clear="left"><br>
 
 
 <img src="/images/Mathematics4.jpg" style="width:49%" align=left>
