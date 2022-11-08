@@ -32,3 +32,12 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 Being a Catholic school, we provide for the spiritual nourishment of our Lasallians through our Catholic faith formation curriculum and practices. Catholic Lasallians are expected to attend our Bible-based Catechism classes faithfully, in addition to the Sacrament-based Catechism classes conducted in their parish. Our school’s Catechism classes are complementary but not replacements for those in Church.
 
 While these Lasallians are attending Catechism classes, all other Lasallians will have lessons on Lifeskills. There are thus two concurrent programmes to cater to Lasallians’ moral and social growth. The only difference is that Catechism, besides its focus on inculcating values, has a faith formation dimension and content while the latter programme touches on universal values, personal and social-emotional development.
+
+#### Programmes
+
+1. **Values-In-Action Programme - Home Away from Home**<br>
+De La Salle School focusses on nurturing our pupils the Lasallian values of Faith, Service and Community as well as the School Values of Respect, Responsibility and Resilience. Besides providing platforms for explicit teaching of such values and discernment skills, the School also provides opportunities for pupils to demonstrate the values and skills learnt. The opportunities are categorised under domains such as School, Community, Country and the World. These opportunities are held together by our Values In Action theme of Home Away from Home and our school’s Gratitude Movement. It is our hope that our Lasallians see their school, community, country and the world as their home and be appreciative towards the people around them.
+
+<img src="/images/CCE1.jpg" style="width:35%" align=left>  
+<img src="/images/CCE2.jpg" style="width:60%" align=right>  
+<br clear="left">
