@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Sexuality Education.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -11,3 +10,4 @@ collections:
       - Aesthetics.md
       - Character & Citizenship Education.md
       - Social Studies.md
+      - Sexuality Education.md
