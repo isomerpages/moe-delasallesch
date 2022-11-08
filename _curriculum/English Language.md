@@ -54,3 +54,6 @@ P1 – Poetry Recitation and Choral Reading<br>
 P2 – Readers Theatre
 
 At all levels, Lasallians are given opportunities to present in class and selected Lasallians with the aptitude for speaking are also given the opportunities to represent the school in debate and oratorical competitions.
+
+<img src="/images/photo1667906235.jpeg" style="width:49%" align=left>
+<img src="/images/eng7.jpeg" style="width:49%" align=right>
