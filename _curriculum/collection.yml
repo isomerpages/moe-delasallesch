@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - Aesthetics.md
       - English Language.md
       - Mathematics.md
       - Science.md
       - Mother Tongue Language.md
       - Physical and Health Education.md
+      - Aesthetics.md
