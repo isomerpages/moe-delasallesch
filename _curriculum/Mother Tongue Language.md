@@ -34,3 +34,13 @@ To create awareness and introduce to students the cultural aspects and backgroun
 #### P3 MOTHER TONGUE CULTURAL CAMP 
 
 To create awareness and introduce to students the cultural aspects and background through authentic learning experience. Students will be more appreciative and be more aware of their own culture and the authentic learning experience allows them to be more exposed to the culture in a more fun and exciting manner.
+
+<img src="/images/DLS MTL3.jpg" style="width:90%">
+
+#### MORNING READING PROGRAM 
+Lasallians will engage in reading their Mother Tongue Language books on Thursdays and Fridays. This is to create the love for reading in their own language as well as to emphasise on the importance of reading.
+
+#### P1 & P2 IPAD READING PROGRAM (CHINESE) 
+This program utilizes technology to promote love for reading at the lower primary levels.
+
+<img src="/images/DLS MTL4.jpg" style="width:90%">
