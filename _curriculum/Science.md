@@ -40,3 +40,12 @@ description: ""
 | **Primary 4** | - | SA1 Paper | - | SA2 Paper |
 | **Primary 5** | WA1 Performance Task | WA2 Paper | WA3 Paper | SA Paper |
 | **Primary 6** | CA Paper | SA Paper | PRELIM Paper | - |
+
+**KEY PROGRAMMES IN OUR LEARNING, SERVING, INNOVATIVE AND LASALLIAN COMMUNITY**
+
+The Science Department strongly believes that the goal of Science education is to ignite the natural curiosity of Lasallians through inquiry-based learning to cultivate self-directed life-long learners. We aim to prepare every Lasallian for the future world. Every Lasallian is therefore provided opportunities to become a self-directed learner, a confident person, an active contributor and a concerned citizen through the learning of science. With this end in mind, curriculum-based experiences and programmes are planned to engage Lasallians with:<br>
+-    authentic learning experiences through learning journeys  <br>
+-    joy of learning in designing and innovating with empathetic thinking to serve the last, the lost and the least  <br>
+-    5E inquiry-based learning to apply skills and processes of inquiry based on investigations  <br>
+-    blended learning to promote self-directed learning<br>
+-    differentiated instruction to challenge, enrich and support varied learners.
