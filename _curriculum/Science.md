@@ -30,3 +30,13 @@ description: ""
 | **Primary 4** | Digestive System<br>Plant parts and functions | Light and Shadow<br>Matter and its 3 states | Heat and Temperature | Heat and Temperature |
 | **Primary 5** | Water Cycle | Unit of Life<br>Reproduction in plants and human | Plant Transport System<br>Human Respiratory and Circulatory System |  Electrical System |
 | **Primary 6** | Energy Forms – Photosynthesis Energy Conversions | Energy Conversions Forces | Interactions within the Environment | PSLE |
+
+**OVERVIEW OF SCIENCE ASSESSMENT**<br>
+*Please refer to the Assessment Letter issued by the school in each term for each year to confirm the topics to be tested.
+
+|  | **Term 1** | **Term 2** | **Term 3** | **Term 4** |
+|:---:|:---:|---|---|---|
+| **Primary 3** | WA1 Performance Task | WA2 Paper | WA3 Paper | SA Paper |
+| **Primary 4** | - | SA1 Paper | - | SA2 Paper |
+| **Primary 5** |  |  |  |  |
+| **Primary 6** |  |  |  |  |
