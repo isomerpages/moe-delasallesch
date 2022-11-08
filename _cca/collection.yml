@@ -2,11 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Clubs/.keep
-      - Clubs/Talking Titans.md
-      - Clubs/Chess Club.md
-      - Clubs/Discovery Club.md
-      - Clubs/Robotics Club.md
       - Sports & Games/.keep
       - Sports & Games/Hockey.md
       - Sports & Games/Basketball.md
@@ -20,3 +15,8 @@ collections:
       - Performing Arts/Media Club.md
       - Performing Arts/Percussion Ensemble.md
       - Performing Arts/Mcnally Club.md
+      - Clubs/.keep
+      - Clubs/Talking Titans.md
+      - Clubs/Chess Club.md
+      - Clubs/Discovery Club.md
+      - Clubs/Robotics Club.md
