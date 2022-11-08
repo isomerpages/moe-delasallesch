@@ -66,8 +66,10 @@ links:
         url: /curriculum/ss/
       - title: Sexuality Education
         url: /curriculum/sex-ed/
-  - title: Contact Us
-    url: /contact-us/
   - title: Co-Curricular Activities (CCA)
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Sports & Games
+        url: /permalink
+  - title: Contact Us
+    url: /contact-us/
