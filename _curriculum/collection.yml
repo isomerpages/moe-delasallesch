@@ -2,10 +2,10 @@ collections:
   curriculum:
     output: true
     order:
-      - Character & Citizenship Education.md
       - English Language.md
       - Mathematics.md
       - Science.md
       - Mother Tongue Language.md
       - Physical and Health Education.md
       - Aesthetics.md
+      - Character & Citizenship Education.md
