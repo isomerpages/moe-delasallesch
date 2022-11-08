@@ -2,6 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Sports & Games/Basketball.md
-      - Sports & Games/Hockey.md
       - Sports & Games/.keep
+      - Sports & Games/Hockey.md
+      - Sports & Games/Basketball.md
