@@ -12,3 +12,6 @@ The development of our Lasallians in the physical domain entails the teaching an
 #### Sports Carnival
 
 A revamp from the traditional Sports Day, the sports carnival was created to maximise participation. Different levels will assigned to different sports and Lasallians compete by houses. Games learning starts from their PHE lessons and continue on to the house practices before the actual day.
+
+<img src="/images/PE1.jpg" style="width:49%" align=left>
+<img src="/images/PE2.jpg" style="width:49%" align=right>
