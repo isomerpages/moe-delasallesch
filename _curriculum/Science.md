@@ -22,4 +22,11 @@ description: ""
 *   Provide Lasallians the opportunities to be inspired by science, to inquire like a scientist and to innovate using science in our natural and physical world.
 *   Activate Lasallians as mindful servant leaders who will empathize others, care for the environment and exemplify the Singapore Spirit.
 
-**OVERVIEW OF SCIENCE SYLLABUS**
+**OVERVIEW OF SCIENCE SYLLABUS**<br>
+
+|  | **Term 1** | **Term 2** | **Term 3** | **Term 4** |
+|:---:|:---:|---|---|---|
+| **Primary 3** | Diversity of living and non-living thing | Fungi and Bacteria<br>Materials | Magnets | Life Cycle of Animals and Plants |
+| **Primary 4** |  |  |  |  |
+| **Primary 5** |  |  |  |  |
+| **Primary 6** |  |  |  |  |
