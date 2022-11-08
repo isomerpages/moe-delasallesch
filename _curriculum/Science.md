@@ -28,5 +28,5 @@ description: ""
 |:---:|:---:|---|---|---|
 | **Primary 3** | Diversity of living and non-living thing | Fungi and Bacteria<br>Materials | Magnets | Life Cycle of Animals and Plants |
 | **Primary 4** | Digestive System<br>Plant parts and functions | Light and Shadow<br>Matter and its 3 states | Heat and Temperature | Heat and Temperature |
-| **Primary 5** |  |  |  |  |
-| **Primary 6** |  |  |  |  |
+| **Primary 5** | Water Cycle | Unit of Life<br>Reproduction in plants and human | Plant Transport System<br>Human Respiratory and Circulatory System |  Electrical System |
+| **Primary 6** | Energy Forms – Photosynthesis Energy Conversions | Energy Conversions Forces | Interactions within the Environment | PSLE |
