@@ -38,3 +38,6 @@ Some of the activities include visiting MWS Bethany Nursing Home and planning Ar
 Our Lasallians also brought Arts closer to our neighborhood by organizing on-the-spot Art activities for the residents in the neighborhood. Special tote bags designed by our students were given out to the residents and they were also guided to create Art at the event. We have also staged a mini Art exhibition at NLB library to showcase our students’ work and to provide guided lessons on Art activities for the public.
 
 Through ArtzGem, we hope that Lasallians will develop a heart of servitude and to use Arts to contribute to the community.
+
+<img src="/images/Aesthetics2.jpg" style="width:45%" align=left>  
+<img src="/images/Aesthetics3.jpg" style="width:49%" align=right>
