@@ -47,3 +47,8 @@ links:
         url: /events/Achievements/2021/
   - title: Contact Us
     url: /contact-us/
+  - title: Curriculum
+    url: /curriculum/english-lan/
+    sublinks:
+      - title: English Language
+        url: /curriculum/english-lan/
