@@ -61,4 +61,5 @@ LEAF is a time when Lasallians will put aside their academic books and participa
 <img src="/images/CCE10.jpg" style="width:49%" align=right>  
 <br clear="left"><br>
 <img src="/images/CCE11.jpg" style="width:51%" align=left>  
-<img src="/images/CCE12.jpg" style="width:40%" align=right>  
+<img src="/images/CCE12.jpg" style="width:40%" align=right><br clear="left"><br>
+<img src="/images/CCE13.jpg" style="width:50%">
