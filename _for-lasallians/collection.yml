@@ -1,4 +1,5 @@
 collections:
   for-lasallians:
     output: true
-    order: []
+    order:
+      - Student Links.md
