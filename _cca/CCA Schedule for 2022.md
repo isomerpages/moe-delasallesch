@@ -23,3 +23,13 @@ description: ""
 | **Hockey** | P5 & P6<br>P4 | Thursday<br>Friday | Mr Haikal Eiman<br>[haikal_eiman@moe.edu.sg](mailto:haikal_eiman@moe.edu.sg) |
 | **Rugby**<br>**(Boys Only)** | P4 & P5<br>P6 | Thursday<br>Friday | Mr Patrick Low<br>[low_kim_hong@moe.edu.sg](mailto:low_kim_hong@moe.edu.sg) |
 | **Wushu** | P4 & P5<br>P6 | Thursday<br>Friday | Mdm Ng Peiling<br>[ng_peiling@moe.edu.sg](mailto:ng_peiling@moe.edu.sg) |
+
+#### Performing Arts
+
+| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+|:---:|:---:|---|---|
+| **Percussion Ensemble** |  |  |  |
+| **McNally Club** |  |  |  |
+| **Choir** |  |  |  |
+| **Modern Dance** |  |  |  |
+| **Cultural Dance** |  |  |  |
