@@ -104,10 +104,10 @@ links:
         url: /for-parents/admin-form/
       - title: Grp Personal Accident Insuranc
         url: /for-parents/grp-personal-accident-insur/
-  - title: Contact Us
-    url: /contact-us/
   - title: For Lasallians
     url: /for-lasallians/student-links/
     sublinks:
       - title: Student Links
         url: /for-lasallians/student-links/
+  - title: Contact Us
+    url: /contact-us/
