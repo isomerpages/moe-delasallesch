@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Group Personal Accident Insurance.md
       - Parent Support Group.md
       - Parent Notifications.md
       - Parent Links.md
@@ -11,3 +10,4 @@ collections:
       - Primary 1 2023.md
       - Book List 2022.md
       - Admin Forms.md
+      - Group Personal Accident Insurance.md
