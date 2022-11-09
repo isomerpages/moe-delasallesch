@@ -28,8 +28,8 @@ description: ""
 
 | **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
 |:---:|:---:|---|---|
-| **Percussion Ensemble** |  |  |  |
-| **McNally Club** |  |  |  |
-| **Choir** |  |  |  |
-| **Modern Dance** |  |  |  |
-| **Cultural Dance** |  |  |  |
+| **Percussion Ensemble** | P4, P5 & P6 | Thursday | Ms Woon Shio Ching<br>[woon_shio_ching@moe.edu.sg](mailto:woon_shio_ching@moe.edu.sg) |
+| **McNally Club** | P4, P5 & P6 | Friday | Ms Nurul Izzah<br>[nurul_izzah_basiron@moe.edu.sg](mailto:nurul_izzah_basiron@moe.edu.sg) |
+| **Choir** | P4, P5 & P6 | Thursday | Mrs Porcia Heng<br>[teo_su_zhen_porcia@moe.edu.sg](mailto:teo_su_zhen_porcia@moe.edu.sg) |
+| **Modern Dance** | P4, P5 & P6 | Thursday | Mrs Amy Liew<br>[amy_lee_may_chyou@moe.edu.sg](mailto:amy_lee_may_chyou@moe.edu.sg) |
+| **Cultural Dance** | P4, P5 & P6 | Friday | Mdm Jasmin<br>[jasmin_mohamed_hannifa@moe.edu.sg](mailto:jasmin_mohamed_hannifa@moe.edu.sg) |
