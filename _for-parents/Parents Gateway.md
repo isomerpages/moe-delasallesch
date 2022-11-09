@@ -33,3 +33,6 @@ Developed by the Ministry of Education and GovTech, Parents Gateway is a one-sto
 1\. HQ Pop-up comms will be pinned at the top of the “Home” page. By tapping on the pinned message, parents would be able to access the Pop-up Comms message.<br>
 2\. Capitalisation of  names, class and schools - Parent’s, student’s, class and school names will be shown in capital letters.
 
+[https://youtu.be/PCM5o8jAncc](https://www.youtube.com/watch?v=PCM5o8jAncc)
+
+**REQUIRE JACKSON'S HELP TO INPUT YOUTUBE VIDEO**
