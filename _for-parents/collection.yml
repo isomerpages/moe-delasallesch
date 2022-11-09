@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Home Based Learning.md
       - Parent Support Group.md
       - Parent Notifications.md
       - Parent Links.md
+      - Home Based Learning.md
