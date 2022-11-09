@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Parent Notifications.md
       - Parent Support Group.md
