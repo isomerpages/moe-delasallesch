@@ -15,10 +15,11 @@ description: ""
 ( eg. Basketball & Hockey) will differ slightly. Do take note of the schedule for these CCA.
 
 **Semester 1**
-				 
-				 
-				 
-				 
-				 
-				 
-				 
+
+| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+|:---:|:---:|---|---|
+| **Basketball** | P6<br>P4 & P5 | Thursday<br>Friday | Ms Vikneshwari<br>[Vikneshwari_vijayakumar@moe.edu.sg](mailto:Vikneshwari_vijayakumar@moe.edu.sg) |
+| **Netball**<br>**(Girls Only)** |  |  |  |
+| **Hockey** |  |  |  |
+| **Rugby**<br>**(Boys Only)** |  |  |  |
+| **Wushu** |  |  |  |
