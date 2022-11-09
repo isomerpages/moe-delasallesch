@@ -19,7 +19,7 @@ description: ""
 | **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
 |:---:|:---:|---|---|
 | **Basketball** | P6<br>P4 & P5 | Thursday<br>Friday | Ms Vikneshwari<br>[Vikneshwari_vijayakumar@moe.edu.sg](mailto:Vikneshwari_vijayakumar@moe.edu.sg) |
-| **Netball**<br>**(Girls Only)** |  |  |  |
-| **Hockey** |  |  |  |
+| **Netball**<br>**(Girls Only)** | P4 & P5<br>P6 | Thursday<br>Friday | Mdm Sally Koh<br>[koh_bee_shiow@moe.edu.sg](mailto:koh_bee_shiow@moe.edu.sg) |
+| **Hockey** | P5 & P6<br>P4 | Thursday<br>Friday | Mr Haikal Eiman<br>[haikal_eiman@moe.edu.sg](mailto:haikal_eiman@moe.edu.sg) |
 | **Rugby**<br>**(Boys Only)** |  |  |  |
 | **Wushu** |  |  |  |
