@@ -40,3 +40,13 @@ description: ""
 |:---:|:---:|---|---|
 | **Brownies**<br>**(Girls Only)** | P4, P5 & P6 | Friday | Ms Cai Jue Ying<br>[cai_jue_ying@moe.edu.sg](mailto:cai_jue_ying@moe.edu.sg) |
 | **Scouts**<br>**(Boys Only)** | P4, P5 & P6 | Friday | Ms Annie Tan<br>[tan_annie_b@moe.edu.sg](mailto:tan_annie_b@moe.edu.sg) |
+
+#### Clubs
+
+| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+|:---:|:---:|---|---|
+| **Talking Titans** | P4, P5 & P6 | Thursday | Ms Azlina Ngadi<br>[nur_azlina_ngadi@moe.edu.sg](mailto:nur_azlina_ngadi@moe.edu.sg) |
+| **Robotics** | P4, P5 & P6 | Thursday | Mdm Wang Xiao Xia<br>[wang_xiao_xia@moe.edu.sg](mailto:wang_xiao_xia@moe.edu.sg) |
+| **Media Club** | P4, P5 & P6 | Friday | Ms Ivana Low<br>[low_si_wei_ivana@moe.edu.sg](mailto:low_si_wei_ivana@moe.edu.sg) |
+| **Chess Club** | P4, P5 & P6 | Friday | Mr Pwee Kiat Kah<br>[pwee_kiat_kah@moe.edu.sg](mailto:pwee_kiat_kah@moe.edu.sg) |
+| **Discovery Club** | P4, P5 & P6 | Friday | Ms Hui Wing Yan<br>[hui_wing_yan@moe.edu.sg](mailto:hui_wing_yan@moe.edu.sg) |
