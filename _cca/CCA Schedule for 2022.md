@@ -21,5 +21,5 @@ description: ""
 | **Basketball** | P6<br>P4 & P5 | Thursday<br>Friday | Ms Vikneshwari<br>[Vikneshwari_vijayakumar@moe.edu.sg](mailto:Vikneshwari_vijayakumar@moe.edu.sg) |
 | **Netball**<br>**(Girls Only)** | P4 & P5<br>P6 | Thursday<br>Friday | Mdm Sally Koh<br>[koh_bee_shiow@moe.edu.sg](mailto:koh_bee_shiow@moe.edu.sg) |
 | **Hockey** | P5 & P6<br>P4 | Thursday<br>Friday | Mr Haikal Eiman<br>[haikal_eiman@moe.edu.sg](mailto:haikal_eiman@moe.edu.sg) |
-| **Rugby**<br>**(Boys Only)** |  |  |  |
+| **Rugby**<br>**(Boys Only)** | P4 & P5<br>P6 | Thursday<br>Friday | Mr Patrick Low<br>[low_kim_hong@moe.edu.sg](mailto:low_kim_hong@moe.edu.sg) |
 | **Wushu** |  |  |  |
