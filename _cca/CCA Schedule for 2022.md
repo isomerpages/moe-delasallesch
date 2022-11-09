@@ -22,4 +22,4 @@ description: ""
 | **Netball**<br>**(Girls Only)** | P4 & P5<br>P6 | Thursday<br>Friday | Mdm Sally Koh<br>[koh_bee_shiow@moe.edu.sg](mailto:koh_bee_shiow@moe.edu.sg) |
 | **Hockey** | P5 & P6<br>P4 | Thursday<br>Friday | Mr Haikal Eiman<br>[haikal_eiman@moe.edu.sg](mailto:haikal_eiman@moe.edu.sg) |
 | **Rugby**<br>**(Boys Only)** | P4 & P5<br>P6 | Thursday<br>Friday | Mr Patrick Low<br>[low_kim_hong@moe.edu.sg](mailto:low_kim_hong@moe.edu.sg) |
-| **Wushu** |  |  |  |
+| **Wushu** | P4 & P5<br>P6 | Thursday<br>Friday | Mdm Ng Peiling<br>[ng_peiling@moe.edu.sg](mailto:ng_peiling@moe.edu.sg) |
