@@ -82,7 +82,11 @@ links:
       - title: CCA Schedule for 2022
         url: /cca/cca-schedule-2022/
   - title: For Parents
-    url: /permalink
-    sublinks: []
+    url: /for-parents/parent-support-group/
+    sublinks:
+      - title: Parent Support Group
+        url: /for-parents/parent-support-group/
+      - title: Parent Notifications
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
