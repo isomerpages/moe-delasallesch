@@ -2,6 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Parent Links.md
       - Parent Support Group.md
       - Parent Notifications.md
+      - Parent Links.md
