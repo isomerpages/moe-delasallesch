@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Admin Forms.md
       - Parent Support Group.md
       - Parent Notifications.md
       - Parent Links.md
