@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - Book List 2022.md
       - Parent Support Group.md
       - Parent Notifications.md
       - Parent Links.md
       - Home Based Learning.md
       - Parents Gateway.md
       - Primary 1 2023.md
+      - Book List 2022.md
