@@ -2,8 +2,8 @@ collections:
   for-parents:
     output: true
     order:
-      - Parents Gateway.md
       - Parent Support Group.md
       - Parent Notifications.md
       - Parent Links.md
       - Home Based Learning.md
+      - Parents Gateway.md
