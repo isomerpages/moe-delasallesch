@@ -33,3 +33,10 @@ description: ""
 | **Choir** | P4, P5 & P6 | Thursday | Mrs Porcia Heng<br>[teo_su_zhen_porcia@moe.edu.sg](mailto:teo_su_zhen_porcia@moe.edu.sg) |
 | **Modern Dance** | P4, P5 & P6 | Thursday | Mrs Amy Liew<br>[amy_lee_may_chyou@moe.edu.sg](mailto:amy_lee_may_chyou@moe.edu.sg) |
 | **Cultural Dance** | P4, P5 & P6 | Friday | Mdm Jasmin<br>[jasmin_mohamed_hannifa@moe.edu.sg](mailto:jasmin_mohamed_hannifa@moe.edu.sg) |
+
+#### Uniformed Groups
+
+| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+|:---:|:---:|---|---|
+| **Brownies**<br>**(Girls Only)** | P4, P5 & P6 | Friday | Ms Cai Jue Ying<br>[cai_jue_ying@moe.edu.sg](mailto:cai_jue_ying@moe.edu.sg) |
+| **Scouts**<br>**(Boys Only)** | P4, P5 & P6 | Friday | Ms Annie Tan<br>[tan_annie_b@moe.edu.sg](mailto:tan_annie_b@moe.edu.sg) |
