@@ -3,23 +3,15 @@ title: Booklist & Uniform
 permalink: /for-parents/booklistnuniform/
 description: ""
 ---
-
 ## For Parents
 
-### Book List 2022
+### Book List & Uniform
 
-[DLS P1.pdf](/files/DLS%20P1.pdf)
+#### Booklist
 
-[DLS P2.pdf](/files/DLS%20P2.pdf)
+coming soon
 
-[DLS P3.pdf](/files/DLS%20P3.pdf)
+#### Uniform
 
-[DLS P4.pdf](/files/DLS%20P4.pdf)
+Click [here](/files/DLS%20CP2-6%20.pdf) to view the form
 
-[DLS P5 FDN.pdf](/files/DLS%20P5%20FDN.pdf)
-
-[DLS P5.pdf](/files/DLS%20P5.pdf)
-
-[DLS P6 FDN.pdf](/files/DLS%20P6%20FDN.pdf)
-
-[DLS P6.pdf](/files/DLS%20P6.pdf)
