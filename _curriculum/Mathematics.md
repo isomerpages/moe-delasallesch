@@ -13,13 +13,13 @@ There is a strong emphasis to nurture positive attitudes towards Mathematics. Ac
 
 #### Key Programmes
 
-1. **SUPER\* Approach to Problem Solving**
+1 \. **SUPER\* Approach to Problem Solving**
 
 As part of the Mathematics curriculum to develop metacognitive awareness among our students, our school adapted the famous four-step process for problem solving approach created by Polya which is known as the Super\* Approach in our school. It is a structured approach to guide students to reflect on their steps in problem solving. By doing so, Lasallians are more aware of the logical reasoning behind their working which allows them to gain independence and confidence in solving mathematical problems.
 
 <img src="/images/Mathematics1.png" style="width:90%">
 
-2. **Learning Centres**
+2 \. **Learning Centres**
 
 For our lower primary (P1 and P2), Learning Centres are conducted at the end of each term to consolidate their learning. Station activities are set up for Lasallians to participate in and our Lasallians are encouraged to apply the skills and concepts learnt during Math lessons in a fun and engaging way. We hope that this fosters an interest in learning Mathematics at a young age.
 
@@ -31,7 +31,7 @@ For our lower primary (P1 and P2), Learning Centres are conducted at the end of 
 <img src="/images/Mathematics5.jpg" style="width:42%" align=right><br clear="left">
 
 
-3. **Mighty Mathematics**
+3 \. **Mighty Mathematics**
 
 Mighty Mathematics is also a programme created to inculcate interest and enjoyment in learning Mathematics in our Lasallians. The use of games to learn Mathematics is highly encouraged because Lasallians are able to learn through play with their peers. Not only does it develop their interest, playing games allows Lasallians to communicate with one another, build on teamwork and gain competency in their mathematical skills.
 
@@ -43,7 +43,7 @@ Mighty Mathematics is also a programme created to inculcate interest and enjoyme
 <img src="/images/Mathematics10.jpg" style="width:17%;margin-right:15px;" align = "left">
 <br clear="left">
 
-4. **Math Fun Corner**
+4 \. **Math Fun Corner**
 
 Math Fun Corner is set up in the canteen and classrooms. There are various math games for students to choose such as Sudoku and Math Warrior. Sudoku allows Lasallians to develop their cognitive and observation skills as they solve puzzles by determining patterns. Meanwhile, Math Warrior requires Lasallians to be quick on their feet and skilled in their number sense in order to think strategically to outwit their opponents.
 
@@ -52,11 +52,11 @@ Math Fun Corner is set up in the canteen and classrooms. There are various math 
 <img src="/images/Mathematics13.jpg" style="width:36%;margin-right:15px;" align = "left">
 <br clear="left">
 
-5. **Mathematics Enrichment (E2K)**
+5 \. **Mathematics Enrichment (E2K)**
 
 E2K is an enrichment programme where Lasallians are able to foster independence in mathematical thinking skills. The rich learning experiences help to nurture 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
 
-6. **Koobits**
+6 \. **Koobits**
 
  Koobits is an interactive learning portal for Lasallians to take part in math challenges, do extra practices and play math games. The portal gamifies learning and motivates Lasallians to revise their math knowledge daily. Teachers and parents have the flexibility to select questions for our Lasallians to practise based on their respective needs. Detailed solutions are provided for each question and there are also videos provided to explain the problem solving concepts.
  
