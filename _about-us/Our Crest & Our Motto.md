@@ -10,7 +10,7 @@ description: ""
 #### <p align="center">THE MEANING OF OUR SCHOOL CREST 
 <p align = "center"> The crest is taken from the logo of the Brothers and is made up of three parts: </p>
 
-<img src="/images/logo_smaller.png" style="width:60%">
+<img src="/images/logo_smaller.png" style="width:40%">
 
 #### <p align="center" >  THE SCHOOL MOTTO: "SEMPER FIDELIS" </p>
 <p align = "center" > The Latin Words mean "Always Faithful". They remind us to be always faithful to God, our country, our school and our family. </p>
