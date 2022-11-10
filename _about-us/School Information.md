@@ -9,7 +9,14 @@ description: ""
 
 #### School Hours and After-School Schedule
 
-<img src="/images/photo1667833114.jpeg" style="width:90%">
+|  | **Monday & Tuesday** | **Wednesday** | **Thursday & Friday** |
+|:---:|:---:|---|---|
+| Start Time | 7.30am | 7.30am | 7.30am |
+| Recess Time | P3: 8.30 am – 9.00 am<br>P3: 8.30 am – 9.00 am<br>P1: 9.30 am – 10.00 am<br>P6: 10.00 am – 10.30 am<br>P4: 10.30 – 11.00 am<br>P5: 11.00 – 11.30 am | P3: 8.30 am – 9.00 am<br>P3: 8.30 am – 9.00 am<br>P1: 9.30 am – 10.00 am<br>P6: 10.00 am – 10.30 am<br>P4: 10.30 – 11.00 am<br>P5: 11.00 – 11.30 am | P3: 8.30 am – 9.00 am<br>P3: 8.30 am – 9.00 am<br>P1: 9.30 am – 10.00 am<br>P6: 10.00 am – 10.30 am<br>P4: 10.30 – 11.00 am<br>P5: 11.00 – 11.30 am |
+| Dismissal Time | P1 & 2: 1.15pm<br>P3 & 4: 1.25pm<br>P5 & 6: 1.30pm | P1 & 2: 1.15pm<br>P3 & 4: 1.25pm<br>P5 & 6: 1.30pm | P1 & 2: 12.45pm<br>P3 & 4: 12.55pm<br>P5 & 6: 1.00pm |
+| Lunch Time | 1.30 pm – 2.10 pm | NIL | 1.00 pm – 1.40 pm |
+| Remendial & Enrichment Programmes | 2.15 – 3.45 pm | NIL | NIL |
+| CCA | NIL | NIL | 1.45 pm – 3.45 pm |
 
 #### Gate Operating Hours
 
