@@ -43,4 +43,4 @@ Through ArtzGem, we hope that Lasallians will develop a heart of servitude and t
 <img src="/images/Aesthetics3.jpg" style="width:46%" align=right>
 <br clear="left"> <br>
 <img src="/images/Aesthetics4.jpg" style="width:44%" align=left>  
-<img src="/images/Aesthetics5.jpg" style="width:51%" align=right>
+<img src="/images/Aesthetics5.jpg" style="width:46%" align=right>
