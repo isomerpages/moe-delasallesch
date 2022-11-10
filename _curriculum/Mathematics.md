@@ -60,5 +60,5 @@ E2K is an enrichment programme where Lasallians are able to foster independence 
 
  Koobits is an interactive learning portal for Lasallians to take part in math challenges, do extra practices and play math games. The portal gamifies learning and motivates Lasallians to revise their math knowledge daily. Teachers and parents have the flexibility to select questions for our Lasallians to practise based on their respective needs. Detailed solutions are provided for each question and there are also videos provided to explain the problem solving concepts.
  
- <img src="/images/Mathematics14.jpg" style="width:45%" align=left>
-<img src="/images/Mathematics15.png" style="width:53%" align=right>
+ <img src="/images/Mathematics14.jpg" style="width:43%" align=left>
+<img src="/images/Mathematics15.png" style="width:52%" align=right>
