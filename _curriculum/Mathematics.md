@@ -47,9 +47,9 @@ Mighty Mathematics is also a programme created to inculcate interest and enjoyme
 
 Math Fun Corner is set up in the canteen and classrooms. There are various math games for students to choose such as Sudoku and Math Warrior. Sudoku allows Lasallians to develop their cognitive and observation skills as they solve puzzles by determining patterns. Meanwhile, Math Warrior requires Lasallians to be quick on their feet and skilled in their number sense in order to think strategically to outwit their opponents.
 
-<img src="/images/Mathematics11.jpg" style="width:20%;margin-right:15px;" align = "left">
-<img src="/images/Mathematics12.jpg" style="width:32%;margin-right:15px;" align = "left">
-<img src="/images/Mathematics13.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/Mathematics11.jpg" style="width:13%;margin-right:15px;" align = "left">
+<img src="/images/Mathematics12.jpg" style="width:27%;margin-right:15px;" align = "left">
+<img src="/images/Mathematics13.jpg" style="width:36%;margin-right:15px;" align = "left">
 <br clear="left">
 
 5. **Mathematics Enrichment (E2K)**
