@@ -52,7 +52,7 @@ At the start of each new school year, we have the FLIP programme for every class
 <img src="/images/CCE6.jpg" style="width:55%" align=right>  
 <br clear="left"><br>
 <img src="/images/CCE7.png" style="width:55%" align=left>  
-<img src="/images/CCE8.png" style="width:30%" align=right><br clear="left">
+<img src="/images/CCE8.png" style="width:27%" align=right><br clear="left">
 
 3 \. **LEARN EXPERIENCE AND FULFIL (LEAF)**<br>
 LEAF is a time when Lasallians will put aside their academic books and participate in character and citizenship building activities. This programme brings together staff, Lasallians and parents of the school and promotes a culture of learning beyond the classroom. Through interdisciplinary integration, we bring learning out from the confines of the classrooms to explicitly teach different values for character and citizenship development. We believe that experiential learning has a more lasting and impactful presence in the lives of our Lasallians.
