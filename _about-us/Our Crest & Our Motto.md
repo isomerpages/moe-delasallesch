@@ -7,7 +7,7 @@ description: ""
 
 ### Our Crest & Our Motto
 
-#### <p align="center" >  THE MEANING OF OUR SCHOOL CREST </p>
+#### <p align="center">THE MEANING OF OUR SCHOOL CREST 
 <p align = "center"> The crest is taken from the logo of the Brothers and is made up of three parts: </p>
 
 <img src="/images/logo_smaller.png" style="width:60%">
