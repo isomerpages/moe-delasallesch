@@ -18,5 +18,5 @@ sections:
           url: /announcements/announcements/
         - title: News & Updates
           description: Click here to view All
-          url: https://gmail.com
+          url: /calendar/news-updates/
 ---
