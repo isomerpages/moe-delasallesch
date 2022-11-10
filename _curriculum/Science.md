@@ -52,9 +52,9 @@ The Science Department strongly believes that the goal of Science education is t
 
 <img src="/images/photo1667907320.jpeg" style="width:26%;margin-right:15px;" align = "left">
 <img src="/images/photo1667907354.jpeg" style="width:32%;margin-right:15px;" align = "left">
-<img src="/images/photo1667907364.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/photo1667907364.jpeg" style="width:29%;margin-right:15px;" align = "left">
 <br clear="left">
 
 <img src="/images/photo1667907468.jpeg" style="width:26%;margin-right:15px;" align = "left">
-<img src="/images/photo1667907477.jpeg" style="width:32%;margin-right:15px;" align = "left">
+<img src="/images/photo1667907477.jpeg" style="width:26%;margin-right:15px;" align = "left">
 <br clear="left">
