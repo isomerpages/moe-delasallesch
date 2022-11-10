@@ -20,7 +20,13 @@ description: ""
 
 #### Gate Operating Hours
 
-<img src="/images/photo1667833265.jpeg" style="width:90%">
+| **Gate** | **Operating Hours**<br>**(Morning Arrival)** | **Operating Hours**<br>**(School Dismissal)** |
+|:---:|:---:|---|
+| **A** (for Staff & Cyclists only) | 6.30 a.m. – 7.20 a.m. | NIL |
+| **B** (Lasallians on foot and Visitors) | Controlled by security guards | 1.00 p.m. – 1.45 p.m. (only for school vans) |
+| **C** (Vehicular Access for school buses & parents dropping off Lasallians) | 6.45 a.m. – 7.30 a.m. | Only for school buses |
+| **D** (Vehicular Access for exit only) | 6.45 a.m. – 7.30 a.m. | Only for school buses |
+| **E** | 6.45 a.m. – 7.30 a.m. | 1.00 pm – 1.45 p.m. |
 
 #### School Bookshop
 
