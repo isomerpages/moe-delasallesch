@@ -19,8 +19,9 @@ in Humanities for our Lasallians.
 P2 Lasallians visited places of worship such as a Chinese Temple, an Indian Temple, a Catholic Church and a Mosque to know the significance behind the places of worships. The objective of the learning journey is for them to learn to respect one another’s diversity and religious practices, bringing them closer to the various communities.
 
 <img src="/images/Social Studies-1.jpg" style="width:30%;margin-right:15px;" align = "left">  
-<img src="/images/Social Studies-2.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/Social Studies-3.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/Social Studies-2.jpg" style="width:20%;margin-right:15px;" align = "left">  
+<img src="/images/Social Studies-3.jpg" style="width:17%;margin-right:15px;" align = "left">
+
 <br clear="left"><br>
 2 \. **I am a Town Planner Programme by Singapore Discovery Centre**<br>
 Through a guided tour and hands-on activities, P3 Lasallians learnt the land constraints and challenges faced by Singapore since our independence. They also learnt how every decision that they make can have an impact on the environment, people and land development.<br><br>
