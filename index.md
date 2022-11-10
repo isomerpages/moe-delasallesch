@@ -19,10 +19,4 @@ sections:
         - title: News & Updates
           description: Click here to view All
           url: https://gmail.com
-  - infopic:
-      title: ANNOUNCEMENTS
-      description: Dear Parents/Guardians, Greeting from De La Salle School. Kindly
-        click the button below to view all announcements. Thank You!
-      button: view all
-      url: /announcements/announcements/
 ---
