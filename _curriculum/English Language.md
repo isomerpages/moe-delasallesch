@@ -11,7 +11,7 @@ The English Language Department aims to develop Lasallians who are engaged and p
 
 #### Key Programmes
 
-1 \. **Reading Programme**<br>
+1 \ . **Reading Programme**<br>
 In De La Salle School, the reading programme aims to create a positive experience in reading among our Lasallians. The reading programme aims to:
 
 *   develop good reading habits and increase motivation to read among Lasallians
@@ -40,7 +40,7 @@ Lasallians in Primary 4-Primary 6 engage in a book battle to showcase their know
 <img src="/images/photo1667906060.jpeg" style="width:35%;margin-right:15px;" align = "left">
 <br clear="left">
 
-2 \. **Speaking Programme**
+2 \ . **Speaking Programme**
 
 In De La Salle School, the Speaking Programme aims to equip Lasallians with the listening and speaking skills to allow them to communicate effectively and empathetically.  The speaking programme aims to: 
 
