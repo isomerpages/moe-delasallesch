@@ -79,7 +79,7 @@ On 17 November 1996, De La Salle School marked the closing of a 45-year chapter 
 <img src="/images/1997.png" style="width:30%">
 <img src="/images/sch_history_teck_whye2.png" style="width:49%">
 
-#### ### DE LA SALLE SCHOOL TECK WHYE
+#### DE LA SALLE SCHOOL TECK WHYE
 <img src="/images/sch_history (1).png" style="width:50%">
 
 The whole school functioned in the holding school at 36 Jalan Teck Whye with 14 classes in the morning and 16 classes in the afternoon.
@@ -95,7 +95,7 @@ A week later, on 16 November, the "Hello-to-Choa Chu Kang" Dinner was held in th
 <img src="/images/1998.png" style="width:30%">
 <img src="/images/cck.png" style="width:49%">
 
-#### ### DE LA SALLE CHOA CHU KANG
+#### DE LA SALLE CHOA CHU KANG
 <img src="/images/sch_history (1).png" style="width:50%">
 
 On 2 January, a staff and pupil population of 66 and 1560 respectively began a new chapter in Choa Chu Kang for the 46-year-De La Salle School.
@@ -106,7 +106,7 @@ After the blessing of the entire school, the bronze statue of St John Baptist De
 
 <img src="/images/1999.png" style="width:30%">
 
-#### ### DE LA SALLE SCHOOL
+#### DE LA SALLE SCHOOL
 <img src="/images/sch_history (1).png" style="width:50%">
 
 On 1 October, Children's Day, Mr Yeo Cheow Tong, the Minister of Communications and Information Technology, and MP for Hong Kah GRC officially opened the new De La Salle School.
@@ -115,7 +115,7 @@ The school's official opening ceremony was marked successfully by the staging of
 
 <img src="/images/2001.png" style="width:30%">
 
-#### ### DE LA SALLE SCHOOL
+#### DE LA SALLE SCHOOL
 The school's enrolment grew to more than 2,400. In October 2001, the Ministry of Education identified the school for further upgrading under PRIME Phase 4. The offer was accepted. Upgrading works would begin in 2002 and be completed by 2004.
 
 On 16 November 2001, the school year closed with the Annual Thanksgiving Mass, celebrated by Fr Augustine Tay. It was followed by the Prize-Presentation Ceremony with Mr Anthony Thng, the Chairman of the School Management Committee as the Guest of Honour. Present, too, was Mrs Beatrice Wang Chee Ting, the Principal-Designate of De La Salle School.
