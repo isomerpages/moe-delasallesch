@@ -7,7 +7,7 @@ description: ""
 
 ### Our School Rally & Songs
 
-#### <p align="center" >  SCHOOL RALLY </p>
+#### SCHOOL RALLY 
 
 <p align="center"> All through De La Salle a voice is resounding<br>
 Promptly respond to your duty's sweet call,<br>
@@ -25,9 +25,9 @@ Forward with courage in ways that are just<br>
 True to your standard be doing and daring<br>
 As faithful La Sallians in heaven you trust </p>
 
-#### <p align="center"> INPUT AUDIO FROM YOUTUBE </p>
+#### INPUT AUDIO FROM YOUTUBE </p>
 
-#### <p align="center"> GLORIOUS PATRON</p>
+#### GLORIOUS PATRON
 
 <p align="center"> St John Baptist Holy Founder<br>
 Friend and father of the young <br>
@@ -54,9 +54,9 @@ Gladly and fraternally<br>
 Following the way you taught us<br>
 Strong in faith and unity</p>
 
-#### <p align="center"> INPUT AUDIO FROM YOUTUBE </p>
+#### INPUT AUDIO FROM YOUTUBE 
 
-#### <p align="center"> HAIL HAIL ALMA MATER</p>
+#### HAIL HAIL ALMA MATER
 
 <p align="center"> Hail! Hail! Alma Mater<br>
 Hail to De La Salle<br>
@@ -68,6 +68,4 @@ And never shall we fail<br>
 Hail to Thee, our Alma Mater<br>
 Hail! Hail! Hail!
 
-#### <p align="center"> INPUT AUDIO FROM YOUTUBE </p>
-
-
+#### INPUT AUDIO FROM YOUTUBE 
