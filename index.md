@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: De La Salle
 description: An Isomer site of the Singapore Government
 image: /images/photo1668084061.jpeg
 permalink: /
@@ -23,3 +23,4 @@ sections:
       image: /images/0ae259a75_308.png
       alt: Image alt text
 ---
+
