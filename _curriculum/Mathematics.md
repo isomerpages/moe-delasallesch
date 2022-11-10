@@ -40,7 +40,7 @@ Mighty Mathematics is also a programme created to inculcate interest and enjoyme
 <img src="/images/Mathematics8.jpg" style="width:30%;margin-right:15px;" align = "left"><br clear="left">
 
 <img src="/images/Mathematics9.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/Mathematics10.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/Mathematics10.jpg" style="width:17%;margin-right:15px;" align = "left">
 <br clear="left">
 
 4. **Math Fun Corner**
