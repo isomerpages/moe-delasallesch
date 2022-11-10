@@ -14,8 +14,8 @@ sections:
       background: /images/1251e0137_32.png
       key_highlights:
         - title: Announcements
-          description: ""
-          url: https://google.com
+          description: Click here to view all
+          url: /announcements/announcements/
         - title: News & Updates
           description: ""
           url: https://gmail.com
