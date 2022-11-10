@@ -23,13 +23,13 @@ Our Talent Management Framework will also provide Lasallians who demonstrate apt
 As Lasallians embark on their Arts Education journey, we hope to develop students who have the ability to view Arts in a larger context and as part of their environment; while being equipped with the critical life skills and 21st core competencies as they explore, experience and engage through Arts.
 
 #### Key Programmes
-1. **ArtScape**
+1 \. **ArtScape**
 
 **ArtScape** was conceptualized to provide an interactive space for Lasallians to engage in Arts experience in the domains of Visual Art and Music. It is also a platform to showcase the beautiful artworks and music creation done by Lasallians in curriculum. Aligned with our innovative community, innovation and ICT tools have also been incorporated in ArtScape to enhance the learning experiences in the Arts appreciation. Lasallians will visit ArtScape as part of their outdoor learning experience in curriculum.
 
 <img src="/images/Artscape.png" style="width:90%">
 
-2. **ArtzGem**
+2 \. **ArtzGem**
 
 ArtzGem is the department’ initiative to reach out to the community through Arts. It provides Lasallians with platforms to contribute and give back through Arts, which inculcates important values such as respect and empathy in our Lasallians. Collaborative opportunities with welfare organizations and external agencies eg/ Yew Tee Constituency are planned for Lasallians to engage in activities with the elderly or the residents in Yew Tee.
 
@@ -40,7 +40,7 @@ Our Lasallians also brought Arts closer to our neighborhood by organizing on-the
 Through ArtzGem, we hope that Lasallians will develop a heart of servitude and to use Arts to contribute to the community.
 
 <img src="/images/Aesthetics2.jpg" style="width:45%" align=left>  
-<img src="/images/Aesthetics3.jpg" style="width:49%" align=right>
+<img src="/images/Aesthetics3.jpg" style="width:46%" align=right>
 <br clear="left"> <br>
 <img src="/images/Aesthetics4.jpg" style="width:44%" align=left>  
 <img src="/images/Aesthetics5.jpg" style="width:51%" align=right>
