@@ -28,7 +28,7 @@ For our lower primary (P1 and P2), Learning Centres are conducted at the end of 
 
 
 <img src="/images/Mathematics4.jpg" style="width:49%" align=left>
-<img src="/images/Mathematics5.jpg" style="width:45%" align=right><br clear="left">
+<img src="/images/Mathematics5.jpg" style="width:42%" align=right><br clear="left">
 
 
 3. **Mighty Mathematics**
