@@ -19,5 +19,13 @@ sections:
         - title: News & Updates
           description: Click here to view All
           url: /calendar/news-updates/
+  - infopic:
+      image: /images/0ae259a75_308.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
-
