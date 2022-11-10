@@ -17,6 +17,6 @@ sections:
           description: Click here to view all
           url: /announcements/announcements/
         - title: News & Updates
-          description: ""
+          description: Click here to view All
           url: https://gmail.com
 ---
