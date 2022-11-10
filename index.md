@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Title
+description: An Isomer site of the Singapore Government
+image: /images/photo1668084061.jpeg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -20,3 +20,4 @@ sections:
           description: Click here to view All
           url: /calendar/news-updates/
 ---
+
