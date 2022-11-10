@@ -7,15 +7,15 @@ description: ""
 
 ### Our Crest & Our Motto
 
-#### <p align="center">THE MEANING OF OUR SCHOOL CREST 
+#### THE MEANING OF OUR SCHOOL CREST 
 <p align = "center"> The crest is taken from the logo of the Brothers and is made up of three parts: </p>
 
 <img src="/images/logo_smaller.png" style="width:40%">
 
-#### <p align="center" >  THE SCHOOL MOTTO: "SEMPER FIDELIS" </p>
+#### THE SCHOOL MOTTO: "SEMPER FIDELIS" 
 <p align = "center" > The Latin Words mean "Always Faithful". They remind us to be always faithful to God, our country, our school and our family. </p>
 
-#### <p align="center" >  THE SHINING STAR </p>
+#### THE SHINING STAR 
 
 <figure>
 <img src="/images/badge_star.png" style="width:40%"> <br>
@@ -23,7 +23,7 @@ description: ""
  </figcaption>
 </figure>
 
-#### <p align="center"> THE THREE BROKEN CHEVRONS </p>
+#### THE THREE BROKEN CHEVRONS 
 
 <figure>
 <img src="/images/badge_chevron.png" style="width:40%"> <br>
