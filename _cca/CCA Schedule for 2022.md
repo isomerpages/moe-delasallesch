@@ -5,7 +5,7 @@ description: ""
 ---
 ## Co-Curricular Activities (CCA)
 
-### CCA schedule for 2022
+### CCA schedule for 2023
 
 **Please note:** <br>
 • CCA are scheduled on both Thursday and Friday for Sports CCA. For all other CCA, CCA sessions are scheduled on either Thursday or Friday. <br>
@@ -18,7 +18,7 @@ description: ""
 
 #### Sports
 
-| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+| **CCA** | **Level (2023)** | **Days** | **CCA Teacher-In-Charge** |
 |:---:|:---:|---|---|
 | **Basketball** | P6<br>P4 & P5 | Thursday<br>Friday | Ms Vikneshwari<br>[Vikneshwari_vijayakumar@moe.edu.sg](mailto:Vikneshwari_vijayakumar@moe.edu.sg) |
 | **Netball**<br>**(Girls Only)** | P4 & P5<br>P6 | Thursday<br>Friday | Mdm Sally Koh<br>[koh_bee_shiow@moe.edu.sg](mailto:koh_bee_shiow@moe.edu.sg) |
@@ -28,7 +28,7 @@ description: ""
 
 #### Performing Arts
 
-| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+| **CCA** | **Level (2023)** | **Days** | **CCA Teacher-In-Charge** |
 |:---:|:---:|---|---|
 | **Percussion Ensemble** | P4, P5 & P6 | Thursday | Ms Woon Shio Ching<br>[woon_shio_ching@moe.edu.sg](mailto:woon_shio_ching@moe.edu.sg) |
 | **McNally Club** | P4, P5 & P6 | Friday | Ms Nurul Izzah<br>[nurul_izzah_basiron@moe.edu.sg](mailto:nurul_izzah_basiron@moe.edu.sg) |
@@ -38,14 +38,14 @@ description: ""
 
 #### Uniformed Groups
 
-| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+| **CCA** | **Level (2023)** | **Days** | **CCA Teacher-In-Charge** |
 |:---:|:---:|---|---|
 | **Brownies**<br>**(Girls Only)** | P4, P5 & P6 | Friday | Ms Cai Jue Ying<br>[cai_jue_ying@moe.edu.sg](mailto:cai_jue_ying@moe.edu.sg) |
 | **Scouts**<br>**(Boys Only)** | P4, P5 & P6 | Friday | Ms Annie Tan<br>[tan_annie_b@moe.edu.sg](mailto:tan_annie_b@moe.edu.sg) |
 
 #### Clubs
 
-| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+| **CCA** | **Level (2023)** | **Days** | **CCA Teacher-In-Charge** |
 |:---:|:---:|---|---|
 | **Talking Titans** | P4, P5 & P6 | Thursday | Ms Azlina Ngadi<br>[nur_azlina_ngadi@moe.edu.sg](mailto:nur_azlina_ngadi@moe.edu.sg) |
 | **Robotics** | P4, P5 & P6 | Thursday | Mdm Wang Xiao Xia<br>[wang_xiao_xia@moe.edu.sg](mailto:wang_xiao_xia@moe.edu.sg) |
@@ -57,7 +57,7 @@ description: ""
 
 #### Sports
 
-| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+| **CCA** | **Level (2023)** | **Days** | **CCA Teacher-In-Charge** |
 |:---:|:---:|---|---|
 | **Basketball** | P3<br>P4 & P5 | Thursday<br>Friday | Ms Vikneshwari<br>[Vikneshwari_vijayakumar@moe.edu.sg](mailto:Vikneshwari_vijayakumar@moe.edu.sg) |
 | **Netball**<br>**(Girls Only)** | P4 & P5<br>P3 | Thursday<br>Friday | Mdm Sally Koh<br>[koh_bee_shiow@moe.edu.sg](mailto:koh_bee_shiow@moe.edu.sg) |
@@ -67,7 +67,7 @@ description: ""
 
 #### Performing Arts
 
-| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+| **CCA** | **Level (2023)** | **Days** | **CCA Teacher-In-Charge** |
 |:---:|:---:|---|---|
 | **Percussion Ensemble** | P3, P4 & P5 | Thursday | Ms Woon Shio Ching<br>[woon_shio_ching@moe.edu.sg](mailto:woon_shio_ching@moe.edu.sg) |
 | **McNally Club** | P3, P4 & P5 | Friday | Ms Nurul Izzah<br>[nurul_izzah_basiron@moe.edu.sg](mailto:nurul_izzah_basiron@moe.edu.sg) |
@@ -77,14 +77,14 @@ description: ""
 
 #### Uniformed Groups
 
-| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+| **CCA** | **Level (2023)** | **Days** | **CCA Teacher-In-Charge** |
 |:---:|:---:|---|---|
 | **Brownies**<br>**(Girls Only)** | P3, P4, P5 | Friday | Ms Cai Jue Ying<br>[cai_jue_ying@moe.edu.sg](mailto:cai_jue_ying@moe.edu.sg) |
 | **Scouts**<br>**(Boys Only)** | P3, P4, P5 | Friday | Ms Annie Tan<br>[tan_annie_b@moe.edu.sg](mailto:tan_annie_b@moe.edu.sg) |
 
 #### Clubs
 
-| **CCA** | **Level (2022)** | **Days** | **CCA Teacher-In-Charge** |
+| **CCA** | **Level (2023)** | **Days** | **CCA Teacher-In-Charge** |
 |:---:|:---:|---|---|
 | **Talking Titans** | P3, P4, P5 | Thursday | Ms Azlina Ngadi<br>[nur_azlina_ngadi@moe.edu.sg](mailto:nur_azlina_ngadi@moe.edu.sg) |
 | **Robotics** | P3, P4, P5 | Thursday | Mdm Wang Xiao Xia<br>[wang_xiao_xia@moe.edu.sg](mailto:wang_xiao_xia@moe.edu.sg) |
