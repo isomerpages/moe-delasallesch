@@ -7,10 +7,6 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: MISSION
-      subtitle: Enabling Lasallians in a Lasallian community to learn how to learn and
-        to learn how to live; empowering them to be persons of integrity and
-        persons for others.
       background: /images/bannerGif2.gif
       key_highlights:
         - title: Announcements
