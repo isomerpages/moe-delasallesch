@@ -6,7 +6,11 @@ description: ""
 ### 70th Anniversary Logo
 
 
-![](/images/70th%20Logo%20cropped.png)
+
+<img src="/images/70th%20Logo%20cropped.png"  
+     style="width:75%">
+
+
 
 To mark De La Salle School’s 70th Anniversary, this commemorative logo encapsulates the overarching theme of the school’s celebration – “Passing on the passion, 70 years and beyond.” 
 
