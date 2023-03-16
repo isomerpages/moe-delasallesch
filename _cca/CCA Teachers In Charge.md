@@ -104,7 +104,7 @@ description: ""
   <tr>
     <td>Robotics Club </td>
     <td><b>Overall IC: Mdm Wang Xiao Xia</b> <br><br>Mdm Goh Sock Hong   <br><br>Ms Nurul Ain  </td>
-    <td><a href="mailto:wang_xiao_xia@moe.edu.sg">wang_xiao_xia@moe.edu.sg</a><br><br><br><br><a href="mailto:goh_sock_hong@moe.edu.sg">goh_sock_hong@moe.edu.sg</a><br><br><br><a href="mailto:nurulain_rashid@moe.edu.sg">nurulain_rashid@moe.edu.sg</a></td>
+    <td><a href="mailto:wang_xiao_xia@moe.edu.sg">wang_xiao_xia@moe.edu.sg</a><br><br><br><a href="mailto:goh_sock_hong@moe.edu.sg">goh_sock_hong@moe.edu.sg</a><br><br><a href="mailto:nurulain_rashid@moe.edu.sg">nurulain_rashid@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
