@@ -2,6 +2,7 @@ collections:
   anniversary:
     output: true
     order:
+      - 70th Anniversary Videos/Alumni Interviews.md
       - 70th Anniversary Videos/70 Years of Memories & Formation.md
       - 70th Anniversary Videos/.keep
       - 70th Anniversary Song.md
