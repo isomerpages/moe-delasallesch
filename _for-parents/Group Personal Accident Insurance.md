@@ -7,6 +7,6 @@ description: ""
 
 ### Group Personal Accident Insurance
 
-[Product Fact Sheet Year 2022 Sep 2022.pdf](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf)
+[Product Fact Sheet Year 2023.pdf](/files/Product%20Fact%20Sheet%20Year%202023.pdf)
 
 **User Guide**: [Student+GPA+User+Guide+-+Parent](/files/StudentGPAUserGuideParent.pdf)
