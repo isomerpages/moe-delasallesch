@@ -2,6 +2,7 @@ collections:
   anniversary:
     output: true
     order:
+      - 70th Anniversary Tributes/.keep
       - 70th Anniversary Coffee Table Book.md
       - 70th Anniversary Videos/Lasallians' Voice.md
       - 70th Anniversary Videos/Teacher's Day.md
