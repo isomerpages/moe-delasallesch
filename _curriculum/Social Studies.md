@@ -18,8 +18,8 @@ in Humanities for our Lasallians.
 1 \. **Community Walkabout**<br>
 P2 Lasallians visited places of worship such as a Chinese Temple, an Indian Temple, a Catholic Church and a Mosque to know the significance behind the places of worships. The objective of the learning journey is for them to learn to respect one another’s diversity and religious practices, bringing them closer to the various communities.
 
-<img src="/images/Social Studies-1.jpg" style="width:30%;margin-right:10px;" align = "left">  
-<img src="/images/Social Studies-2.jpg" style="width:20%;margin-right:10px;" align = "left">  
+<img src="/images/Social Studies-1.jpg" style="width:40%;margin-right:10px;" align = "left">  
+<img src="/images/Social Studies-2.jpg" style="width:30%;margin-right:10px;" align = "left">  
 <img src="/images/Social Studies-3.jpg" style="width:17%;margin-right:10px;" align = "left">
 
 <br clear="left"><br>
