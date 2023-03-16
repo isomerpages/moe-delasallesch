@@ -35,7 +35,7 @@ Beyond the classrooms, storytelling sessions, quizzes, book discussions and many
 **Book Battle**<br>
 Lasallians in Primary 4-Primary 6 engage in a book battle to showcase their knowledge on books. Selected Lasallians will represent the school in the annual KidLit Quiz organized by NLB.
 
-<img src="/images/English%20Book%20Battle.jpg" style="width:75%;margin-right:0px;" align = "center">
+<img src="/images/English%20Book%20Battle.jpg" style="width:75%">
 
 
 
