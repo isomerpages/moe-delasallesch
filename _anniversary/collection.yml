@@ -2,5 +2,6 @@ collections:
   anniversary:
     output: true
     order:
+      - 70th Anniversary Song.md
       - 70th Anniversary Logo.md
       - Principal's Foreword.md
