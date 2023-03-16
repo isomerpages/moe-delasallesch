@@ -67,12 +67,12 @@ description: ""
   <tr>
     <td>Cultural Dance </td>
     <td><b>Overall IC:  Mdm Tan Chiew Hoon</b><br><br>Ms Mangala<br><br>Mdm Rajeswari</td>
-    <td><a href="mailto:tan_chiew_hoon_a@moe.edu.sg">tan_chiew_hoon_a@moe.edu.sg</a><br><br><br><br><a href="mailto:mangala_dharshini_harikrishan@moe.edu.sg">mangala_dharshini_harikrishan@moe.edu.sg</a><br><br><a href="mailto:rajeswari_pannirselvam@moe.edu.sg">rajeswari_pannirselvam@moe.edu.sg</a><br></td>
+    <td><a href="mailto:tan_chiew_hoon_a@moe.edu.sg">tan_chiew_hoon_a@moe.edu.sg</a><br><br><br><a href="mailto:mangala_dharshini_harikrishan@moe.edu.sg">mangala_dharshini_harikrishan@moe.edu.sg</a><br><br><a href="mailto:rajeswari_pannirselvam@moe.edu.sg">rajeswari_pannirselvam@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Modern Dance </td>
     <td><b>Overall IC: Mrs Amy Liew</b> <br><br>Mdm Michelle Chian <br><br>Mrs Joanne Liou <br><br>Miss Thiviya Thulasidharan</td>
-    <td><a href="mailto:amy_lee_may_chyou@moe.edu.sg">amy_lee_may_chyou@moe.edu.sg</a><br><br><br><a href="mailto:michelle_chian@moe.edu.sg">michelle_chian@moe.edu.sg</a><br><br><br><br><a href="mailto:lau_siew_yee@moe.edu.sg">lau_siew_yee@moe.edu.sg</a><br><br><br><a href="mailto:thiviya_thulasidharan@moe.edu.sg">thiviya_thulasidharan@moe.edu.sg</a></td>
+    <td><a href="mailto:amy_lee_may_chyou@moe.edu.sg">amy_lee_may_chyou@moe.edu.sg</a><br><br><a href="mailto:michelle_chian@moe.edu.sg">michelle_chian@moe.edu.sg</a><br><br><a href="mailto:lau_siew_yee@moe.edu.sg">lau_siew_yee@moe.edu.sg</a><br><br><a href="mailto:thiviya_thulasidharan@moe.edu.sg">thiviya_thulasidharan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">Uniformed Groups </td>
