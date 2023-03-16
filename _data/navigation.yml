@@ -17,8 +17,6 @@ links:
         url: /about-us/rally-songs/
       - title: Our Staff
         url: /about-us/staff/
-      - title: School Calendar
-        url: /about-us/calendar/
       - title: School Council
         url: /about-us/sch-council/
       - title: Our Former School Principals
@@ -43,8 +41,6 @@ links:
     sublinks:
       - title: Events
         url: /events/Gallery/gallery2022/
-      - title: Achievements
-        url: /events/Achievements/2021/
   - title: Curriculum
     url: /curriculum/english-lan/
     sublinks:
