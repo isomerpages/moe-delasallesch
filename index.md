@@ -15,4 +15,7 @@ sections:
         - title: News & Updates
           description: Click here to view All
           url: /calendar/news-updates/
+        - title: 70th Anniversary
+          description: Click Here!
+          url: /anniversary/principals-foreword/
 ---
