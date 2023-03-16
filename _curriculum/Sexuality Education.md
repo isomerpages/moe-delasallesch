@@ -68,7 +68,7 @@ b. Character and Citizenship Education (CCE)
 
   
 
-For more information, please click [**here**.](https://delasalle.moe.edu.sg/qql/slot/u749/Departments/Sexual%20Education/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021.pdf)
+For more information, please click [**here**.](/files/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021.pdf)
 
   
 
