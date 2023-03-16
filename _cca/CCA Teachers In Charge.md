@@ -47,7 +47,7 @@ description: ""
     <td rowspan="6">Aesthetics </td>
     <td>Media Club </td>
     <td><b>Overall IC: Ms Ivana Low </b><br><br>Mdm Yang Xiao Ting <br><br>Mdm Du Ping Ping <br><br>Ms Nor Hashanah</td>
-    <td><a href="mailto:low_si_wei_ivana@moe.edu.sg">low_si_wei_ivana@moe.edu.sg</a><br><br><br><a href="mailto:yang_xiao_ting@moe.edu.sg">yang_xiao_ting@moe.edu.sg</a><br><br><br><a href="mailto:du_pingping@moe.edu.sg">du_pingping@moe.edu.sg</a><br><br><br><a href="mailto:nor_hashanah_mohammad_razif@moe.edu.sg">nor_hashanah_mohammad_razif@moe.edu.sg</a><br></td>
+    <td><a href="mailto:low_si_wei_ivana@moe.edu.sg">low_si_wei_ivana@moe.edu.sg</a><br><br><a href="mailto:yang_xiao_ting@moe.edu.sg">yang_xiao_ting@moe.edu.sg</a><br><br><a href="mailto:du_pingping@moe.edu.sg">du_pingping@moe.edu.sg</a><br><br><a href="mailto:nor_hashanah_mohammad_razif@moe.edu.sg">nor_hashanah_mohammad_razif@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Percussion Ensemble </td>
