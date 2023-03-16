@@ -41,7 +41,7 @@ description: ""
   <tr>
     <td>Wushu </td>
     <td><b>Overall IC: Mdm Ng Pei Ling </b><br><br>Mdm Wang Yun<br><br>Ms Mou Xing Chi<br></td>
-    <td><a href="mailto:ng_peiling@moe.edu.sg">ng_peiling@moe.edu.sg</a><br><br><br><br><a href="mailto:wang_yun@moe.edu.sg">wang_yun@moe.edu.sg</a><br><br><br><a href="mailto:mou_xingchi@moe.edu.sg">mou_xingchi@moe.edu.sg</a><br></td>
+    <td><a href="mailto:ng_peiling@moe.edu.sg">ng_peiling@moe.edu.sg</a><br><br><br><a href="mailto:wang_yun@moe.edu.sg">wang_yun@moe.edu.sg</a><br><br><a href="mailto:mou_xingchi@moe.edu.sg">mou_xingchi@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td rowspan="6">Aesthetics </td>
