@@ -21,11 +21,11 @@ description: ""
 <tbody>
   <tr>
     <td>Start Time</td>
-    <td colspan="3">7.30 am</td>
+		<td colspan="3"><center>7.30 am</center></td>
   </tr>
   <tr>
     <td>Recess Time</td>
-    <td colspan="3">Primary 2 &amp; 6 : 9.30 am – 10.00 am<br><br>Primary 1 &amp; 5: 10.00 am – 10.30 am<br><br>Primary 3 &amp; 4: 10.30 – 11.00 am</td>
+    <td colspan="3"><center>Primary 2 &amp; 6 : 9.30 am – 10.00 am<br><br>Primary 1 &amp; 5: 10.00 am – 10.30 am<br><br>Primary 3 &amp; 4: 10.30 – 11.00 am</center></td>
   </tr>
   <tr>
     <td>Dismissal Time</td>
