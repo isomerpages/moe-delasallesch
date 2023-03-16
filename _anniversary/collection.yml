@@ -1,4 +1,5 @@
 collections:
   anniversary:
     output: true
-    order: []
+    order:
+      - Principal's Foreword.md
