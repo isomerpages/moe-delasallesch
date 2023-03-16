@@ -78,7 +78,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td>Subject Head Chinese Language</td>
-    <td>Mdm Goh Lee Sim Eunicegoh_lee_sim_eunice@moe.edu.sg</td>
+    <td>Mdm Goh Lee Sim Eunice<br>goh_lee_sim_eunice@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Subject Head Information Communications Technology (ICT) </td>
