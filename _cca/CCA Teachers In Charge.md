@@ -89,7 +89,7 @@ description: ""
     <td rowspan="4">Clubs </td>
     <td>Talking Titans </td>
     <td><b>Overall IC: Mrs Luanna Goh</b> <br><br>Ms Muneera Begum Mohamed<br><br>Mdm Azlina<br></td>
-    <td><a href="mailto:miller_goh_luanna_judith@moe.edu.sg">miller_goh_luanna_judith@moe.edu.sg</a><br><br><br><br><a href="mailto:muneera_begum_mohamed_iqbal@moe.edu.sg">muneera_begum_mohamed_iqbal@moe.edu.sg</a><br><br><br><br><a href="mailto:nur_azlina_ngadi@moe.edu.sg">nur_azlina_ngadi@moe.edu.sg</a><br><br></td>
+    <td><a href="mailto:miller_goh_luanna_judith@moe.edu.sg">miller_goh_luanna_judith@moe.edu.sg</a><br><br><br><a href="mailto:muneera_begum_mohamed_iqbal@moe.edu.sg">muneera_begum_mohamed_iqbal@moe.edu.sg</a><br><br><br><a href="mailto:nur_azlina_ngadi@moe.edu.sg">nur_azlina_ngadi@moe.edu.sg</a><br><br></td>
   </tr>
   <tr>
     <td>Discovery Club </td>
