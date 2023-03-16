@@ -42,7 +42,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td>HOD English Language</td>
-    <td><br>Mr Fairuzaman Bin Haidzir<br>fairuzaman_haidzir@moe.edu.sg</td>
+    <td>Mr Fairuzaman Bin Haidzir<br>fairuzaman_haidzir@moe.edu.sg</td>
   </tr>
   <tr>
     <td>HOD Science</td>
@@ -54,7 +54,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td>HOD Mother Tongue Language</td>
-    <td><br>Mdm Chen Weihua<br>chen_weihua@moe.edu.sg</td>
+    <td>Mdm Chen Weihua<br>chen_weihua@moe.edu.sg</td>
   </tr>
   <tr>
     <td>HOD Character &amp; Citizenship Educationv </td>
@@ -66,7 +66,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td>School Staff Developer</td>
-    <td><br>Mdm Bharathi Jaganthan<br>bharathi_jaganthan@moe.edu.sg</td>
+    <td>Mdm Bharathi Jaganthan<br>bharathi_jaganthan@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Level Head English</td>
