@@ -49,6 +49,6 @@ The Science Department strongly believes that the goal of Science education is t
 <img align="left" style="width:29%;margin-right:15px;" src="/images/photo1667907364.jpeg">
 <br clear="left">
 
-<img align="left" style="width:26%;margin-right:15px;margin-left:107px" src="/images/photo1667907468.jpeg">
+<img align="left" style="width:26%;margin-right:15px;margin-left:190px" src="/images/photo1667907468.jpeg">
 <img align="left" style="width:26%;margin-right:15px;" src="/images/photo1667907477.jpeg">
 <br clear="left">
