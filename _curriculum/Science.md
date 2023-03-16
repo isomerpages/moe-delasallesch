@@ -31,9 +31,7 @@ description: ""
 | **Primary 5** | Water Cycle | Unit of Life<br>Reproduction in plants and human | Plant Transport System<br>Human Respiratory and Circulatory System |  Electrical System |
 | **Primary 6** | Energy Forms – Photosynthesis Energy Conversions | Energy Conversions Forces | Interactions within the Environment | PSLE |
 
-**OVERVIEW OF SCIENCE ASSESSMENT**<br>
 
-<table><tbody><tr><td style="display: table-cell; font-weight: bold; text-align: center; vertical-align: top;" rowspan="1" colspan="1" class="selected"><div style="" class="wrap"><div class="" style="margin: 10px 5px;"><p><span>Term 1</span></p><p><span><br></span></p></div></div></td></tr></tbody></table>
 
 **KEY PROGRAMMES IN OUR LEARNING, SERVING, INNOVATIVE AND LASALLIAN COMMUNITY**
 
