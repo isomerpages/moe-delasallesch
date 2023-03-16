@@ -9,11 +9,11 @@ description: ""
 
 #### Moe Sexuality Education in Schools
 
-1.   Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+1.    Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
   
 
-2. The **Goals** of Sexuality Education are:
+2.    The **Goals** of Sexuality Education are:
 
 (a) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
    
@@ -24,7 +24,7 @@ c) To help students develop a moral compass, respect for themselves and for othe
 
   
 
-3. The **Key Messages** of Sexuality Education are:
+3.    The **Key Messages** of Sexuality Education are:
 
 
 (a) Love and respect yourself as you love and respect others; 
@@ -45,11 +45,11 @@ You may click [**here**](https://go.gov.sg/moe-sexuality-education)  for more 
 
     
 
-4.   Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4.    Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
   
 
-5. The subjects that incorporate topics on sexuality include:
+5.    The subjects that incorporate topics on sexuality include:
 
 a. Science  <br>
 b. Character and Citizenship Education (CCE)
@@ -74,12 +74,12 @@ For more information, please click [**here**.](/files/2023%20SEXUALITY%20EDUCAT
 
 **INFORMATION FOR PARENTS**
 
-8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. 
+8.    Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
   
 
-9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the start of the programme.
+9.    Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the start of the programme.
 
   
 
-10. Parents can contact the school at 67667675 for discussion or to seek clarification about the school’s sexuality education programme.
+10.    Parents can contact the school at 67667675 for discussion or to seek clarification about the school’s sexuality education programme.
