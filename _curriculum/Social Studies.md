@@ -24,9 +24,9 @@ P2 Lasallians visited places of worship such as a Chinese Temple, an Indian Temp
 2 \. **I am a Town Planner Programme by Singapore Discovery Centre**<br>
 Through a guided tour and hands-on activities, P3 Lasallians learnt the land constraints and challenges faced by Singapore since our independence. They also learnt how every decision that they make can have an impact on the environment, people and land development.<br><br>
 
-<img src="/images/Social Studies-4.jpg" style="width:49%" align=left>  
-<img src="/images/Social Studies-5.jpg" style="width:43%" align=right>
-<br clear="left"><br><br>
+![](/images/Social%20Studies%20I%20am%20a%20Town%20Planner%20Programme%20by%20Singapore%20Discovery%20Centre.jpg)
+
+
 3 \. **Learning Journey to National Museum and Images of Singapore LIVE**<br>
 P4 Lasallians visited the National Museum and Images of Singapore LIVE to learn about the history of Singapore and the contributions of our pioneers. The entire cohort then put up a National Day Performance for the school population, with knowledge that they have gained from lessons in class and their learning journey.<br><br>
 
