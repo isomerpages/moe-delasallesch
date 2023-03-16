@@ -99,7 +99,7 @@ description: ""
   <tr>
     <td>Chess Club </td>
     <td><b>Overall IC: Mr Pwee Kiat Kah</b><br><br>Mdm Lai Chiat Peng  <br><br>Ms Low Siok Hua <br></td>
-    <td><a href="mailto:pwee_kiat_kah@moe.edu.sg">pwee_kiat_kah@moe.edu.sg</a><br><br><br><br><a href="mailto:lai_chiat_pheng@moe.edu.sg">lai_chiat_pheng@moe.edu.sg</a><br><br><br><a href="mailto:low_siok_hua@moe.edu.sg">low_siok_hua@moe.edu.sg</a><br></td>
+    <td><a href="mailto:pwee_kiat_kah@moe.edu.sg">pwee_kiat_kah@moe.edu.sg</a><br><br><br><a href="mailto:lai_chiat_pheng@moe.edu.sg">lai_chiat_pheng@moe.edu.sg</a><br><br><a href="mailto:low_siok_hua@moe.edu.sg">low_siok_hua@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Robotics Club </td>
