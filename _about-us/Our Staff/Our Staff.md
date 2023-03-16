@@ -50,7 +50,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td>HOD  Mathematics</td>
-    <td>Mr Chew Chee Waichew_chee_wai@moe.edu.sg </td>
+    <td>Mr Chew Chee Wai<br>chew_chee_wai@moe.edu.sg </td>
   </tr>
   <tr>
     <td>HOD Mother Tongue Language</td>
@@ -82,23 +82,23 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td>Subject Head Information Communications Technology (ICT) </td>
-    <td>Mr Ng Jun Qing_jun_qi@moe.edu.sg </td>
+    <td>Mr Ng Jun Qi<br>ng_jun_qi@moe.edu.sg </td>
   </tr>
   <tr>
     <td>Subject Head Physical and Health Education </td>
-    <td>Mr Matthew Teoteo_puay_liang@moe.edu.sg </td>
+    <td>Mr Matthew Teo<br>teo_puay_liang@moe.edu.sg </td>
   </tr>
   <tr>
     <td>Subject Head Student Management &amp; Leadership (SML)</td>
-    <td>Ms Tay Li Wentay_li_wen@moe.edu.sg </td>
+    <td>Ms Tay Li Wen<br>tay_li_wen@moe.edu.sg </td>
   </tr>
   <tr>
     <td>Subject Head CCE </td>
-    <td>Ms Eu Hui Juneu_hui_jun@moe.edu.sg </td>
+    <td>Ms Eu Hui Jun<br>eu_hui_jun@moe.edu.sg </td>
   </tr>
   <tr>
     <td>Subject Head Science </td>
-    <td>Mrs Jasmine Chentan_cai_yun_jasmine@moe.edu.sg </td>
+    <td>Mrs Jasmine Chen<br>tan_cai_yun_jasmine@moe.edu.sg </td>
   </tr>
   <tr>
     <td>Subject Head Student Wellbeing (SWB)</td>
