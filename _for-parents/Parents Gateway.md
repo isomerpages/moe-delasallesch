@@ -11,7 +11,7 @@ description: ""
 
 Developed by the Ministry of Education and GovTech, Parents Gateway is a one-stop portal that strengthens school-home partnership to support our children in their education journey.
 
-**REQUIRE JACKSON'S HELP FOR YOUTUBE VIDEO INPUT**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="Parents Gateway Onboarding video for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### For Parents:
 
@@ -35,4 +35,4 @@ Developed by the Ministry of Education and GovTech, Parents Gateway is a one-sto
 
 [https://youtu.be/PCM5o8jAncc](https://www.youtube.com/watch?v=PCM5o8jAncc)
 
-**REQUIRE JACKSON'S HELP TO INPUT YOUTUBE VIDEO**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PCM5o8jAncc" title="MOE Parents Gateway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
