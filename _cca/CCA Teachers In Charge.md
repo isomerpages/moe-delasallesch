@@ -62,7 +62,7 @@ description: ""
   <tr>
     <td>Choir </td>
     <td><b>Overall IC: Mdm Porcia</b> <br><br>Ms Laavanyah <br><br>Mdm Irene Leong<br><br>Mdm Low Ren Fong</td>
-    <td><a href="mailto:laavanyah_alagasamy@moe.edu.sg">laavanyah_alagasamy@moe.edu.sg</a><br><br><br><a href="mailto:leong_foong_yee_irene@moe.edu.sg">leong_foong_yee_irene@moe.edu.sg</a><br><br><a href="mailto:ang_hwee_nee@moe.edu.sg">ang_hwee_nee@moe.edu.sg</a><br><br><br><a href="mailto:low_ren_fong@moe.edu.sg">low_ren_fong@moe.edu.sg</a></td>
+    <td><a href="mailto:laavanyah_alagasamy@moe.edu.sg">laavanyah_alagasamy@moe.edu.sg</a><br><br><a href="mailto:leong_foong_yee_irene@moe.edu.sg">leong_foong_yee_irene@moe.edu.sg</a><br><br><a href="mailto:ang_hwee_nee@moe.edu.sg">ang_hwee_nee@moe.edu.sg</a><br><br><a href="mailto:low_ren_fong@moe.edu.sg">low_ren_fong@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Cultural Dance </td>
