@@ -2,11 +2,11 @@ collections:
   anniversary:
     output: true
     order:
-      - 70th Anniversary Tributes/Article in Catholic News.md
-      - 70th Anniversary Tributes/70th Anniversary Showcase.md
-      - 70th Anniversary Tributes/Virtual Gallery.md
-      - 70th Anniversary Tributes/Lasallians' Voice.md
       - 70th Anniversary Tributes/.keep
+      - 70th Anniversary Tributes/Lasallians' Voice.md
+      - 70th Anniversary Tributes/Virtual Gallery.md
+      - 70th Anniversary Tributes/70th Anniversary Showcase.md
+      - 70th Anniversary Tributes/Article in Catholic News.md
       - 70th Anniversary Coffee Table Book.md
       - 70th Anniversary Videos/.keep
       - 70th Anniversary Videos/70 Years of Memories & Formation.md
