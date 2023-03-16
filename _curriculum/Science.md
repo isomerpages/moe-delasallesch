@@ -44,11 +44,4 @@ The Science Department strongly believes that the goal of Science education is t
 -&nbsp;&nbsp; &nbsp;blended learning to promote self-directed learning<br>
 -&nbsp;&nbsp; &nbsp;differentiated instruction to challenge, enrich and support varied learners.
 
-<img align="left" style="width:26%;margin-right:15px;margin-left:15px" src="/images/photo1667907320.jpeg">
-<img align="left" style="width:32%;margin-right:15px;" src="/images/photo1667907354.jpeg">
-<img align="left" style="width:29%;margin-right:15px;" src="/images/photo1667907364.jpeg">
-<br clear="left">
-
-<img align="left" style="width:26%;margin-right:15px;margin-left:190px" src="/images/photo1667907468.jpeg">
-<img align="left" style="width:26%;margin-right:15px;" src="/images/photo1667907477.jpeg">
-<br clear="left">
+![](/images/Science%20Key%20Programmes.jpg)
