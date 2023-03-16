@@ -94,7 +94,7 @@ description: ""
   <tr>
     <td>Discovery Club </td>
     <td><b>Overall IC: Ms Hui Wing Yan</b> <br><br>Ms Julia Zheng<br><br>Mr Ronald Wee <br><br>Mrs Grace Looi Xinyue<br></td>
-    <td><a href="mailto:hui_wing_yan@moe.edu.sg">hui_wing_yan@moe.edu.sg</a><br><br><br><a href="mailto:julia_zheng_xiu_fen@moe.edu.sg">julia_zheng_xiu_fen@moe.edu.sg</a><br><br><br><a href="mailto:ronald_wee@moe.edu.sg">ronald_wee@moe.edu.sg</a><br><br><br><a href="mailto:grace_looi_xinyue@moe.edu.sg">grace_looi_xinyue@moe.edu.sg</a><br></td>
+    <td><a href="mailto:hui_wing_yan@moe.edu.sg">hui_wing_yan@moe.edu.sg</a><br><br><br><a href="mailto:julia_zheng_xiu_fen@moe.edu.sg">julia_zheng_xiu_fen@moe.edu.sg</a><br><br><a href="mailto:ronald_wee@moe.edu.sg">ronald_wee@moe.edu.sg</a><br><br><a href="mailto:grace_looi_xinyue@moe.edu.sg">grace_looi_xinyue@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Chess Club </td>
