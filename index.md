@@ -4,10 +4,10 @@ title: De La Salle
 description: An Isomer site of the Singapore Government
 image: /images/photo1668084061.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      background: /images/bannerGif2.gif
+      background: /images/Home banner - v3-min.png
       key_highlights:
         - title: Announcements
           description: Click here to view all
