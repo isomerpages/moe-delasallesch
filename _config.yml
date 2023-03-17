@@ -2,11 +2,11 @@ title: De La Salle
 url: https://delasalle.edu.sg
 favicon: /images/photo1668084061.jpeg
 colors:
-  primary-color: "#417505"
+  primary-color: "#2c4f02"
   secondary-color: "#7ed321"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#305703"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
