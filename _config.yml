@@ -3,7 +3,7 @@ url: https://delasalle.edu.sg
 favicon: /images/photo1668084061.jpeg
 colors:
   primary-color: "#2c4f02"
-  secondary-color: "#7ed321"
+  secondary-color: "#2c4f02"
   media-colors:
     - title: media-color-one
       color: "#2c4f02"
