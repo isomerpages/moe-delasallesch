@@ -5,5 +5,6 @@ description: ""
 ---
 ### 70th Anniversary Coffee Table Book
 
-![]()
-Flipbook Missing
+![](/images/Coffee%20table%20book%20pic.jpg)
+
+Click [**here**](https://online.flippingbook.com/view/525806951/) to view the Coffee Table Book
