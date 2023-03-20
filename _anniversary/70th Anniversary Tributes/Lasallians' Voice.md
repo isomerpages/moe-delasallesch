@@ -8,4 +8,4 @@ third_nav_title: 70th Anniversary Tributes
 
 ![](/images/Lasallian%20voice%20Pic.jpg)
 
-Click [**here**](https://online.flippingbook.com/view/713194351/) to view the Lasallians' Voice 2022
+Click [**here**](https://online.flippingbook.com/view/713194351/) to view Lasallians' Voice 
