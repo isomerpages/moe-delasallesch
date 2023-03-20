@@ -2,31 +2,22 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: De La Salle School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - "11"
+      - Choa Chu Kang Street 52
+      - Singapore 689285
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 7am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: https://www.google.com/maps?ll=1.39507,103.743372&z=15&t=m&hl=en&gl=SG&mapclient=embed&cid=16003682197919674406
+    title: De La Salle School
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6766 7675
+      - email: dlss@moe.edu.sg
+      - other: "Fax: +65 6762 2075"
+    title: General Enquiries & Feedback
 ---
