@@ -13,7 +13,7 @@ locations:
         time: 7am - 6.00pm
         description: Closed on Public Holidays
     maps_link: https://www.google.com/maps?ll=1.39507,103.743372&z=15&t=m&hl=en&gl=SG&mapclient=embed&cid=16003682197919674406
-    title: De La Salle School
+    title: Street Address
 contacts:
   - content:
       - phone: +65 6766 7675
