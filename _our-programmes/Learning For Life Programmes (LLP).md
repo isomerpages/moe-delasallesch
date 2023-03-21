@@ -7,7 +7,7 @@ description: ""
 
 ### Learning for Life Programme (LLP)
 
-<p align="center">  Learning for Life Programme - Mindful Servant Leaders (MSL) at De La Salle</p>
+<p align="center"><b>  Learning for Life Programme - Mindful Servant Leaders (MSL) at De La Salle</b></p>
 
 In De La Salle School, we believe in providing an environment for a holistic education for all Lasallians. These include platforms for leadership growth and development with a focus on mindfulness and servitude towards the community.
 
