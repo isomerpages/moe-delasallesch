@@ -14,9 +14,6 @@ sections:
         - title: Calendar
           description: Click here to view All
           url: /calendar/news-updates/
-        - title: 70th Anniversary
-          description: Click Here!
-          url: /anniversary/principals-foreword/
       background: /images/bannerGif.gif
   - infopic:
       title: 70th Anniversary
