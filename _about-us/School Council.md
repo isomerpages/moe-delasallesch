@@ -9,7 +9,7 @@ description: ""
 
 | **Designation** | **Name** |
 |:---:|:---:|
-| Chair Person | Mr Vincent Ong  |
+| Chairman | Mr Vincent Ong  |
 | Community Representative | Mr Stevan Tan |
 | Community Representative | Mr Benjamin Chua|
 | Brother Representative,CBS | Brother Lawrence Humphrey |
