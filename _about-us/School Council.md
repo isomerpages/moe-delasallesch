@@ -12,13 +12,13 @@ description: ""
 | Chair Person | Mr Vincent Ong  |
 | Community Representative | Mr Stevan Tan |
 | Community Representative | Mr Benjamin Chua|
-| CBS Representative | Brother Lawrence Humphrey |
+| Brother Representative,CBS | Brother Lawrence Humphrey |
+| Principal/Secretary | Mdm Cheryl Choo |
 | Parent Representative | Mr Jai Prakash |
 | Parent Representative | Mdm Janice Tay |
 | Alumni Representative | Mr Herald Bangras |
 | Alumni Representative | Mr Rene Chia |
-| Principal | Mdm Cheryl Choo |
 | Member | Mr Vincent Cheong |
-| School Representative | Mr David Ching |
-| School Representative | Ms Sharon Thien |
-| School Representative | Ms Gwee Rong Rong |
+| Ex-Officio | Mr David Ching |
+| Ex-Officio | Ms Sharon Thien |
+| Ex-Officio | Ms Gwee Rong Rong |
