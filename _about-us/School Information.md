@@ -9,6 +9,7 @@ description: ""
 
 #### School Hours and After-School Schedule
 
+![](/images/School%20information.jpg)
 <table>
 <thead>
   <tr>
@@ -20,11 +21,11 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td>Start Time</td>
+    <td><center>Start Time</td>
 		<td colspan="3"><center>7.30 am</center></td>
   </tr>
   <tr>
-    <td>Recess Time</td>
+    <td><center>Recess Time</td>
     <td colspan="3"><center>Primary 2 &amp; 6 : 9.30 am – 10.00 am<br><br>Primary 1 &amp; 5: 10.00 am – 10.30 am<br><br>Primary 3 &amp; 4: 10.30 – 11.00 am</center></td>
   </tr>
   <tr>
@@ -35,7 +36,7 @@ description: ""
   <tr>
     <td>Lunch Time *</td>
     <td>1.30 pm – 2.10 pm</td>
-    <td rowspan="3"> <br> <br>Nil</td>
+    <td rowspan="3"> <br> Nil</td>
     <td>1.00 pm – 1.40 pm</td>
   </tr>
   <tr>
