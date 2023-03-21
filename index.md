@@ -23,4 +23,10 @@ sections:
       description: Microsite
       button: Click to view
       url: /anniversary/principals-foreword/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
