@@ -18,4 +18,9 @@ sections:
           description: Click Here!
           url: /anniversary/principals-foreword/
       background: /images/bannerGif.gif
+  - infobar:
+      title: 70th Annviersary
+      description: Microsite
+      button: Click to view
+      url: /anniversary/principals-foreword/
 ---
