@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: De La Salle
+title: De La Salle School - Singapore
 description: An Isomer site of the Singapore Government
 image: /images/photo1668084061.jpeg
 permalink: /
@@ -19,3 +19,4 @@ sections:
           url: /anniversary/principals-foreword/
       background: /images/banner.jpg
 ---
+
