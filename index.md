@@ -18,15 +18,12 @@ sections:
           description: Click Here!
           url: /anniversary/principals-foreword/
       background: /images/bannerGif.gif
-  - infobar:
-      title: 70th Anniversary
-      description: Microsite
-      button: Click to view
-      url: /anniversary/principals-foreword/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: 70th Anniversary
+      subtitle: DE LA SALLE
+      description: Microsite
+      button: Click here to enter
       alt: Image alt text
+      url: /anniversary/principals-foreword/
+      image: /images/70th Logo cropped.png
 ---
