@@ -10,14 +10,15 @@ description: ""
 | **Designation** | **Name** |
 |:---:|:---:|
 | Chair Person | Mr Vincent Ong  |
-| Community Representative | Mr C Manoharan |
-| Community Representative | Mr Alvin Kwong |
+| Community Representative | Mr Stevan Tan |
+| Community Representative | Mr Benjamin Chua|
 | CBS Representative | Brother Lawrence Humphrey |
 | Parent Representative | Mr Jai Prakash |
-| Deputy Chairman/Parent Representative | Mdm Julia Lee |
-| Alumni Representative | Ms Lauren Ong |
-| Alumni Representative | Mr Eric Chan |
+| Parent Representative | Mdm Janice Tay |
+| Alumni Representative | Mr Herald Bangras |
+| Alumni Representative | Mr Rene Chia |
 | Principal | Mdm Cheryl Choo |
 | Member | Mr Vincent Cheong |
 | School Representative | Mr David Ching |
+| School Representative | Ms Sharon Thien |
 | School Representative | Ms Gwee Rong Rong |
