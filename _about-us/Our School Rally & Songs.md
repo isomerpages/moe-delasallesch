@@ -25,7 +25,6 @@ Forward with courage in ways that are just<br>
 True to your standard be doing and daring<br>
 As faithful La Sallians in heaven you trust </p>
 
-#### INPUT AUDIO FROM YOUTUBE 
 
 #### GLORIOUS PATRON
 
@@ -54,8 +53,6 @@ Gladly and fraternally<br>
 Following the way you taught us<br>
 Strong in faith and unity</p>
 
-#### INPUT AUDIO FROM YOUTUBE 
-
 #### HAIL HAIL ALMA MATER
 
 <p align="center"> Hail! Hail! Alma Mater<br>
@@ -68,4 +65,3 @@ And never shall we fail<br>
 Hail to Thee, our Alma Mater<br>
 Hail! Hail! Hail!
 
-#### INPUT AUDIO FROM YOUTUBE
