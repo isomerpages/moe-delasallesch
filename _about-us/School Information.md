@@ -10,47 +10,7 @@ description: ""
 #### School Hours and After-School Schedule
 
 ![](/images/School%20information.jpg)
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th>Mondays &amp; Tuesdays</th>
-    <th>Wednesdays</th>
-    <th>Thursdays and Fridays</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><center>Start Time</td>
-		<td colspan="3"><center>7.30 am</center></td>
-  </tr>
-  <tr>
-    <td><center>Recess Time</td>
-    <td colspan="3"><center>Primary 2 &amp; 6 : 9.30 am – 10.00 am<br><br>Primary 1 &amp; 5: 10.00 am – 10.30 am<br><br>Primary 3 &amp; 4: 10.30 – 11.00 am</center></td>
-  </tr>
-  <tr>
-    <td>Dismissal Time</td>
-    <td colspan="2">Primary 1 - 3 : 1.20 pm<br><br>Primary 4 - 6 : 1.30 pm</td>
-    <td>P1 - P3 : 12.50 pm<br><br>P4 - P6: 1.00 pm<br></td>
-  </tr>
-  <tr>
-    <td>Lunch Time *</td>
-    <td>1.30 pm – 2.10 pm</td>
-    <td rowspan="3"> <br> Nil</td>
-    <td>1.00 pm – 1.40 pm</td>
-  </tr>
-  <tr>
-    <td>Remedial &amp; Enrichment Programmes **</td>
-    <td> <br>2.15 – 3.45 pm</td>
-    <td> <br>Nil</td>
-  </tr>
-  <tr>
-    <td>CCA </td>
-    <td>Nil</td>
-    <td>1.45 pm – 3.45 pm</td>
-  </tr>
-</tbody>
-</table>
+
 
 
 #### Gate Operating Hours
