@@ -1,5 +1,0 @@
-collections:
-  events:
-    output: true
-    order:
-      - Gallery/.keep
