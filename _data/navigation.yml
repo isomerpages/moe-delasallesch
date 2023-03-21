@@ -36,11 +36,6 @@ links:
         url: /our-programmes/llp/
       - title: Applied Learning Prog (ALP)
         url: /our-programmes/alp/
-  - title: Events
-    url: /events/Gallery/gallery2022/
-    sublinks:
-      - title: Events
-        url: /events/Gallery/gallery2022/
   - title: Curriculum
     url: /curriculum/english-lan/
     sublinks:
@@ -84,8 +79,6 @@ links:
         url: /for-parents/parent-support-group/
       - title: Parent Notifications
         url: /for-parents/parent-noti/
-      - title: Parent Links
-        url: /for-parents/parent-links/
       - title: Home Based Learning
         url: /for-parents/hbl/
       - title: Parents Gateway
