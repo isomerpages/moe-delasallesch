@@ -2,4 +2,4 @@ collections:
   calendar:
     output: true
     order:
-      - News & Updates.md
+      - Calendar.md
