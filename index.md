@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home banner - v3-min.png
       key_highlights:
         - title: Announcements
           description: Click here to view all
