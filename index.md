@@ -11,7 +11,7 @@ sections:
         - title: Announcements
           description: Click here to view all
           url: /announcements/announcements/
-        - title: News & Updates
+        - title: Calendar
           description: Click here to view All
           url: /calendar/news-updates/
         - title: 70th Anniversary
@@ -19,4 +19,3 @@ sections:
           url: /anniversary/principals-foreword/
       background: /images/banner.jpg
 ---
-
