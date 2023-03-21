@@ -11,7 +11,7 @@ third_nav_title: 70th Anniversary Tributes
 
 Welcome to De La Salle virtual gallery! Let’s take a virtual walk tour around De La Salle, where you will stumble upon wonderful artworks heartfully created by our very own Lasallians. Here you can easily access videos, additional information, links and even activities.
 
-Click **[here]**(https://www.thinglink.com/mediacard/1646840599577362433) to view the Virtual Gallery
+Click  [**here**](https://www.thinglink.com/mediacard/1646840599577362433) to view the Virtual Gallery
 
 #### Navigational Instructions
 
