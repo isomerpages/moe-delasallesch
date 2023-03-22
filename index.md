@@ -13,7 +13,7 @@ sections:
           url: /announcements/announcements/
         - title: Calendar
           description: Click here to view All
-          url: /calendar/news-updates/
+          url: /calendar
       background: /images/bannerGif.gif
   - infopic:
       title: 70th Anniversary
