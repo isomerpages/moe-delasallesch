@@ -38,13 +38,12 @@ third_nav_title: Our Staff
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
-| **ST.ANTHONY 3** |Ms Tay Li Wen<br>Mrs Amy Liew | [tay_li_wen@moe.edu.sg](mailto:[tay_li_wen@moe.edu.sg)<br>[amy_lee_may_chyou@moe.edu.sg](mailto:amy_lee_may_chyou@moe.edu.sg)|
-| **ST.BERNADETTE 3** |Mrs Agnes Yu<br>Ms Low Siok Hua | [agnes_lee_ming_chyi@moe.edu.sg](mailto:agnes_lee_ming_chyi@moe.edu.sg)<br>[low_siok_hua@moe.edu.sg](mailto:low_siok_hua@moe.edu.sg)|
-|**ST.CHRISTOPHER 3**|Mrs Grace Looi Xinyue<br>Mdm Yang Xiao Ting|[looi_xinye_grace@moe.edu.sg](mailto:looi_xinye_grace@moe.edu.sg)<br>[yang_xiao_ting@moe.edu.sg](mailto:yang_xiao_ting@moe.edu.sg)|
-|**ST.DOMINIC 3**|Ms Nor Hashanah B M R<br>Ms Mou Xingchi<br>Mrs Sally Yeo|[nor_hashanah_mohammad_razif@moe.edu.sg](mailto:nor_hashanah_mohammad_razif@moe.edu.sg)<br>[mou_xingchi@moe.edu.sg](mailto:mou_xingchi@moe.edu.sg)<br>[tan_chui_lew@moe.edu.sg](mailto:tan_chui_lew@moe.edu.sg)
-|**ST. ELIZABETH 3**|Ms Hui Wing Yan<br>Ms Woon Shio Ching<br>Ms Prema<br>| [hui_wing_yan@moe.edu.sg](mailto:hui_wing_yan@moe.edu.sg)<br>[woon_shio_ching@moe.edu.sg](mailto:woon_shio_ching@moe.edu.sg)<br>[prema_a@moe.edu.sg](mailto:prema_a@moe.edu.sg)|
-|**ST. FRANCIS 3**|Ms Wong Nicole Miin Yi<br>Ms Eu Hui Jun|[wong_nicole_miin_yi@moe.edu.sg](mailto:wong_nicole_miin_yi@moe.edu.sg)<br>[eu_hui_jun@moe.edu.sg](mailto:eu_hui_jun@moe.edu.sg)|
-|**ST. GABRIEL 3**|Miss Thiviya Thulasidharan<br>Mr Fairuzaman Haidzir| [thiviya_thulasidharan@moe.edu.sg](mailto:thiviya_thulasidharan@moe.edu.sg)<br>[fairuzaman_haidzir@moe.edu.sg](mailto:fairuzaman_haidzir@moe.edu.sg)
+| **ST.ANTHONY 3** | Mdm Siti Aisah Mohamed Jasmin<br>Ms Mangala Dharshini D/O Harikrishnan | siti_aisah_mohamed_jasmin@moe.edu.sg<br>mangala_dharshini_harikrishan@moe.edu.sg |
+| **ST.BERNADETTE 3** | Mr Abdul Gaffar Shaik Yusof<br>Ms Cai Jueying | abdul_gaffar_shaik_yusof@moe.edu.sg<br>cai_jueying@moe.edu.sg |
+|**ST.CHRISTOPHER 3**| Mdm Yusnizar<br>Ms Tay Ai Suan| yusnizar_yusman@moe.edu.sg<br>tay_ai_suan@moe.edu.sg |
+|**ST.DOMINIC 3**| Mrs Judy Yip<br>Ms Nurul Fathihah Mohd Jamil | ong_judy@moe.edu.sg<br>nurul_fathihah_mohd_jamil@moe.edu.sg
+|**ST. ELIZABETH 3**| Ms Thong Hui Min<br>Mdm Lai Chiat Pheng<br>Mr Jeffrey Lee Tze Wei | thong_hui_min@moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg<br>lee_tze_wei_jeffrey@moe.edu.sg |
+|**ST. FRANCIS 3**|Mrs Michelle Chian<br>Mdm Chen Weihua | michelle_chian@moe.edu.sg<br>chen_weihua@moe.edu.sg |
 
 #### Primary 4 (2023)
 
