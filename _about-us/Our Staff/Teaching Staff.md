@@ -12,7 +12,7 @@ third_nav_title: Our Staff
 
 | **Class** | **Form Teachers** | **Email** |
 |:---:|:---:|---|
-| **ST.ANTHONY 1** | Mdm Siti Fadliah Saidi<br>Mdm Wang Xiaoxia<br>Ms Tricia Amanda Phua | [siti_fadliah_saidi@moe.edu.sg](mailto:siti_fadliah_saidi@moe.edu.sg)<br>[wang_xiao_xia@moe.edu.sg](mailto:wang_xiao_xia@moe.edu.sg)<br>[tricia_amanda_phua@moe.edu.sg](mailto:tricia_amanda_phua@moe.edu.sg) |
+| **ST.ANTHONY 1** | Mrs Tracie Goh<br>Ms Goh Huiqi| huang_qianyi_tracie@moe.edu.sg<br>goh_huiqi@moe.edu.sg
 | **ST.BERNADETTE 1** | Mrs Sheena Ang<br>Ms Tan Xiao Wei | [poh_shao_qin_sheena@moe.edu.sg](mailto:poh_shao_qin_sheena@moe.edu.sg)<br>[tan_xiao_wei@moe.edu.sg](mailto:tan_xiao_wei@moe.edu.sg) |
 |**ST.CHRISTOPHER 1** | Mrs Lim- Ng Xiang Ling<br>Mdm Du Ping Ping | [ng_xiang_ling@moe.edu.sg](mailto:ng_xiang_ling@moe.edu.sg)<br>[du_pingping@moe.edu.sg](mailto:du_pingping@moe.edu.sg) |
 |**ST.DOMINIC 1**| Ms Ch'ng Ying Hui<br>Mdm Noor Syakirah Jamal | [chng_ying_hui@moe.edu.sg](mailto:chng_ying_hui@moe.edu.sg)<br>[noor_syakirah_jamal@moe.edu.sg](mailto:noor_syakirah_jamal@moe.edu.sg) |
