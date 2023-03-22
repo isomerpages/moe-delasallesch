@@ -10,7 +10,7 @@ third_nav_title: Our Staff
 
 | **Designation** | **Name** | **E-mail** |
 |:---:|:---:|---|
-|Allied Educator (Counsellor)| Miss Felicia Siew| [siew_wee_leng@moe.edu.sg](mailto:siew_wee_leng@moe.edu.sg)|
-|Allied Educator (LBS)|Mdm Sreerenjini Sreekumaran Nair| [sreerenjini_sreekumaran_nair@moe.edu.sg](mailto:sreerenjini_sreekumaran_nair@moe.edu.sg)|
-|Allied Educator (LBS)| Ms Choy Haohua| [choy_haohua@moe.edu.sg](mailto:choy_haohua@moe.edu.sg)|
-| Allied Educator (T & L)| Mdm Nur Hafizah Samsudin| [nur_hafizah_samsudin@moe.edu.sg](mailto:nur_hafizah_samsudin@moe.edu.sg)
+|Allied Educator (Counsellor)| Miss Felicia Siew| siew_wee_leng@moe.edu.sg|
+| Allied Educator (LBS)| Mdm Sreerenjini Sreekumaran Nair | sreerenjini_sreekumaran_nair@moe.edu.sg |
+| Allied Educator (LBS) | Ms Choy Haohua | choy_haohua@moe.edu.sg |
+| Allied Educator (T & L) | Mdm Nur Hafizah Samsudin | nur_hafizah_samsudin@moe.edu.sg |
