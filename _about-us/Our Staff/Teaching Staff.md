@@ -73,10 +73,10 @@ third_nav_title: Our Staff
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
-| **ST.ANTHONY 6** | Ms Thong Hui Min<br>Mdm Choo Lu Min| [thong_hui_min@moe.edu.sg](mailto:thong_hui_min@moe.edu.sg)<br>[choo_lu_min@moe.edu.sg](mailto:choo_lu_min@moe.edu.sg)|
-|**ST. BERNADETTE 6**| Mrs Michelle Chian<br>Mr Alex Yao ZhongDe<br>Ms Lim Hwee Hong| [michelle_chian@moe.edu.sg](mailto:michelle_chian@moe.edu.sg)<br>[yao_zhongde@moe.edu.sg](mailto:yao_zhongde@moe.edu.sg)<br>[lim_hwee_hong@moe.edu.sg](mailto:lim_hwee_hong@moe.edu.sg)|
-|**ST. CHRISTOPHER 6**| Ms Nur Azlina Ngadi<br>Mdm Rajeswari Pannirselvam| [nur_azlina_ngadi@moe.edu.sg](mailto:nur_azlina_ngadi@moe.edu.sg)<br>[rajeswari_pannirselvam@moe.edu.sg](mailto:rajeswari_pannirselvam@moe.edu.sg)|
-|**ST. DOMINIC 6**| Mr Wee Qi-Rong Ronald<br>Mr Chew Chee Wai| [wee_qi_rong_ronald](mailto:wee_qi_rong_ronald@moe.edu.sg)<br>[chew_chee_wai@moe.edu.sg](mailto:chew_chee_wai@moe.edu.sg)|
-|**ST. ELIZABETH 6**| Mdm Irene Leong<br>Mr Patrick Low Kim Hong| [leong_foong_yee_irene@moe.edu.sg](mailto:leong_foong_yee_irene@moe.edu.sg)<br>[low_kim_hong@moe.edu.sg](mailto:low_kim_hong@moe.edu.sg)|
-|**ST. FRANCIS 6**| Mrs Chia-Yeo Shin Hua<br>Mdm Siti Munira Batra| [yeo_shin_hua@moe.edu.sg](mailto:yeo_shin_hua@moe.edu.sg)<br>[siti_munira_batra@moe.edu.sg](mailto:siti_munira_batra@moe.edu.sg)|
-|**ST. GABRIEL 6**| Mr Goh Xuan Long, Daryl<br>Mdm Ng Peiling| [goh_xuan_long@moe.edu.sg](mailto:goh_xuan_long@moe.edu.sg)<br>[ng_peiling@moe.edu.sg](mailto:ng_peiling@moe.edu.sg)|
+| **ST.ANTHONY 6** | Mrs Julia Boh<br>Ms Nurul I'zzah Basiron | julia_zheng_xiu_fen@moe.edu.sg<br>nurul_izzah_basiron@moe.edu.sg |
+|**ST. BERNADETTE 6**| Miss Laavanyah Alagasamy<br>Mdm Siti Munira Batra| laavanyah_alagasamy@moe.edu.sg  <br>siti_munira_batra@moe.edu.sg |
+|**ST. CHRISTOPHER 6**| Mdm Muneera Begum<br>Mr Ng Jun Qi | muneera_begum_mohamed_iqbal@moe.edu.sg<br>ng_jun_qi@moe.edu.sg |
+|**ST. DOMINIC 6**| Mrs Jasmine Chen<br>Mr Haikal Eiman Supa'at | tan_cai_yun_jasmine@moe.edu.sg <br>haikal_eiman@moe.edu.sg |
+|**ST. ELIZABETH 6**| Mrs Luanna Goh<br>Ms Jasmin Mohd Hannifa | miller_goh_luanna_judith@moe.edu.sg<br>jasmin_mohamed_hannifa@moe.edu.sg |
+|**ST. FRANCIS 6**| Mr Vikneswaran<br>Mdm Wang Yun | vikneswaran_narayanan@moe.edu.sg<br>wang_yun@moe.edu.sg |
+|**ST. GABRIEL 6**| Mr Pwee Kiat Kah<br>Mdm Goh Sock Hong | pwee_kiat_kah@moe.edu.sg<br>goh_sock_hong@moe.edu.sg |
