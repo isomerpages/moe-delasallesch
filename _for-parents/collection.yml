@@ -1,0 +1,11 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Parent Support Group.md
+      - Parent Notifications.md
+      - Home Based Learning.md
+      - Parents Gateway.md
+      - Booklist & Uniform.md
+      - Admin Forms.md
+      - Group Personal Accident Insurance.md

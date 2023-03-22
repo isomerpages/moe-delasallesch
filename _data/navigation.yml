@@ -1,15 +1,98 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/dlslogonew.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/our-founder/
+    sublinks:
+      - title: Our Founder
+        url: /about-us/our-founder/
+      - title: The Christian Brothers
+        url: /about-us/the-christian-brothers/
+      - title: Our History
+        url: /about-us/our-history/
+      - title: Our Crest & Our Motto
+        url: /about-us/crest-motto
+      - title: Our Mission & Vision & Values
+        url: /about-us/mission-vision-values
+      - title: Our School Rally & Songs
+        url: /about-us/rally-songs/
+      - title: Our Staff
+        url: /about-us/staff/
+      - title: School Council
+        url: /about-us/sch-council/
+      - title: Our Former School Principals
+        url: /about-us/former-sch-principals/
+      - title: Alumni
+        url: /about-us/alumni/
+      - title: Our School Rules
+        url: /about-us/sch-rules/
+      - title: School Information
+        url: /about-us/sch-info/
+      - title: School NON-Financial Info
+        url: https://delasalle-moe-edu-sg-admin.cwp.sg/qql/slot/u749/2021/Non%20Financial%20Info%20-%202021.pdf
+  - title: Our Programmes
+    url: /our-programmes/llp/
+    sublinks:
+      - title: Learning for Life Prog (LLP)
+        url: /our-programmes/llp/
+      - title: Applied Learning Prog (ALP)
+        url: /our-programmes/alp/
+  - title: Curriculum
+    url: /curriculum/english-lan/
+    sublinks:
+      - title: English Language
+        url: /curriculum/english-lan/
+      - title: Mathematics
+        url: /curriculum/math/
+      - title: Science
+        url: /curriculum/science/
+      - title: Mother Tongue Language
+        url: /curriculum/mt-lan/
+      - title: Physical and Health Education
+        url: /curriculum/pe/
+      - title: Aesthetics
+        url: /curriculum/aesthetics/
+      - title: Character Education
+        url: /curriculum/cceducation/
+      - title: Social Studies
+        url: /curriculum/ss/
+      - title: Sexuality Education
+        url: /curriculum/sex-ed/
+  - title: Co-Curricular Activities (CCA)
+    url: /cca/sport-games/hockey/
+    sublinks:
+      - title: Sports & Games
+        url: /cca/sport-games/hockey/
+      - title: Performing Arts
+        url: /cca/Performing-Arts/cul-dance/
+      - title: Clubs
+        url: /cca/Clubs/talking-titans/
+      - title: Uniformed Groups
+        url: /cca/Uniformed-Groups/brownies/
+      - title: CCA Teachers-In-Charge
+        url: /cca/cca-tic/
+      - title: CCA Schedule for 2023
+        url: /cca/cca-schedule-for-2023/
+  - title: For Parents
+    url: /for-parents/parent-support-group/
+    sublinks:
+      - title: Parent Support Group
+        url: /for-parents/parent-support-group/
+      - title: Parent Notifications
+        url: /for-parents/parent-noti/
+      - title: Home Based Learning
+        url: /for-parents/hbl/
+      - title: Parents Gateway
+        url: /for-parents/parent-gateway/
+      - title: Google Classroom
+        url: https://sites.google.com/moe.edu.sg/dlssgc/home
+      - title: Booklist & Uniform
+        url: /for-parents/booklistnuniform
+      - title: Admin Forms
+        url: /for-parents/admin-form/
+      - title: Personal Accident Insurance
+        url: /for-parents/grp-personal-accident-insur/
+  - title: For Lasallians
+    url: /for-lasallians/student-links/
+    sublinks:
+      - title: Student Links
+        url: /for-lasallians/student-links/

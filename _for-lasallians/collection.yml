@@ -1,0 +1,5 @@
+collections:
+  for-lasallians:
+    output: true
+    order:
+      - Student Links.md

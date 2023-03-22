@@ -1,0 +1,5 @@
+collections:
+  calendar:
+    output: true
+    order:
+      - Calendar.md
