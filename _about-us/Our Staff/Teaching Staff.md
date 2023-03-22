@@ -49,13 +49,13 @@ third_nav_title: Our Staff
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
-| **ST.ANTHONY 4** |Mrs Tracie Goh<br>Mr Lukman Umar Zainal | [huang_qianyi_tracie@moe.edu.sgg](mailto:[huang_qianyi_tracie@moe.edu.sg)<br>[lukman_umar_umar@moe.edu.sg](mailto:lukman_umar_umar@moe.edu.sg)|
-|**ST.BERNADETTE 4**|Mr Mohamed Sadiqin Subhan<br>Miss Nurulain Rashid<br>Mr Jeffrey Lee Tze We| [mohamed_sadiqin_subhan@moe.edu.sg](mailto:mohamed_sadiqin_subhan@moe.edu.sg)<br>[nurulain_rashid@moe.edu.sg](mailto:nurulain_rashid@moe.edu.sg)<br>[lee_tze_wei_jeffrey@moe.edu.sg](mailto:lee_tze_wei_jeffrey@moe.edu.sg)|
-|**ST. CHRISTOPHER 4**| Mr Abdul Gaffar Shaik Yusof<br>Ms Teo Su Zhen Porcia<br>Ms Goh Huiqi| [abdul_gaffar_shaik_yusof@moe.edu.sg](mailto:abdul_gaffar_shaik_yusof@moe.edu.sg)<br>[teo_su_zhen_porcia@moe.edu.sg](mailto:teo_su_zhen_porcia@moe.edu.sg)<br>[goh_huiqi@moe.edu.sg](mailto:goh_huiqi@moe.edu.sg)
-|**ST. DOMINIC 4**| Mdm Yusnizar<br>Ms Fithriyani Roslan<br>Mr Vikneswaran| [yusnizar_yusman@moe.edu.sg](mailto:yusnizar_yusman@moe.edu.sg)<br>[fithriyani_roslan@moe.edu.sg](mailto:fithriyani_roslan@moe.edu.sg)<br>[vikneswaran_narayanan@moe.edu.sg](mailto:vikneswaran_narayanan@moe.edu.sg)|
-|**ST. ELIZABETH 4**| Mdm Low Ren Fong<br>Ms Mangala Dharshini D/O Harikrishnan| [low_ren_fong@moe.edu.sg](mailto:low_ren_fong@moe.edu.sg)<br>[mangala_dharshini_harikrishan@moe.edu.sg](mailto:mangala_dharshini_harikrishan@moe.edu.sg)|
-|**ST. FRANCIS 4**| Ms Rajeswari Muntramoorthy<br>Ms Nurul Fathihah Mohd Jamil<br>Mdm Bharathi Jaganthan| [rajeswari_muntramoorthy@moe.edu.sg](mailto:rajeswari_muntramoorthy@moe.edu.sg)<br>[nurul_fathihah_mohd_jamil@moe.edu.sg](mailto:nurul_fathihah_mohd_jamil@moe.edu.sg)<br>[bharathi_jaganathan@moe.edu.sg](mailto:bharathi_jaganathan@moe.edu.sg)|
-|**ST. GABRIEL 4**|Mdm Siti Aisah Mohamed Jasmin<br>Mdm Chen Weihua| [siti_aisah_mohamed_jasmin@moe.edu.sg](mailto:siti_aisah_mohamed_jasmin@moe.edu.sg)<br>[chen_weihua@moe.edu.sg](mailto:chen_weihua@moe.edu.sg)
+| **ST.ANTHONY 4** | Ms Tay Li Wen<br>Ms Teo Su Zhen Porcia | tay_li_wen@moe.edu.sg<br>teo_su_zhen_porcia@moe.edu.sg) |
+|**ST.BERNADETTE 4**| Mrs Agnes Yu  <br>Mdm Yang Xiao Ting | agnes_lee_ming_chyi@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg |
+|**ST. CHRISTOPHER 4**| Mrs Grace Looi Xinyue <br>Ms Sally Koh Bee Shiow | looi_xinye_grace@moe.edu.sg <br>koh_bee_shiow@moe.edu.sg
+|**ST. DOMINIC 4**| Ms Nor Hashanah B M R<br>Mrs Sally Yeo | nor_hashanah_mohammad_razif@moe.edu.sg<br>tan_chui_lew@moe.edu.sg |
+|**ST. ELIZABETH 4**| Ms Hui Wing Yan<br>Mdm Bharathi Jaganthan | hui_wing_yan@moe.edu.sg<br>bharathi_jaganathan@moe.edu.sg |
+|**ST. FRANCIS 4**| Ms Wong Nicole Miin Yi<br>Ms Afzal-En-Nisa | wong_nicole_miin_yi@moe.edu.sg<br>afzal-en-nisa_mohamad_na@moe.edu.sg) |
+|**ST. GABRIEL 4**| Miss Thiviya Thulasidharan<br>Mr Fairuzaman Haidzir | thiviya_thulasidharan@moe.edu.sg<br>fairuzaman_haidzir@moe.edu.sg
 
 #### Primary 5 (2023)
 
