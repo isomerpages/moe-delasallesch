@@ -8,10 +8,10 @@ third_nav_title: Our Staff
 
 ### Teaching Staff
 
-#### Primary 1 2022
+#### Primary 1 (2023)
 
 | **Class** | **Form Teachers** | **Email** |
-|:---:|:---:|---|
+|---|---|---|
 | **ST.ANTHONY 1** | Mrs Tracie Goh<br>Ms Goh Huiqi | huang_qianyi_tracie@moe.edu.sg<br>goh_huiqi@moe.edu.sg
 | **ST.BERNADETTE 1** | Mdm Koh Ting Ting<br>Ms Mou Xingchi | koh_ting_ting@moe.edu.sg<br>mou_xingchi@moe.edu.sg  |
 |**ST.CHRISTOPHER 1** | Mdm Angie Tan<br>Miss Nurulain Binte Rashid | tan_mui_yen@moe.edu.sg<br>nurulain_rashid@moe.edu.sg |
@@ -21,10 +21,10 @@ third_nav_title: Our Staff
 |**ST.GABRIEL 1** | Ms Rajeswari Muntramoorthy<br>Ms Low Siok Hua | rajeswari_muntramoorthy@moe.edu.sg<br>low_siok_hua@moe.edu.sg |
 |**ST.HELEN 1** | Ms Florence Lim<br>Mdm Choo Lu Min | lim_seok_yuen_florence@moe.edu.sg<br>choo_lu_min@moe.edu.sg
 
-#### Primary 2 2022
+#### Primary 2 (2023)
 
 | **Class** | **Form Teachers** | **Email** |
-|:---:|:---:|---|
+|---|---|---|
 | **ST.ANTHONY 2** | Mdm Siti Fadilah Saidi<br>Mdm Wang Xiaoxia | siti_fadilah_saidi@moe.edu.sg<br>wang_xiao_xia@moe.edu.sg |
 | **ST.BERNADETTE 2** | Mrs Sheena Ang<br>Ms Tan Xiao Wei | poh_shao_qin_sheena@moe.edu.sg<br>tan_xiao_wei@moe.edu.sg |
 |**ST.CHRISTOPHER 2**| Mrs Lim-Ng Xiang Ling<br>Mdm Du Ping Ping | ng_xiang_ling@moe.edu.sg<br>du_pingping@moe.edu.sg |
@@ -34,10 +34,10 @@ third_nav_title: Our Staff
 |**ST. GABRIEL 2**| Miss Nur Arifah Adnan<br>Ms Joanne Li | nur_arifah_adnan@moe.edu.sg<br>li_wai_yee_joanne@moe.edu.sg |
 |**ST. HELEN 2**| Mrs Winnie Wong<br>Mrs Fam Seow Wee | ang_hwee_nee@moe.edu.sg<br>fam_seow_wee@moe.edu.sg
 
-#### Primary 3 2022
+#### Primary 3 (2023)
 
 | **Class** | **Form Teachers** | **Email** |
-|:---:|:---:|---|
+|---|---|---|
 | **ST.ANTHONY 3** |Ms Tay Li Wen<br>Mrs Amy Liew | [tay_li_wen@moe.edu.sg](mailto:[tay_li_wen@moe.edu.sg)<br>[amy_lee_may_chyou@moe.edu.sg](mailto:amy_lee_may_chyou@moe.edu.sg)|
 | **ST.BERNADETTE 3** |Mrs Agnes Yu<br>Ms Low Siok Hua | [agnes_lee_ming_chyi@moe.edu.sg](mailto:agnes_lee_ming_chyi@moe.edu.sg)<br>[low_siok_hua@moe.edu.sg](mailto:low_siok_hua@moe.edu.sg)|
 |**ST.CHRISTOPHER 3**|Mrs Grace Looi Xinyue<br>Mdm Yang Xiao Ting|[looi_xinye_grace@moe.edu.sg](mailto:looi_xinye_grace@moe.edu.sg)<br>[yang_xiao_ting@moe.edu.sg](mailto:yang_xiao_ting@moe.edu.sg)|
@@ -46,10 +46,10 @@ third_nav_title: Our Staff
 |**ST. FRANCIS 3**|Ms Wong Nicole Miin Yi<br>Ms Eu Hui Jun|[wong_nicole_miin_yi@moe.edu.sg](mailto:wong_nicole_miin_yi@moe.edu.sg)<br>[eu_hui_jun@moe.edu.sg](mailto:eu_hui_jun@moe.edu.sg)|
 |**ST. GABRIEL 3**|Miss Thiviya Thulasidharan<br>Mr Fairuzaman Haidzir| [thiviya_thulasidharan@moe.edu.sg](mailto:thiviya_thulasidharan@moe.edu.sg)<br>[fairuzaman_haidzir@moe.edu.sg](mailto:fairuzaman_haidzir@moe.edu.sg)
 
-#### Primary 4 2022
+#### Primary 4 (2023)
 
 | **Class** | **Form Teachers** | **Email** |
-|:---:|:---:|---|
+|---|---|---|
 | **ST.ANTHONY 4** |Mrs Tracie Goh<br>Mr Lukman Umar Zainal | [huang_qianyi_tracie@moe.edu.sgg](mailto:[huang_qianyi_tracie@moe.edu.sg)<br>[lukman_umar_umar@moe.edu.sg](mailto:lukman_umar_umar@moe.edu.sg)|
 |**ST.BERNADETTE 4**|Mr Mohamed Sadiqin Subhan<br>Miss Nurulain Rashid<br>Mr Jeffrey Lee Tze We| [mohamed_sadiqin_subhan@moe.edu.sg](mailto:mohamed_sadiqin_subhan@moe.edu.sg)<br>[nurulain_rashid@moe.edu.sg](mailto:nurulain_rashid@moe.edu.sg)<br>[lee_tze_wei_jeffrey@moe.edu.sg](mailto:lee_tze_wei_jeffrey@moe.edu.sg)|
 |**ST. CHRISTOPHER 4**| Mr Abdul Gaffar Shaik Yusof<br>Ms Teo Su Zhen Porcia<br>Ms Goh Huiqi| [abdul_gaffar_shaik_yusof@moe.edu.sg](mailto:abdul_gaffar_shaik_yusof@moe.edu.sg)<br>[teo_su_zhen_porcia@moe.edu.sg](mailto:teo_su_zhen_porcia@moe.edu.sg)<br>[goh_huiqi@moe.edu.sg](mailto:goh_huiqi@moe.edu.sg)
@@ -58,10 +58,10 @@ third_nav_title: Our Staff
 |**ST. FRANCIS 4**| Ms Rajeswari Muntramoorthy<br>Ms Nurul Fathihah Mohd Jamil<br>Mdm Bharathi Jaganthan| [rajeswari_muntramoorthy@moe.edu.sg](mailto:rajeswari_muntramoorthy@moe.edu.sg)<br>[nurul_fathihah_mohd_jamil@moe.edu.sg](mailto:nurul_fathihah_mohd_jamil@moe.edu.sg)<br>[bharathi_jaganathan@moe.edu.sg](mailto:bharathi_jaganathan@moe.edu.sg)|
 |**ST. GABRIEL 4**|Mdm Siti Aisah Mohamed Jasmin<br>Mdm Chen Weihua| [siti_aisah_mohamed_jasmin@moe.edu.sg](mailto:siti_aisah_mohamed_jasmin@moe.edu.sg)<br>[chen_weihua@moe.edu.sg](mailto:chen_weihua@moe.edu.sg)
 
-#### Primary 5 2022
+#### Primary 5 (2023)
 
 | **Class** | **Form Teachers** | **Email** |
-|:---:|:---:|---|
+|---|---|---|
 | **ST.ANTHONY 5** |Mrs Julia Boh<br>Ms Nurul I'zzah Basiron| [julia\_zheng_xiu_fen@moe.edu.sg](mailto:julia_zheng_xiu_fen@moe.edu.sg)<br>[nurul_izzah_basiron@moe.edu.sg](mailto:nurul_izzah_basiron@moe.edu.sg)|
 |**ST. BERNADETTE 5**| Miss Laavanyah Alagasamy<br>Ms Nurhani Idris| [laavanyah_alagasamy@moe.edu.sg](mailto:laavanyah_alagasamy@moe.edu.sg)<br>[nurhani_idris@moe.edu.sg](mailto:nurhani_idris@moe.edu.sg)|
 |**ST. CHRISTOPHER 5**| Mdm Muneera Begum<br>Mr Ng Jun Qi| [muneera_begum_mohamed_iqbal@moe.edu.sg](mailto:muneera_begum_mohamed_iqbal@moe.edu.sg)<br>[ng_jun_qi@moe.edu.sg](mailto:ng_jun_qi@moe.edu.sg)|
@@ -70,10 +70,10 @@ third_nav_title: Our Staff
 |**ST. FRANCIS 5**| Ms Siti Raihana Suleiman<br>Ms Chua Siok Leng Cassandra| [siti_raihana_suleiman@moe.edu.sg](mailto:siti_raihana_suleiman@moe.edu.sg)<br>[cassandra_chua@moe.edu.sg](mailto:cassandra_chua@moe.edu.sg)
 |**ST. GABRIEL 5**| Mr Pwee Kiat Kah<br>Mdm Goh Sock Hong| [pwee_kiat_kah@moe.edu.sg](mailto:pwee_kiat_kah@moe.edu.sg)<br>[goh_sock_hong@moe.edu.sg](mailto:goh_sock_hong@moe.edu.sg)|
 
-#### Primary 6 2022
+#### Primary 6 (2023)
 
 | **Class** | **Form Teachers** | **Email** |
-|:---:|:---:|---|
+|---|---|---|
 | **ST.ANTHONY 6** | Ms Thong Hui Min<br>Mdm Choo Lu Min| [thong_hui_min@moe.edu.sg](mailto:thong_hui_min@moe.edu.sg)<br>[choo_lu_min@moe.edu.sg](mailto:choo_lu_min@moe.edu.sg)|
 |**ST. BERNADETTE 6**| Mrs Michelle Chian<br>Mr Alex Yao ZhongDe<br>Ms Lim Hwee Hong| [michelle_chian@moe.edu.sg](mailto:michelle_chian@moe.edu.sg)<br>[yao_zhongde@moe.edu.sg](mailto:yao_zhongde@moe.edu.sg)<br>[lim_hwee_hong@moe.edu.sg](mailto:lim_hwee_hong@moe.edu.sg)|
 |**ST. CHRISTOPHER 6**| Ms Nur Azlina Ngadi<br>Mdm Rajeswari Pannirselvam| [nur_azlina_ngadi@moe.edu.sg](mailto:nur_azlina_ngadi@moe.edu.sg)<br>[rajeswari_pannirselvam@moe.edu.sg](mailto:rajeswari_pannirselvam@moe.edu.sg)|
