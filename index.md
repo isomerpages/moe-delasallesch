@@ -20,7 +20,7 @@ sections:
       subtitle: DE LA SALLE
       description: Microsite
       button: Click here to enter
-      alt: Image alt text
+      alt: 70th Logo
       url: /anniversary/principals-foreword/
       image: /images/70th Logo cropped.png
 ---
