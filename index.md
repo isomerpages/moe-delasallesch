@@ -10,10 +10,10 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here to view all
-          url: /announcements/announcements/
+          url: /announcements/
         - title: Calendar
           description: Click here to view All
-          url: /calendar/news-updates/
+          url: /calendar/
       background: /images/bannerGif.gif
   - infopic:
       title: 70th Anniversary

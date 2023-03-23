@@ -1,8 +1,10 @@
 ---
 title: Announcements
-permalink: /announcements/announcements/
+permalink: /announcements/
 description: ""
 ---
+
+
 ## Announcements
 
 ### 14 February - Travel Declaration for March School Holiday
