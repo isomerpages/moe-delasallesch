@@ -16,3 +16,7 @@ description: ""
 [Travel Declaration for March School Holiday .pdf](/files/14%20Feb%202023%20travel%20declaration%20hard%20copy.pdf)
 
 [March 2023 Parent Notification.pdf](/files/3%20Mar%202023%20PN.pdf)
+
+**Term 2 2023**
+
+[April 2023 Parent Notification.pdf](/files/6%20april%202023%20.pdf)
