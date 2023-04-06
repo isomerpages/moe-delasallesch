@@ -17,7 +17,7 @@ Greetings from De La Salle School.
 
   
 
-Please refer to the attached letter [**here**](/files/6%20April%202023.pdf) for important information from school. 
+Please refer to the attached letter [**here**](/files/6%20april%202023.pdf) for important information from school. 
 
   
 
