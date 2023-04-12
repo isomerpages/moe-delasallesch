@@ -4,7 +4,7 @@ permalink: /about-us/staff/
 description: ""
 third_nav_title: Our Staff
 ---
-## About Us
+## About&nbsp;Us
 
 ### School Executive Committee
 
@@ -66,7 +66,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td>School Staff Developer</td>
-    <td>Mdm Bharathi Jaganthan<br>bharathi_jaganthan@moe.edu.sg</td>
+    <td>Mdm Bharathi Jaganathan<br>bharathi_jaganathan@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Level Head English</td>
