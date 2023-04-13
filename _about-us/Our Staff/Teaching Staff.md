@@ -51,7 +51,7 @@ third_nav_title: Our Staff
 |---|---|---|
 | **ST.ANTHONY 4** | Ms Tay Li Wen<br>Ms Teo Su Zhen Porcia | tay_li_wen@moe.edu.sg<br>teo_su_zhen_porcia@moe.edu.sg) |
 |**ST.BERNADETTE 4**| Mrs Agnes Yu  <br>Mdm Yang Xiao Ting | agnes_lee_ming_chyi@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg |
-|**ST. CHRISTOPHER 4**| Mrs Grace Looi Xinyue <br>Ms Sally Koh Bee Shiow | looi_xinye_grace@moe.edu.sg <br>koh_bee_shiow@moe.edu.sg
+|**ST. CHRISTOPHER 4**| Ms Grace Looi Xinye <br>Ms Sally Koh Bee Shiow | looi_xinye_grace@moe.edu.sg <br>koh_bee_shiow@moe.edu.sg
 |**ST. DOMINIC 4**| Ms Nor Hashanah B M R<br>Mrs Sally Yeo | nor_hashanah_mohammad_razif@moe.edu.sg<br>tan_chui_lew@moe.edu.sg |
 |**ST. ELIZABETH 4**| Ms Hui Wing Yan<br>Mdm Bharathi Jaganathan | hui_wing_yan@moe.edu.sg<br>bharathi_jaganathan@moe.edu.sg |
 |**ST. FRANCIS 4**| Ms Wong Nicole Miin Yi<br>Ms Afzal-En-Nisa | wong_nicole_miin_yi@moe.edu.sg<br>afzal-en-nisa_mohamad_na@moe.edu.sg) |
