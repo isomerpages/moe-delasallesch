@@ -57,7 +57,7 @@ third_nav_title: Our Staff
     <td>Mdm Chen Weihua<br>chen_weihua@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>HOD Character &amp; Citizenship Educationv </td>
+    <td>HOD Character &amp; Citizenship Education </td>
     <td>Ms Goh Huiqi<br>goh_huiqi@moe.edu.sg</td>
   </tr>
   <tr>
