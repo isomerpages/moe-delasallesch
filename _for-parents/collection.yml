@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - WE STories.md
       - Parent Support Group.md
       - Parent Notifications.md
       - Home Based Learning.md
