@@ -1,6 +1,6 @@
 ---
 title: WE STories
-permalink: /for-parents/we-stories/
+permalink: /for-parents/westories/
 description: ""
 ---
 ## For Parents
