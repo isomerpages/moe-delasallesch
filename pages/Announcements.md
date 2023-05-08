@@ -6,7 +6,7 @@ description: ""
 ## Announcements
 
 
-### 6 April -April 2023 Parent Notification
+### 8 May -May 2023 Parent Notification
 
 
 Dear Parents/Guardians,
