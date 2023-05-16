@@ -27,8 +27,12 @@ links:
         url: /about-us/sch-rules/
       - title: School Information
         url: /about-us/sch-info/
+      - title: School Advertisements
+        url: /schAdvert
       - title: School NON-Financial Info
         url: /files/Non Financial Info 2021.pdf
+      - title: Submenu Title
+        url: /permalink
   - title: Our Programmes
     url: /our-programmes/llp/
     sublinks:
