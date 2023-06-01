@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| none     | none    | none     |
+| Western/Fusion/Japanese     | 16 June 2023    | Western or Fusion or Japanese is acceptable     |
 
 
 **Application Procedure**
