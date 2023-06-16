@@ -91,8 +91,9 @@ Operating Hours: Tuesdays – Sundays (10.00am to 7.00pm)
 
 **Richard Leong Transport Service**<br>
 Mr Richard Leong<br>
-Tel: 90395442
+Tel: 90395442<br>
 
+Bus Fares 
   
 
 #### Dental Services
