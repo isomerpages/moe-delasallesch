@@ -71,7 +71,12 @@ Operation Hours on School Days (for pupils only)<br>
 
 **KH Uniform**
 
-  
+KH Uniform Pte Ltd<br>
+Address: Blk 115A Commonwealth Drive #02-28 S(149596)<br>
+Telephone Number: 6479 6811<br>
+Online store :  www.khuniform.com <br>
+Email:  sales@khuniform.com
+ 
 
 Retail Outlet:&nbsp;<br>
 Chen Num Sing Department Store<br>
@@ -80,7 +85,6 @@ Singapore 650413<br>
 Tel: 6565 8961<br>
 Operating Hours: Tuesdays – Sundays (10.00am to 7.00pm) 
 
-  
 
 #### School Transport
 
