@@ -71,7 +71,7 @@ Operation Hours on School Days (for pupils only)<br>
 
 **KH Uniform**
 
-KH Uniform Pte Ltd<br>
+**KH Uniform Pte Ltd**<br>
 Address: Blk 115A Commonwealth Drive #02-28 S(149596)<br>
 Telephone Number: 6479 6811<br>
 Online store :  www.khuniform.com <br>
