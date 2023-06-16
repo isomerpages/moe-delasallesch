@@ -3,7 +3,7 @@ title: School Information
 permalink: /about-us/sch-info/
 description: ""
 ---
-## About Us
+## About&nbsp;Us
 
 ### School Information
 
@@ -71,26 +71,32 @@ Operation Hours on School Days (for pupils only)<br>
 
 **KH Uniform**
 
-  
+**KH Uniform Pte Ltd**<br>
+Address: Blk 115A Commonwealth Drive #02-28 S(149596)<br>
+Telephone Number: 6479 6811<br>
+Online store :  www.khuniform.com <br>
+Email:  sales@khuniform.com
+ 
 
-Retail Outlet: <br>
+Retail Outlet:&nbsp;<br>
 Chen Num Sing Department Store<br>
 413 Bukit Batok West Ave 4 #01-206<br>
 Singapore 650413<br>
-Tel: 6565 8961
+Tel: 6565 8961<br>
+Operating Hours: Tuesdays – Sundays (10.00am to 7.00pm) 
 
-  
 
 #### School Transport
 
 
 **Richard Leong Transport Service**<br>
 Mr Richard Leong<br>
-Tel: 90395442
+Tel: 90395442<br>
 
+Bus Fares** [Click Here]**(/files/school%20bus%20service%202023.pdf)
   
 
 #### Dental Services
 
 
-Please contact the dental clinic at 91145692 for the operating days & hours.
+Please contact the dental clinic at 91145692 for the operating days &amp; hours.
