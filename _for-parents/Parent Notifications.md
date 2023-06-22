@@ -22,3 +22,7 @@ description: ""
 [April 2023 Parent Notification.pdf](/files/6%20april%202023%20.pdf)
 
 [May 2023 Parent Notification.pdf](/files/8%20may%202023%20.pdf)
+
+**Term 3 2023**
+
+[June 2023 Parent Notification](/files/22%20jun%2023%20pn.pdf)
