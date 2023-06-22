@@ -12,7 +12,7 @@ third_nav_title: Our Staff
 |---|---|---|
 | Administration Manager | Ms Gwee Rong Rong | gwee_rong_rong@moe.edu.sg|
 |Administrative Executive | Ms Sharbjeet Kaur | sharbjeet_kaur@moe.edu.sg|
-|Adjunct Administrative Executive | Mr Tan Eng Hee | tan_eng_hee@moe.edu.sg|
+|Administrative Executive | Mr Tan Eng Hee | tan_eng_hee@moe.edu.sg|
 |Management Support Officer | Mrs Pamela Chua | li_lay_hoon@moe.edu.sg|
 |Management Support Officer | Mdm Nesren Binte Mohamad Rajab| nesren_mohamad_rajab@moe.edu.sg|
 |Corporate Support Officer| Ms Ong Pak Mui| ong_pak_mui@moe.edu.sg|
