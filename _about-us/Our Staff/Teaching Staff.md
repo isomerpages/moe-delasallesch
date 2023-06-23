@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 |**ST.ELIZABETH 1** | Ms Khoo Li Ying Lynn<br>Ms Low Si Wei Ivana | khoo_li_ying@moe.edu.sg<br>low_si_wei_ivana@moe.edu.sg |
 |**ST.FRANCIS 1** | Mrs Joanne Liou<br>Mdm Rajeswari Pannirselvam | lau_siew_yee@moe.edu.sg<br>rajeswari_pannirselvam@moe.edu.sg | 
 |**ST.GABRIEL 1** | Ms Rajeswari Muntramoorthy<br>Ms Low Siok Hua | rajeswari_muntramoorthy@moe.edu.sg<br>low_siok_hua@moe.edu.sg |
-|**ST.HELEN 1** | Ms Florence Lim<br>Mdm Choo Lu Min | lim_seok_yuen_florence@moe.edu.sg<br>choo_lu_min@moe.edu.sg
+|**ST.HELEN 1** | Ms Florence Lim<br>Mdm Choo Lu Min <br>Ms Joy Ng | Mslim_seok_yuen_florence@moe.edu.sg<br>choo_lu_min@moe.edu.sg <br>joy_ng@moe.edu.sg
 
 #### Primary 2 (2023)
 
@@ -41,7 +41,7 @@ third_nav_title: Our Staff
 | **ST.ANTHONY 3** | Mdm Siti Aisah Mohamed Jasmin<br>Ms Mangala Dharshini D/O Harikrishnan | siti_aisah_mohamed_jasmin@moe.edu.sg<br>mangala_dharshini_harikrishan@moe.edu.sg |
 | **ST.BERNADETTE 3** | Mr Abdul Gaffar Shaik Yusof<br>Ms Cai Jueying | abdul_gaffar_shaik_yusof@moe.edu.sg<br>cai_jueying@moe.edu.sg |
 |**ST.CHRISTOPHER 3**| Mdm Yusnizar<br>Ms Tay Ai Suan| yusnizar_yusman@moe.edu.sg<br>tay_ai_suan@moe.edu.sg |
-|**ST.DOMINIC 3**| Mrs Judy Yip<br>Ms Joy Ng| ong_judy@moe.edu.sg<br>joy_ng@moe.edu.sg
+|**ST.DOMINIC 3**| Mrs Judy Yip<br>Mr Muhammad Hafiz Azhari B Mohd Jamil| ong_judy@moe.edu.sg<br>muhammad_hafiz_azhari@moe.edu.sg
 |**ST. ELIZABETH 3**| Ms Thong Hui Min<br>Mdm Lai Chiat Pheng<br>Mr Jeffrey Lee Tze Wei | thong_hui_min@moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg<br>lee_tze_wei_jeffrey@moe.edu.sg |
 |**ST. FRANCIS 3**|Mrs Michelle Chian<br>Mdm Chen Weihua | michelle_chian@moe.edu.sg<br>chen_weihua@moe.edu.sg |
 
