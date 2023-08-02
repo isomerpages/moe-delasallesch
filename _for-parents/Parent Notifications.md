@@ -26,3 +26,5 @@ description: ""
 **Term 3 2023**
 
 [June 2023 Parent Notification](/files/22%20jun%2023%20pn.pdf)
+
+[August 2023 Parent Notification](/files/1%20august%2023%20pn.pdf)
