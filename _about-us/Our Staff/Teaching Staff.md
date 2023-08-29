@@ -49,7 +49,7 @@ third_nav_title: Our Staff
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
-| **ST.ANTHONY 4** | Ms Tay Li Wen<br>Ms Teo Su Zhen Porcia | tay_li_wen@moe.edu.sg<br>teo_su_zhen_porcia@moe.edu.sg) |
+| **ST.ANTHONY 4** | Ms Tay Li Wen<br>Ms Teo Su Zhen Porcia <br> Ms Eu Hui Jun | |tay_li_wen@moe.edu.sg<br>teo_su_zhen_porcia@moe.edu.sg <br>eu_hui_jun@moe.edu.sg  |
 |**ST.BERNADETTE 4**| Mrs Agnes Yu  <br>Ms Soo Ling Ling | agnes_lee_ming_chyi@moe.edu.sg<br>soo_ling_ling@moe.edu.sg |
 |**ST. CHRISTOPHER 4**| Ms Grace Looi Xinye <br>Ms Sally Koh Bee Shiow | looi_xinye_grace@moe.edu.sg <br>koh_bee_shiow@moe.edu.sg
 |**ST. DOMINIC 4**| Ms Nor Hashanah B M R<br>Mrs Sally Yeo | nor_hashanah_mohammad_razif@moe.edu.sg<br>tan_chui_lew@moe.edu.sg |
