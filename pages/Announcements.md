@@ -6,7 +6,7 @@ description: ""
 ## Announcements
 
 
-### 13 September -Term 4 2023 School Re-opening Matters
+### 12 September -Term 4 2023 School Re-opening Matters
 
 
 Dear Parents/Guardians,
