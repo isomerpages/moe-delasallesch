@@ -11,4 +11,4 @@ description: ""
 
 [Term 3 2023 (Updated 22 June 2023)](/files/term%203%202023%20calendar.pdf)
 
-[Term 4 2023 (Updated 2 August 2023)](/files/term%204%202023%20calendar.pdf)
+[Term 4 2023 (Updated 13 September 2023)](/files/term%204%202023%20calendar.pdf)
