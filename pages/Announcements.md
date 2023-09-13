@@ -5,19 +5,8 @@ description: ""
 ---
 ## Announcements
 
-### 18 August -Visiting the School on Eve of Teachers’ Day (2023)
 
-
-Dear Ex-Lasallians,
-  
-Greetings from De La Salle School. 
-
-Please refer to the attached letter [here](/files/teachers%20day%202023.pdf) for important information from school regarding visiting the school on Eve of Teachers' Day. 
-
-Thank you.
-  
-
-### 2 August -August 2023 Parent Notification
+### 13 September -Term 4 2023 School Re-opening Matters
 
 
 Dear Parents/Guardians,
