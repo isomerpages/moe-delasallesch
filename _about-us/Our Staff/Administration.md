@@ -18,7 +18,6 @@ third_nav_title: Our Staff
 |Corporate Support Officer| Ms Ong Pak Mui| ong_pak_mui@moe.edu.sg|
 |Operations Manager| Mr Edward Chan| chan_kwok_chuen_edward@moe.edu.sg|
 |Operations Manager| Mr Ravisanker| ravisanker_selvarajoo@moe.edu.sg|
-|Operations Support Officer| Mdm sasur Vally| - |
 |Operations Support Officer| Mdm Jayaletchmi| - |
 |Operations Support Officer| Mdm R Saroja Deve| - |
 |Operations Support Officer| Mr Koh Wing Yeap| - |
