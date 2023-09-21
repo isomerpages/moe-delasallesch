@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 |**ST.ELIZABETH 1** | Ms Khoo Li Ying Lynn<br>Ms Low Si Wei Ivana | khoo_li_ying@moe.edu.sg<br>low_si_wei_ivana@moe.edu.sg |
 |**ST.FRANCIS 1** | Mrs Joanne Liou<br>Mdm Rajeswari Pannirselvam | lau_siew_yee@moe.edu.sg<br>rajeswari_pannirselvam@moe.edu.sg | 
 |**ST.GABRIEL 1** | Ms Rajeswari Muntramoorthy<br>Ms Low Siok Hua | rajeswari_muntramoorthy@moe.edu.sg<br>low_siok_hua@moe.edu.sg |
-|**ST.HELEN 1** | Ms Florence Lim<br>Mdm Choo Lu Min <br>Ms Joy Ng | lim_seok_yuen_florence@moe.edu.sg<br>choo_lu_min@moe.edu.sg<br>joy_ng@moe.edu.sg
+|**ST.HELEN 1** | Ms Florence Lim<br>Mdm Choo Lu Min <br>Ms Joy Ng | lim_seok_yuen_florence@moe.edu.sg<br>choo_lu_min@moe.edu.sg<br>joy_ng_d@moe.edu.sg
 
 #### Primary 2 (2023)
 
