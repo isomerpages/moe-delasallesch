@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - P1 2024.md
       - Parent Support Group.md
       - Parent Notifications.md
       - Home Based Learning.md
@@ -11,3 +10,4 @@ collections:
       - Admin Forms.md
       - Group Personal Accident Insurance.md
       - WE STories.md
+      - P1 2024.md
