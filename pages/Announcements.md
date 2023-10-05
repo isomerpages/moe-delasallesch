@@ -6,14 +6,14 @@ description: ""
 ## Announcements
 
 
-### 12 September -Term 4 2023 School Re-opening Matters
+### 5 October -October 2023 Parent Notification
 
 
 Dear Parents/Guardians,
   
 Greetings from De La Salle School. 
 
-Please refer to the attached letter [here](/files/12%20sep%202023%20pn%20.pdf) for important information from school. 
+Please refer to the attached letter [**here**](/files/2%20oct%202023%20pn.pdf) for important information from school. 
 
 Thank you.
   
