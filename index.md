@@ -23,4 +23,12 @@ sections:
       alt: 70th Logo
       url: /anniversary/principals-foreword/
       image: /images/70th Logo cropped.png
+  - infopic:
+      title: Caring Teacher Awards 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: Nominate your favourite teacher for the Caring Teacher Award!
+      button: Website Link
+      url: https://www.cta.nie.edu.sg/nominate
+      alt: Image alt text
 ---
