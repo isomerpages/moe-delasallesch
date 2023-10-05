@@ -32,3 +32,5 @@ description: ""
 **Term 4 2023**
 
 [September 2023 Parent Notification ](/files/12%20sep%202023%20pn%20.pdf)
+
+[October 2023 Parent Notification](/files/2%20oct%202023%20pn.pdf)
