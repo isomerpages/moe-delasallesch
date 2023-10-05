@@ -29,6 +29,6 @@ sections:
       description: Nominate your favourite teacher for the Caring Teacher Award!
       button: Website Link
       url: https://www.cta.nie.edu.sg/nominate
-      alt: Image alt text
+      alt: Cta 2024
       image: /images/poster-cta-2024.jpg
 ---
