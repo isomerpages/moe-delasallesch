@@ -14,7 +14,7 @@ Dear Parents/Guardians,
   
 Greetings from De La Salle School. 
 
-Please refer to the attached letter  for important information from school. 
+Please refer to the attached letter [**here**](3 nov 2023 eoy pn) for important information from school. 
 
 Thank you.
   
