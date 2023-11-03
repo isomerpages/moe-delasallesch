@@ -2,18 +2,19 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
 ## Announcements
 
 
-### 5 October -October 2023 Parent Notification
+### 3 November -End of Year 2023
 
 
 Dear Parents/Guardians,
   
 Greetings from De La Salle School. 
 
-Please refer to the attached letter [**here**](/files/2%20oct%202023%20pn.pdf) for important information from school. 
+Please refer to the attached letter  for important information from school. 
 
 Thank you.
   
