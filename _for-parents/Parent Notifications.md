@@ -2,6 +2,7 @@
 title: Parent Notifications
 permalink: /for-parents/parent-noti/
 description: ""
+variant: markdown
 ---
 ## For Parents
 
@@ -34,3 +35,5 @@ description: ""
 [September 2023 Parent Notification ](/files/12%20sep%202023%20pn%20.pdf)
 
 [October 2023 Parent Notification](/files/2%20oct%202023%20pn.pdf)
+
+[End of Year 2023](/files/3%20nov%202023%20eoy%20pn.pdf)
