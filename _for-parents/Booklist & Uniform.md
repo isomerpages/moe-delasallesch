@@ -21,6 +21,7 @@ variant: markdown
 
 [DLS P5 2024](/files/DLS_P5_2024.pdf)
 
+[DLS P6 2024](/files/DLS_P6_2024.pdf)
 
 #### Uniform
 
