@@ -2,6 +2,7 @@
 title: Booklist & Uniform
 permalink: /for-parents/booklistnuniform/
 description: ""
+variant: markdown
 ---
 ## For Parents
 
@@ -9,21 +10,22 @@ description: ""
 
 #### Booklist
 
-[P1 Booklist 2023.pdf](/files/P1%20Booklist%202023.pdf)
-  
-[DLS P2 2023.pdf](/files/DLS%20P2.pdf)
-  
-[DLS P3 2023.pdf](/files/DLS%20P3.pdf)
-  
-[DLS P4 2023.pdf](/files/DLS%20P4.pdf)  
-  
-[DLS P5 FDN 2023.pdf](/files/DLS%20P5%20FDN.pdf)
-  
-[DLS P5 2023.pdf](/files/DLS%20P5.pdf)
-  
-[DLS P6 FDN 2023.pdf](/files/DLS%20P6%20FDN.pdf)
-  
-[DLS P6 2023.pdf](/files/DLS%20P6.pdf)
+
+[DLS P1 2024](/files/DLS_P1_2024.pdf) 
+
+[DLS P2 2024](/files/DLS_P2_2024.pdf)
+
+[DLS P3 2024](/files/DLS_P3_2024.pdf)
+
+[DLS P4 2024](/files/DLS_P4_2024.pdf)
+
+[DLS P5 2024](/files/DLS_P5_2024.pdf)
+
+[DLS P5 FDN 2024](/files/DLS_P5__FDN__2024.pdf)
+
+[DLS P6 2024](/files/DLS_P6_2024.pdf)
+
+[DLS P6 FDN 2024](/files/DLS_P6__FDN__2024.pdf)
 
 #### Uniform
 
