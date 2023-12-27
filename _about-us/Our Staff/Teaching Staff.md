@@ -33,7 +33,7 @@ variant: markdown
 |**ST. ELIZABETH 2**| Ms Khoo Li Ying Lynn<br>Ms Low Si Wei Ivana | khoo_li_ying@moe.edu.sg<br>low_si_wei_ivana@moe.edu.sg |
 |**ST. FRANCIS 2**|Mrs Joanne Liou <br>Ms Eu Hui Jun | lau_siew_yee@moe.edu.sg<br>eu_hui_jun@moe.edu.sg |
 |**ST. GABRIEL 2**|Ms Grace Looi Xinye <br>Ms Low Siok Hua | looi_xinye_grace@moe.edu.sg<br>low_siok_hua@moe.edu.sg |
-|**ST. HELEN 2**|  Ms Florence Lim<br>Mdm Yang Xiao Ting<br> Mdm Jayaraj Margrate Bali | lim_seok_yuen_florence@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg
+|**ST. HELEN 2**|  Ms Florence Lim<br>Mdm Yang Xiao Ting<br> Mdm Jayaraj Margrate Bali | lim_seok_yuen_florence@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg <br> jayaraj_margrate_bali@moe.edu.sg
 
 #### Primary 3 (2024)
 
