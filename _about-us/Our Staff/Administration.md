@@ -3,6 +3,7 @@ title: Administration
 permalink: /about-us/Our-Staff/administration/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ## About Us
 
@@ -16,6 +17,7 @@ third_nav_title: Our Staff
 |Management Support Officer | Mrs Pamela Chua | li_lay_hoon@moe.edu.sg|
 |Management Support Officer | Mdm Nesren Binte Mohamad Rajab| nesren_mohamad_rajab@moe.edu.sg|
 |Corporate Support Officer| Ms Ong Pak Mui| ong_pak_mui@moe.edu.sg|
+|Operations Manager| Mr Steven Ang| @moe.edu.sg|
 |Operations Manager| Mr Edward Chan| chan_kwok_chuen_edward@moe.edu.sg|
 |Operations Manager| Mr Ravisanker| ravisanker_selvarajoo@moe.edu.sg|
 |Operations Support Officer| Mdm Jayaletchmi| - |

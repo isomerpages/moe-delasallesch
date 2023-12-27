@@ -16,14 +16,6 @@ sections:
           url: /calendar/
       background: /images/bannerGif.gif
   - infopic:
-      title: 70th Anniversary
-      subtitle: DE LA SALLE
-      description: Microsite
-      button: Click here to enter
-      alt: 70th Logo
-      url: /anniversary/principals-foreword/
-      image: /images/70th Logo cropped.png
-  - infopic:
       title: Caring Teacher Awards 2024
       id: infopic
       description: Nominate your favourite teacher for the Caring Teacher Award!

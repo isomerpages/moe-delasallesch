@@ -2,6 +2,7 @@
 title: School Information
 permalink: /about-us/sch-info/
 description: ""
+variant: markdown
 ---
 ## About&nbsp;Us
 
@@ -56,7 +57,7 @@ description: ""
 
 
 **Pacific Bookstores Pte Ltd**<br>
-Tel: 62357217
+Tel: 94792494
 
   
 
