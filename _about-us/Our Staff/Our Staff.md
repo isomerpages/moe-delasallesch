@@ -113,5 +113,9 @@ variant: markdown
     <td>Subject Head CIT </td>
     <td>Mdm Low Ren Fong<br>low_ren_fong@moe.edu.sg </td>
   </tr>
+	<tr>
+    <td>Subject Head Character &amp; Citizenship Education </td>
+    <td>Ms Wong Nicole Miin Yi<br>wong_nicole_miin_yi@moe.edu.sg</td>
+  </tr>
 </tbody>
 </table>
