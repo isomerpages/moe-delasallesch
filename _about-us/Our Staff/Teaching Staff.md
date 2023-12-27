@@ -39,7 +39,7 @@ variant: markdown
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
-| **ST.ANTHONY 3** |Mr Mohamed Nadzri<br>Mdm Bharathi Jaganathan | @moe.edu.sg<br>bharathi_jaganathan@moe.edu.sg |
+| **ST.ANTHONY 3** |Mr Mohamed Nadzri<br>Mdm Bharathi Jaganathan | mohamed_nadzri_md_nasir@moe.edu.sg<br>bharathi_jaganathan@moe.edu.sg |
 | **ST.BERNADETTE 3** | Mr Phoon Yong Kang<br>Ms Tan Xiao We | phoon_yong_kang@moe.edu.sg<br>tan_xiao_wei@moe.edu.sg |
 |**ST.CHRISTOPHER 3**| Ms Sharon Ker Kai Ling<br>Mr Haikal Eiman Supa'at| sharon_ker_kai_ling@moe.edu.sg<br>haikal_eiman@moe.edu.sg |
 |**ST.DOMINIC 3**| Miss Laavanyah Alagasamy<br>Ms Tan Chiew Hoon| laavanyah_alagasamy@moe.edu.sg<br>tan_chiew_hoon_a@moe.edu.sg
