@@ -110,13 +110,5 @@ variant: markdown
     <td>Subject Head SML</td>
     <td>Mr Abdul Gaffar Shaik Yusof<br>abdul_gaffar_shaik_yusof@moe.edu.sg</td>
   </tr>
-		 <tr>
-    <td>Subject Head CIT </td>
-    <td>Mdm Low Ren Fong<br>low_ren_fong@moe.edu.sg </td>
-  </tr>
-	<tr>
-    <td>Subject Head Character &amp; Citizenship Education </td>
-    <td>Ms Wong Nicole Miin Yi<br>wong_nicole_miin_yi@moe.edu.sg</td>
-  </tr>
 </tbody>
 </table>
