@@ -25,13 +25,17 @@ variant: markdown
     <td>Vice Principal (Academic)</td>
     <td>Mr David Ching<br>dlss@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Vice Principal (Admin)</td>
-    <td>Ms Sharon Thien<br>dlss@moe.edu.sg</td>
-  </tr>
 	 <tr>
     <td>Vice Principal (Academic)</td>
     <td>Ms Cecilia Tan<br>dlss@moe.edu.sg</td>
+  </tr>
+	  <tr>
+    <td>School Staff Developer</td>
+    <td>Mdm Bharathi Jaganathan<br>bharathi_jaganathan@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td>Year Head Primary 1 &amp; 2 </td>
+    <td>Ms Florence Lim<br>lim_seok_yuen_florence@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Year Head Primary 3 &amp; 4</td>
@@ -41,11 +45,7 @@ variant: markdown
     <td>Year Head Primary 5 &amp; 6</td>
     <td>Ms Lim Hwee Hong<br>lim_hwee_hong@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>Year Head Primary 1 &amp; 2 </td>
-    <td>Ms Florence Lim<br>lim_seok_yuen_florence@moe.edu.sg</td>
-  </tr>
-  <tr>
+   <tr>
     <td>HOD English Language</td>
     <td>Mr Fairuzaman Bin Haidzir<br>fairuzaman_haidzir@moe.edu.sg</td>
   </tr>
@@ -69,29 +69,34 @@ variant: markdown
     <td>HOD Student Management &amp; Leadership (SML)</td>
     <td>Ms Tay Li Wen<br>tay_li_wen@moe.edu.sg </td>
   </tr>
-  <tr>
-    <td>School Staff Developer</td>
-    <td>Mdm Bharathi Jaganathan<br>bharathi_jaganathan@moe.edu.sg</td>
-  </tr>
+
 	 <tr>
     <td>HOD Character &amp; Citizenship Education </td>
-    <td>Ms Eu Hui Juni<br>eu_hui_jun@moe.edu.sg</td>
+    <td>Ms Eu Hui Jun<br>eu_hui_jun@moe.edu.sg</td>
   </tr>
 	  <tr>
-    <td>HOD CIT </td>
+    <td>HOD Curriculum Innovation &amp; Technology </td>
     <td>Mrs Jasmine Chen<br>tan_cai_yun_jasmine@moe.edu.sg </td>
   </tr>
   <tr>
-    <td>Level Head English</td>
+    <td>Level Head English Language</td>
     <td>Ms Prema<br>prema_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Level Head Mathematics</td>
     <td>Mr Vikneswaran<br>vikneswaran_narayanan@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td>Subject Head Science</td>
+    <td>Mr Phoon Yong Kang<br>phoon_yong_kang@moe.edu.sg</td>
+  </tr>
   <tr>
     <td>Subject Head Chinese Language</td>
     <td>Mdm Goh Lee Sim Eunice<br>goh_lee_sim_eunice@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Subject Head Mother Tongue Language</td>
+    <td>Ms Jasmin Mohd Hannifa <br>jasmin_mohamed_hannifa@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Subject Head Physical and Health Education </td>
@@ -105,11 +110,7 @@ variant: markdown
     <td>Subject Head SML</td>
     <td>Mr Abdul Gaffar Shaik Yusof<br>abdul_gaffar_shaik_yusof@moe.edu.sg</td>
   </tr>
-	<tr>
-    <td>Subject Head Mother Tongue Language</td>
-    <td>Ms Jasmin Mohd Hannifa <br>jasmin_mohamed_hannifa@moe.edu.sg</td>
-  </tr>
-	 <tr>
+		 <tr>
     <td>Subject Head CIT </td>
     <td>Mdm Low Ren Fong<br>low_ren_fong@moe.edu.sg </td>
   </tr>
