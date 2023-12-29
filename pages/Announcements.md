@@ -18,5 +18,4 @@ Please refer to the attached letter [**here**](/files/Start_of_School_Year_2024
 
 Thank you.
   
-
 De La Salle School
