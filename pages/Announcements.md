@@ -7,16 +7,15 @@ variant: markdown
 ## Announcements
 
 
-### 3 November -End of Year 2023 PN
+### 29 December -Start of School Year 2024
 
 
 Dear Parents/Guardians,
   
 Greetings from De La Salle School. 
 
-Please refer to the attached letter [**here**](/files/3%20nov%202023%20eoy%20pn.pdf) for important information from school. 
+Please refer to the attached letter [**here**](/files/Start_of_School_Year_2024.pdf) for important information from school. 
 
 Thank you.
   
-
 De La Salle School
