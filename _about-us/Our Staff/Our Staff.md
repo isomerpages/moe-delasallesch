@@ -9,4 +9,4 @@ variant: markdown
 
 ### School Executive Committee
 
-This page is coming soon 
+This page is coming soon
