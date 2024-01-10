@@ -9,11 +9,10 @@ variant: markdown
 ### CCA schedule for 2024
 
 **Please note:**&nbsp;<br>
-• CCA are scheduled on both Thursday and Friday for Sports CCA. For all other CCA, CCA sessions are scheduled on either Thursday or Friday.&nbsp;<br>
+• CCA are scheduled on both Thursday and Friday for Sports CCA. For all other CCA, CCA sessions are scheduled on either Thursday or Friday (refer to table below) &nbsp;<br>
+• CCA schedule will be sent out on termly basis via Parents Gateway.&nbsp;<br>
 • CCA for P6 Lasallians will cease at the end of Semester 1 to allow more time for PSLE preparation.&nbsp;<br>
 • CCA for P3 Lasallians will commence at the start of Semester 2.&nbsp;<br>
-• To cater to the specific training needs of some sports CCA, the levels indicated for some Sports CCA&nbsp;<br>
-( eg. Basketball &amp; Hockey) will differ slightly. Do take note of the schedule for these CCA.
 
 **Semester 1**
 
@@ -22,7 +21,7 @@ variant: markdown
   <tr>
     <th>Domains</th>
     <th>CCA</th>
-    <th>Level (2023)</th>
+    <th>Level (2024)</th>
     <th>Days</th>
     <th>CCA Teacher-in-charge</th>
   </tr>
@@ -30,20 +29,20 @@ variant: markdown
 <tbody>
   <tr>
     <td rowspan="5"><b>Sports</b></td>
-    <td><b>Basketball</b></td>
+    <td><b>Basketball<br>(Boys Only)</b></td>
     <td>P6<br>P4 &amp; P5</td>
     <td>Thursday<br>Friday</td>
     <td>Ms Vikneshwari<br>Vikneshwari_vijayakumar@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Netball<br>(Girls Only)</b></td>
-    <td>P6<br>P4 &amp; P5<br></td>
+    <td>P5 &amp; P6<br>P4<br></td>
     <td>Thursday<br>Friday</td>
-    <td>Mdm Sally Koh<br>koh_bee_shiow@moe.edu.sg</td>
+    <td>Ms Sally Koh<br>koh_bee_shiow@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Hockey</b></td>
-    <td>P5 &amp; P6<br>P4</td>
+    <td>P6<br>P4 &amp; P5</td>
     <td>Thursday<br>Friday</td>
     <td>Mr Haikal Eiman<br>haikal_eiman@moe.edu.sg</td>
   </tr>
@@ -70,7 +69,7 @@ variant: markdown
     <td><b>McNally Club</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
-    <td>Ms Nurul Izzah<br>nurul_izzah_basiron@moe.edu.sg</td>
+    <td>Ms Tan Xiao Wei<br>tan_xiao_wei@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Choir</b></td>
@@ -95,7 +94,7 @@ variant: markdown
     <td><b>Brownies<br>(Girls Only)</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
-    <td>Ms Cai Jue Ying<br>cai_jue_ying@moe.edu.sg</td>
+    <td>Mdm Koh Ting Ting<br>koh_ting_ting@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Scouts<br>(Boys Only)</b></td>
@@ -108,13 +107,13 @@ variant: markdown
     <td><b>Talking Titans</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Thursday</td>
-    <td>Mrs Luanna Goh<br>miller_goh_luanna_judith@moe.edu.sg</td>
+    <td>Mdm Muneera Begum<br>muneera_begum_mohaned_iqba@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Robotics</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Thursday</td>
-    <td>Mdm Wang Xiao Xia<br>wang_xiao_xia@moe.edu.sg</td>
+    <td>Mr Mohamed Nadzri<br>mohamed_nadzri_md_nasir@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Media Club</b></td>
@@ -126,13 +125,13 @@ variant: markdown
     <td><b>Chess Club</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
-    <td>Mr Pwee Kiat Kah<br>pwee_kiat_kah@moe.edu.sg</td>
+    <td>Ms Low Siok Hua<br>low_siok_hua@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Discovery Club</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
-    <td>Ms Hui Wing Yan<br>hui_wing_yan@moe.edu.sg</td>
+    <td>Mrs Julia Boh<br>julia_zheng_xiu_fen@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -145,7 +144,7 @@ variant: markdown
   <tr>
     <th>Domains</th>
     <th>CCA</th>
-    <th>Level (2023)<br></th>
+    <th>Level (2024)<br></th>
     <th>Days<br></th>
     <th>CCA Teacher-in-charge</th>
   </tr>
@@ -153,20 +152,20 @@ variant: markdown
 <tbody>
   <tr>
     <td rowspan="5"><b>Sports</b></td>
-    <td><b>Basketball</b></td>
+    <td><b>Basketball<br>(Boys Only)</b></td>
     <td>P3<br>P4 &amp; P5</td>
     <td>Thursday<br>Friday</td>
     <td>Ms Vikneshwari<br>Vikneshwari_vijayakumar@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Netball<br>(Girls Only)</b></td>
-    <td>P3<br>P4 &amp; P5<br></td>
+    <td>P3 &amp; P5<br>P4<br></td>
     <td>Thursday<br>Friday</td>
-    <td>Mdm Sally Koh<br>koh_bee_shiow@moe.edu.sg</td>
+    <td>Ms Sally Koh<br>koh_bee_shiow@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Hockey</b></td>
-    <td>P5<br>P3 &amp; P4</td>
+    <td>P3 &amp; P5<br>P4</td>
     <td>Thursday<br>Friday</td>
     <td>Mr Haikal Eiman<br>haikal_eiman@moe.edu.sg</td>
   </tr>
@@ -218,7 +217,7 @@ variant: markdown
     <td><b>Brownies<br>(Girls Only)</b></td>
     <td>P3, P4, P5</td>
     <td>Friday</td>
-    <td>Ms Cai Jue Ying<br>cai_jue_ying@moe.edu.sg</td>
+    <td>Mdm Koh Ting Ting<br>koh_ting_ting@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Scouts<br>(Boys Only)</b></td>
@@ -231,13 +230,13 @@ variant: markdown
     <td><b>Talking Titans</b></td>
     <td>P3, P4, P5</td>
     <td>Thursday</td>
-    <td>Mrs Luanna Goh<br>miller_goh_luanna_judith@moe.edu.sg</td>
+    <td>Mdm Muneera Begum<br>muneera_begum_mohaned_iqba@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Robotics</b></td>
     <td>P3, P4, P5</td>
     <td>Thursday</td>
-    <td>Mdm Wang Xiao Xia<br>wang_xiao_xia@moe.edu.sg</td>
+    <td>Mr Mohamed Nadzri<br>mohamed_nadzri_md_nasir@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Media Club</b></td>
@@ -249,13 +248,13 @@ variant: markdown
     <td><b>Chess Club</b></td>
     <td>P3, P4, P5</td>
     <td>Friday</td>
-    <td>Mr Pwee Kiat Kah<br>pwee_kiat_kah@moe.edu.sg</td>
+    <td>Ms Low Siok Hua<br>low_siok_hua@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Discovery Club</b></td>
     <td>P3, P4, P5</td>
     <td>Friday</td>
-    <td>Ms Hui Wing Yan<br>hui_wing_yan@moe.edu.sg</td>
+    <td>Mrs Julia Boh<br>julia_zheng_xiu_fen@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
