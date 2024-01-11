@@ -94,7 +94,7 @@ Operating Hours: Tuesdays – Sundays (10.00am to 7.00pm)
 Mr Richard Leong<br>
 Tel: 90395442<br>
 
-Bus Fares [Click Here](/files/school%20bus%20service%202023.pdf)
+Bus Fares [Click Here](/files/2024_Bus_Info_for_Website.pdf)
   
 
 #### Dental Services
