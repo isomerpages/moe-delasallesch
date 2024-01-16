@@ -55,20 +55,15 @@ variant: markdown
 
 #### School Bookshop
 
-
 **Pacific Bookstores Pte Ltd**<br>
 Tel: 94792494
-
   
 
 Operation Hours on School Days (for pupils only)<br>
 \- 8:00am to 3:00pm<br>
 \- Lunch Break: 11:30am to 12:30pm
 
-  
-
 #### School Uniform
-
 
 **KH Uniform**
 
@@ -89,15 +84,18 @@ Operating Hours: Tuesdays – Sundays (10.00am to 7.00pm)
 
 #### School Transport
 
-
 **Richard Leong Transport Service**<br>
 Mr Richard Leong<br>
 Tel: 90395442<br>
 
 Bus Fares [Click Here](/files/2024_Bus_Info_for_Website.pdf)
   
-
 #### Dental Services
 
-
 Please contact the dental clinic at 91145692 for the operating days &amp; hours.
+
+#### Student Care Centre
+
+YMCA SCC @ De La Salle School <br>
+Tel: 67656755 <br>
+Email: dlscc@ymca.edu.sg
