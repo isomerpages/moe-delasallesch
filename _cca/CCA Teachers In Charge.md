@@ -38,7 +38,7 @@ variant: markdown
   <tr>
     <td>Netball </td>
     <td><b>Overall IC: Mdm Sally Koh</b> <br><br>Ms Sharon Ker<br><br>Ms Ch’ng Ying Hui<br><br>Mrs Sheena Poh </td>
-    <td><a href="mailto:sally_koh_bee_shiow@moe.edu.sg">sally_koh_bee_shiow@moe.edu.sg</a><br><br><br><a href="mailto:sharon_ker_kai_ling@moe.edu.sg">sharon_ker_kai_ling@moe.edu.sg</a><br><br><a href="mailto:chng_ying_hui@moe.edu.sg">chng_ying_hui@moe.edu.sg</a><br><br><br>
+    <td><a href="mailto:sally_koh_bee_shiow@moe.edu.sg">sally_koh_bee_shiow@moe.edu.sg</a><br><br><br><a href="mailto:sharon_ker_kai_ling@moe.edu.sg">sharon_ker_kai_ling@moe.edu.sg</a><br><br><a href="mailto:chng_ying_hui@moe.edu.sg">chng_ying_hui@moe.edu.sg</a><br><br>
 			<a href="mailto:poh_shao_qin_sheena@moe.edu.sg">poh_shao_qin_sheena@moe.edu.sg</a>
 		</td>
   </tr>
@@ -93,12 +93,12 @@ variant: markdown
     <td rowspan="4">Clubs </td>
     <td>Talking Titans </td>
     <td><b>Overall IC: Ms Muneera Begum Mohamed</b> <br><br>Mrs Luanna Goh<br><br>Mdm Azlina<br><br>Ms Mangala  <br></td>
-    <td><a href="mailto:muneera_begum_mohamed_iqbal@moe.edu.sg">muneera_begum_mohamed_iqbal@moe.edu.sg</a><br><br><br><br><br><a href="mailto:miller_goh_luanna_judith@moe.edu.sg">miller_goh_luanna_judith@moe.edu.sg</a><br><a href="mailto:nur_azlina_ngadi@moe.edu.sg">nur_azlina_ngadi@moe.edu.sg</a><br><br><a href="mailto:mangala_dharshini_harikrishan@moe.edu.sg">mangala_dharshini_harikrishan@moe.edu.sg</a></td>
+    <td><a href="mailto:muneera_begum_mohamed_iqbal@moe.edu.sg">muneera_begum_mohamed_iqbal@moe.edu.sg</a><br><br><br><a href="mailto:miller_goh_luanna_judith@moe.edu.sg">miller_goh_luanna_judith@moe.edu.sg</a><br><br><a href="mailto:nur_azlina_ngadi@moe.edu.sg">nur_azlina_ngadi@moe.edu.sg</a><br><br><a href="mailto:mangala_dharshini_harikrishan@moe.edu.sg">mangala_dharshini_harikrishan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Discovery Club </td>
     <td><b>Overall IC: Ms Julia Zheng</b> <br><br>Ms Hui Wing Yan<br><br>Mr Ronald Wee <br><br>Mrs Grace Looi Xinyue<br></td>
-    <td><a href="mailto:hui_wing_yan@moe.edu.sg">julia_zheng_xiu_fen@moe.edu.sg</a><br><br><br><a href="mailto:hui_wing_yan@moe.edu.sg">hui_wing_yan@moe.edu.sg</a><br><br><br><a href="mailto:ronald_wee@moe.edu.sg">ronald_wee@moe.edu.sg</a><br><br><br><a href="mailto:grace_looi_xinyue@moe.edu.sg">grace_looi_xinyue@moe.edu.sg</a><br></td>
+    <td><a href="mailto:hui_wing_yan@moe.edu.sg">julia_zheng_xiu_fen@moe.edu.sg</a><br><br><br><a href="mailto:hui_wing_yan@moe.edu.sg">hui_wing_yan@moe.edu.sg</a><br><br><a href="mailto:ronald_wee@moe.edu.sg">ronald_wee@moe.edu.sg</a><br><br><a href="mailto:grace_looi_xinyue@moe.edu.sg">grace_looi_xinyue@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Chess Club </td>
