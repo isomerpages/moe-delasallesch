@@ -75,14 +75,14 @@ variant: markdown
   </tr>
   <tr>
     <td>Modern Dance </td>
-    <td><b>Overall IC: Mrs Amy Liew</b> <br><br>Mdm Michelle Chian <br><br>Mrs Joanne Liou <br><br>Miss Thiviya Thulasidharan</td>
-    <td><a href="mailto:amy_lee_may_chyou@moe.edu.sg">amy_lee_may_chyou@moe.edu.sg</a><br><br><a href="mailto:michelle_chian@moe.edu.sg">michelle_chian@moe.edu.sg</a><br><br><a href="mailto:lau_siew_yee@moe.edu.sg">lau_siew_yee@moe.edu.sg</a><br><br><a href="mailto:thiviya_thulasidharan@moe.edu.sg">thiviya_thulasidharan@moe.edu.sg</a></td>
+    <td><b>Overall IC: Mrs Amy Liew</b> <br><br>Mdm Michelle Chian <br><br>Mrs Joanne Liou <br><br>Mdm Yusnizar Yusman</td>
+    <td><a href="mailto:amy_lee_may_chyou@moe.edu.sg">amy_lee_may_chyou@moe.edu.sg</a><br><br><br><br><a href="mailto:michelle_chian@moe.edu.sg">michelle_chian@moe.edu.sg</a><br><br><br><br><a href="mailto:lau_siew_yee@moe.edu.sg">lau_siew_yee@moe.edu.sg</a><br><br><br><a href="mailto:yusnizar_yusman@moe.edu.sg">yusnizar_yusman@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">Uniformed Groups </td>
     <td>Brownies</td>
-    <td><b>Overall IC: Ms Cai Jue Ying</b><br><br>Mrs Fam Seow Wee <br><br>Mdm Soo Ling Ling<br></td>
-    <td><a href="mailto:cai_jueying@moe.edu.sg">cai_jueying@moe.edu.sg</a><br><br><a href="mailto:fam_seow_wee@moe.edu.sg">fam_seow_wee@moe.edu.sg</a><br><br><a href="mailto:soo_ling_ling@moe.edu.sg">soo_ling_ling@moe.edu.sg</a></td>
+    <td><b>Overall IC: Mdm Koh Ting Ting</b><br><br>Mrs Fam Seow Wee <br><br>Mdm Soo Ling Ling<br></td>
+    <td><a href="mailto:koh_ting_ting@moe.edu.sg">koh_ting_ting@moe.edu.sg</a><br><br><br><br><a href="mailto:fam_seow_wee@moe.edu.sg">fam_seow_wee@moe.edu.sg</a><br><br><br><a href="mailto:soo_ling_ling@moe.edu.sg">soo_ling_ling@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Scouts </td>
@@ -92,23 +92,23 @@ variant: markdown
   <tr>
     <td rowspan="4">Clubs </td>
     <td>Talking Titans </td>
-    <td><b>Overall IC: Mrs Luanna Goh</b> <br><br>Ms Muneera Begum Mohamed<br><br>Mdm Azlina<br></td>
-    <td><a href="mailto:miller_goh_luanna_judith@moe.edu.sg">miller_goh_luanna_judith@moe.edu.sg</a><br><br><br><a href="mailto:muneera_begum_mohamed_iqbal@moe.edu.sg">muneera_begum_mohamed_iqbal@moe.edu.sg</a><br><br><br><a href="mailto:nur_azlina_ngadi@moe.edu.sg">nur_azlina_ngadi@moe.edu.sg</a><br><br></td>
+    <td><b>Overall IC: Ms Muneera Begum Mohamed</b> <br><br>Mrs Luanna Goh<br><br>Mdm Azlina<br><br>Ms Mangala  <br></td>
+    <td><a href="mailto:muneera_begum_mohamed_iqbal@moe.edu.sg">muneera_begum_mohamed_iqbal@moe.edu.sg</a><br><br><br><br><br><a href="mailto:miller_goh_luanna_judith@moe.edu.sg">miller_goh_luanna_judith@moe.edu.sg</a><br><br><br><a href="mailto:nur_azlina_ngadi@moe.edu.sg">nur_azlina_ngadi@moe.edu.sg</a><br><br><a href="mailto:mangala_dharshini_harikrishan@moe.edu.sg">mangala_dharshini_harikrishan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Discovery Club </td>
-    <td><b>Overall IC: Ms Hui Wing Yan</b> <br><br>Ms Julia Zheng<br><br>Mr Ronald Wee <br><br>Mrs Grace Looi Xinyue<br></td>
-    <td><a href="mailto:hui_wing_yan@moe.edu.sg">hui_wing_yan@moe.edu.sg</a><br><br><br><a href="mailto:julia_zheng_xiu_fen@moe.edu.sg">julia_zheng_xiu_fen@moe.edu.sg</a><br><br><a href="mailto:ronald_wee@moe.edu.sg">ronald_wee@moe.edu.sg</a><br><br><a href="mailto:grace_looi_xinyue@moe.edu.sg">grace_looi_xinyue@moe.edu.sg</a><br></td>
+    <td><b>Overall IC: Ms Julia Zheng</b> <br><br>Ms Hui Wing Yan<br><br>Mr Ronald Wee <br><br>Mrs Grace Looi Xinyue<br></td>
+    <td><a href="mailto:hui_wing_yan@moe.edu.sg">julia_zheng_xiu_fen@moe.edu.sg</a><br><br><br><br><a href="mailto:hui_wing_yan@moe.edu.sg">hui_wing_yan@moe.edu.sg</a><br><br><br><a href="mailto:ronald_wee@moe.edu.sg">ronald_wee@moe.edu.sg</a><br><br><br><a href="mailto:grace_looi_xinyue@moe.edu.sg">grace_looi_xinyue@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Chess Club </td>
-    <td><b>Overall IC: Mr Pwee Kiat Kah</b><br><br>Mdm Lai Chiat Peng  <br><br>Ms Low Siok Hua <br></td>
-    <td><a href="mailto:pwee_kiat_kah@moe.edu.sg">pwee_kiat_kah@moe.edu.sg</a><br><br><br><a href="mailto:lai_chiat_pheng@moe.edu.sg">lai_chiat_pheng@moe.edu.sg</a><br><br><a href="mailto:low_siok_hua@moe.edu.sg">low_siok_hua@moe.edu.sg</a><br></td>
+    <td><b>Overall IC: Ms Low Siok Hua</b><br><br>Mdm Lai Chiat Peng  <br></td>
+    <td><a href="mailto:low_siok_hua@moe.edu.sg">low_siok_hua@moe.edu.sg</a><br><br><br><br><a href="mailto:lai_chiat_pheng@moe.edu.sg">lai_chiat_pheng@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Robotics Club </td>
-    <td><b>Overall IC: Mdm Wang Xiao Xia</b> <br><br>Mdm Goh Sock Hong   <br><br>Ms Nurul Ain  </td>
-    <td><a href="mailto:wang_xiao_xia@moe.edu.sg">wang_xiao_xia@moe.edu.sg</a><br><br><br><a href="mailto:goh_sock_hong@moe.edu.sg">goh_sock_hong@moe.edu.sg</a><br><br><a href="mailto:nurulain_rashid@moe.edu.sg">nurulain_rashid@moe.edu.sg</a></td>
+    <td><b>Overall IC: Mr Mohamed Nadzri </b> <br><br>Mdm Goh Sock Hong   <br><br>Ms Nurul Ain <br><br>Mdm Lynn Khoo </td>
+    <td><a href="mailto:Mohamed_nadzri_md_nasir@moe.edu.sg">Mohamed_nadzri_md_nasir@moe.edu.sg</a><br><br><br><br><a href="mailto:goh_sock_hong@moe.edu.sg">goh_sock_hong@moe.edu.sg</a><br><br><br><a href="mailto:nurulain_rashid@moe.edu.sg">nurulain_rashid@moe.edu.sg</a><br><br><a href="mailto:khoo_li_ying@moe.edu.sg">khoo_li_ying@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
