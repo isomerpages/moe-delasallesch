@@ -107,7 +107,7 @@ variant: markdown
     <td><b>Talking Titans</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Thursday</td>
-    <td>Mdm Muneera Begum<br>muneera_begum_mohaned_iqba@moe.edu.sg</td>
+    <td>Mdm Muneera Begum<br>muneera_begum_mohaned_iqbal@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Robotics</b></td>
@@ -230,7 +230,7 @@ variant: markdown
     <td><b>Talking Titans</b></td>
     <td>P3, P4, P5</td>
     <td>Thursday</td>
-    <td>Mdm Muneera Begum<br>muneera_begum_mohaned_iqba@moe.edu.sg</td>
+    <td>Mdm Muneera Begum<br>muneera_begum_mohaned_iqbal@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Robotics</b></td>
