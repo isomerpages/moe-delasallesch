@@ -76,7 +76,7 @@ variant: markdown
   <tr>
     <td>Modern Dance </td>
     <td><b>Overall IC: Mrs Amy Liew</b> <br><br>Mdm Michelle Chian <br><br>Mrs Joanne Liou <br><br>Mdm Yusnizar Yusman</td>
-    <td><a href="mailto:amy_lee_may_chyou@moe.edu.sg">amy_lee_may_chyou@moe.edu.sg</a><br><br><br><a href="mailto:michelle_chian@moe.edu.sg">michelle_chian@moe.edu.sg</a><br><br><br><a href="mailto:lau_siew_yee@moe.edu.sg">lau_siew_yee@moe.edu.sg</a><br><br><br><a href="mailto:yusnizar_yusman@moe.edu.sg">yusnizar_yusman@moe.edu.sg</a></td>
+    <td><a href="mailto:amy_lee_may_chyou@moe.edu.sg">amy_lee_may_chyou@moe.edu.sg</a><br><br><a href="mailto:michelle_chian@moe.edu.sg">michelle_chian@moe.edu.sg</a><br><br><a href="mailto:lau_siew_yee@moe.edu.sg">lau_siew_yee@moe.edu.sg</a><br><br><a href="mailto:yusnizar_yusman@moe.edu.sg">yusnizar_yusman@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">Uniformed Groups </td>
