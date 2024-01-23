@@ -15,12 +15,4 @@ sections:
           description: Click here to view All
           url: /calendar/
       background: /images/bannerGif.gif
-  - infopic:
-      title: Caring Teacher Awards 2024
-      id: infopic
-      description: Nominate your favourite teacher for the Caring Teacher Award!
-      button: Website Link
-      url: https://www.cta.nie.edu.sg/nominate
-      alt: Cta 2024
-      image: /images/poster-cta-2024.jpg
 ---

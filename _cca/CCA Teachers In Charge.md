@@ -26,7 +26,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Basketball </td>
-    <td><b>Overall IC: Ms Vickneshwari</b><br><br>Mr Alex Yao <br><br>Ms Cai Jueying <br><br>Ms Joy Ng </td>
+    <td><b>Overall IC: Ms Vikneshwari</b><br><br>Mr Alex Yao <br><br>Ms Cai Jueying <br><br>Ms Joy Ng </td>
     <td><a href="mailto:vikneshwari_vijayakumar@moe.edu.sg">vikneshwari_vijayakumar@moe.edu.sg</a><br><br><br><a href="mailto:yao_zhongde@moe.edu.sg">yao_zhongde</a><br><br><a href="mailto:cai_jueying@moe.edu.sg">cai_jueying@moe.edu.sg</a><br><br>
 			<a href="mailto:joy_ng_d@moe.edu.sg">joy_ng_d@moe.edu.sg</a></td>
   </tr>
