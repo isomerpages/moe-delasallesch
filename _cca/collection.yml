@@ -1,0 +1,27 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Sports & Games/.keep
+      - Sports & Games/Hockey.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Rugby.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Wushu.md
+      - Performing Arts/.keep
+      - Performing Arts/Cutural Dance.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Media Club.md
+      - Performing Arts/Percussion Ensemble.md
+      - Performing Arts/Mcnally Club.md
+      - Clubs/.keep
+      - Clubs/Talking Titans.md
+      - Clubs/Chess Club.md
+      - Clubs/Discovery Club.md
+      - Clubs/Robotics Club.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Scouts.md
+      - CCA Teachers In Charge.md
+      - CCA Schedule for 2024.md
