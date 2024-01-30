@@ -3,8 +3,9 @@ title: Chess Club
 permalink: /cca/Clubs/chess-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-## Co-Curricular Activities (CCA)
+## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
 ### Chess Club
 
@@ -16,10 +17,4 @@ The Chess Club was set up with the objective of promoting intellectual games. It
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
   
-Click **[here](https://drive.google.com/file/d/1URo0qRmHUguaEVAWkTfo3LVZa-RTyym-/view?usp=sharing)** to watch the video.
-
-
-
-
-
-
+Click&nbsp;**[here](https://youtu.be/nZOhoeq_FJI)**&nbsp;to watch the video.
