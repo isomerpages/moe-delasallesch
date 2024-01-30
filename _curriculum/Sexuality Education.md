@@ -30,11 +30,9 @@ variant: markdown
 
 You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp; for more information on MOE Sexuality Education.&nbsp;
 
-&nbsp;  
 
 **OVERVIEW OF SEXUALITY EDUCATION PROGRAMME FOR 2024**
 
-&nbsp;&nbsp;  
 
 4.&nbsp;&nbsp; &nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.&nbsp;You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -53,8 +51,9 @@ b. Character and Citizenship Education (CCE)
 
 7.&nbsp;&nbsp; &nbsp;Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.
 
- For more information, please click&nbsp;[**here**.](/files/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%202021.pdf)
-
+ For more information, please click&nbsp;[**here**](/files/2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf)
+ 
+ 
   **INFORMATION FOR PARENTS**
 
 8.&nbsp;&nbsp; &nbsp;Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;
