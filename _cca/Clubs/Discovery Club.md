@@ -3,8 +3,9 @@ title: Discovery Club
 permalink: /cca/Clubs/discovery-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-## Co-Curricular Activities (CCA)
+## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
 ### Discovery Club
 
@@ -20,8 +21,4 @@ Lasallians will be exposed to Math game like Math Warrior which requires them to
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
   
-Click **[here](https://drive.google.com/file/d/1ds6IluSAKRawyLMeG4F2q33RlWz6l8A7/view?usp=sharing)** to watch the video.
-
-
-
-
+Click&nbsp;**[here](https://youtu.be/BmDi2hPrM8c)**&nbsp;to watch the video.
