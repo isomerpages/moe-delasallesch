@@ -3,8 +3,9 @@ title: Choir
 permalink: /cca/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-## Co-Curricular Activities (CCA)
+## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
 ### Choir
 
@@ -27,11 +28,4 @@ De La Salle Choir performs a repertoire of choral works ranging from traditional
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
   
-Click **[here](https://drive.google.com/file/d/1asA4u85y2GqNREXNZpU8Kbdbc_-mPvH9/view?usp=sharing)** to watch the video.
-
-
-
-
-
-
-
+Click&nbsp;**[here](https://youtu.be/AqgavB1tryk)**&nbsp;to watch the video.
