@@ -30,4 +30,4 @@ All rights reserved. No part of this video may be reproduced or transmitted in a
   
 For sports CCAs that involve more physical exertion where the students are unmasked, a safe distance of at least two meters&nbsp;between students has been adhered to, and students are organised into groups with one meter&nbsp;between groups as safe management measures.&nbsp;  
   
-Click&nbsp;**[here](https://drive.google.com/file/d/1hB-Jg0_h52B9rj3OPOPseAifESgp3jQq/view?usp=sharing)**&nbsp;to watch the video.
+Click&nbsp;**[here](https://youtu.be/vC9yb9gQXlo)**&nbsp;to watch the video.
