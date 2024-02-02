@@ -2,6 +2,7 @@
 title: School Advertisements
 permalink: /about-us/schooladvert/
 description: ""
+variant: markdown
 ---
 **School Canteen**
 
@@ -9,7 +10,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Western/Fusion/Japanese     | 16 June 2023    | Western or Fusion or Japanese is acceptable     |
+| Western/Fusion/Japanese     | 31 March 2024    | Western or Fusion or Japanese is acceptable     |
 
 
 **Application Procedure**
