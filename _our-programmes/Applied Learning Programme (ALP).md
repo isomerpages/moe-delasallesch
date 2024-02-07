@@ -2,13 +2,14 @@
 title: Applied Learning Programme (ALP)
 permalink: /our-programmes/alp/
 description: ""
+variant: markdown
 ---
-## Our Programmes
+## Our&nbsp;Programmes
 
 ### Applied Learning Programme (ALP)
 
 <figure>
-<figcaption> Design.Innovation.Service.Community @ DLSS _(DISC@DLSS)_
+<figcaption> Design.Innovation.Service.Community @ DLSS&nbsp;_(DISC@DLSS)_
  </figcaption><br>
 <img src="/images/ALP1.jpg" style="width:60%">
 </figure>
@@ -21,4 +22,4 @@ The ALP in our school will be a springboard for Lasallians to harness these futu
 
 The framework for ALP in DISC is as follows:
 
-<img src="/images/DLS ALP2.png" style="width:90%">
+<img src="/images/ALP.PNG" style="width:90%">
