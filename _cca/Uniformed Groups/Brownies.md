@@ -19,4 +19,4 @@ Brownies are encouraged to explore and discover the world around them and to bec
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
   
-Click&nbsp;** [here](https://youtu.be/NzldIfSIbkQ)**&nbsp;to watch the video.
+Click&nbsp;**[here](https://youtu.be/NzldIfSIbkQ)** &nbsp;to watch the video.
