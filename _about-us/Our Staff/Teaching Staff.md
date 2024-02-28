@@ -78,5 +78,5 @@ variant: markdown
 |**ST. CHRISTOPHER 6**| Mrs Chia-Yeo Shin Hua<br>Ms Woon Shio Ching | yeo_shin_hua@moe.edu.sg<br>woon_shio_ching@moe.edu.sg |
 |**ST. DOMINIC 6**| Mr Wee Qi-Rong Ronald<br>Ms Lim Hwee Hong | wee_qi_rong_ronald@moe.edu.sg <br>lim_hwee_hong@moe.edu.sg |
 |**ST. ELIZABETH 6**| Mdm Irene Leong<br>Mr Alex Yao ZhongDe | leong_foong_yee_irene@moe.edu.sg<br>yao_zhongde@moe.edu.sg |
-|**ST. FRANCIS 6**| Ms Nur Azlina Ngadi<br>Mr Matthew Teo| nur_azlina_ngad@moe.edu.sg<br>teo_puay_liang@moe.edu.sg |
+|**ST. FRANCIS 6**| Ms Nur Azlina Ngadi<br>Mr Matthew Teo| nur_azlina_ngadi@moe.edu.sg<br>teo_puay_liang@moe.edu.sg |
 |**ST. GABRIEL 6**| Ms Nor Hashanah B M R<br>Mr Chew Chee Wai | nor_hashanah_mohammad_razif@moe.edu.sg<br>chew_chee_wai@moe.edu.sg |
