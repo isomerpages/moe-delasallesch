@@ -2,14 +2,15 @@
 title: Our Founder
 permalink: /about-us/our-founder/
 description: ""
+variant: markdown
 ---
-## About Us
+## About&nbsp;Us
 
 #### Our Founder
 
-<img src="/images/founder_2.png" style="width:40%" align=right>
+<img src="/images/founder_2.png" style="width:40%" align="right">
 
-DE LA SALLE was born in France on 30th April, 1651, the eldest son of a magistrate of Rheims. Rich, talented and influential, he had a splendid career before him but at the early age of eleven made up his mind to become a priest. After taking his Master of Art degree, he entered the Seminary and was ordained priest at the age of 27.
+St John Baptist De La Salle was born in France on 30th April, 1651, the eldest son of a magistrate of Rheims. Rich, talented and influential, he had a splendid career before him but at the early age of eleven made up his mind to become a priest. After taking his Master of Art degree, he entered the Seminary and was ordained priest at the age of 27.
 
 For some time, he was attached to the cathedral of Rheims. Then one day, there came a man who changed the course of his life. His name was Adrian Nyel. He had been sent by a lady of Rouen to establish a free school for poor boys in Rheims. He was to consult De La Salle. From the beginning, De La Salle took a keen interest in the new venture. He began to by inviting Nyel’s teachers to have their meals with him, teaching them how to teach, visiting them in their classes, and ended by lodging them in his own house. During a nation-wide famine, he sold his estates and distributed his fortune among the poor. Now he was as poor as his teachers. From then on, they looked on him as father and founder.
 
