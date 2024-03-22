@@ -31,4 +31,4 @@ variant: markdown
 
 | Type of Account | Username | 
 | -------- | -------- | 
-| Windows/Student icon/MIMS  <br><br>SLS <br> <br><br> <br>Koobits   | xxx_yyyyy@students.edu.sg <br><br> First 5 letters of Full Name + Last 5 of BC Number <br> (e.g) TANAH2345X <br><br><br>SLS Username
+| Windows/Student icon/MIMS  <br><br>SLS <br> <br><br> Koobits   | xxx_yyyyy@students.edu.sg <br><br> First 5 letters of Full Name + Last 5 of BC Number <br> (e.g) TANAH2345X <br><br>SLS Username
