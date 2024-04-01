@@ -14,7 +14,7 @@ Dear Parents/Guardians,
   
 Greetings from De La Salle School. 
 
-Please refer to the attached letter [**here**](/files/1_Mar_2024_PN.pdf) for important information from school. 
+Please refer to the attached letter [**here**](/files/1_April_2024_PN.pdf) for important information from school. 
 
 Thank you.
   
