@@ -12,7 +12,10 @@ sections:
           description: Click here to view all
           url: /announcements/
         - title: Calendar
-          description: Click here to view All
+          description: Click here to view all
           url: /calendar/
+        - title: Photo Gallery
+          description: Click here to view all
+          url: /photo-gallery/
       background: /images/bannerGif.gif
 ---
