@@ -4,9 +4,9 @@ permalink: /for-parents/booklistnuniform/
 description: ""
 variant: markdown
 ---
-## For Parents
+## For&nbsp;Parents
 
-### Book List & Uniform
+### Book List &amp; Uniform
 
 #### Booklist
 
@@ -29,4 +29,11 @@ variant: markdown
 
 #### Uniform
 
-Click [here](/files/DLS%20CP2-6%20.pdf) to view the form
+**Jeep Sing Fashion** <br>
+Retail Outlet: <br>
+Blk 4012 Ang Mo Kio Ave 10 #01-09 Techplace 1 S(569628) <br>
+Telephone: 64563198 (Please call before visiting the outlet) <br>
+Website : [www.jeepsinguniform.com](www.jeepsinguniform.com)
+
+
+Click [here](https://forms.office.com/r/3SXVdNrk4b) for the order form.
