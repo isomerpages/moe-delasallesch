@@ -33,7 +33,7 @@ variant: markdown
 Retail Outlet: <br>
 Blk 4012 Ang Mo Kio Ave 10 #01-09 Techplace 1 S(569628) <br>
 Telephone: 64563198 (Please call before visiting the outlet) <br>
-Website : [www.jeepsinguniform.com](www.jeepsinguniform.com)
+Website : [www.jeepsinguniform.com](https://www.jeepsinguniform.com)
 
 
 Click [here](https://forms.office.com/r/3SXVdNrk4b) for the order form.
