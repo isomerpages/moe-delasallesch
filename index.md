@@ -14,8 +14,8 @@ sections:
         - title: Calendar
           description: Click here to view all
           url: /calendar/
-        - title: Photo Gallery
+        - title: Highlights
           description: Click here to view all
-          url: /photo-gallery/
+          url: /highlights/
       background: /images/bannerGif.gif
 ---
