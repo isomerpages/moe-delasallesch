@@ -25,7 +25,7 @@ variant: markdown
 |Operations Support Officer| Mr Koh Wing Yeap| - |
 |Operations Support Officer| Mr Koh Soon Teck| - |
 |ICT Manager| Mr Calvin Boh| boh_tse_chuang_calvin@moe.edu.sg|
-|ICT Associate| Ms Vasanthy| mohanraj_vasantharany@moe.edu.sg|
+|ICT Manager| Ms Vasanthy| mohanraj_vasantharany@moe.edu.sg|
 |Desktop Engineer| Ms Siti Rasyidah Rosman| - | 
 |Desktop Engineer| Mr Zul | - |
 |Library Assistant| Mdm Nur Isliza Magiar| - |
