@@ -54,7 +54,7 @@ variant: markdown
 |**ST.BERNADETTE 4**| Mr Abdul Gaffar Shaik Yuso  <br>Ms Cai Jueying | abdul_gaffar_shaik_yuso@moe.edu.sg<br>cai_jueying@moe.edu.sg |
 |**ST. CHRISTOPHER 4**| Mdm Yusnizar <br>Ms Soo Ling Ling | yusnizar_yusman@moe.edu.sg <br>soo_ling_ling@moe.edu.sg
 |**ST. DOMINIC 4**| Mrs Judy Yip<br>Mrs Sally Yeo | ong_judy@moe.edu.sg<br>tan_chui_lew@moe.edu.sg |
-|**ST. ELIZABETH 4**| Ms Thong Hui Min<br>Mdm Siti Munira Batra<br>Mr Jeffrey Lee Tze Wei | thong_hui_min@moe.edu.sg<br>siti_munira_batra@moe.edu.sg<br>lee_tze_wei_jeffrey@moe.edu.sg |
+|**ST. ELIZABETH 4**| Mr Vikneswaran Narayanan<br>Mdm Siti Munira Batra<br>Mr Jeffrey Lee Tze Wei | vikneswaran_narayanan@moe.edu.sg<br>siti_munira_batra@moe.edu.sg<br>lee_tze_wei_jeffrey@moe.edu.sg |
 |**ST. FRANCIS 4**| Mrs Michelle Chian<br>Mdm Chen Weihua | michelle_chian@moe.edu.sg<br>chen_weihua@moe.edu.sg |
 
 #### Primary 5 (2024)
