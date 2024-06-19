@@ -26,14 +26,14 @@ variant: markdown
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
-| **ST.ANTHONY 2** | Mrs Tracie Goh<br>Ms Sally Koh Bee Shiow | huang_qianyi_tracie@moe.edu.sg<br>koh_bee_shiow@moe.edu.sg |
+| **ST.ANTHONY 2** | Mrs Tracie Goh<br>Ms Sally Koh Bee Shiow<br>Mdm Yang Xiao Ting | huang_qianyi_tracie@moe.edu.sg<br>koh_bee_shiow@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg |
 | **ST.BERNADETTE 2** | Mdm Koh Ting Ting<br>Ms Mou Xingchi | koh_ting_ting@moe.edu.sg<br>mou_xingchi@moe.edu.sg |
 |**ST.CHRISTOPHER 2**| Mdm Angie Tan<br>Ms Nurulain Rashid | tan_mui_yen@moe.edu.sg<br>nurulain_rashid@moe.edu.sg |
 |**ST.DOMINIC 2**| Ms. Annie Tan<br>Ms Vikneshwari D/O Vijayakumar|tan_annie_b@moe.edu.sg<br>vikneshwari_vijayakumar@moe.edu.sg |
 |**ST. ELIZABETH 2**| Ms Khoo Li Ying Lynn<br>Ms Low Si Wei Ivana | khoo_li_ying@moe.edu.sg<br>low_si_wei_ivana@moe.edu.sg |
 |**ST. FRANCIS 2**|Mrs Joanne Liou <br>Ms Eu Hui Jun | lau_siew_yee@moe.edu.sg<br>eu_hui_jun@moe.edu.sg |
 |**ST. GABRIEL 2**|Ms Grace Looi Xinye <br>Ms Low Siok Hua | looi_xinye_grace@moe.edu.sg<br>low_siok_hua@moe.edu.sg |
-|**ST. HELEN 2**|  Ms Florence Lim<br>Mdm Yang Xiao Ting<br> Mdm Jayaraj Margrate Bali | lim_seok_yuen_florence@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg <br> jayaraj_margrate_bali@moe.edu.sg
+|**ST. HELEN 2**|  Ms Florence Lim<br> Mdm Jayaraj Margrate Bali | lim_seok_yuen_florence@moe.edu.sg <br> jayaraj_margrate_bali@moe.edu.sg
 
 #### Primary 3 (2024)
 
