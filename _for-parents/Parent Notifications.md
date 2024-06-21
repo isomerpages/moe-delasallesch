@@ -21,3 +21,7 @@ variant: markdown
 [April 2024 Parent Notification](/files/1_April_2024_PN.pdf)
 
 [May 2024 Parent Notification](/files/2_May_2024_PN.pdf)
+
+**Term 3 2024**
+
+[June 2024 Parent Notification](/files/21_June_PN.pdf)
