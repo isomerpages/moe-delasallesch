@@ -7,14 +7,14 @@ variant: markdown
 ## Announcements
 
 
-### May 2024 Parent Notification
+### June 2024 Parent Notification
 
 
 Dear Parents/Guardians,
   
 Greetings from De La Salle School. 
 
-Please refer to the attached letter [**here**](/files/2_May_2024_PN.pdf) for important information from school. 
+Please refer to the attached letter [**here**](/files/21_June_PN.pdf) for important information from school. 
 
 Thank you.
   
