@@ -65,4 +65,4 @@ These Terms of Use may be changed from time to time. Changes will be posted on t
 
 **9\. Governing Law**
 
-9.1 These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore. 
+9.1 These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
