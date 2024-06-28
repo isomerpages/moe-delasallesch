@@ -61,7 +61,7 @@ variant: markdown
   <tr>
     <td>McNally Club </td>
     <td><b>Overall IC:  Ms Tan Xiao Wei  </b><br><br>Mrs Agnes Yu<br><br>Ms Nurul Izzah</td>
-    <td><a href="mailto:tan_xiao_wei@moe.edu.sg">tan_xiao_wei@moe.edu.sg</a><br><br><br><br><a href="mailto:agnes_lee_ming_chyi@moe.edu.sg">agnes_lee_ming_chyi@moe.edu.sg</a><br><br><a href="mailto:nurul_izzah_basiron@moe.edu.sg">nurul_izzah_basiron@moe.edu.sg</a><br></td>
+    <td><a href="mailto:tan_xiao_wei@moe.edu.sg">tan_xiao_wei@moe.edu.sg</a><br><br><a href="mailto:agnes_lee_ming_chyi@moe.edu.sg">agnes_lee_ming_chyi@moe.edu.sg</a><br><br><a href="mailto:nurul_izzah_basiron@moe.edu.sg">nurul_izzah_basiron@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Choir </td>
