@@ -165,7 +165,7 @@ variant: markdown
   </tr>
   <tr>
     <td><b>Hockey</b></td>
-    <td>P3 &amp; P5<br>P4</td>
+    <td> P5<br>P3 &amp;P4</td>
     <td>Thursday<br>Friday</td>
     <td>Mr Haikal Eiman<br>haikal_eiman@moe.edu.sg</td>
   </tr>
