@@ -2,6 +2,7 @@
 title: Our Former School Principals
 permalink: /about-us/former-sch-principals/
 description: ""
+variant: markdown
 ---
 ## About Us
 
@@ -16,7 +17,7 @@ description: ""
 | **Mr Chong Siak Tong** | **1966 - 1967** |
 | **Mr Choo Cheok Hai** | **1967 - 1987** |
 | **Mr Dominic Yip** | **1988 - 1988** |
-| **Mdm Tan Chwee Lian** | **1988 - 2011** |
+| **Mdm Tan Chwee Lian** | **1988 - 2001** |
 | **Mrs Beatrice Wang Chee Ting** | **2001 - 2004**|
 | **Ms Bernadette Jane Lim** | **2004 - 2011** |
 | **Mrs Daphne Sing** | **2011-2019** |
