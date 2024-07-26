@@ -41,7 +41,7 @@ third_nav_title: School Advertisements
 
 **How to get there?**
 
-* Nearest MRT: Yew Tee MRT (NS5 line) –  minutes walking distance
+* Nearest MRT: Yew Tee MRT (NS5 line) – 15 minutes walking distance
 
 
 **Interest applicants must meet the following criteria:**
