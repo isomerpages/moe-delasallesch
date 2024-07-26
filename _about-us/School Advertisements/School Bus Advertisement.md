@@ -12,7 +12,7 @@ Procedure below.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p> <a href="/files/2024/Call_for_Proposals__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+<p><a href="/files/2024/Call_for_Proposals__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
 </p>
 </li>
 </ol>
@@ -28,7 +28,7 @@ Procedure below.</p>
 </ol>
 <p><strong>Application Procedures</strong>
 </p>
-<p><strong>1.  </strong>Complete the <a href="/files/2024/Information_from_Vendor__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal – Annex A (Information Required from Vendor)</a>
+<p><strong>1. </strong>Complete the <a href="/files/2024/Information_from_Vendor__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal – Annex A (Information Required from Vendor)</a>
 </p>
 <p><strong>2.</strong> Submit the completed Call for Proposal – Annex A by
 closing date, 06 Aug 2024, to the School’s General Office.</p>
@@ -42,6 +42,4 @@ closing date, 06 Aug 2024, to the School’s General Office.</p>
 </p>
 <p>* Nearest MRT: Yew Tee MRT (NS5 line) – 15 minutes walking distance</p>
 <p>* Bus number: 302 from Choa Chu Kang Bus Interchange (Choa Chu Kang MRT
-Station - NS 4 line), alight after Limbang Shopping Centre</p>
-<p></p>
-<p>***</p>
+Station - NS 4 line), alight after Limbang Shopping Centre.</p>
