@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Advertisements/School Bus Advertisement.md
       - School Advertisements/.keep
       - Our Founder.md
       - The Christian Brothers.md
