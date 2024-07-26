@@ -1,5 +1,5 @@
 ---
-title: School Advertisements
+title: School Canteen Advertisement
 permalink: /about-us/schooladvert/
 description: ""
 variant: markdown
