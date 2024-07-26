@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Advertisements/School Canteen Advertisement.md
-      - School Advertisements/School Bus Advertisement.md
-      - School Advertisements/.keep
       - Our Founder.md
       - The Christian Brothers.md
       - Our History.md
@@ -21,4 +18,7 @@ collections:
       - Our Former School Principals.md
       - Alumni.md
       - Our School Rules.md
+      - School Advertisements/.keep
+      - School Advertisements/School Canteen Advertisement.md
+      - School Advertisements/School Bus Advertisement.md
       - School Information.md
