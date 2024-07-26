@@ -1,10 +1,11 @@
 ---
 title: School Advertisements
-permalink: /about-us/schooladvert/
+permalink: /about-us/
 description: ""
 variant: markdown
+third_nav_title: School Advertisements
 ---
-**School Canteen**
+## School&nbsp;Canteen&nbsp;Advertisement
 
 
 
