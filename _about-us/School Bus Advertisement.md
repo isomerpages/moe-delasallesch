@@ -4,7 +4,7 @@ permalink: /school-bus-advertisement/
 variant: tiptap
 description: ""
 ---
-<p><strong>De La Salle  School Bus Advertisement</strong>
+<p><strong>De La Salle School Bus Advertisement</strong>
 </p>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
