@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: School Advertisements
 ---
-**School Canteen**
+## School&nbsp;Canteen&nbsp;Advertisement
 
 
 
