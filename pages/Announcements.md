@@ -12,7 +12,7 @@ Dear Ex-Lasallians,
 
 Greetings from De La Salle School. 
 
-Please refer to the attached letter [**here**](/files/2024/1_Aug_2024_PN.pdf) for important information from school. 
+Please refer to the attached letter [**here**](/files/2024/Teachers_Day_2024.pdf) for important information from school. 
 
 Thank you.
   
