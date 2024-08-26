@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Advertisements
 ---
-<h4><strong>De La Salle School Bus Advertisement</strong></h4>
+<h4><strong>De La Salle School Bus Advertisement (CLOSED)</strong></h4>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
 <p><strong>Service Requirements</strong>
