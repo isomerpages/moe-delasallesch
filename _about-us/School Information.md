@@ -122,7 +122,8 @@ a message via SMS.</p>
 </p>
 </li>
 <li>
-<p>2025 to 2026</p>
+<p><a href="/files/Documents/School_Bus_Awarded_2025_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 to 2026</a>
+</p>
 </li>
 </ul>
 <h4>Dental Services</h4>
