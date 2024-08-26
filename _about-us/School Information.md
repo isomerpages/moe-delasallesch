@@ -4,13 +4,14 @@ permalink: /about-us/sch-info/
 description: ""
 variant: tiptap
 ---
-<h2>About&nbsp;Us</h2>
-<h3>School Information</h3>
-<h4>School Hours and After-School Schedule</h4>
+<h2>School Information</h2>
+<h4><strong>School Hours and After-School Schedule</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20information.jpg">
 </div>
-<h4>Gate Operating Hours</h4>
+<p></p>
+<hr>
+<h4><strong>Gate Operating Hours</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -90,13 +91,15 @@ off Lasallians)</p>
 </tr>
 </tbody>
 </table>
-<h4>School Bookshop</h4>
+<hr>
+<h4><strong>School Bookshop</strong></h4>
 <p><strong>Pacific Bookstores Pte Ltd</strong>
 <br>Tel: 94792494</p>
 <p>Operation Hours on School Days (for pupils only)
 <br>- 8:00am to 3:00pm
 <br>- Lunch Break: 11:30am to 12:30pm</p>
-<h4>School Uniform</h4>
+<hr>
+<h4><strong>School Uniform</strong></h4>
 <p><strong>Jeep Sing Fashion</strong> 
 <br>Retail Outlet:
 <br>Blk 4012 Ang Mo Kio Ave 10 #01-09 Techplace 1 S(569628)
@@ -105,7 +108,8 @@ off Lasallians)</p>
 </p>
 <p>Click <a href="https://forms.office.com/r/3SXVdNrk4b" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the order</p>
-<h4>School Transport</h4>
+<hr>
+<h4><strong>School Transport</strong></h4>
 <p><strong>Richard Leong Transport Service</strong>
 </p>
 <p>Please contact Manager, Mr. Clement Leong on School Bus transport matters.</p>
@@ -126,10 +130,13 @@ a message via SMS.</p>
 </p>
 </li>
 </ul>
-<h4>Dental Services</h4>
+<hr>
+<h4><strong>Dental Services</strong></h4>
 <p>Please contact the dental clinic at 91145692 for the operating days &amp;
 hours.</p>
-<h4>Student Care Centre</h4>
+<p></p>
+<hr>
+<h4><strong>Student Care Centre</strong></h4>
 <p>YMCA SCC @ De La Salle School
 <br>Tel: 67656755
 <br>Email: dlscc@ymca.edu.sg</p>
