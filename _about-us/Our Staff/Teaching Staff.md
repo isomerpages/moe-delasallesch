@@ -74,7 +74,7 @@ variant: markdown
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
 | **ST.ANTHONY 6** | Mdm Low Ren Fong<br>Mr Patrick Low Kim Hong | low_ren_fong@moe.edu.sg<br>low_kim_hong@moe.edu.sg |
-|**ST. BERNADETTE 6**| Ms Prema<br>Ms Nurul I'zzah Basiron| preme_a@moe.edu.sg  <br>nurul_izzah_basiron@moe.edu.sg |
+|**ST. BERNADETTE 6**| Ms Prema<br>Ms Nurul I'zzah Basiron| prema_a@moe.edu.sg  <br>nurul_izzah_basiron@moe.edu.sg |
 |**ST. CHRISTOPHER 6**| Mrs Chia-Yeo Shin Hua<br>Ms Woon Shio Ching | yeo_shin_hua@moe.edu.sg<br>woon_shio_ching@moe.edu.sg |
 |**ST. DOMINIC 6**| Mr Wee Qi-Rong Ronald<br>Ms Lim Hwee Hong | wee_qi_rong_ronald@moe.edu.sg <br>lim_hwee_hong@moe.edu.sg |
 |**ST. ELIZABETH 6**| Mdm Irene Leong<br>Mr Alex Yao ZhongDe | leong_foong_yee_irene@moe.edu.sg<br>yao_zhongde@moe.edu.sg |
