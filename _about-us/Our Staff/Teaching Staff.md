@@ -27,7 +27,7 @@ variant: markdown
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
 | **ST.ANTHONY 2** | Mrs Tracie Goh<br>Ms Sally Koh Bee Shiow<br>Mdm Yang Xiao Ting | huang_qianyi_tracie@moe.edu.sg<br>koh_bee_shiow@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg |
-| **ST.BERNADETTE 2** | Mdm Koh Ting Ting<br>Ms Mou Xingchi | koh_ting_ting@moe.edu.sg<br>mou_xingchi@moe.edu.sg |
+| **ST.BERNADETTE 2** | Mdm Koh Ting Ting<br>Ms Moganeswary | koh_ting_ting@moe.edu.sg<br>moganeswary_ap_t@moe.edu.sg |
 |**ST.CHRISTOPHER 2**| Mdm Angie Tan<br>Ms Nurulain Rashid | tan_mui_yen@moe.edu.sg<br>nurulain_rashid@moe.edu.sg |
 |**ST.DOMINIC 2**| Ms. Annie Tan<br>Ms Vikneshwari D/O Vijayakumar|tan_annie_b@moe.edu.sg<br>vikneshwari_vijayakumar@moe.edu.sg |
 |**ST. ELIZABETH 2**| Ms Khoo Li Ying Lynn<br>Ms Low Si Wei Ivana | khoo_li_ying@moe.edu.sg<br>low_si_wei_ivana@moe.edu.sg |
