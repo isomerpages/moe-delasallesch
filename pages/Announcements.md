@@ -6,26 +6,15 @@ variant: markdown
 ---
 ## Announcements
 
-### Visiting the School for Teachers’ Day (2024)
 
-Dear Ex-Lasallians,
-
-Greetings from De La Salle School. 
-
-Please refer to the attached letter [**here**](/files/2024/Teachers_Day_2024.pdf) for important information from school. 
-
-Thank you.
-  
-De La Salle School
-
-### August 2024 Parent Notification
+### September 2024 Parent Notification
 
 
 Dear Parents/Guardians,
   
 Greetings from De La Salle School. 
 
-Please refer to the attached letter [**here**](/files/2024/1_Aug_2024_PN.pdf) for important information from school. 
+Please refer to the attached letter [**here**](/files/2024/9_Sep_2024_PN.pdf) for important information from school. 
 
 Thank you.
   
