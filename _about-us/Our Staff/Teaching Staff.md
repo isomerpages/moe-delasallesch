@@ -52,7 +52,7 @@ variant: markdown
 |---|---|---|
 | **ST.ANTHONY 4** | Mrs Sheena Ang<br>Ms Mangala Dharishini D/O Harikrishnan | poh_shao_qin_sheena@moe.edu.sg<br>mangala_dharshini_harikrishan@moe.edu.sg |
 |**ST.BERNADETTE 4**| Mr Abdul Gaffar Shaik Yuso  <br>Ms Cai Jueying | abdul_gaffar_shaik_yuso@moe.edu.sg<br>cai_jueying@moe.edu.sg |
-|**ST. CHRISTOPHER 4**| Mdm Yusnizar <br>Ms Soo Ling Ling | yusnizar_yusman@moe.edu.sg <br>soo_ling_ling@moe.edu.sg
+|**ST. CHRISTOPHER 4**| Mdm Yusnizar <br>Ms Soo Ling Ling <br>Ms Nurul I'zzah Basiron| yusnizar_yusman@moe.edu.sg <br>soo_ling_ling@moe.edu.sg<br>nurul_izzah_basiron@moe.edu.sg
 |**ST. DOMINIC 4**| Mrs Judy Yip<br>Mrs Sally Yeo | ong_judy@moe.edu.sg<br>tan_chui_lew@moe.edu.sg |
 |**ST. ELIZABETH 4**| Mr Vikneswaran Narayanan<br>Mdm Siti Munira Batra<br>Mr Jeffrey Lee Tze Wei | vikneswaran_narayanan@moe.edu.sg<br>siti_munira_batra@moe.edu.sg<br>lee_tze_wei_jeffrey@moe.edu.sg |
 |**ST. FRANCIS 4**| Mrs Michelle Chian<br>Mdm Chen Weihua | michelle_chian@moe.edu.sg<br>chen_weihua@moe.edu.sg |
@@ -74,7 +74,7 @@ variant: markdown
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
 | **ST.ANTHONY 6** | Mdm Low Ren Fong<br>Mr Patrick Low Kim Hong | low_ren_fong@moe.edu.sg<br>low_kim_hong@moe.edu.sg |
-|**ST. BERNADETTE 6**| Ms Prema<br>Ms Nurul I'zzah Basiron| prema_a@moe.edu.sg  <br>nurul_izzah_basiron@moe.edu.sg |
+|**ST. BERNADETTE 6**| Ms Prema<br>Ms Teo Su Zhen Porcia| prema_a@moe.edu.sg  <br>teo_su_zhen_porcia@moe.edu.sg  |
 |**ST. CHRISTOPHER 6**| Mrs Chia-Yeo Shin Hua<br>Ms Woon Shio Ching | yeo_shin_hua@moe.edu.sg<br>woon_shio_ching@moe.edu.sg |
 |**ST. DOMINIC 6**| Mr Wee Qi-Rong Ronald<br>Ms Lim Hwee Hong | wee_qi_rong_ronald@moe.edu.sg <br>lim_hwee_hong@moe.edu.sg |
 |**ST. ELIZABETH 6**| Mdm Irene Leong<br>Mr Alex Yao ZhongDe | leong_foong_yee_irene@moe.edu.sg<br>yao_zhongde@moe.edu.sg |
