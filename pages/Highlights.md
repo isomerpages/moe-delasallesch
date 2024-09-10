@@ -13,6 +13,9 @@ description: ""
 </div>
 <h1><strong>Term 2</strong></h1>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Learning_Journey_to_Bird_Paradise__Primary_3__Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Learning_Journey_to_Bird_Paradise__Primary_3__Page_2.jpg">
 </div>
 <p></p>
