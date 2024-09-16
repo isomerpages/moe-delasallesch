@@ -30,9 +30,4 @@ variant: markdown
 #### Uniform
 
 **Jeep Sing Fashion** <br>
-Retail Outlet: <br>
-Blk 4012 Ang Mo Kio Ave 10 #01-09 Techplace 1 S(569628) <br>
-Telephone: 64563198 (Please call before visiting the outlet) <br>
-Website : [https://jeepsinguniform.com.sg/](https://jeepsinguniform.com.sg)
-
-Online Order: [Click Here](https://jeepsinguniform.com.sg/collections/de-la-salle-school)
+Click [**here**](/files/2024/Jeep_Sing_Fashion.pdf)for more information. 
