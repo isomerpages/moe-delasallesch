@@ -30,4 +30,4 @@ variant: markdown
 #### Uniform
 
 **Jeep Sing Fashion** <br>
-Click [**here**](/files/2024/Jeep_Sing_Fashion.pdf)for more information. 
+Click [**here**](/files/2024/Jeep_Sing_Fashion.pdf) for more information.
