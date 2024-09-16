@@ -101,7 +101,6 @@ off Lasallians)</p>
 <hr>
 <h4><strong>School Uniform</strong></h4>
 <p><strong>Jeep Sing Fashion</strong> 
-<br>
 </p>
 <p>Click <a href="/files/2024/Jeep_Sing_Fashion.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
