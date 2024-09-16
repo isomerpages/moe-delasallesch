@@ -100,7 +100,7 @@ off Lasallians)</p>
 <br>- Lunch Break: 11:30am to 12:30pm</p>
 <hr>
 <h4><strong>School Uniform</strong></h4>
-<p><strong>Jeep Sing Fashion</strong> 
+<p><strong>Jeep Sing Fashion</strong>
 </p>
 <p>Click <a href="/files/2024/Jeep_Sing_Fashion.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
