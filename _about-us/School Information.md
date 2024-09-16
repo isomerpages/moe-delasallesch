@@ -101,13 +101,9 @@ off Lasallians)</p>
 <hr>
 <h4><strong>School Uniform</strong></h4>
 <p><strong>Jeep Sing Fashion</strong> 
-<br>Retail Outlet:
-<br>Blk 4012 Ang Mo Kio Ave 10 #01-09 Techplace 1 S(569628)
-<br>Telephone: 64563198 (Please call before visiting the outlet)
-<br>Website : <a href="https://www.jeepsinguniform.com" rel="noopener noreferrer nofollow" target="_blank">www.jeepsinguniform.com</a>
 </p>
-<p>Click <a href="https://forms.office.com/r/3SXVdNrk4b" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the order</p>
+<p>Click <a href="/files/2024/Jeep_Sing_Fashion.pdf" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
 <hr>
 <h4><strong>School Transport</strong></h4>
 <p><strong>Richard Leong Transport Service</strong>

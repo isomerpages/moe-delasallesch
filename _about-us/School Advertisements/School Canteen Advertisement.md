@@ -11,7 +11,7 @@ third_nav_title: School Advertisements
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Western/Fusion/Japanese     | 31 March 2024    | Western or Fusion or Japanese is acceptable     |
+| Western/Fusion/Japanese     | 15 October 2024    | Western or Fusion or Japanese is acceptable     |
 
 
 **Application Procedure**
