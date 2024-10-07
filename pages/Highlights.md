@@ -39,6 +39,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Hari_Raya_Celebrations.jpg">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/P4_Learning_Journey_to_Geylang_Serai_Heritage_Gallery.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Primary_5_Camp.jpg">
 </div>
 <div class="isomer-image-wrapper">
@@ -112,5 +115,29 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Primary_3_Games_Day.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Gallery/Teachers_Day.jpg">
+</div>
 <h1><strong>Term 4</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/P5_LLB_VIA_Outreach_Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/P5_LLB_VIA_Outreach_Page_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/LOVE_Programme_during_recess.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Primary_2_VIA_Project_Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Primary_2_VIA_Project_Page_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Children_s_Day_Celebration_Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Children_s_Day_Celebration_Page_2.jpg">
+</div>
 <p></p>
