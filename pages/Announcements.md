@@ -12,7 +12,7 @@ Dear Parents/Guardians,
   
 Greetings from De La Salle School. 
 
-Please refer to the attached letter  for the welcome message from the Principal.
+Please refer to the attached letter [**here**](/files/2025_P1_Welcome_Message_by_Principal.pdf) for the welcome message from the Principal.
 
 Thank you.
   
