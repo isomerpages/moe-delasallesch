@@ -2,8 +2,9 @@
 title: Parents Gateway
 permalink: /for-parents/parent-gateway/
 description: ""
+variant: markdown
 ---
-## For Parents
+## For&nbsp;Parents
 
 ### Parents Gateway
 
@@ -11,7 +12,7 @@ description: ""
 
 Developed by the Ministry of Education and GovTech, Parents Gateway is a one-stop portal that strengthens school-home partnership to support our children in their education journey.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="Parents Gateway Onboarding video for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="Parents Gateway Onboarding video for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 #### For Parents:
 
@@ -21,18 +22,18 @@ Developed by the Ministry of Education and GovTech, Parents Gateway is a one-sto
 - Keep track of upcoming activities for multiple children.
 
 #### For more information:
-[Parents Getway Website](https://pg.moe.edu.sg/)
+[Parents Gateway Website](https://pg.moe.edu.sg/)
 
 #### To download:
 [Apple Devices](https://apps.apple.com/sg/app/parents-gateway/id1267198708)<br>
-[Android Devices](https://play.google.com/store/apps/details?id=com.moe.pgp&pli=1)
+[Android Devices](https://play.google.com/store/apps/details?id=com.moe.pgp&amp;pli=1)
 
-#### Current Updates: 
+#### Current Updates:&nbsp;
 **Version 4.0.1 (As Of February 2020)**
 
 1\. HQ Pop-up comms will be pinned at the top of the “Home” page. By tapping on the pinned message, parents would be able to access the Pop-up Comms message.<br>
-2\. Capitalisation of  names, class and schools - Parent’s, student’s, class and school names will be shown in capital letters.
+2\. Capitalisation of&nbsp; names, class and schools - Parent’s, student’s, class and school names will be shown in capital letters.
 
 [https://youtu.be/PCM5o8jAncc](https://www.youtube.com/watch?v=PCM5o8jAncc)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PCM5o8jAncc" title="MOE Parents Gateway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PCM5o8jAncc" title="MOE Parents Gateway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
