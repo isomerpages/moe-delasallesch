@@ -25,8 +25,7 @@ Please take note of the following: <br>
 · You may refer to the instructions on how to set up a Zoom account at https://support.zoom.com/hc/en/article?id=zm_kb&amp;sysparm_article=KB0061316. <br>
 · During registration, under the email address field, please use your Zoom account’s email. <br>
 · Upon successful registration, you will receive a confirmation email with the Zoom details by 6 November 2024, 5 pm.<br>
-· Only successful registered Zoom accounts will be able to enter the Zoom session. Therefore, please ensure that you join the session using the Zoom account that you used for registration.
-
+· Only successful registered Zoom accounts will be able to enter the Zoom session. Therefore, please ensure that you join the session using the Zoom account that you used for registration.<br>
 Thank you.
 
 Semper Fidelis,<br>
