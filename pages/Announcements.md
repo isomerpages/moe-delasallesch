@@ -6,6 +6,18 @@ variant: markdown
 ---
 ## Announcements
 
+### End of School Year 2024 
+
+
+Dear Parents/Guardians,
+  
+Greetings from De La Salle School. 
+
+Please refer to the attached letter [**here**](/files/1_Nov_2024_PN_EOY.pdf) for important information from school.&nbsp;
+
+Thank you.
+  
+De La Salle School
 ### 2025 Primary 1 Orientation Day
 
 Dear Parents/Guardians,<br>
@@ -39,18 +51,6 @@ Dear Parents/Guardians,
 Greetings from De La Salle School. 
 
 Please refer to the attached letter [**here**](/files/2025_P1_Welcome_Message_by_Principal.pdf) for the welcome message from the Principal.
-
-Thank you.
-  
-De La Salle School
-### October 2024 Parent Notification
-
-
-Dear Parents/Guardians,
-  
-Greetings from De La Salle School. 
-
-Please refer to the attached letter [**here**](/files/3_Oct_2024_PN.pdf)&nbsp; for important information from school.&nbsp;
 
 Thank you.
   
