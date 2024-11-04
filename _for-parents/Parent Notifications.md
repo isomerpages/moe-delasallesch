@@ -34,4 +34,4 @@ variant: markdown
 
 [October 2024 Parent Notification](/files/3_Oct_2024_PN.pdf)
 
-[End of Year 2024](/files/1_Nov_2024_PN_EOY.pdf)
+[End of School Year 2024](/files/1_Nov_2024_PN_EOY.pdf)
