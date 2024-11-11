@@ -10,10 +10,9 @@ variant: markdown
 
 #### Booklist
 
+[DLS P1 2025](/files/2024/P1_Book_List.pdf)
 
-[DLS P1 2024](/files/DLS_P1_2024.pdf) 
-
-[DLS P2 2024](/files/DLS_P2_2024.pdf)
+[DLS P2 2025](/files/2024/P2_Book_List.pdf)
 
 [DLS P3 2024](/files/DLS_P3_2024.pdf)
 
