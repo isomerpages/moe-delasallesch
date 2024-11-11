@@ -10,22 +10,18 @@ variant: markdown
 
 #### Booklist
 
+[DLS P1 2025](/files/2024/P1_Book_List.pdf)
 
-[DLS P1 2024](/files/DLS_P1_2024.pdf) 
+[DLS P2 2025](/files/2024/P2_Book_List.pdf)
 
-[DLS P2 2024](/files/DLS_P2_2024.pdf)
+[DLS P3 2025](/files/2024/P3_Book_List.pdf)
 
-[DLS P3 2024](/files/DLS_P3_2024.pdf)
+[DLS P4 2025](/files/2024/P4_Book_List.pdf)
 
-[DLS P4 2024](/files/DLS_P4_2024.pdf)
+[DLS P5 2025](/files/2024/P5_Book_List.pdf)
 
-[DLS P5 2024](/files/DLS_P5_2024.pdf)
+[DLS P6 2025](/files/2024/P6_Book_List.pdf)
 
-[DLS P5 FDN 2024](/files/DLS_P5__FDN__2024.pdf)
-
-[DLS P6 2024](/files/DLS_P6_2024.pdf)
-
-[DLS P6 FDN 2024](/files/DLS_P6__FDN__2024.pdf)
 
 #### Uniform
 
