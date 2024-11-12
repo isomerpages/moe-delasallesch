@@ -26,4 +26,4 @@ variant: markdown
 #### Uniform
 
 **Jeep Sing Fashion** <br>
-Click [**here**](/files/Uniform_Sale_Schedule_2024.pdf) to view the uniform schedule.
+Click [**here**](/files/Uniform_Sale_Schedule_2024.pdf) to view the uniform sale schedule.
