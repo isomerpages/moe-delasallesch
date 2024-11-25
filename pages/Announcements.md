@@ -8,7 +8,7 @@ variant: markdown
 
 ### SLS Downtime 
 
-The Singapore Student Learning Space (SLS) will be temporarily unavailable during a system upgrade from 26 November 2024 (Tuesday) until the evening of 27 November 2024 (Wednesday). Thank you for your understanding as we enhance the system.
+The Singapore Student Learning Space (SLS) will be temporarily unavailable during a system upgrade from 28 November 2024 (Thursday) until the evening of 29 November 2024 (Friday). Thank you for your understanding as we enhance the system.
 
 ### End of School Year 2024 
 
