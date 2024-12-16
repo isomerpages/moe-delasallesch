@@ -23,11 +23,11 @@ variant: markdown
   </tr>
   <tr>
     <td>Vice Principal (Academic)</td>
-    <td>Mr David Ching<br>dlss@moe.edu.sg</td>
+    <td>Ms Cecilia Tan<br>dlss@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Vice Principal (Academic)</td>
-    <td>Ms Cecilia Tan<br>dlss@moe.edu.sg</td>
+    <td>Ms Adeline Liu<br>dlss@moe.edu.sg</td>
   </tr>
 	  <tr>
     <td>School Staff Developer</td>
