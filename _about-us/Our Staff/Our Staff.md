@@ -87,7 +87,7 @@ variant: markdown
   </tr>
 	<tr>
     <td>Subject Head Aesthetics</td>
-    <td>Miss Jenny Chew Gek Cheng <br>chew_gek_cheng_a@moe.edu.sg</td>
+    <td>Ms Jenny Chew Gek Cheng <br>chew_gek_cheng_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Subject Head Physical and Health Education </td>
