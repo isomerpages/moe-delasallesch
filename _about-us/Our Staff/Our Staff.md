@@ -69,11 +69,7 @@ variant: markdown
     <td>HOD Curriculum Innovation &amp; Technology </td>
     <td>Mrs Jasmine Chen<br>tan_cai_yun_jasmine@moe.edu.sg </td>
   </tr>
-  <tr>
-    <td>Level Head English Language</td>
-    <td>Ms Prema<br>prema_a@moe.edu.sg</td>
-  </tr>
-  <tr>
+    <tr>
     <td>Level Head Mathematics</td>
     <td>Mr Vikneswaran<br>vikneswaran_narayanan@moe.edu.sg</td>
   </tr>
@@ -82,12 +78,8 @@ variant: markdown
     <td>Mr Phoon Yong Kang<br>phoon_yong_kang@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>Subject Head English</td>
-    <td>Mrs Choy-Ang Weiqi Eunice<br>@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>Subject Head Chinese Language</td>
-    <td>Mdm Goh Lee Sim Eunice<br>goh_lee_sim_eunice@moe.edu.sg</td>
+    <td>Subject Head English Language</td>
+    <td>Mrs Choy-Ang Weiqi <br>ang_weiqi_hong_weiqi@moe.edu.sg</td>
   </tr>
 	<tr>
     <td>Subject Head Mother Tongue Language</td>
@@ -95,7 +87,7 @@ variant: markdown
   </tr>
 	<tr>
     <td>Subject Head Aesthetics</td>
-    <td>Miss Jenny Chew Gek Cheng <br>@moe.edu.sg</td>
+    <td>Ms Jenny Chew Gek Cheng <br>chew_gek_cheng_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Subject Head Physical and Health Education </td>
