@@ -97,6 +97,10 @@ variant: markdown
     <td>Subject Head Mother Tongue Language</td>
     <td>Ms Jasmin Mohd Hannifa <br>jasmin_mohamed_hannifa@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td>Subject Head Aesthetics</td>
+    <td>Miss Jenny Chew Gek Cheng <br>@moe.edu.sg</td>
+  </tr>
   <tr>
     <td>Subject Head Physical and Health Education </td>
     <td>Mr Matthew Teo<br>teo_puay_liang@moe.edu.sg </td>
