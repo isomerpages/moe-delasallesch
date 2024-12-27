@@ -57,10 +57,6 @@ variant: markdown
     <td>HOD Mother Tongue Language</td>
     <td>Mdm Chen Weihua<br>chen_weihua@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td>HOD Aesthetics/CCA</td>
-    <td>Ms Joanne Li<br>li_wai_yee_joanne@moe.edu.sg</td>
-  </tr>
 	 <tr>
     <td>HOD Student Management &amp; Leadership (SML)</td>
     <td>Ms Tay Li Wen<br>tay_li_wen@moe.edu.sg </td>
