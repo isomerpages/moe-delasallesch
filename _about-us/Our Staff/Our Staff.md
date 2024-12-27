@@ -39,7 +39,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Year Head Primary 3 &amp; 4</td>
-    <td>Mr Jeffrey Lee Tze Wei<br>lee_tze_wei_jeffrey@moe.edu.sg</td>
+    <td>Ms Joanne Li Wei<br>li_wai_yee_joanne@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Year Head Primary 5 &amp; 6</td>
@@ -54,16 +54,8 @@ variant: markdown
     <td>Mrs Sally Yeo<br>tan_chui_lew@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>HOD  Mathematics</td>
-    <td>Mr Chew Chee Wai<br>chew_chee_wai@moe.edu.sg </td>
-  </tr>
-  <tr>
     <td>HOD Mother Tongue Language</td>
     <td>Mdm Chen Weihua<br>chen_weihua@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>HOD Aesthetics/CCA</td>
-    <td>Ms Joanne Li<br>li_wai_yee_joanne@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>HOD Student Management &amp; Leadership (SML)</td>
@@ -89,6 +81,10 @@ variant: markdown
     <td>Level Head Science</td>
     <td>Mr Phoon Yong Kang<br>phoon_yong_kang@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td>Subject Head English</td>
+    <td>Mrs Choy-Ang Weiqi Eunice<br>@moe.edu.sg</td>
+  </tr>
   <tr>
     <td>Subject Head Chinese Language</td>
     <td>Mdm Goh Lee Sim Eunice<br>goh_lee_sim_eunice@moe.edu.sg</td>
@@ -97,12 +93,20 @@ variant: markdown
     <td>Subject Head Mother Tongue Language</td>
     <td>Ms Jasmin Mohd Hannifa <br>jasmin_mohamed_hannifa@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td>Subject Head Aesthetics</td>
+    <td>Miss Jenny Chew Gek Cheng <br>@moe.edu.sg</td>
+  </tr>
   <tr>
     <td>Subject Head Physical and Health Education </td>
     <td>Mr Matthew Teo<br>teo_puay_liang@moe.edu.sg </td>
   </tr>
   <tr>
-    <td>Subject Head Student Wellbeing (SWB)</td>
+		</tr><tr>
+    <td>Subject Head CIT</td>
+    <td>Mdm Low Ren Fong<br>low_ren_fong@moe.edu.sg</td>
+  </tr>
+    <tr><td>Subject Head Student Wellbeing (SWB)</td>
     <td>Mrs Chia-Yeo Shin Hua<br>yeo_shin_hua@moe.edu.sg<br></td>
   </tr>
   <tr>
