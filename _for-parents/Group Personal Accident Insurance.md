@@ -8,6 +8,7 @@ variant: markdown
 
 ### Group Personal Accident Insurance
 
-[Product Face Sheet Year 2024](/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf) - Updated on 9/5/2024
+[Product Fact Sheet Year 2025](/files/2025/product_fact_sheet__year_2025.pdf)
+Updated on 2/1/2025
 
 **User Guide**: [Student+GPA+User+Guide+-+Parent](/files/StudentGPAUserGuideParent.pdf)
