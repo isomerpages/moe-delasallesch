@@ -14,12 +14,12 @@ variant: markdown
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
 | **ST.ANTHONY 1** |  Mdm Angie Tan <br>Mdm Wang Xiaoxia | siti_fadilah_saidi@moe.edu.sg<br>wang_xiao_xia@moe.edu.sg
-| **ST.BERNADETTE 1** | Mdm Koh Ting Ting<br>Ms Tay Ai Suan | siti_aisah_mohamed_jasmin@moe.edu.sg<br>tay_ai_suan@moe.edu.sg  |
+| **ST.BERNADETTE 1** | Mdm Koh Ting Ting<br>Ms Teo Su Zhen Porcia| siti_aisah_mohamed_jasmin@moe.edu.sg<br>tay_ai_suan@moe.edu.sg  |
 |**ST.CHRISTOPHER 1** |Ms. Annie Tan<br>Mdm Du Ping Ping | ng_xiang_ling@moe.edu.sg<br>du_pingping@moe.edu.sg |
 |**ST.DOMINIC 1**| Mrs Tracie Goh <br>Mdm Goh Sock Hong | wong_nicole_miin_yi@moe.edu.sg<br>goh_sock_hong@moe.edu.sg |
 |**ST.ELIZABETH 1** | Ms Khoo Li Ying Lynn<br>Ms Joanne Li |azizah_ibrahim@moe.edu.sg<br>li_wai_yee_joanne@moe.edu.sg |
 |**ST.FRANCIS 1** |Mrs Joanne Liou <br>Ms Moganeswary| nur_arifah_adnan@moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg | 
-|**ST.GABRIEL 1** |Ms Sally Koh Bee Shiow<br>Mrs Fam Seow Wee| ang_hwee_nee@moe.edu.sg<br>fam_seow_wee@moe.edu.sg |
+|**ST.GABRIEL 1** |Ms Sally Koh Bee Shiow<br>Mr Fairuzaman Haidzir| ang_hwee_nee@moe.edu.sg<br>fam_seow_wee@moe.edu.sg |
 |**ST.HELEN 1** | Mdm Ng Peiling<br>Ms Joy Ng | ng_peiling@moe.edu.sg<br>joy_ng_d@moe.edu.sg
 
 #### Primary 2 (2024)
@@ -30,9 +30,9 @@ variant: markdown
 | **ST.BERNADETTE 2** | Mdm Siti Aisah Mohamed Jasmin<br>Ms Tay Ai Suan | koh_ting_ting@moe.edu.sg<br>moganeswary_ap_t@moe.edu.sg |
 |**ST.CHRISTOPHER 2**|Mrs Lim-Ng Xiang Ling <br>Ms Nurulain Rashid | tan_mui_yen@moe.edu.sg<br>nurulain_rashid@moe.edu.sg |
 |**ST.DOMINIC 2**| Ms Wong Nicole Miin Yi<br>Ms Vikneshwari D/O Vijayakumar|tan_annie_b@moe.edu.sg<br>vikneshwari_vijayakumar@moe.edu.sg |
-|**ST. ELIZABETH 2**|Mdm Azizah Binte Ibrahim<br>Ms Low Si Wei Ivana | khoo_li_ying@moe.edu.sg<br>low_si_wei_ivana@moe.edu.sg |
+|**ST. ELIZABETH 2**|Mdm Azizah Binte Ibrahim<br>Ms Jasmin Mohd Hannifa  | khoo_li_ying@moe.edu.sg<br>low_si_wei_ivana@moe.edu.sg |
 |**ST. FRANCIS 2**| Miss Nur Arifah Adnan<br>Mdm Lai Chiat Pheng | lau_siew_yee@moe.edu.sg<br>eu_hui_jun@moe.edu.sg |
-|**ST. GABRIEL 2**|Mrs Winnie Wong<br>Ms Low Siok Hua | looi_xinye_grace@moe.edu.sg<br>low_siok_hua@moe.edu.sg |
+|**ST. GABRIEL 2**|Mrs Winnie Wong<br>Mrs Fam Seow Wee| looi_xinye_grace@moe.edu.sg<br>low_siok_hua@moe.edu.sg |
 |**ST. HELEN 2**|  Ms Florence Lim<br>Mdm Choo Lu Min<br> Mdm Jayaraj Margrate Bali | lim_seok_yuen_florence@moe.edu.sg <br> choo_lu_min@moe.edu.sg<br> jayaraj_margrate_bali@moe.edu.sg
 
 #### Primary 3 (2024)
@@ -66,7 +66,7 @@ variant: markdown
 |**ST. CHRISTOPHER 5**| Mrs Agnes Yu <br>Mr Muhammad Hafiz Azhari B Mohd Jamil | agnes_yu@moe.edu.sg<br>muhammad_hafiz_azhari@moe.edu.sg |
 |**ST. DOMINIC 5**| Ms Grace Looi Xinye  Mrs Jasmine Chen<br>Mdm Noor Syakirah Jamal | tan_cai_yun_jasmine@moe.edu.sg<br>noor_syakirah_jamal@moe.edu.sg |
 |**ST. ELIZABETH 5**| Ms Ch'ng Ying Hui<br>Mdm Wang Yun  | chng_ying_hui@moe.edu.sg<br>wang_yun@moe.edu.sg |
-|**ST. FRANCIS 5**| Ms Hui Wing Yan<br>Ms Jasmin Mohd Hannifa | hui_wing_yan@moe.edu.sg<br>jasmin_mohamed_hannifa@moe.edu.sg
+|**ST. FRANCIS 5**| Ms Low Siok Hua <br>Ms Jasmin Mohd Hannifa | hui_wing_yan@moe.edu.sg<br>jasmin_mohamed_hannifa@moe.edu.sg
 |**ST. GABRIEL 5**| Mrs Luanna Goh<br>Mdm Goh Lee Sim Eunice | miller_goh_luanna_judith@moe.edu.sg<br>goh_lee_sim_eunice@moe.edu.sg |
 
 #### Primary 6 (2024)
@@ -74,7 +74,7 @@ variant: markdown
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
 | **ST.ANTHONY 6** | Mdm Low Ren Fong<br>Mr Patrick Low Kim Hong | low_ren_fong@moe.edu.sg<br>low_kim_hong@moe.edu.sg |
-|**ST. BERNADETTE 6**| Ms Prema<br>Ms Teo Su Zhen Porcia| prema_a@moe.edu.sg  <br>teo_su_zhen_porcia@moe.edu.sg  |
+|**ST. BERNADETTE 6**| Ms Prema<br>Ms Low Si Wei Ivana| prema_a@moe.edu.sg  <br>teo_su_zhen_porcia@moe.edu.sg  |
 |**ST. CHRISTOPHER 6**| Mrs Chia-Yeo Shin Hua<br>Ms Woon Shio Ching | yeo_shin_hua@moe.edu.sg<br>woon_shio_ching@moe.edu.sg |
 |**ST. DOMINIC 6**| Mr Wee Qi-Rong Ronald<br>Ms Lim Hwee Hong | wee_qi_rong_ronald@moe.edu.sg <br>lim_hwee_hong@moe.edu.sg |
 |**ST. ELIZABETH 6**| Mdm Irene Leong<br>Mr Alex Yao ZhongDe | leong_foong_yee_irene@moe.edu.sg<br>yao_zhongde@moe.edu.sg |
