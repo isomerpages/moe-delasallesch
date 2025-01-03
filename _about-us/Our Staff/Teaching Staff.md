@@ -9,16 +9,16 @@ variant: markdown
 
 ### Teaching Staff
 
-#### Primary 1 (2024)
+#### Primary 1 (2025)
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
 | **ST.ANTHONY 1** |  Mdm Angie Tan <br>Mdm Wang Xiaoxia | siti_fadilah_saidi@moe.edu.sg<br>wang_xiao_xia@moe.edu.sg
-| **ST.BERNADETTE 1** | Mdm Siti Aisah Mohamed Jasmin<br>Ms Tay Ai Suan | siti_aisah_mohamed_jasmin@moe.edu.sg<br>tay_ai_suan@moe.edu.sg  |
+| **ST.BERNADETTE 1** | Mdm Koh Ting Ting<br>Ms Tay Ai Suan | siti_aisah_mohamed_jasmin@moe.edu.sg<br>tay_ai_suan@moe.edu.sg  |
 |**ST.CHRISTOPHER 1** |Ms. Annie Tan<br>Mdm Du Ping Ping | ng_xiang_ling@moe.edu.sg<br>du_pingping@moe.edu.sg |
 |**ST.DOMINIC 1**| Mrs Tracie Goh <br>Mdm Goh Sock Hong | wong_nicole_miin_yi@moe.edu.sg<br>goh_sock_hong@moe.edu.sg |
 |**ST.ELIZABETH 1** | Ms Khoo Li Ying Lynn<br>Ms Joanne Li |azizah_ibrahim@moe.edu.sg<br>li_wai_yee_joanne@moe.edu.sg |
-|**ST.FRANCIS 1** | Miss Nur Arifah Adnan<br>Mdm Lai Chiat Pheng| nur_arifah_adnan@moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg | 
+|**ST.FRANCIS 1** |Mrs Joanne Liou <br>Ms Moganeswary| nur_arifah_adnan@moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg | 
 |**ST.GABRIEL 1** |Ms Sally Koh Bee Shiow<br>Mrs Fam Seow Wee| ang_hwee_nee@moe.edu.sg<br>fam_seow_wee@moe.edu.sg |
 |**ST.HELEN 1** | Mdm Ng Peiling<br>Ms Joy Ng | ng_peiling@moe.edu.sg<br>joy_ng_d@moe.edu.sg
 
@@ -27,11 +27,11 @@ variant: markdown
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
 | **ST.ANTHONY 2** | Mdm Siti Fadilah Saidi<br>Mdm Wang Xiaoxia | huang_qianyi_tracie@moe.edu.sg<br>koh_bee_shiow@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg |
-| **ST.BERNADETTE 2** | Mdm Koh Ting Ting<br>Ms Moganeswary | koh_ting_ting@moe.edu.sg<br>moganeswary_ap_t@moe.edu.sg |
+| **ST.BERNADETTE 2** | Mdm Siti Aisah Mohamed Jasmin<br>Ms Tay Ai Suan | koh_ting_ting@moe.edu.sg<br>moganeswary_ap_t@moe.edu.sg |
 |**ST.CHRISTOPHER 2**|Mrs Lim-Ng Xiang Ling <br>Ms Nurulain Rashid | tan_mui_yen@moe.edu.sg<br>nurulain_rashid@moe.edu.sg |
 |**ST.DOMINIC 2**| Ms Wong Nicole Miin Yi<br>Ms Vikneshwari D/O Vijayakumar|tan_annie_b@moe.edu.sg<br>vikneshwari_vijayakumar@moe.edu.sg |
 |**ST. ELIZABETH 2**|Mdm Azizah Binte Ibrahim<br>Ms Low Si Wei Ivana | khoo_li_ying@moe.edu.sg<br>low_si_wei_ivana@moe.edu.sg |
-|**ST. FRANCIS 2**|Mrs Joanne Liou <br>Ms Eu Hui Jun | lau_siew_yee@moe.edu.sg<br>eu_hui_jun@moe.edu.sg |
+|**ST. FRANCIS 2**| Miss Nur Arifah Adnan<br>Mdm Lai Chiat Pheng | lau_siew_yee@moe.edu.sg<br>eu_hui_jun@moe.edu.sg |
 |**ST. GABRIEL 2**|Mrs Winnie Wong<br>Ms Low Siok Hua | looi_xinye_grace@moe.edu.sg<br>low_siok_hua@moe.edu.sg |
 |**ST. HELEN 2**|  Ms Florence Lim<br>Mdm Choo Lu Min<br> Mdm Jayaraj Margrate Bali | lim_seok_yuen_florence@moe.edu.sg <br> choo_lu_min@moe.edu.sg<br> jayaraj_margrate_bali@moe.edu.sg
 
@@ -54,7 +54,7 @@ variant: markdown
 |**ST.BERNADETTE 4**| Mr Abdul Gaffar Shaik Yuso  <br>Ms Cai Jueying | abdul_gaffar_shaik_yuso@moe.edu.sg<br>cai_jueying@moe.edu.sg |
 |**ST. CHRISTOPHER 4**| Mdm Yusnizar <br>Ms Soo Ling Ling <br>Ms Nurul I'zzah Basiron| yusnizar_yusman@moe.edu.sg <br>soo_ling_ling@moe.edu.sg<br>nurul_izzah_basiron@moe.edu.sg
 |**ST. DOMINIC 4**| Mrs Judy Yip<br>Mrs Sally Yeo | ong_judy@moe.edu.sg<br>tan_chui_lew@moe.edu.sg |
-|**ST. ELIZABETH 4**| Mr Vikneswaran Narayanan<br>Mdm Siti Munira Batra<br>Mr Jeffrey Lee Tze Wei | vikneswaran_narayanan@moe.edu.sg<br>siti_munira_batra@moe.edu.sg<br>lee_tze_wei_jeffrey@moe.edu.sg |
+|**ST. ELIZABETH 4**| Mr Vikneswaran Narayanan<br>Mdm Siti Munira Batra<br>Ms Eu Hui Jun | vikneswaran_narayanan@moe.edu.sg<br>siti_munira_batra@moe.edu.sg<br>lee_tze_wei_jeffrey@moe.edu.sg |
 |**ST. FRANCIS 4**| Mrs Michelle Chian<br>Mdm Chen Weihua | michelle_chian@moe.edu.sg<br>chen_weihua@moe.edu.sg |
 
 #### Primary 5 (2024)
