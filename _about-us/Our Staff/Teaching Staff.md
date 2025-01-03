@@ -13,7 +13,7 @@ variant: markdown
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
-| **ST.ANTHONY 1** |  Mdm Angie Tan <br>Mdm Yang Xiao Ting |tan_mui_yen @moe.edu.sg<br>yang_xiao_ting@moe.edu.sg
+| **ST.ANTHONY 1** |  Mdm Angie Tan <br>Mdm Yang Xiao Ting |tan_mui_yen@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg
 | **ST.BERNADETTE 1** | Mdm Koh Ting Ting<br>Ms Teo Su Zhen Porcia| siti_aisah_mohamed_jasmin@moe.edu.sg<br>teo_su_zhen_porcia@moe.edu.sg  |
 |**ST.CHRISTOPHER 1** |Ms. Annie Tan<br>Mdm Du Ping Ping | tan_annie_b@moe.edu.sg<br>du_pingping@moe.edu.sg |
 |**ST.DOMINIC 1**| Mrs Tracie Goh <br>Mdm Goh Sock Hong | huang_qianyi_tracie@moe.edu.sg<br>goh_sock_hong@moe.edu.sg |
