@@ -15,7 +15,7 @@ variant: markdown
 |---|---|---|
 | **ST.ANTHONY 1** |  Mdm Angie Tan <br>Mdm Yang Xiao Ting |tan_mui_yen@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg
 | **ST.BERNADETTE 1** | Mdm Koh Ting Ting<br>Ms Teo Su Zhen Porcia| koh_ting_ting@moe.edu.sg<br>teo_su_zhen_porcia@moe.edu.sg  |
-|**ST.CHRISTOPHER 1** |Ms. Annie Tan<br>Mdm Du Ping Ping | tan_annie_b@moe.edu.sg<br>du_pingping@moe.edu.sg |
+|**ST.CHRISTOPHER 1** |Ms. Annie Tan<br>Mdm Choo Lu Min | tan_annie_b@moe.edu.sg<br>du_pingping@moe.edu.sg |
 |**ST.DOMINIC 1**| Mrs Tracie Goh <br>Mdm Goh Sock Hong | huang_qianyi_tracie@moe.edu.sg<br>goh_sock_hong@moe.edu.sg |
 |**ST.ELIZABETH 1** | Ms Khoo Li Ying Lynn<br>Ms Joanne Li |khoo_li_ying@moe.edu.sg<br>li_wai_yee_joanne@moe.edu.sg |
 |**ST.FRANCIS 1** |Mrs Joanne Liou <br>Ms Moganeswary| lau_siew_yee@moe.edu.sg<br>moganeswary_ap_t@moe.edu.sg | 
