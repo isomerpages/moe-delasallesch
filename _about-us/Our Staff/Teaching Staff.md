@@ -17,8 +17,8 @@ variant: markdown
 | **ST.BERNADETTE 1** | Mdm Koh Ting Ting<br>Ms Teo Su Zhen Porcia| siti_aisah_mohamed_jasmin@moe.edu.sg<br>teo_su_zhen_porcia@moe.edu.sg  |
 |**ST.CHRISTOPHER 1** |Ms. Annie Tan<br>Mdm Du Ping Ping | tan_annie_b@moe.edu.sg<br>du_pingping@moe.edu.sg |
 |**ST.DOMINIC 1**| Mrs Tracie Goh <br>Mdm Goh Sock Hong | huang_qianyi_tracie@moe.edu.sg<br>goh_sock_hong@moe.edu.sg |
-|**ST.ELIZABETH 1** | Ms Khoo Li Ying Lynn<br>Ms Joanne Li |azizah_ibrahim@moe.edu.sg<br>li_wai_yee_joanne@moe.edu.sg |
-|**ST.FRANCIS 1** |Mrs Joanne Liou <br>Ms Moganeswary| nur_arifah_adnan@moe.edu.sg<br>moganeswary_ap_t@moe.edu.sg | 
+|**ST.ELIZABETH 1** | Ms Khoo Li Ying Lynn<br>Ms Joanne Li |khoo_li_ying@moe.edu.sg<br>li_wai_yee_joanne@moe.edu.sg |
+|**ST.FRANCIS 1** |Mrs Joanne Liou <br>Ms Moganeswary| lau_siew_yee@moe.edu.sg<br>moganeswary_ap_t@moe.edu.sg | 
 |**ST.GABRIEL 1** |Ms Sally Koh Bee Shiow<br>Mr Fairuzaman Haidzir| ang_hwee_nee@moe.edu.sg<br>fam_seow_wee@moe.edu.sg |
 |**ST.HELEN 1** | Mdm Ng Peiling<br>Ms Joy Ng | ng_peiling@moe.edu.sg<br>joy_ng_d@moe.edu.sg
 
@@ -30,8 +30,8 @@ variant: markdown
 | **ST.BERNADETTE 2** | Mdm Siti Aisah Mohamed Jasmin<br>Ms Tay Ai Suan | koh_ting_ting@moe.edu.sg<br>tay_ai_suan@moe.edu.sg |
 |**ST.CHRISTOPHER 2**|Mrs Lim-Ng Xiang Ling <br>Mdm Du Ping Ping | ng_xiang_ling@moe.edu.sg<br>nurulain_rashid@moe.edu.sg |
 |**ST.DOMINIC 2**| Ms Wong Nicole Miin Yi<br>Ms Vikneshwari D/O Vijayakumar|wong_nicole_miin_yi@moe.edu.sg<br>vikneshwari_vijayakumar@moe.edu.sg |
-|**ST. ELIZABETH 2**|Mdm Azizah Binte Ibrahim<br>Ms Jasmin Mohd Hannifa  | khoo_li_ying@moe.edu.sg<br>low_si_wei_ivana@moe.edu.sg |
-|**ST. FRANCIS 2**| Miss Nur Arifah Adnan<br>Mdm Lai Chiat Pheng | lau_siew_yee@moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg |
+|**ST. ELIZABETH 2**|Mdm Azizah Binte Ibrahim<br>Ms Jasmin Mohd Hannifa  | azizah_ibrahim@moe.edu.sg<br>low_si_wei_ivana@moe.edu.sg |
+|**ST. FRANCIS 2**| Miss Nur Arifah Adnan<br>Mdm Lai Chiat Pheng | nur_arifah_adnan@moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg |
 |**ST. GABRIEL 2**|Mrs Winnie Wong<br>Mrs Fam Seow Wee| looi_xinye_grace@moe.edu.sg<br>low_siok_hua@moe.edu.sg |
 |**ST. HELEN 2**|  Ms Florence Lim<br>Mdm Choo Lu Min<br> Mdm Jayaraj Margrate Bali | lim_seok_yuen_florence@moe.edu.sg <br> choo_lu_min@moe.edu.sg<br> jayaraj_margrate_bali@moe.edu.sg
 
