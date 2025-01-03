@@ -65,7 +65,7 @@ variant: markdown
 |**ST. BERNADETTE 5**| Mr Alex Yao ZhongDe<br>Mrs Amy Liew | thiviya_thulasidharan@moe.edu.sg<br>amy_lee_may_chyou@moe.edu.sg |
 |**ST. CHRISTOPHER 5**| Ms Nurul I'zzah Basiron <br>Mrs Chia-Yeo Shin Hu <br>Mrs Sally Yeo | agnes_yu@moe.edu.sg<br>tan_chui_lew@moe.edu.sg |
 |**ST. DOMINIC 5**| Ms Grace Looi Xinye  Mrs Jasmine Chen<br>Mdm Noor Syakirah Jamal | tan_cai_yun_jasmine@moe.edu.sg<br>noor_syakirah_jamal@moe.edu.sg |
-|**ST. ELIZABETH 5**| Ms Ch'ng Ying Hui<br>Mr Matthew Teo  | chng_ying_hui@moe.edu.sg<br>wang_yun@moe.edu.sg |
+|**ST. ELIZABETH 5**| Mdm Irene Leong<br>Mr Matthew Teo  | leong_foong_yee_irene@moe.edu.sg<br>wang_yun@moe.edu.sg |
 |**ST. FRANCIS 5**| Ms Nur Azlina Ngad <br>Ms Low Siok Hua <br>Ms Mangala Dharishini D/O Harikrishnan | hui_wing_yan@moe.edu.sg<br>jasmin_mohamed_hannifa@moe.edu.sg
 |**ST. GABRIEL 5**| Mrs Luanna Goh<br>Mdm Goh Lee Sim Eunice | miller_goh_luanna_judith@moe.edu.sg<br>goh_lee_sim_eunice@moe.edu.sg |
 
@@ -77,6 +77,6 @@ variant: markdown
 |**ST. BERNADETTE 6**| Miss Thiviya Thulasidharan<br>Ms Low Si Wei Ivana| thiviya_thulasidharan@moe.edu.sg  <br>low_si_wei_ivana@moe.edu.sg  |
 |**ST. CHRISTOPHER 6**| Mrs Agnes Yu a<br>Mr Muhammad Hafiz Azhari B Mohd Jamil | yeo_shin_hua@moe.edu.sg<br>muhammad_hafiz_azhari@moe.edu.sg |
 |**ST. DOMINIC 6**| Mr Wee Qi-Rong Ronald<br>Ms Lim Hwee Hong | wee_qi_rong_ronald@moe.edu.sg <br>lim_hwee_hong@moe.edu.sg |
-|**ST. ELIZABETH 6**| Mdm Irene Leong<br>Mdm Wang Yun | leong_foong_yee_irene@moe.edu.sg<br>yao_zhongde@moe.edu.sg |
+|**ST. ELIZABETH 6**|Ms Ch'ng Ying Hui<br>Mdm Wang Yun | chng_ying_hui@moe.edu.sg<br>yao_zhongde@moe.edu.sg |
 |**ST. FRANCIS 6**| Ms Nur Azlina Ngadi<br>Mr Vikneswaran Narayanan| nur_azlina_ngadi@moe.edu.sg<br>teo_puay_liang@moe.edu.sg |
 |**ST. GABRIEL 6**| Ms Nor Hashanah B M R<br>Mr Chew Chee Wai | nor_hashanah_mohammad_razif@moe.edu.sg<br>chew_chee_wai@moe.edu.sg |
