@@ -15,11 +15,11 @@ variant: markdown
 |---|---|---|
 | **ST.ANTHONY 1** |  Mdm Angie Tan <br>Mdm Yang Xiao Ting |tan_mui_yen@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg
 | **ST.BERNADETTE 1** | Mdm Koh Ting Ting<br>Ms Teo Su Zhen Porcia| koh_ting_ting@moe.edu.sg<br>teo_su_zhen_porcia@moe.edu.sg  |
-|**ST.CHRISTOPHER 1** |Ms. Annie Tan<br>Mdm Choo Lu Min | tan_annie_b@moe.edu.sg<br>du_pingping@moe.edu.sg |
-|**ST.DOMINIC 1**| Mrs Tracie Goh <br>Ms Jenny Chew Gek Cheng | huang_qianyi_tracie@moe.edu.sg<br>goh_sock_hong@moe.edu.sg |
+|**ST.CHRISTOPHER 1** |Ms. Annie Tan<br>Mdm Choo Lu Min <br>Ms Helen Yeo | tan_annie_b@moe.edu.sg<br>choo_lu_min@moe.edu.sg |
+|**ST.DOMINIC 1**| Mrs Tracie Goh <br>Ms Jenny Chew Gek Cheng | huang_qianyi_tracie@moe.edu.sg<br>chew_gek_cheng_a@moe.edu.sg |
 |**ST.ELIZABETH 1** | Ms Khoo Li Ying Lynn<br>Ms Soo Ling Ling |khoo_li_ying@moe.edu.sg<br>soo_ling_ling@moe.edu.sg |
 |**ST.FRANCIS 1** |Mrs Joanne Liou <br>Ms Moganeswary| lau_siew_yee@moe.edu.sg<br>moganeswary_ap_t@moe.edu.sg | 
-|**ST.GABRIEL 1** |Ms Sally Koh Bee Shiow<br>Mr Fairuzaman Haidzir| koh_bee_shiow@moe.edu.sg<br>fam_seow_wee@moe.edu.sg |
+|**ST.GABRIEL 1** |Ms Sally Koh Bee Shiow<br>Mr Fairuzaman Haidzir| koh_bee_shiow@moe.edu.sg<br>fairuzaman_haidzir@moe.edu.sg |
 |**ST.HELEN 1** | Ms Joy Ng<br>Ms Florence Lim <br> Mdm Rabby | joy_ng_d@moe.edu.sg<br>lim_seok_yuen_florence@moe.edu.sg
 
 #### Primary 2 (2025)
