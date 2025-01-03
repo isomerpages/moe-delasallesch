@@ -43,7 +43,7 @@ variant: markdown
 | **ST.BERNADETTE 3** | Mr Phoon Yong Kang<br>Ms Tan Xiao Wei | phoon_yong_kang@moe.edu.sg<br>tan_xiao_wei@moe.edu.sg |
 |**ST.CHRISTOPHER 3**| Ms Sharon Ker Kai Ling<br>Ms Woon Shio Ching| sharon_ker_kai_ling@moe.edu.sg<br>haikal_eiman@moe.edu.sg |
 |**ST.DOMINIC 3**| Miss Laavanyah Alagasamy<br>Ms Tan Chiew Hoon| laavanyah_alagasamy@moe.edu.sg<br>tan_chiew_hoon_a@moe.edu.sg
-|**ST. ELIZABETH 3**| Mrs Amy Liew<br>Mr Fairuzaman Haidzir | julia_zheng_xiu_fen@moe.edu.sg<br>fairuzaman_haidzir@moe.edu.sg |
+|**ST. ELIZABETH 3**| Mrs Amy Liew<br>Mdm Siti Munira Batra | julia_zheng_xiu_fen@moe.edu.sg<br>fairuzaman_haidzir@moe.edu.sg |
 |**ST. FRANCIS 3**|Mr Pwee Kiat Kah<br>Ms Afzal-En-Nisa | pwee_kiat_kah@moe.edu.sg<br>afzal-en-nisa_mohamad_na@moe.edu.sg |
 
 #### Primary 4 (2025)
