@@ -44,16 +44,16 @@ variant: markdown
 |**ST.CHRISTOPHER 3**| Mdm Low Ren Fong<br>Ms Woon Shio Ching| low_ren_fong@moe.edu.sg<br>woon_shio_ching@moe.edu.sg |
 |**ST.DOMINIC 3**| Mrs Judy Yip<br>Mdm Chen Weihua| ong_judy@moe.edu.sg<br>tan_chiew_hoon_a@moe.edu.sg
 |**ST. ELIZABETH 3**| Mrs Amy Liew<br>Mdm Siti Munira Batra | julia_zheng_xiu_fen@moe.edu.sg<br>fairuzaman_haidzir@moe.edu.sg |
-|**ST. FRANCIS 3**|Mrs Michelle Chian<br>Ms Cai Jueying | michelle_chian@moe.edu.sg<br>afzal-en-nisa_mohamad_na@moe.edu.sg |
+|**ST. FRANCIS 3**|Mrs Michelle Chian<br>Ms Cai Jueying | michelle_chian@moe.edu.sg<br>cai_jueying@moe.edu.sg |
 
 #### Primary 4 (2025)
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
 | **ST.ANTHONY 4** | Mr Mohamed Nadzri<br>Mdm Bharathi Jaganathan | mohamed_nadzri_md_nasir@moe.edu.sg<br>bharathi_jaganathan@moe.edu.sg |
-|**ST.BERNADETTE 4**| Mr Phoon Yong Kang <br>Ms Cai Jueying | phoon_yong_kang@moe.edu.sg<br>cai_jueying@moe.edu.sg |
-|**ST. CHRISTOPHER 4**| Ms Sharon Ker Kai Ling <br>Ms Soo Ling Ling <br>Mr Haikal Eiman Supa'at| sharon_ker_kai_ling@moe.edu.sg <br>haikal_eiman@moe.edu.sg<br>nurul_izzah_basiron@moe.edu.sg
-|**ST. DOMINIC 4**| Ms Laavanyah Alagasamy<br>Ms Nurulain Rashid | laavanyah_alagasamy@moe.edu.sg<br>nurulain_rashid@moe.edu.sg |
+|**ST.BERNADETTE 4**| Mr Phoon Yong Kang <br>Ms Cai Jueying | tan_xiao_wei@moe.edu.sg<br>phoon_yong_kang@moe.edu.sg |
+|**ST. CHRISTOPHER 4**| Ms Sharon Ker Kai Ling <br>Mr Haikal Eiman Supa'at <br>Ms Judiann | sharon_ker_kai_ling@moe.edu.sg <br>haikal_eiman@moe.edu.sg<br>nurul_izzah_basiron@moe.edu.sg
+|**ST. DOMINIC 4**| Ms Laavanyah Alagasamy<br>Ms Nurulain Rashid <br>Ms Janet Thang | laavanyah_alagasamy@moe.edu.sg<br>nurulain_rashid@moe.edu.sg |
 |**ST. ELIZABETH 4**| Mrs Julia Boh<br>Ms Eu Hui Jun | julia_zheng_xiu_fen@moe.edu.sg<br>siti_munira_batra@moe.edu.sg<br>eu_hui_jun@moe.edu.sg |
 |**ST. FRANCIS 4**| Mr Pwee Kiat Kah<br>Ms Afzal-En-Nisa | pwee_kiat_kah@moe.edu.sg<br>afzal-en-nisa_mohamad_na@moe.edu.sg |
 
@@ -63,7 +63,7 @@ variant: markdown
 |---|---|---|
 | **ST.ANTHONY 5** |Mr Patrick Low Kim Hong <br>Mdm Yusnizar |low_kim_hong@moe.edu.sg<br>yusnizar_yusman@moe.edu.sg |
 |**ST. BERNADETTE 5**| Mr Alex Yao ZhongDe<br>Mrs Amy Liew | yao_zhongde@moe.edu.sg<br>amy_lee_may_chyou@moe.edu.sg |
-|**ST. CHRISTOPHER 5**| Ms Nurul I'zzah Basiron <br>Mrs Chia-Yeo Shin Hu <br>Mrs Sally Yeo | agnes_yu@moe.edu.sg<br>tan_chui_lew@moe.edu.sg |
+|**ST. CHRISTOPHER 5**| Ms Nurul I'zzah Basiron <br>Mrs Chia-Yeo Shin Hu <br>Mrs Sally Yeo | nurul_izzah_basiron@moe.edu.sg<br>yeo_shin_hua@@moe.edu.sg <br>tan_chui_lew@moe.edu.sg |
 |**ST. DOMINIC 5**| Ms Grace Looi Xinye  Mrs Jasmine Chen<br>Mdm Noor Syakirah Jamal | tan_cai_yun_jasmine@moe.edu.sg<br>noor_syakirah_jamal@moe.edu.sg |
 |**ST. ELIZABETH 5**| Mdm Irene Leong<br>Mr Matthew Teo  | leong_foong_yee_irene@moe.edu.sg<br>teo_puay_liang@moe.edu.sg |
 |**ST. FRANCIS 5**| Ms Nur Azlina Ngad <br>Ms Low Siok Hua <br>Ms Mangala Dharishini D/O Harikrishnan | nur_azlina_ngadi@moe.edu.sg<br>low_siok_hua@moe.edu.sg
@@ -75,7 +75,7 @@ variant: markdown
 |---|---|---|
 | **ST.ANTHONY 6** |Mdm Muneera Begum  <br>Ms Tay Li Wen| muneera_begum_mohamed_iqbal@moe.edu.sg<br>tay_li_wen@moe.edu.sg |
 |**ST. BERNADETTE 6**| Miss Thiviya Thulasidharan<br>Ms Low Si Wei Ivana| thiviya_thulasidharan@moe.edu.sg  <br>low_si_wei_ivana@moe.edu.sg  |
-|**ST. CHRISTOPHER 6**| Mrs Agnes Yu a<br>Mr Muhammad Hafiz Azhari B Mohd Jamil | yeo_shin_hua@moe.edu.sg<br>muhammad_hafiz_azhari@moe.edu.sg |
+|**ST. CHRISTOPHER 6**| Mrs Agnes Yu a<br>Mr Muhammad Hafiz Azhari B Mohd Jamil | agnes_yu@moe.edu.sg<br>muhammad_hafiz_azhari@moe.edu.sg |
 |**ST. DOMINIC 6**| Mr Wee Qi-Rong Ronald<br>Ms Lim Hwee Hong | wee_qi_rong_ronald@moe.edu.sg <br>lim_hwee_hong@moe.edu.sg |
 |**ST. ELIZABETH 6**|Ms Ch'ng Ying Hui<br>Mdm Wang Yun | chng_ying_hui@moe.edu.sg<br>wang_yun@moe.edu.sg |
 |**ST. FRANCIS 6**| Ms Nur Azlina Ngadi<br>Mr Vikneswaran Narayanan| nur_azlina_ngadi@moe.edu.sg<br>vikneswaran_narayanan@moe.edu.sg |
