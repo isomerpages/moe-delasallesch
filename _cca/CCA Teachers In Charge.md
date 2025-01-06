@@ -46,7 +46,7 @@ variant: markdown
     <td><a href="mailto:ng_peiling@moe.edu.sg">ng_peiling@moe.edu.sg</a><br><br><br><br><a href="mailto:wang_yun@moe.edu.sg">wang_yun@moe.edu.sg</a><br><br><a href="mailto:afzal-en-nisa_mohamad_na@moe.edu.sg">afzal-en-nisa_mohamad_na@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td rowspan="6">Aesthetics </td>
+    <td rowspan="5">Aesthetics </td>
     <td>Media Club </td>
     <td><b>Overall IC: Mdm Eunice Goh </b><br>Ms Ivana Low<br><br>Mdm Du Ping Ping <br><br>Ms Nor Hashanah</td>
     <td><a href="mailto:eunice_goh@moe.edu.sg">eunice_goh@moe.edu.sg</a><br><br><br>
