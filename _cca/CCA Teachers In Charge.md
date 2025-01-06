@@ -22,28 +22,28 @@ variant: markdown
     <td rowspan="5">Sports </td>
     <td>Hockey </td>
     <td><b>Overall IC:  Mr Muhammad Hafiz </b><br><br>Mr Haikal Eiman<br><br>Mdm Aisah<br><br> Ms Joy Ng<br></td>
-    <td><a href="mailto:muhammad_hafiz_azhari@moe.edu.sg">muhammad_hafiz_azhari@moe.edu.sg</a><br><br><br><br><a href="mailto:haikal_eiman@moe.edu.sg">haikal_eiman@moe.edu.sg</a><br><br><a href="mailto:siti_aisah_mohamed_jasmin@moe.edu.sg">siti_aisah_mohamed_jasmin@moe.edu.sg</a><br><br><a href="mailto:joy_ng_d@moe.edu.sg">joy_ng_d@moe.edu.sg</a><br></td>
+    <td><a href="mailto:muhammad_hafiz_azhari@moe.edu.sg">muhammad_hafiz_azhari@moe.edu.sg</a><br><br><br><a href="mailto:haikal_eiman@moe.edu.sg">haikal_eiman@moe.edu.sg</a><br><br><a href="mailto:siti_aisah_mohamed_jasmin@moe.edu.sg">siti_aisah_mohamed_jasmin@moe.edu.sg</a><br><br><a href="mailto:joy_ng_d@moe.edu.sg">joy_ng_d@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Basketball </td>
     <td><b>Overall IC: Mr Alex Yao </b><br><br>Ms Vikneshwari <br><br>Ms Cai Jueying  </td>
-    <td><a href="mailto:yao_zhongde@moe.edu.sg">yao_zhongde@moe.edu.sg</a><br><br><a href="mailto:vikneshwari_vijayakumar@moe.edu.sg">vikneshwari_vijayakumar@moe.edu.sg</a><br><br><br><a href="mailto:cai_jueying@moe.edu.sg">cai_jueying@moe.edu.sg</a><br><br>
+    <td><a href="mailto:yao_zhongde@moe.edu.sg">yao_zhongde@moe.edu.sg</a><br><br><a href="mailto:vikneshwari_vijayakumar@moe.edu.sg">vikneshwari_vijayakumar@moe.edu.sg</a><br><br><a href="mailto:cai_jueying@moe.edu.sg">cai_jueying@moe.edu.sg</a><br><br>
   </td></tr><tr>
     <td>Rugby</td>
     <td><b>Overall IC: Mr Patrick Low </b><br><br>Mdm Siti Fadilah <br><br>Mdm Choo Lu Min<br></td>
-    <td><a href="mailto:low_kim_hong@moe.edu.sg">low_kim_hong@moe.edu.sg</a><br><br><a href="mailto:siti_fadilah_saidi@moe.edu.sg">siti_fadilah_saidi@moe.edu.sg</a><br><br><br><a href="mailto:choo_lu_min@moe.edu.sg">choo_lu_min@moe.edu.sg</a><br></td>
+    <td><a href="mailto:low_kim_hong@moe.edu.sg">low_kim_hong@moe.edu.sg</a><br><br><a href="mailto:siti_fadilah_saidi@moe.edu.sg">siti_fadilah_saidi@moe.edu.sg</a><br><br><a href="mailto:choo_lu_min@moe.edu.sg">choo_lu_min@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Netball </td>
     <td><b>Overall IC: Mdm Sally Koh</b> <br><br>Ms Sharon Ker<br><br>Ms Ch’ng Ying Hui<br><br>Mrs Sheena Poh </td>
-    <td><a href="mailto:sally_koh_bee_shiow@moe.edu.sg">sally_koh_bee_shiow@moe.edu.sg</a><br><br><br><a href="mailto:sharon_ker_kai_ling@moe.edu.sg">sharon_ker_kai_ling@moe.edu.sg</a><br><br><a href="mailto:chng_ying_hui@moe.edu.sg">chng_ying_hui@moe.edu.sg</a><br><br>
+    <td><a href="mailto:sally_koh_bee_shiow@moe.edu.sg">sally_koh_bee_shiow@moe.edu.sg</a><br><br><a href="mailto:sharon_ker_kai_ling@moe.edu.sg">sharon_ker_kai_ling@moe.edu.sg</a><br><br><a href="mailto:chng_ying_hui@moe.edu.sg">chng_ying_hui@moe.edu.sg</a><br><br>
 			<a href="mailto:poh_shao_qin_sheena@moe.edu.sg">poh_shao_qin_sheena@moe.edu.sg</a>
 		</td>
   </tr>
   <tr>
     <td>Wushu </td>
     <td><b>Overall IC: Mdm Ng Pei Ling </b><br><br>Mdm Wang Yun<br><br>Ms Afzal-En-Nisa<br></td>
-    <td><a href="mailto:ng_peiling@moe.edu.sg">ng_peiling@moe.edu.sg</a><br><br><br><a href="mailto:wang_yun@moe.edu.sg">wang_yun@moe.edu.sg</a><br><br><a href="mailto:afzal-en-nisa_mohamad_na@moe.edu.sg">afzal-en-nisa_mohamad_na@moe.edu.sg</a><br></td>
+    <td><a href="mailto:ng_peiling@moe.edu.sg">ng_peiling@moe.edu.sg</a><br><br><a href="mailto:wang_yun@moe.edu.sg">wang_yun@moe.edu.sg</a><br><br><a href="mailto:afzal-en-nisa_mohamad_na@moe.edu.sg">afzal-en-nisa_mohamad_na@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td rowspan="5">Aesthetics </td>
