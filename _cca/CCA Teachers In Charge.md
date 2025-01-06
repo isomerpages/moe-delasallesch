@@ -36,7 +36,7 @@ variant: markdown
   <tr>
     <td>Netball </td>
     <td><b>Overall IC: Mdm Sally Koh</b> <br><br>Ms Sharon Ker<br><br>Ms Ch’ng Ying Hui<br><br>Mrs Sheena Poh </td>
-    <td><a href="mailto:sally_koh_bee_shiow@moe.edu.sg">sally_koh_bee_shiow@moe.edu.sg</a><br><br><br><br><a href="mailto:sharon_ker_kai_ling@moe.edu.sg">sharon_ker_kai_ling@moe.edu.sg</a><br><br><a href="mailto:chng_ying_hui@moe.edu.sg">chng_ying_hui@moe.edu.sg</a><br><br>
+    <td><a href="mailto:sally_koh_bee_shiow@moe.edu.sg">sally_koh_bee_shiow@moe.edu.sg</a><br><br><br><a href="mailto:sharon_ker_kai_ling@moe.edu.sg">sharon_ker_kai_ling@moe.edu.sg</a><br><br><a href="mailto:chng_ying_hui@moe.edu.sg">chng_ying_hui@moe.edu.sg</a><br><br>
 			<a href="mailto:poh_shao_qin_sheena@moe.edu.sg">poh_shao_qin_sheena@moe.edu.sg</a>
 		</td>
   </tr>
