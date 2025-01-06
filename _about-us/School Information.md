@@ -48,7 +48,7 @@ variant: tiptap
 <p><strong>B</strong> (Lasallians on foot and Visitors)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.45 a.m. - 7.00 a.m.</p>
+<p>6.45 a.m. - 7.00 p.m.</p>
 <p>Controlled by security guards</p>
 </td>
 <td rowspan="1" colspan="1">
