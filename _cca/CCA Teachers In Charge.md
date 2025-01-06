@@ -68,11 +68,6 @@ variant: markdown
     <td><a href="mailto:teo_su_zhen_porcia@moe.edu.sg">teo_su_zhen_porcia@moe.edu.sg</a><br><br><a href="mailto:wang_xiao_xia@moe.edu.sg">wang_xiao_xia@moe.edu.sg</a><br><br><a href="mailto:thiviya_thulasidharan@moe.edu.sg">thiviya_thulasidharan@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Cultural Dance </td>
-    <td><b>Overall IC:  Mdm Tan Chiew Hoon</b><br><br>Ms Arifah</td>
-    <td><a href="mailto:tan_chiew_hoon_a@moe.edu.sg">tan_chiew_hoon_a@moe.edu.sg</a><br><br><br><a href="mailto:nur_arifah_adnan@moe.edu.sg">nur_arifah_adnan@moe.edu.sg</a><br><br></td>
-  </tr>
-  <tr>
     <td>Modern Dance </td>
     <td><b>Overall IC: Mrs Amy Liew</b> <br><br>Mdm Michelle Chian <br><br>Mrs Joanne Liou <br><br>Mdm Yusnizar Yusman</td>
     <td><a href="mailto:amy_lee_may_chyou@moe.edu.sg">amy_lee_may_chyou@moe.edu.sg</a><br><br><a href="mailto:michelle_chian@moe.edu.sg">michelle_chian@moe.edu.sg</a><br><br><a href="mailto:lau_siew_yee@moe.edu.sg">lau_siew_yee@moe.edu.sg</a><br><br><a href="mailto:yusnizar_yusman@moe.edu.sg">yusnizar_yusman@moe.edu.sg</a></td>
