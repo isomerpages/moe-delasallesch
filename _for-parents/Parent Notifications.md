@@ -8,30 +8,6 @@ variant: markdown
 
 ### Parent Notifications
 
-**Term 1 2024**
+**Term 1 2025**
 
-[Start of School Year 2024](/files/Start_of_School_Year_2024.pdf)
-
-[February 2024 Parent Notification](/files/1_Feb_2024_PN.pdf)
-
-[March 2024 Parent Notification](/files/1_Mar_2024_PN.pdf)
-
-**Term 2 2024**
-
-[April 2024 Parent Notification](/files/1_April_2024_PN.pdf)
-
-[May 2024 Parent Notification](/files/2_May_2024_PN.pdf)
-
-**Term 3 2024**
-
-[June 2024 Parent Notification](/files/21_June_PN.pdf)
-
-[August 2024 Parent Notification](/files/2024/1_Aug_2024_PN.pdf)
-
-**Term 4 2024**
-
-[September 2024 Parent Notification](/files/2024/9_Sep_2024_PN.pdf)
-
-[October 2024 Parent Notification](/files/3_Oct_2024_PN.pdf)
-
-[End of School Year 2024](/files/1_Nov_2024_PN_EOY.pdf)
+[Start of School Year 2025](/files/2025/Start_of_School_Year_2025.pdf)

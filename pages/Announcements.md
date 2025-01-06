@@ -7,13 +7,13 @@ variant: markdown
 ## Announcements
 
 
-### End of School Year 2024 
+### Start of School Year 2025 
 
 Dear Parents/Guardians,
   
 Greetings from De La Salle School. 
 
-Please refer to the attached letter [**here**](/files/1_Nov_2024_PN_EOY.pdf) for important information from school.&nbsp;
+Please refer to the attached letter [**here**](/files/2025/Start_of_School_Year_2025.pdf) for important information from school.&nbsp;
 
 Thank you.
   
