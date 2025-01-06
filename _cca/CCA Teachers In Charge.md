@@ -60,23 +60,23 @@ variant: markdown
   <tr>
     <td>McNally Club </td>
     <td><b>Overall IC:  Ms Tan Xiao Wei  </b><br><br>Mdm Ng Xiang Ling<br><br>Mrs Agnes Yu<br><br>Ms Nurul Izzah</td>
-    <td><a href="mailto:tan_xiao_wei@moe.edu.sg">tan_xiao_wei@moe.edu.sg</a><br><br><br><a href="mailto:ng_xiang_ling@moe.edu.sg">ng_xiang_ling@moe.edu.sg</a><br><br><a href="mailto:agnes_lee_ming_chyi@moe.edu.sg">agnes_lee_ming_chyi@moe.edu.sg</a><br><br><a href="mailto:nurul_izzah_basiron@moe.edu.sg">nurul_izzah_basiron@moe.edu.sg</a><br></td>
+    <td><a href="mailto:tan_xiao_wei@moe.edu.sg">tan_xiao_wei@moe.edu.sg</a><br><br><a href="mailto:ng_xiang_ling@moe.edu.sg">ng_xiang_ling@moe.edu.sg</a><br><br><a href="mailto:agnes_lee_ming_chyi@moe.edu.sg">agnes_lee_ming_chyi@moe.edu.sg</a><br><br><a href="mailto:nurul_izzah_basiron@moe.edu.sg">nurul_izzah_basiron@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Choir </td>
     <td><b>Overall IC: Mdm Porcia</b> <br><br>Mdm Wang Xiaoxia<br><br>Miss Thiviya Thulasidharan</td>
-    <td><a href="mailto:teo_su_zhen_porcia@moe.edu.sg">teo_su_zhen_porcia@moe.edu.sg</a><br><br><br><a href="mailto:wang_xiao_xia@moe.edu.sg">wang_xiao_xia@moe.edu.sg</a><br><br><a href="mailto:thiviya_thulasidharan@moe.edu.sg">thiviya_thulasidharan@moe.edu.sg</a></td>
+    <td><a href="mailto:teo_su_zhen_porcia@moe.edu.sg">teo_su_zhen_porcia@moe.edu.sg</a><br><br><a href="mailto:wang_xiao_xia@moe.edu.sg">wang_xiao_xia@moe.edu.sg</a><br><br><a href="mailto:thiviya_thulasidharan@moe.edu.sg">thiviya_thulasidharan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Modern Dance </td>
     <td><b>Overall IC: Mrs Amy Liew</b> <br><br>Mdm Michelle Chian <br><br>Mrs Joanne Liou <br><br>Mdm Yusnizar Yusman</td>
-    <td><a href="mailto:amy_lee_may_chyou@moe.edu.sg">amy_lee_may_chyou@moe.edu.sg</a><br><br><br><a href="mailto:michelle_chian@moe.edu.sg">michelle_chian@moe.edu.sg</a><br><br><br><a href="mailto:lau_siew_yee@moe.edu.sg">lau_siew_yee@moe.edu.sg</a><br><br><br><a href="mailto:yusnizar_yusman@moe.edu.sg">yusnizar_yusman@moe.edu.sg</a></td>
+    <td><a href="mailto:amy_lee_may_chyou@moe.edu.sg">amy_lee_may_chyou@moe.edu.sg</a><br><br><a href="mailto:michelle_chian@moe.edu.sg">michelle_chian@moe.edu.sg</a><br><br><br><a href="mailto:lau_siew_yee@moe.edu.sg">lau_siew_yee@moe.edu.sg</a><br><br><br><a href="mailto:yusnizar_yusman@moe.edu.sg">yusnizar_yusman@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">Uniformed Groups </td>
     <td>Brownies</td>
     <td><b>Overall IC:Mdm Siti Munira</b><br><br>Mrs Fam Seow Wee <br><br>Mdm Soo Ling Ling<br></td>
-    <td><a href="mailto:siti_munira_batra@moe.edu.sg">siti_munira_batra@moe.edu.sg</a><br><br><br><a href="mailto:fam_seow_wee@moe.edu.sg">fam_seow_wee@moe.edu.sg</a><br><br><a href="mailto:soo_ling_ling@moe.edu.sg">soo_ling_ling@moe.edu.sg</a></td>
+    <td><a href="mailto:siti_munira_batra@moe.edu.sg">siti_munira_batra@moe.edu.sg</a><br><br><a href="mailto:fam_seow_wee@moe.edu.sg">fam_seow_wee@moe.edu.sg</a><br><br><a href="mailto:soo_ling_ling@moe.edu.sg">soo_ling_ling@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Scouts </td>
