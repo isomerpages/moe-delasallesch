@@ -96,8 +96,8 @@ variant: markdown
   </tr>
   <tr>
     <td>Chess Club </td>
-    <td><b>Overall IC: Ms Low Siok Hua</b><br><br>Mdm Lai Chiat Peng  <br></td>
-    <td><a href="mailto:low_siok_hua@moe.edu.sg">low_siok_hua@moe.edu.sg</a><br><br><br><a href="mailto:lai_chiat_pheng@moe.edu.sg">lai_chiat_pheng@moe.edu.sg</a><br></td>
+    <td><b>Overall IC: Ms Low Siok Hua</b><br><br>Mdm Irene Leong<br><br>Mdm Liu Dan<br></td>
+    <td><a href="mailto:low_siok_hua@moe.edu.sg">low_siok_hua@moe.edu.sg</a><br><br><br><a href="mailto:leong_foong_yee_irene@moe.edu.sg">leong_foong_yee_irene@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Robotics Club </td>
