@@ -49,7 +49,7 @@ variant: markdown
     <td rowspan="5">Aesthetics </td>
     <td>Media Club </td>
     <td><b>Overall IC: Mdm Eunice Goh </b><br><br>Ms Ivana Low<br><br>Mdm Du Ping Ping <br><br>Ms Nor Hashanah</td>
-    <td><a href="mailto:eunice_goh@moe.edu.sg">eunice_goh@moe.edu.sg</a><br><br><br>
+    <td><a href="mailto:eunice_goh@moe.edu.sg">eunice_goh@moe.edu.sg</a><br><br>
 			<a href="mailto:low_si_wei_ivana@moe.edu.sg">low_si_wei_ivana@moe.edu.sg</a><br><br><a href="mailto:du_pingping@moe.edu.sg">du_pingping@moe.edu.sg</a><br><br><a href="mailto:nor_hashanah_mohammad_razif@moe.edu.sg">nor_hashanah_mohammad_razif@moe.edu.sg</a><br></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ variant: markdown
   <tr>
     <td>Modern Dance </td>
     <td><b>Overall IC: Mrs Amy Liew</b> <br><br>Mdm Michelle Chian <br><br>Mrs Joanne Liou <br><br>Mdm Yusnizar Yusman</td>
-    <td><a href="mailto:amy_lee_may_chyou@moe.edu.sg">amy_lee_may_chyou@moe.edu.sg</a><br><br><a href="mailto:michelle_chian@moe.edu.sg">michelle_chian@moe.edu.sg</a><br><br><br><a href="mailto:lau_siew_yee@moe.edu.sg">lau_siew_yee@moe.edu.sg</a><br><br><br><a href="mailto:yusnizar_yusman@moe.edu.sg">yusnizar_yusman@moe.edu.sg</a></td>
+    <td><a href="mailto:amy_lee_may_chyou@moe.edu.sg">amy_lee_may_chyou@moe.edu.sg</a><br><br><a href="mailto:michelle_chian@moe.edu.sg">michelle_chian@moe.edu.sg</a><br><br><a href="mailto:lau_siew_yee@moe.edu.sg">lau_siew_yee@moe.edu.sg</a><br><br><br><a href="mailto:yusnizar_yusman@moe.edu.sg">yusnizar_yusman@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">Uniformed Groups </td>
