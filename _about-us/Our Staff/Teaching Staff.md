@@ -66,7 +66,7 @@ variant: markdown
 |**ST. CHRISTOPHER 5**| Ms Nurul I'zzah Basiron <br>Mrs Chia-Yeo Shin Hu <br>Mrs Sally Yeo | nurul_izzah_basiron@moe.edu.sg<br>yeo_shin_hua@@moe.edu.sg <br>tan_chui_lew@moe.edu.sg |
 |**ST. DOMINIC 5**| Ms Grace Looi Xinye  Mrs Jasmine Chen<br>Mdm Noor Syakirah Jamal | tan_cai_yun_jasmine@moe.edu.sg<br>noor_syakirah_jamal@moe.edu.sg |
 |**ST. ELIZABETH 5**| Mdm Irene Leong<br>Mr Matthew Teo  | leong_foong_yee_irene@moe.edu.sg<br>teo_puay_liang@moe.edu.sg |
-|**ST. FRANCIS 5**| Ms Nur Azlina Ngad <br>Ms Low Siok Hua <br>Ms Mangala Dharishini D/O Harikrishnan | nur_azlina_ngadi@moe.edu.sg<br>low_siok_hua@moe.edu.sg
+|**ST. FRANCIS 5**| Ms Nur Azlina Ngad <br>Ms Low Siok Hua <br>Ms Mangala Dharishini D/O Harikrishnan | nur_azlina_ngadi@moe.edu.sg<br>low_siok_hua@moe.edu.sg <br>mangala_dharshini_harikrishan@moe.edu.sg |
 |**ST. GABRIEL 5**| Mrs Luanna Goh<br>Mdm Goh Lee Sim Eunice | miller_goh_luanna_judith@moe.edu.sg<br>goh_lee_sim_eunice@moe.edu.sg |
 
 #### Primary 6 (2025)
@@ -78,5 +78,5 @@ variant: markdown
 |**ST. CHRISTOPHER 6**| Mrs Agnes Yu a<br>Mr Muhammad Hafiz Azhari B Mohd Jamil | agnes_yu@moe.edu.sg<br>muhammad_hafiz_azhari@moe.edu.sg |
 |**ST. DOMINIC 6**| Mr Wee Qi-Rong Ronald<br>Ms Lim Hwee Hong | wee_qi_rong_ronald@moe.edu.sg <br>lim_hwee_hong@moe.edu.sg |
 |**ST. ELIZABETH 6**|Ms Ch'ng Ying Hui<br>Mdm Wang Yun | chng_ying_hui@moe.edu.sg<br>wang_yun@moe.edu.sg |
-|**ST. FRANCIS 6**| Ms Nur Azlina Ngadi<br>Mr Vikneswaran Narayanan| nur_azlina_ngadi@moe.edu.sg<br>vikneswaran_narayanan@moe.edu.sg |
+|**ST. FRANCIS 6**| Mr Wee Qi-Rong Ronaldi<br>Mr Vikneswaran Narayanan| nur_azlina_ngadi@moe.edu.sg<br>vikneswaran_narayanan@moe.edu.sg |
 |**ST. GABRIEL 6**| Mrs Luanna Goh<br>Mdm Goh Lee Sim Eunice | miller_goh_luanna_judith@moe.edu.sg<br>goh_lee_sim_eunice@moe.edu.sg |
