@@ -62,7 +62,7 @@ variant: markdown
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
 | **ST.ANTHONY 5** |Mr Patrick Low Kim Hong <br>Mdm Yusnizar |low_kim_hong@moe.edu.sg<br>yusnizar_yusman@moe.edu.sg |
-|**ST. BERNADETTE 5**| Mr Alex Yao ZhongDe<br>Mrs Amy Liew | yao_zhongde@moe.edu.sg<br>amy_lee_may_chyou@moe.edu.sg |
+|**ST. BERNADETTE 5**| Mr Alex Yao ZhongDe<br>Mrs Choy-Ang Weiqi | yao_zhongde@moe.edu.sg<br>ang_weiqi_hong_weiqi@moe.edu.sg |
 |**ST. CHRISTOPHER 5**| Ms Nurul I'zzah Basiron <br>Mrs Chia-Yeo Shin Hu <br>Mrs Sally Yeo | nurul_izzah_basiron@moe.edu.sg<br>yeo_shin_hua@@moe.edu.sg <br>tan_chui_lew@moe.edu.sg |
 |**ST. DOMINIC 5**| Ms Grace Looi Xinye  <br>Ms Lim Hwee Hong <br>Mdm Liu Dang | looi_xinye_grace@moe.edu.sg<br>lim_hwee_hongl@moe.edu.sg |
 |**ST. ELIZABETH 5**| Mdm Irene Leong<br>Mr Matthew Teo  | leong_foong_yee_irene@moe.edu.sg<br>teo_puay_liang@moe.edu.sg |
