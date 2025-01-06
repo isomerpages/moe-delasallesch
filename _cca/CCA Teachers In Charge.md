@@ -48,14 +48,14 @@ variant: markdown
   <tr>
     <td rowspan="5">Aesthetics </td>
     <td>Media Club </td>
-    <td><b>Overall IC: Mdm Eunice Goh </b><br>Ms Ivana Low<br><br>Mdm Du Ping Ping <br><br>Ms Nor Hashanah</td>
+    <td><b>Overall IC: Mdm Eunice Goh </b><br><br>Ms Ivana Low<br><br>Mdm Du Ping Ping <br><br>Ms Nor Hashanah</td>
     <td><a href="mailto:eunice_goh@moe.edu.sg">eunice_goh@moe.edu.sg</a><br><br><br>
 			<a href="mailto:low_si_wei_ivana@moe.edu.sg">low_si_wei_ivana@moe.edu.sg</a><br><br><a href="mailto:du_pingping@moe.edu.sg">du_pingping@moe.edu.sg</a><br><br><a href="mailto:nor_hashanah_mohammad_razif@moe.edu.sg">nor_hashanah_mohammad_razif@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Percussion Ensemble </td>
     <td><b>Overall IC: Ms Woon Shio Ching</b> <br><br>Mdm Sykirah <br></td>
-    <td><a href="mailto:woon_shio_ching@moe.edu.sg">woon_shio_ching@moe.edu.sg</a><br><br><br><br><a href="mailto:noor_syakirah_jamal@moe.edu.sg">noor_syakirah_jamal@moe.edu.sg</a><br></td>
+    <td><a href="mailto:woon_shio_ching@moe.edu.sg">woon_shio_ching@moe.edu.sg</a><br><br><br><a href="mailto:noor_syakirah_jamal@moe.edu.sg">noor_syakirah_jamal@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>McNally Club </td>
