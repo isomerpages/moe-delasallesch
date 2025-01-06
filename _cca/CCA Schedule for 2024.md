@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
-### CCA schedule for 2024
+### CCA schedule for 2025
 
 **Please note:**&nbsp;<br>
 • CCA are scheduled on both Thursday and Friday for Sports CCA. For all other CCA, CCA sessions are scheduled on either Thursday or Friday (refer to table below) &nbsp;<br>
@@ -21,7 +21,7 @@ variant: markdown
   <tr>
     <th>Domains</th>
     <th>CCA</th>
-    <th>Level (2024)</th>
+    <th>Level (2025)</th>
     <th>Days</th>
     <th>CCA Teacher-in-charge</th>
   </tr>
@@ -144,7 +144,7 @@ variant: markdown
   <tr>
     <th>Domains</th>
     <th>CCA</th>
-    <th>Level (2024)<br></th>
+    <th>Level (2025)<br></th>
     <th>Days<br></th>
     <th>CCA Teacher-in-charge</th>
   </tr>
