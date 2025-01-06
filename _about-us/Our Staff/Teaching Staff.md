@@ -66,7 +66,7 @@ variant: markdown
 |**ST. CHRISTOPHER 5**| Ms Nurul I'zzah Basiron <br>Mrs Chia-Yeo Shin Hu <br>Mrs Sally Yeo | nurul_izzah_basiron@moe.edu.sg<br>yeo_shin_hua@moe.edu.sg <br>tan_chui_lew@moe.edu.sg |
 |**ST. DOMINIC 5**| Ms Grace Looi Xinye  <br>Ms Lim Hwee Hong <br>Mdm Liu Dang | looi_xinye_grace@moe.edu.sg<br>lim_hwee_hongl@moe.edu.sg <br>liu_dang@moe.edu.sg |
 |**ST. ELIZABETH 5**| Mdm Irene Leong<br>Mr Matthew Teo  | leong_foong_yee_irene@moe.edu.sg<br>teo_puay_liang@moe.edu.sg |
-|**ST. FRANCIS 5**| Ms Nur Azlina Ngad <br>Ms Low Siok Hua <br>Ms Mangala Dharishini D/O Harikrishnan | nur_azlina_ngadi@moe.edu.sg<br>low_siok_hua@moe.edu.sg <br>mangala_dharshini_harikrishan@moe.edu.sg |
+|**ST. FRANCIS 5**| Ms Nur Azlina Ngadi <br>Ms Low Siok Hua <br>Ms Mangala Dharishini D/O Harikrishnan | nur_azlina_ngadi@moe.edu.sg<br>low_siok_hua@moe.edu.sg <br>mangala_dharshini_harikrishan@moe.edu.sg |
 
 #### Primary 6 (2025)
 
