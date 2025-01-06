@@ -22,15 +22,13 @@ variant: markdown
     <td rowspan="5">Sports </td>
     <td>Hockey </td>
     <td><b>Overall IC:  Mr Muhammad Hafiz </b><br><br>Mr Haikal Eiman<br><br>Mdm Aisah<br><br> Ms Joy Ng<br></td>
-    <td><a href="mailto:haikal_eiman@moe.edu.sg">muhammad_hafiz_azhari@moe.edu.sg</a><br><br><br><a href="mailto:muhammad_hafiz_azhari@moe.edu.sg">haikal_eiman@moe.edu.sg</a><br><br><a href="mailto:siti_aisah_mohamed_jasmin@moe.edu.sg">siti_aisah_mohamed_jasmin@moe.edu.sg</a><br><br><a href="mailto:thong_hui_min@moe.edu.sg">joy_ng_d@moe.edu.sg</a><br></td>
+    <td><a href="mailto:muhammad_hafiz_azhari@moe.edu.sg">muhammad_hafiz_azhari@moe.edu.sg</a><br><br><br><a href="mailto:haikal_eiman@moe.edu.sg">haikal_eiman@moe.edu.sg</a><br><br><a href="mailto:siti_aisah_mohamed_jasmin@moe.edu.sg">siti_aisah_mohamed_jasmin@moe.edu.sg</a><br><br><a href="mailto:joy_ng_d@moe.edu.sg">joy_ng_d@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Basketball </td>
-    <td><b>Overall IC: Ms Vikneshwari</b><br><br>Mr Alex Yao <br><br>Ms Cai Jueying <br><br>Ms Joy Ng </td>
-    <td><a href="mailto:vikneshwari_vijayakumar@moe.edu.sg">vikneshwari_vijayakumar@moe.edu.sg</a><br><br><br><a href="mailto:yao_zhongde@moe.edu.sg">yao_zhongde</a><br><br><a href="mailto:cai_jueying@moe.edu.sg">cai_jueying@moe.edu.sg</a><br><br>
-			<a href="mailto:joy_ng_d@moe.edu.sg">joy_ng_d@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    <td><b>Overall IC: Mr Alex Yao </b><br><br>Ms Vikneshwari <br><br>Ms Cai Jueying  </td>
+    <td><a href="mailto:yao_zhongde@moe.edu.sg">yao_zhongde@moe.edu.sg</a><br><br><br><a href="mailto:vikneshwari_vijayakumar@moe.edu.sg">vikneshwari_vijayakumar@moe.edu.sg</a><br><br><a href="mailto:cai_jueying@moe.edu.sg">cai_jueying@moe.edu.sg</a><br><br>
+  </td></tr><tr>
     <td>Rugby</td>
     <td><b>Overall IC: Mr Patrick Low </b><br><br>Mdm Siti Fadilah <br><br>Mdm Choo Lu Min<br></td>
     <td><a href="mailto:low_kim_hong@moe.edu.sg">low_kim_hong@moe.edu.sg</a><br><br><br><a href="mailto:siti_fadilah_saidi@moe.edu.sg">siti_fadilah_saidi@moe.edu.sg</a><br><br><a href="mailto:choo_lu_min@moe.edu.sg">choo_lu_min@moe.edu.sg</a><br></td>
