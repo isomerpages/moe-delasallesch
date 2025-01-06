@@ -43,7 +43,7 @@ variant: markdown
   <tr>
     <td>Wushu </td>
     <td><b>Overall IC: Mdm Ng Pei Ling </b><br><br>Mdm Wang Yun<br><br>Ms Afzal-En-Nisa<br></td>
-    <td><a href="mailto:ng_peiling@moe.edu.sg">ng_peiling@moe.edu.sg</a><br><br><br><br><a href="mailto:wang_yun@moe.edu.sg">wang_yun@moe.edu.sg</a><br><br><a href="mailto:afzal-en-nisa_mohamad_na@moe.edu.sg">afzal-en-nisa_mohamad_na@moe.edu.sg</a><br></td>
+    <td><a href="mailto:ng_peiling@moe.edu.sg">ng_peiling@moe.edu.sg</a><br><br><br><a href="mailto:wang_yun@moe.edu.sg">wang_yun@moe.edu.sg</a><br><br><a href="mailto:afzal-en-nisa_mohamad_na@moe.edu.sg">afzal-en-nisa_mohamad_na@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td rowspan="5">Aesthetics </td>
