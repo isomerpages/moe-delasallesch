@@ -101,8 +101,8 @@ variant: markdown
   </tr>
   <tr>
     <td>Robotics Club </td>
-    <td><b>Overall IC: Mr Mohamed Nadzri </b> <br><br>Mdm Goh Sock Hong   <br><br>Ms Nurul Ain <br><br>Mdm Lynn Khoo </td>
-    <td><a href="mailto:Mohamed_nadzri_md_nasir@moe.edu.sg">Mohamed_nadzri_md_nasir@moe.edu.sg</a><br><br><br><a href="mailto:goh_sock_hong@moe.edu.sg">goh_sock_hong@moe.edu.sg</a><br><br><a href="mailto:nurulain_rashid@moe.edu.sg">nurulain_rashid@moe.edu.sg</a><br><br><a href="mailto:khoo_li_ying@moe.edu.sg">khoo_li_ying@moe.edu.sg</a></td>
+    <td><b>Overall IC: Mr Mohamed Nadzri </b> <br><br>Mdm Goh Sock Hong   <br><br>Ms Nurul Ain <br><br>Ms Moganeswary </td>
+    <td><a href="mailto:Mohamed_nadzri_md_nasir@moe.edu.sg">Mohamed_nadzri_md_nasir@moe.edu.sg</a><br><br><br><a href="mailto:goh_sock_hong@moe.edu.sg">goh_sock_hong@moe.edu.sg</a><br><br><a href="mailto:nurulain_rashid@moe.edu.sg">nurulain_rashid@moe.edu.sg</a><br><br><a href="mailto:moganeswary_ap_t@moe.edu.sg">moganeswary_ap_t@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
