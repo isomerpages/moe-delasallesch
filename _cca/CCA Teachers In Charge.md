@@ -31,7 +31,7 @@ variant: markdown
   </td></tr><tr>
     <td>Rugby</td>
     <td><b>Overall IC: Mr Patrick Low </b><br><br>Mdm Siti Fadilah <br><br>Mdm Choo Lu Min<br></td>
-    <td><a href="mailto:low_kim_hong@moe.edu.sg">low_kim_hong@moe.edu.sg</a><br><br><br><a href="mailto:siti_fadilah_saidi@moe.edu.sg">siti_fadilah_saidi@moe.edu.sg</a><br><br><a href="mailto:choo_lu_min@moe.edu.sg">choo_lu_min@moe.edu.sg</a><br></td>
+    <td><a href="mailto:low_kim_hong@moe.edu.sg">low_kim_hong@moe.edu.sg</a><br><br><br><a href="mailto:siti_fadilah_saidi@moe.edu.sg">siti_fadilah_saidi@moe.edu.sg</a><br><br><br><a href="mailto:choo_lu_min@moe.edu.sg">choo_lu_min@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Netball </td>
