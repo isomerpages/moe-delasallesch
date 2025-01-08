@@ -15,8 +15,8 @@ variant: markdown
 |---|---|---|
 | **ST.ANTHONY 1** |  Mdm Angie Tan <br>Mdm Yang Xiao Ting |tan_mui_yen@moe.edu.sg<br>yang_xiao_ting@moe.edu.sg
 | **ST.BERNADETTE 1** | Mdm Koh Ting Ting<br>Ms Teo Su Zhen Porcia| koh_ting_ting@moe.edu.sg<br>teo_su_zhen_porcia@moe.edu.sg  |
-|**ST.CHRISTOPHER 1** |Ms. Annie Tan<br>Mdm Choo Lu Min <br>Ms Helen Yeo | tan_annie_b@moe.edu.sg<br>choo_lu_min@moe.edu.sg |
-|**ST.DOMINIC 1**| Mrs Tracie Goh <br>Ms Jenny Chew Gek Cheng <br>Yeo_seok_suan@moe edu sg| huang_qianyi_tracie@moe.edu.sg<br>chew_gek_cheng_a@moe.edu.sg |
+|**ST.CHRISTOPHER 1** |Ms. Annie Tan<br>Mdm Choo Lu Min <br>Ms Helen Yeo | tan_annie_b@moe.edu.sg<br>choo_lu_min@moe.edu.sg <br>Yeo_seok_suan@moe edu sg |
+|**ST.DOMINIC 1**| Mrs Tracie Goh <br>Ms Jenny Chew Gek Cheng | huang_qianyi_tracie@moe.edu.sg<br>chew_gek_cheng_a@moe.edu.sg |
 |**ST.ELIZABETH 1** | Ms Khoo Li Ying Lynn<br>Ms Soo Ling Ling |khoo_li_ying@moe.edu.sg<br>soo_ling_ling@moe.edu.sg |
 |**ST.FRANCIS 1** |Mrs Joanne Liou <br>Ms Moganeswary| lau_siew_yee@moe.edu.sg<br>moganeswary_ap_t@moe.edu.sg | 
 |**ST.GABRIEL 1** |Ms Sally Koh Bee Shiow<br>Mr Fairuzaman Haidzir| koh_bee_shiow@moe.edu.sg<br>fairuzaman_haidzir@moe.edu.sg |
@@ -42,7 +42,7 @@ variant: markdown
 | **ST.ANTHONY 3** |Ms Vikneshwari D/O Vijayakumar<br>Mrs Sheena Ang <br>Mr Krishanraj S/O Elangovan| vikneshwari_vijayakumar@moe.edu.sg<br>poh_shao_qin_sheena@moe.edu.sg <br>krishanraj_elangovan@moe.edu.sg |
 | **ST.BERNADETTE 3** | Mr Daniel Lin Yuan Wei<br>Mdm Nalini<br>Mr Abdul Gaffar Shaik Yusof <br>Ms Joanne Li | lin_yuanwei_daniel@moe.edu.sg<br>nalini_subramaniam@moe.edu.sg <br>abdul_gaffar_shaik_yuso@moe.edu.sg<br>li_wai_yee_joanne@moe.edu.sg |
 |**ST.CHRISTOPHER 3**| Mdm Low Ren Fong<br>Ms Woon Shio Ching| low_ren_fong@moe.edu.sg<br>woon_shio_ching@moe.edu.sg |
-|**ST.DOMINIC 3**| Mrs Judy Yip<br>Mdm Chen Weihua <br>Ms Anna Yeong| ong_judy@moe.edu.sg<br>chen_weihua@moe.edu.sg <br>  @moe.edu.sg |
+|**ST.DOMINIC 3**| Mrs Judy Yip<br>Mdm Chen Weihua <br>Ms Anna Yeong| ong_judy@moe.edu.sg<br>chen_weihua@moe.edu.sg <br>  yeong_anna_nee_lim@moe.edu.sg |
 |**ST. ELIZABETH 3**| Mrs Amy Liew<br>Mdm Siti Munira Batra  <br> Ms Priscilla Ng| amy_lee_may_chyou@moe.edu.sg<br>siti_munira_batra@moe.edu.sg <br>  @moe.edu.sg |
 |**ST. FRANCIS 3**|Mrs Michelle Chian<br>Ms Cai Jueying | michelle_chian@moe.edu.sg<br>cai_jueying@moe.edu.sg |
 
