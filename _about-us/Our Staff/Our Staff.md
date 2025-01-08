@@ -39,7 +39,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Year Head Primary 3 &amp; 4</td>
-    <td>Ms Joanne Li Wei<br>li_wai_yee_joanne@moe.edu.sg</td>
+    <td>Ms Joanne Li <br>li_wai_yee_joanne@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Year Head Primary 5 &amp; 6</td>
