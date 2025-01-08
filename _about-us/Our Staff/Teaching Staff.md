@@ -33,7 +33,7 @@ variant: markdown
 |**ST. ELIZABETH 2**|Mdm Azizah Binte Ibrahim<br>Ms Jasmin Mohd Hannifa  | azizah_ibrahim@moe.edu.sg<br>jasmin_mohamed_hannifa@moe.edu.sg |
 |**ST. FRANCIS 2**| Miss Nur Arifah Adnan<br>Mdm Lai Chiat Pheng | nur_arifah_adnan@moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg |
 |**ST. GABRIEL 2**|Mrs Winnie Wong<br>Mrs Fam Seow Wee| ang_hwee_nee@moe.edu.sg<br>fam_seow_wee@moe.edu.sg |
-|**ST. HELEN 2**|  Mdm Ng Peiling<br>Mdm Noraini Mohamed | ng_peiling@moe.edu.sg <br> @moe.edu.sg<br> 
+|**ST. HELEN 2**|  Mdm Ng Peiling<br>Mdm Noraini Mohamed | ng_peiling@moe.edu.sg <br> noraini_mohamed_a@moe.edu.sg<br> 
 
 #### Primary 3 (2025)
 
