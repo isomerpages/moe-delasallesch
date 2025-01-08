@@ -20,7 +20,7 @@ variant: markdown
 |**ST.ELIZABETH 1** | Ms Khoo Li Ying Lynn<br>Ms Soo Ling Ling |khoo_li_ying@moe.edu.sg<br>soo_ling_ling@moe.edu.sg |
 |**ST.FRANCIS 1** |Mrs Joanne Liou <br>Ms Moganeswary| lau_siew_yee@moe.edu.sg<br>moganeswary_ap_t@moe.edu.sg | 
 |**ST.GABRIEL 1** |Ms Sally Koh Bee Shiow<br>Mr Fairuzaman Haidzir| koh_bee_shiow@moe.edu.sg<br>fairuzaman_haidzir@moe.edu.sg |
-|**ST.HELEN 1** | Ms Joy Ng<br>Ms Florence Lim <br> Mdm Rabby | joy_ng_d@moe.edu.sg<br>lim_seok_yuen_florence@moe.edu.sg <br>rabby_tan@moe.edu.sg
+|**ST.HELEN 1** | Ms Joy Ng<br>Ms Florence Lim <br> Mdm Rabby | joy_ng_d@moe.edu.sg<br>lim_seok_yuen_florence@moe.edu.sg <br>tan_rabby@moe.edu.sg
 
 #### Primary 2 (2025)
 
