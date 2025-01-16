@@ -79,7 +79,7 @@ variant: markdown
   </tr>
 	 <tr>
     <td>Subject Head English Language</td>
-    <td>Mrs Choy-Ang Weiqi <br>ang_weiqi_hong_weiqi@moe.edu.sg</td>
+    <td>Mrs Choy-Ang Weiqi <br>ang_weiqi@moe.edu.sg</td>
   </tr>
 	<tr>
     <td>Subject Head Mother Tongue Language</td>
