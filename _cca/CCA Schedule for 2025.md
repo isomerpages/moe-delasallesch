@@ -32,7 +32,7 @@ variant: markdown
     <td><b>Basketball<br>(Boys Only)</b></td>
     <td>P6<br>P4 &amp; P5</td>
     <td>Thursday<br>Friday</td>
-    <td>Ms Vikneshwari<br>Vikneshwari_vijayakumar@moe.edu.sg</td>
+    <td>Mr Alex Yao<br>yao_zhongde@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Netball<br>(Girls Only)</b></td>
@@ -44,7 +44,7 @@ variant: markdown
     <td><b>Hockey</b></td>
     <td>P6<br>P4 &amp; P5</td>
     <td>Thursday<br>Friday</td>
-    <td>Mr Haikal Eiman<br>haikal_eiman@moe.edu.sg</td>
+    <td>Mr Muhammad Hafiz<br>muhammad_hafiz_azhari@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Rugby<br>(Boys Only)</b></td>
