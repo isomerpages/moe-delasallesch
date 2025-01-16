@@ -63,7 +63,7 @@ variant: markdown
     <td><b>Percussion Ensemble</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Thursday</td>
-    <td>Ms Woon Shio Ching<br>woon_shio_ching@moe.edu.sg</td>
+    <td>Mr Daniel Lin<br>lin_yuanwei_daniel@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>McNally Club</b></td>
@@ -89,7 +89,7 @@ variant: markdown
     <td><b>Brownies<br>(Girls Only)</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
-    <td>Mdm Koh Ting Ting<br>koh_ting_ting@moe.edu.sg</td>
+    <td>Mdm Siti Munira<br>siti_munira_batra@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Scouts<br>(Boys Only)</b></td>
@@ -114,7 +114,7 @@ variant: markdown
     <td><b>Media Club</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
-    <td>Ms Ivana Low<br>low_si_wei_ivana@moe.edu.sg</td>
+    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Chess Club</b></td>
