@@ -59,7 +59,7 @@ variant: markdown
     <td>Mdm Ng Peiling<br>ng_peiling@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="5"><b>Performing Arts</b></td>
+    <td rowspan="4"><b>Performing Arts</b></td>
     <td><b>Percussion Ensemble</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Thursday</td>
@@ -83,12 +83,7 @@ variant: markdown
     <td>Thursday</td>
     <td>Mrs Amy Liew <br>amy_lee_may_chyou@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td><b>Cultural<br>Dance</b></td>
-    <td>P4, P5 &amp; P6</td>
-    <td>Friday</td>
-    <td>Ms Tan Chiew Hoon<br>tan_chiew_hoon_a@moe.edu.sg</td>
-  </tr>
+
   <tr>
     <td rowspan="2"><b>Uniformed Groups</b></td>
     <td><b>Brownies<br>(Girls Only)</b></td>
