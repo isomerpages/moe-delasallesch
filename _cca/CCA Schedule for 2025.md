@@ -32,7 +32,7 @@ variant: markdown
     <td><b>Basketball<br>(Boys Only)</b></td>
     <td>P6<br>P4 &amp; P5</td>
     <td>Thursday<br>Friday</td>
-    <td>Ms Vikneshwari<br>Vikneshwari_vijayakumar@moe.edu.sg</td>
+    <td>Mr Alex Yao<br>yao_zhongde@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Netball<br>(Girls Only)</b></td>
@@ -44,7 +44,7 @@ variant: markdown
     <td><b>Hockey</b></td>
     <td>P6<br>P4 &amp; P5</td>
     <td>Thursday<br>Friday</td>
-    <td>Mr Haikal Eiman<br>haikal_eiman@moe.edu.sg</td>
+    <td>Mr Muhammad Hafiz<br>muhammad_hafiz_azhari@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Rugby<br>(Boys Only)</b></td>
@@ -59,11 +59,11 @@ variant: markdown
     <td>Mdm Ng Peiling<br>ng_peiling@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="5"><b>Performing Arts</b></td>
+    <td rowspan="4"><b>Performing Arts</b></td>
     <td><b>Percussion Ensemble</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Thursday</td>
-    <td>Ms Woon Shio Ching<br>woon_shio_ching@moe.edu.sg</td>
+    <td>Mr Daniel Lin<br>lin_yuanwei_daniel@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>McNally Club</b></td>
@@ -83,18 +83,13 @@ variant: markdown
     <td>Thursday</td>
     <td>Mrs Amy Liew <br>amy_lee_may_chyou@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td><b>Cultural<br>Dance</b></td>
-    <td>P4, P5 &amp; P6</td>
-    <td>Friday</td>
-    <td>Ms Tan Chiew Hoon<br>tan_chiew_hoon_a@moe.edu.sg</td>
-  </tr>
+
   <tr>
     <td rowspan="2"><b>Uniformed Groups</b></td>
     <td><b>Brownies<br>(Girls Only)</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
-    <td>Mdm Koh Ting Ting<br>koh_ting_ting@moe.edu.sg</td>
+    <td>Mdm Siti Munira<br>siti_munira_batra@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Scouts<br>(Boys Only)</b></td>
@@ -119,7 +114,7 @@ variant: markdown
     <td><b>Media Club</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
-    <td>Ms Ivana Low<br>low_si_wei_ivana@moe.edu.sg</td>
+    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Chess Club</b></td>
@@ -155,7 +150,7 @@ variant: markdown
     <td><b>Basketball<br>(Boys Only)</b></td>
     <td>P3<br>P4 &amp; P5</td>
     <td>Thursday<br>Friday</td>
-    <td>Ms Vikneshwari<br>Vikneshwari_vijayakumar@moe.edu.sg</td>
+    <td>Mr Alex Yao<br>yao_zhongde@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Netball<br>(Girls Only)</b></td>
@@ -167,7 +162,7 @@ variant: markdown
     <td><b>Hockey</b></td>
     <td> P5<br>P3 &amp;P4</td>
     <td>Thursday<br>Friday</td>
-    <td>Mr Haikal Eiman<br>haikal_eiman@moe.edu.sg</td>
+    <td>Mr Muhammad Hafiz<br>muhammad_hafiz_azhari@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Rugby<br>(Boys Only)</b></td>
@@ -182,11 +177,11 @@ variant: markdown
     <td>Mdm Ng Peiling<br>ng_peiling@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="5"><b>Performing Arts</b></td>
+    <td rowspan="4"><b>Performing Arts</b></td>
     <td><b>Percussion Ensemble</b></td>
     <td>P3, P4, P5</td>
     <td>Thursday</td>
-    <td>Ms Woon Shio Ching<br>woon_shio_ching@moe.edu.sg</td>
+    <td>Mr Daniel Lin<br>lin_yuanwei_daniel@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>McNally Club</b></td>
@@ -206,12 +201,7 @@ variant: markdown
     <td>Thursday</td>
     <td>Mrs Amy Liew<br>amy_lee_may_chyou@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td><b>Cultural  Dance</b></td>
-    <td>P3, P4, P5<br><br></td>
-    <td>Friday</td>
-    <td>Ms Tan Chiew Hoon<br>tan_chiew_hoon_a@moe.edu.sg</td>
-  </tr>
+  
   <tr>
     <td rowspan="2"><b>Uniformed Groups</b></td>
     <td><b>Brownies<br>(Girls Only)</b></td>
@@ -242,7 +232,7 @@ variant: markdown
     <td><b>Media Club</b></td>
     <td>P3, P4, P5</td>
     <td>Friday</td>
-    <td>Ms Ivana Low<br>low_si_wei_ivana@moe.edu.sg</td>
+    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Chess Club</b></td>
