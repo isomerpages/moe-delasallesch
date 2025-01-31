@@ -47,7 +47,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
 <p></p>
-<h4><strong>Sexuality Education Lessons: </strong></h4>
+<h4><strong>Sexuality Education Lessons:</strong></h4>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
