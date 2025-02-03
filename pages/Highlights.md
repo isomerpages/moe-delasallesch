@@ -7,14 +7,23 @@ description: ""
 <h1><strong>2025</strong></h1>
 <h1><strong>Term 1</strong></h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250102_Primary_1_First_Day_of_School.jpg">
+</div>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250128_Chinese_New_Year_Celebration.jpg">
+</div>
 <h1><strong>Term 2</strong></h1>
 <p></p>
+<p></p>
 <h1><strong>Term 3</strong></h1>
+<p></p>
 <p></p>
 <h1><strong>Term 4</strong></h1>
 <p></p>
 <p></p>
+<hr>
 <h1><strong>2024</strong></h1>
 <h1><strong>Term 1</strong></h1>
 <div class="isomer-image-wrapper">
