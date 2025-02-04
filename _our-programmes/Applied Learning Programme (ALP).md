@@ -22,4 +22,4 @@ The ALP in our school will be a springboard for Lasallians to harness these futu
 
 The framework for ALP in DISC is as follows:
 
-<img src="/images/2025/Picture2.jpg" style="width:90%">
+<img src="/images/2025/Picture2.gif" style="width:90%">
