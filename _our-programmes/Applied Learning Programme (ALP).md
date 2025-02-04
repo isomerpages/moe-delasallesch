@@ -25,11 +25,11 @@ The framework for ALP in DISC is as follows:
 <img src="/images/2025/Picture2.gif" style="width:90%">
 
 **Key programmes** <br>
-1.	Creative DISCoveries <br>
+1.Creative DISCoveries <br>
 These lessons which are integrated into the curriculum encourage students to adopt the Design Thinking methodology, empowering them to approach challenges with creativity and structure. Through this process, they develop the ability to empathise with different perspectives, ideate innovative solutions, and think critically. Students work collaboratively on projects, fostering teamwork and shared learning. By prototyping and refining their ideas, they learn to propose the best possible solutions for real-world situations, equipping them with essential problem-solving skills for the future. <br>
 ![](/images/2025/alp_group1.jpg)
 
-2.	DISC Makers <br>
+2.DISC Makers <br>
 These lesson experiences provide Lasallians with opportunities to be creative and explore hands-on learning. This encourages them to tinker, experiment, and innovate as they bring their ideas to life. Rooted in passion-based learning, our programmes empower Lasallians to pursue their interests and develop skills that align with their personal goals, fostering a love for discovery and a mindset geared toward continuous growth.
 
 ![](/images/2025/alp_group2.jpg)
