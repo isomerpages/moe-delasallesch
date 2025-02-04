@@ -31,3 +31,5 @@ These lessons which are integrated into the curriculum encourage students to ado
 
 2.	DISC Makers <br>
 These lesson experiences provide Lasallians with opportunities to be creative and explore hands-on learning. This encourages them to tinker, experiment, and innovate as they bring their ideas to life. Rooted in passion-based learning, our programmes empower Lasallians to pursue their interests and develop skills that align with their personal goals, fostering a love for discovery and a mindset geared toward continuous growth.
+
+![](/images/2025/alp_group2.jpg)
