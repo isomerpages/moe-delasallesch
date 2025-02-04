@@ -11,7 +11,7 @@ variant: markdown
 <figure>
 <figcaption> Design.Innovation.Service.Community @ DLSS&nbsp;_(DISC@DLSS)_
  </figcaption><br>
-<img src="/images/2025/Picture1.jpg" style="width:90%">
+<img src="/images/2025/Picture1.jpg" style="width:70%">
 </figure>
 
 In De La Salle School, we have a mission of ‘Enabling Lasallians in a Lasallian community to learn how to learn and to learn how to live; empowering them to be persons of integrity and persons for others’ and a vision of nurturing our Lasallians to be ‘Lifelong Learners; Caring Citizens’ in their 6 years of primary school education.
