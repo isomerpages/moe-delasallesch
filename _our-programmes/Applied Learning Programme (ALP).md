@@ -9,7 +9,7 @@ variant: markdown
 ### Applied Learning Programme (ALP)
 
 <figure>
-<figcaption> Design.Innovation.Service.Community @ DLSS&nbsp;_(DISC@DLSS)_
+<figcaption> Design.Innovation.Service.Community @ DLSS&nbsp;_(DISC@DLSS)
  </figcaption><br>
 <img src="/images/2025/Picture1.jpg" style="width:70%">
 </figure>
