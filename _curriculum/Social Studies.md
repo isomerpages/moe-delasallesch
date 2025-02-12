@@ -31,7 +31,7 @@ Sentosa Learning Journey
 
 <br clear="left"><br>
 2 \. **Museum-based Learning Experience**<br>
-Through a guided tour and hands-on activities, P3 Lasallians learnt the land constraints and challenges faced by Singapore since our independence. They also learnt how every decision that they make can have an impact on the environment, people and land development.<br><br>
+Geylang Serai Heritage Gallery .<br><br>
 
 ![](/images/Social%20Studies%20I%20am%20a%20Town%20Planner%20Programme%20by%20Singapore%20Discovery%20Centre.jpg)
 
