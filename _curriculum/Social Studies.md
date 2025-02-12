@@ -24,13 +24,13 @@ The Social Studies curriculum in De La Salle School endeavours to mould our Lasa
 #### Key Programmes
 
 1 \. **P3 EL/SS Project Work**<br>
-
+Sentosa Learning Journey
 
 
 ![](/images/Social%20Studies%20Community%20Walkabout.jpg)
 
 <br clear="left"><br>
-2 \. **I am a Town Planner Programme by Singapore Discovery Centre**<br>
+2 \. **Museum-based Learning Experience**<br>
 Through a guided tour and hands-on activities, P3 Lasallians learnt the land constraints and challenges faced by Singapore since our independence. They also learnt how every decision that they make can have an impact on the environment, people and land development.<br><br>
 
 ![](/images/Social%20Studies%20I%20am%20a%20Town%20Planner%20Programme%20by%20Singapore%20Discovery%20Centre.jpg)
