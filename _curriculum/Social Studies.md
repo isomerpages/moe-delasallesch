@@ -36,6 +36,7 @@ Kreta Ayer Heritage Gallery
 ![](/images/2025/kerrata.jpg)
 Indian Heritage Centre
 ![](/images/2025/ss3.jpg)
-
+Ancient Civilisation Museum
+![](/images/2025/ancient.jpg)
 #### Performance Task
 ![](/images/2025/ss_performance.jpg)
