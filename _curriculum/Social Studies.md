@@ -27,14 +27,15 @@ The Social Studies curriculum in De La Salle School endeavours to mould our Lasa
 
 1 \. **P3 EL/SS Project Work**<br>
 Sentosa Learning Journey
-
 ![](/images/2025/ss1.png)
-
 <br clear="left"><br>
 2 \. **Museum-based Learning Experience**<br>
 Geylang Serai Heritage Gallery .<br><br>
-
 ![](/images/2025/ss2.jpg)
+Kreta Ayer Heritage Gallery
+
+Indian Heritage Centre
+![](/images/2025/ss3.jpg)
 
 3 \. **Learning Journey to National Museum and Images of Singapore LIVE**<br>
 P4 Lasallians visited the National Museum and Images of Singapore LIVE to learn about the history of Singapore and the contributions of our pioneers. The entire cohort then put up a National Day Performance for the school population, with knowledge that they have gained from lessons in class and their learning journey.<br><br>
