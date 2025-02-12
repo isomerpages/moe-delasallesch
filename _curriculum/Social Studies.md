@@ -30,18 +30,12 @@ Sentosa Learning Journey
 ![](/images/2025/ss1.png)
 <br clear="left"><br>
 2 \. **Museum-based Learning Experience**<br>
-Geylang Serai Heritage Gallery .<br><br>
+Geylang Serai Heritage Gallery .<br>
 ![](/images/2025/ss2.jpg)
 Kreta Ayer Heritage Gallery
-
+![](/images/2025/kerrata.jpg)
 Indian Heritage Centre
 ![](/images/2025/ss3.jpg)
 
-3 \. **Learning Journey to National Museum and Images of Singapore LIVE**<br>
-P4 Lasallians visited the National Museum and Images of Singapore LIVE to learn about the history of Singapore and the contributions of our pioneers. The entire cohort then put up a National Day Performance for the school population, with knowledge that they have gained from lessons in class and their learning journey.<br><br>
-
-<img src="/images/Social Studies-6.jpg" style="width:49%" align="left">  
-<img src="/images/Social Studies-7.jpg" style="width:43%" align="right">
-<br clear="left"><br>
-<img src="/images/Social Studies-8.jpg" style="width:47%" align="left">  
-<img src="/images/Social Studies-9.jpg" style="width:46%" align="right">
+#### Performance Task
+![](/images/2025/ss_performance.jpg)
