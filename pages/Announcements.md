@@ -7,7 +7,7 @@ variant: markdown
 ## Announcements
 
 
-### Start of School Year 2025 
+### February 2025 Parent Notification 
 
 Dear Parents/Guardians,
   
