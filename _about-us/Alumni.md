@@ -42,6 +42,6 @@ Social Event Coordinator: Nicholas Phua
 [Membership Form Link](https://forms.office.com/r/2MpzL551tu)<br>
 Membership Form QR Code <br>
 
-<img src="/images/QRCode_for_DLSAA_Member_Volunteer_Registration_Form.png" style="width:30%" align="left"><br clear="left">
+<img src="/images/2025/QRCode_for_DLSAA_Member_Volunteer_Registration_Form.png" style="width:40%" align="left"><br clear="left">
 
 [DLSAA Social Media Linktr.ee ](https://linktr.ee/dlsaa)
