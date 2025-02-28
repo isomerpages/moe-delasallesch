@@ -27,8 +27,6 @@ President<br>
 DLSAA
 
 
-<img src="/images/QR- Alumini registration.png" style="width:30%" align="left"><br clear="left">
-
 ### De La Salle Alumni Association Committee Members
 
 President: Herald Bangras<br>
@@ -44,6 +42,6 @@ Social Event Coordinator: Nicholas Phua
 [Membership Form Link](https://forms.office.com/r/2MpzL551tu)<br>
 Membership Form QR Code <br>
 
-
+<img src="/images/QR- Alumini registration.png" style="width:30%" align="left"><br clear="left">
 
 [DLSAA Social Media Linktr.ee ](https://linktr.ee/dlsaa)
