@@ -134,6 +134,8 @@ hours.</p>
 <p></p>
 <hr>
 <h4><strong>Student Care Centre</strong></h4>
-<p>YMCA SCC @ De La Salle School
-<br>Tel: 67656755
-<br>Email: dlscc@ymca.edu.sg</p>
+<p>NASCANS SCC @ De La Salle School
+<br>Tel: 81574928
+<br>Email: <a href="mailto:dlscc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dlsscc@nascans.com</a>
+</p>
+<p></p>
