@@ -40,4 +40,10 @@ Recruitment Talk Coordinator: Ronnie Tay<br>
 Soccer Clinic Coordinator: Derek Yip<br>
 Social Event Coordinator: Nicholas Phua
 
-[DLSAA Constitution ](/files/2025/CONSTITUTION_OF_THE_DLSA_v8A.pdf)
+[DLSAA Constitution ](/files/2025/CONSTITUTION_OF_THE_DLSA_v8A.pdf)<br>
+[Membership Form Link](https://forms.office.com/r/2MpzL551tu)<br>
+Membership Form QR Code <br>
+
+
+
+[DLSAA Social Media Linktr.ee ](https://linktr.ee/dlsaa)
