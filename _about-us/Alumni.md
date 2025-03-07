@@ -18,7 +18,7 @@ Joining DLSAA also offers Lasallians a gateway to the larger Lasallian community
 
 Even as we strive to strengthen our bonds within our Lasallian community, our Lasallian mission demands of us to be inclusive and to serve our wider community, irrespective of race, religion and social status. De La Salle School is already carrying out this mission by providing education to residents in the heartlands of Choa Chu Kang. And DLSAA aims to continue this mission by working with the School through our activities, whether it be games, social activities, reunions, school talks or mentorship programmes. 
 
-The DLSAA Committee Members and I are excited about the school’s future and its students and what it holds for our partnership to strengthen and grow the alumni association. I encourage students and Lasallians to sign up by clicking on the link on the top right hand corner of the page. Associate Membership for all Lasallians in school is free. I look forward to journeying with you to a create a more vibrant alumni association with a heart to pay it forward with your active participation. <br>
+The DLSAA Committee Members and I are excited about the school’s future and its students and what it holds for our partnership to strengthen and grow the alumni association. I encourage students and Lasallians to sign up by clicking on the membership link below. Associate Membership for all Lasallians in school is free. I look forward to journeying with you to a create a more vibrant alumni association with a heart to pay it forward with your active participation. <br>
 Thank you.
 
 Semper Fidelis!<br>
