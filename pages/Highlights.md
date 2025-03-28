@@ -30,7 +30,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/Chinese_New_Year_Celebrations.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/EL_Extensive_Reading_Programme__Primaryy_1_and_Primary_2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gallery/EL_Extensive_Reading_Programme__Primary_1_and_Primary_2_.jpg">
 </div>
 <h1><strong>Term 2</strong></h1>
 <div class="isomer-image-wrapper">
