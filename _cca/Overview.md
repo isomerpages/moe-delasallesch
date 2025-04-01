@@ -32,8 +32,9 @@ enables Lasallians to engage in meaningful conversations with their parents
 and make informed choices based on their understanding of their talents
 and passions.</p>
 <p></p>
-<p></p>
-<p>Pic</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/cca1_edited.png">
+</div>
 <p></p>
 <p><strong>3) Values-in-Action (VIA) in CCA</strong>
 </p>
