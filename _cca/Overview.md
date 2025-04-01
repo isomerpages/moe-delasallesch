@@ -4,6 +4,8 @@ permalink: /cca/overview/
 variant: tiptap
 description: ""
 ---
+<h2>Co-Curricular Activities(CCA)</h2>
+<h3>Overview</h3>
 <p>CCAs are a key component of students’ holistic education. Through CCAs,
 students discover their interests and talents. CCAs also provide platforms
 for students to develop their character, learn values, social emotional
