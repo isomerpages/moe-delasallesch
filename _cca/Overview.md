@@ -44,9 +44,14 @@ and sustainable partnerships with external organisations, leveraging skills
 and knowledge acquired to contribute to the community. Through these interactions,
 Lasallians learn to demonstrate the core Lasallian values of Faith, Service
 and Community.</p>
-<p>Pic</p>
-<p>Pic</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025/cca2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/cca3.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
