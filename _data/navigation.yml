@@ -62,8 +62,10 @@ links:
       - title: Sexuality Education
         url: /curriculum/sed/
   - title: Co-Curricular Activities (CCA)
-    url: /cca/sport-games/hockey/
+    url: /cca/overview/
     sublinks:
+      - title: Overview
+        url: /cca/overview/
       - title: Sports & Games
         url: /cca/sport-games/hockey/
       - title: Performing Arts
