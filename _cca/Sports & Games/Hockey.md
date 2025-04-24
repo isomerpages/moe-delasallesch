@@ -23,7 +23,7 @@ Hit the ground running with Hockey, where precision meets adrenaline! Students d
 2. Pitch Training at Northland Secondary School
 
 
-<img src="/images/Hockey 1.jpeg" style="width:90%"><br>
+<img src="/images/2025/cca/h1.jpg" style="width:90%"><br>
 
 <img src="/images/Hockey 2.jpeg" style="width:90%"><br>
 
