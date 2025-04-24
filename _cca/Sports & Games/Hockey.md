@@ -9,9 +9,19 @@ variant: markdown
 
 ### Hockey
 
-A team game played between two teams of players each, using hooked sticks with which the players try to drive a small hard ball towards goals at opposite ends of a field outdoors. Hockey CCA in De La Salle School aims to develop passion and love for this Olympic sport in all of its members.  
+#### Overview of CCA
+Hit the ground running with Hockey, where precision meets adrenaline! Students develop essential sports skills like stickwork, stamina, and tactical thinking, while thriving in a supportive team environment that values grit and determination. Students get to train with experienced coaches and develop an understanding of game rules and positions. Through regular scrimmages and zonal competitions, they gain match experience and tactical awareness. Safety and teamwork are always emphasized.  
 
-Hockey members will have the opportunity to display the values of sportsmanship, perseverance and teamwork through the CCA sessions. Members are able to forge friendships and strong camaraderie amongst their team members as they pursue sporting excellence through participation in National School Games at Senior and Junior Divisions.
+#### What Students Will Experience 
+
+1. Acquire and enhance key hockey-specific skills, including skating, puck handling, passing, shooting, positional awareness, and game strategies
+2. Build physical literacy, coordination, and endurance.
+3. Develop core values such as teamwork, discipline, and sportsmanship
+
+#### Highlights and Opportunities 
+1. National School Games
+2. Pitch Training at Northland Secondary School
+
 
 <img src="/images/Hockey 1.jpeg" style="width:90%"><br>
 
