@@ -29,6 +29,3 @@ Hit the ground running with Hockey, where precision meets adrenaline! Students d
 <img src="/images/2025/Cca/h4.jpg" style="width:90%"><br>
 <img src="/images/2025/Cca/h5.jpg" style="width:90%"><br>
 <img src="/images/2025/Cca/h6.jpg" style="width:90%"><br>
-
-
-
