@@ -23,15 +23,12 @@ Hit the ground running with Hockey, where precision meets adrenaline! Students d
 2. Pitch Training at Northland Secondary School
 
 
-<img src="/images/2025/cca/h1.jpg" style="width:90%"><br>
+<img src="/images/2025/Cca/h1.jpg" style="width:90%"><br>
+<img src="/images/2025/Cca/h2.jpg" style="width:90%"><br>
+<img src="/images/2025/Cca/h3.jpg" style="width:90%"><br>
+<img src="/images/2025/Cca/h4.jpg" style="width:90%"><br>
+<img src="/images/2025/Cca/h5.jpg" style="width:90%"><br>
+<img src="/images/2025/Cca/h6.jpg" style="width:90%"><br>
 
-<img src="/images/Hockey 2.jpeg" style="width:90%"><br>
 
-<img src="/images/hockey 1 (1).jpeg" style="width:90%">
 
-#### Find out more about Hockey CCA
-All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
-
-For sports CCAs that involve more physical exertion where the students are unmasked, a safe distance of at least two meters&nbsp;between students has been adhered to, and students are organised into groups with one meter&nbsp;between groups as safe management measures.
-
-Click&nbsp;**[here](https://youtu.be/bDQx-DwWkWw)**&nbsp;to watch the video.
