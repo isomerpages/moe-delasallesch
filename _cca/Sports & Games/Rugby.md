@@ -37,6 +37,6 @@ With these exposures and trainings, we hope to develop our Lasallians who are an
 <br>
 <img src="/images/2025/Cca/r3.jpg" style="width:49%" align="left">
 <img src="/images/2025/Cca/r4.jpg" style="width:49%" align="right">
-<br><br>
+<br clear="left"><br>
 <img src="/images/2025/Cca/r5.jpg" style="width:49%" align="left">
 <img src="/images/2025/Cca/r6.jpg" style="width:49%" align="right">
