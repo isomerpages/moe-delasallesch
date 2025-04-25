@@ -8,10 +8,23 @@ variant: markdown
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
 ### Wushu
+#### Overview of CCA 
 
-<img src="/images/Wushu 1.jpg" style="width:49%" align="left">
-<img src="/images/Wushu 2.jpg" style="width:49%" align="right">
-<br clear="left"><br>
+Step into the world of martial arts with Wushu, a CCA that blends athleticism and artistry. Students build strength, flexibility, and focus as they learn traditional forms and movements, celebrating both discipline and Chinese cultural heritage. Students master both barehanded and weapon routines over time. They gain confidence by performing in school showcases and cultural events. This CCA builds not just physical strength but also mental discipline and self-control.
+
+#### What Students Will Experience 
+Students will: 
+1. Learn basic Quan and Weapon routines  
+2. Cultivate self-discipline which transform to independence learning  
+3. Develop cooperative learning with peers 
+4. Gain understanding of Chinese culture through the eye of martial arts 
+
+#### Highlights and Opportunities 
+
+1. Gain opportunities to perform in both school and public events 
+2. Participate in NSG (National School Games) 
+
+<img src="/images/Wushu 3.jpeg" style="width:49%">
 
 <img src="/images/Wushu 3.jpeg" style="width:49%" align="left">
 <img src="/images/Wushu 4.jpeg" style="width:49%" align="right">
