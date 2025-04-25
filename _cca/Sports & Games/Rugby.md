@@ -8,7 +8,6 @@ variant: markdown
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
 ### Rugby
-
 #### Overview of CCA
 
 Rugby is one of the character-building sports that DLSS offers. It fosters Respect, Responsibility, Resilience, fitness, skills, team effort and School Identity. Regular participation in this sport not only increases muscular strength and endurance. It can also develop mental strengths such as self-control and self-discipline.
