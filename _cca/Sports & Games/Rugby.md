@@ -33,10 +33,11 @@ With these exposures and trainings, we hope to develop our Lasallians who are an
 2. National School Games- Rugby Senior/ Junior Boys
 3. CCA Leadership training for selected captains
 
-<img src="/images/rugby.jpg" style="width:49%" align="left">
-<img src="/images/rugby1.gif" style="width:49%" align="right">
-<br clear="left"><br>
-
-<img src="/images/rugby 2.jpeg" style="width:49%" align="left">
-<img src="/images/rugby 3.jpeg" style="width:25%" align="right">
-<br clear="left"><br><br><br>
+<img src="/images/2025/Cca/r1.jpg" style="width:49%" align="left">
+<img src="/images/2025/Cca/r2.jpg" style="width:49%" align="right">
+<br>
+<img src="/images/2025/Cca/r3.jpg" style="width:49%" align="left">
+<img src="/images/2025/Cca/r4.jpg" style="width:49%" align="right">
+<br>
+<img src="/images/2025/Cca/r5.jpg" style="width:49%" align="left">
+<img src="/images/2025/Cca/r6.jpg" style="width:49%" align="right">
