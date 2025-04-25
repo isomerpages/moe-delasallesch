@@ -24,7 +24,7 @@ Students will:
 1. Gain opportunities to perform in both school and public events 
 2. Participate in NSG (National School Games) 
 
-<img src="/images/Wushu 3.jpeg" style="width:49%">
+<img src="/images/2025/Cca/w1.jpg" style="width:49%">
 
 <img src="/images/Wushu 3.jpeg" style="width:49%" align="left">
 <img src="/images/Wushu 4.jpeg" style="width:49%" align="right">
