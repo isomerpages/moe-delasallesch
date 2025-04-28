@@ -28,7 +28,7 @@ Our choir members participate in a wide range of meaningful experiences: <br>
 School events &amp; concerts: Chinese New Year
 
 <img src="/images/2025/Cca/ch1.jpg" style="width:30%" align="left">
-<img src="/images/2025/Cca/ch2.jpg" style="width:49%" align="right">
+<img src="/images/2025/Cca/ch2.jpg" style="width:65%" align="right">
 <br clear="left"><br>
 Competitions &amp; festivals: 2024 Singapore Youth Festival (Choir)
 <img src="/images/2025/Cca/ch3.jpg" style="width:49%" align="left">
