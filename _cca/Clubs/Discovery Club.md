@@ -30,7 +30,7 @@ Students will:
 
 <img src="/images/2025/Cca/d1.jpg" style="width:48%" align="left">
 <img src="/images/2025/Cca/d2.jpg" style="width:48%" align="right">
-<br clear="left">
+<br>
 <img src="/images/2025/Cca/d3.jpg" style="width:48%" align="left">
 <img src="/images/2025/Cca/d4.jpg" style="width:48%" align="right">
 <br clear="left">
