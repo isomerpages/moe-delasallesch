@@ -8,12 +8,21 @@ variant: markdown
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
 ### Percussion Ensemble
+#### Overview of CCA 
+De La Salle School Percussion Ensemble, established in 2021, offers students a dynamic platform to explore percussion music while developing character and teamwork. Members learn to play a variety of instruments such as the xylophone, marimba, timpani, and drums, alongside basic music theory. The CCA emphasizes ensemble playing and sectional training, which fosters discipline, collaboration, and confidence. Values like respect, responsibility, and resilience are also cultivated through regular training and performance. Since 2022, the ensemble has actively participated in the Singapore Youth Festival (SYF), gaining authentic learning experiences. In 2024, their performance of “Again” at the Singapore Conference Hall showcased their growth and passion. Through meaningful school and public performances, percussionists experience the joy of music-making and a strong sense of belonging.
 
-Percussion Ensemble is a newly-introduced CCA in 2021.  
-  
-To broaden the spectrum of CCA experiences for our Lasallians in the domain of Performing Arts, Percussion Ensemble aims to give the members the exposure to percussion instruments such as Cajon, drums and xylophone. Members will learn to create and increase awareness towards the art form of percussion instruments as well as the playing techniques of percussion instruments.  
-  
-The CCA also aims to engage the members in the Arts through the development of a sense of appreciation for the percussion instrumental music. Members will also have the opportunities to play in an ensemble with percussion instruments with sectional training. Through the CCA training sessions, school values of respect, responsibility and resilience are explicitly taught and shared.
+#### What Students Will Experience 
+
+1.	Learn and perform on various percussion instruments.
+2.	Understand basic music theory and ensemble coordination.
+3.	Build values of respect, responsibility, and resilience.
+4.	Develop confidence through public and school performances.
+
+#### Highlights and Opportunities 
+1.	Participation in Singapore Youth Festival (SYF) since 2022.
+2.	2024 performance at Singapore Conference Hall.
+3.	Contributions to school concerts and events.
+4.	Ensemble and sectional training to enhance collaboration and musicianship.
 
 <img src="/images/Percussion 1.jpeg" style="width:36%" align="left">
 <img src="/images/Percussion 2.jpeg" style="width:49%" align="right">
