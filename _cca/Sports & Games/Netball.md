@@ -28,11 +28,15 @@ Students will
 3. Exchange program with selected secondary schools.
 4. Application for Direct School Admission (DSA).
 
-<img src="/images/Netball 2.jpeg" style="width:49%" align="left">
-<img src="/images/Netball 3.jpeg" style="width:49%" align="right">
+<img src="/images/2025/Cca/n1.jpg" style="width:49%" align="left">
+<img src="/images/2025/Cca/n2.jpg" style="width:49%" align="right">
 <br clear="left"><br>
+<img src="/images/2025/Cca/n3.jpg" style="width:49%" align="left">
+<img src="/images/2025/Cca/n4.jpg" style="width:49%" align="right">
+<br clear="left"><br>
+<img src="/images/2025/Cca/n5.jpg" style="width:80%"><br>
+<img src="/images/2025/Cca/n6.jpg" style="width:80%"><br>
+<img src="/images/2025/Cca/n7.jpg" style="width:80%"><br>
 
-<img src="/images/Netball 4.jpeg" style="width:49%" align="left">
-<img src="/images/Netball 5.jpeg" style="width:38%" align="right">
-<br clear="left"><br>
+
 watch the video.
