@@ -8,12 +8,25 @@ variant: markdown
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
 ### Netball
+#### Overview of CCA
+In Netball at De La Salle School, we aim to develop resilient, committed and discipline players who always put in their best.
 
-In Netball at De La Salle School, we aim to develop resilient, committed and discipline players who put in their best at all times.
+Netball is a sport that trains agility, speed and endurance. Besides training our netballers to meet the physical requirements of the game, they are also educated on the school values of Respect, Responsibility and Resilience.
 
-Netball is a sport that trains agility, speed and endurance. Besides training our netballers to meet the physical requirements of the game, they are also educated on the Olympic Values of Friendship, Respect &amp; Excellence which seek to develop positive attitudes and 21st Century Competencies.
+Through an array of curated modified games, the girls learn the fundamental skills like ball-handling, throwing and catching and the various locomotor skills that are essential in netball in a fun and positive environment. 
+#### What Students Will Experience 
 
-Lastly, we hope to use Netball as a platform to nurture mental strength, team spirit and sportsmanship in every player.
+Students will 
+1. **Learn and apply netball fundamentals** in a progressive, age-appropriate manner.
+2. **Develop a sense of responsibility and teamwork** by improving their individual skills and working closely with peers during training and matches.
+3. **Build resilience and discipline** through regular practice, goal-setting, and performance feedback.
+4. **Exhibit respect and sportsmanship** by competing respectfully in all games.
+
+#### Highlights and Opportunities 
+1. Participate in friendly matches with other schools.
+2. Participate in National School Games (NSG).
+3. Exchange program with selected secondary schools.
+4. Application for Direct School Admission (DSA).
 
 <img src="/images/Netball 2.jpeg" style="width:49%" align="left">
 <img src="/images/Netball 3.jpeg" style="width:49%" align="right">
@@ -22,11 +35,4 @@ Lastly, we hope to use Netball as a platform to nurture mental strength, team sp
 <img src="/images/Netball 4.jpeg" style="width:49%" align="left">
 <img src="/images/Netball 5.jpeg" style="width:38%" align="right">
 <br clear="left"><br>
-
-#### Find out more about Netball CCA
-
-All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
-  
-For sports CCAs that involve more physical exertion where the students are unmasked, a safe distance of at least two meters&nbsp;between students has been adhered to, and students are organised into groups with one meter&nbsp;between groups as safe management measures.&nbsp;  
-  
-Click&nbsp;[**here**](https://youtu.be/YAlLAHb0rN4)&nbsp;to watch the video.
+watch the video.
