@@ -24,18 +24,7 @@ De La Salle School Percussion Ensemble, established in 2021, offers students a d
 3.	Contributions to school concerts and events.
 4.	Ensemble and sectional training to enhance collaboration and musicianship.
 
-<img src="/images/Percussion 1.jpeg" style="width:36%" align="left">
-<img src="/images/Percussion 2.jpeg" style="width:49%" align="right">
-<br clear="left"><br>
-<img src="/images/Percussion 3.jpeg" style="width:49%" align="left">
-<img src="/images/Percussion 4.jpeg" style="width:40%" align="right">
-<br clear="left"><br>
-<img src="/images/Percussion 5.jpeg" style="width:45%" align="left">
-<img src="/images/Percussion 6.jpeg" style="width:49%" align="right">
-<br clear="left">
+<img src="/images/2025/Cca/p1.png" style="width:90%"><br>
+<img src="/images/2025/Cca/p2.jpg" style="width:90%"><br>
+<img src="/images/2025/Cca/p3.jpg" style="width:90%"><br>
 
-#### Find out more about Percussion Ensemble CCA
-
-All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
-
-Click&nbsp;**[here](https://youtu.be/EYTk5G9o39M)**&nbsp;to watch the video.
