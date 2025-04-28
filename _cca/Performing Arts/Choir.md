@@ -38,8 +38,3 @@ Masterclasses &amp; workshops: Choral Exchange Programme with Maestro Roni Sugia
 
 <img src="/images/2025/Cca/ch6.jpg" style="width:49%" align="left">
 <img src="/images/2025/Cca/ch7.jpg" style="width:49%" align="right">
-
-
-
-
-
