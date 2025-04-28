@@ -26,8 +26,17 @@ Students will:
 3. VIA projects to mentor younger children in making
 4. Passion-based competitions (eg: National Thinker’s Challenge, Sony Creative Science Award, Global Robotics Games X Stick ‘em)
 
-th Warrior which requires them to use certain mathematical skills. They will be introduced to various problem solving and investigative activities. These programmes aim to achieve higher order thinking skills as well as providing them an opportunity to work with others and reflect on their learning.
+
 
 <img src="/images/2025/Cca/d1.jpg" style="width:48%" align="left">
 <img src="/images/2025/Cca/d2.jpg" style="width:48%" align="right">
+<br clear="left">
+<img src="/images/2025/Cca/d3.jpg" style="width:48%" align="left">
+<img src="/images/2025/Cca/d4.jpg" style="width:48%" align="right">
+<br clear="left">
+<img src="/images/2025/Cca/d5.jpg" style="width:48%" align="left">
+<img src="/images/2025/Cca/d6.jpg" style="width:48%" align="right">
+<br clear="left">
+<img src="/images/2025/Cca/d7.jpg" style="width:48%" align="left">
+<img src="/images/2025/Cca/d8.jpg" style="width:48%" align="right">
 <br clear="left">
