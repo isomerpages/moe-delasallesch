@@ -8,20 +8,32 @@ variant: markdown
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
 ### Modern Dance
+#### Overview of CCA 
+
+Modern Dance is all about **expression, creativity, and connection**. We blend contemporary, hip-hop, and lyrical styles to create performances that are powerful, emotional, and unforgettable. It’s a great way to build **confidence, discipline, and team spirit** — all while having fun and discovering your love for dance!
+Every training session and performance is an opportunity to grow — not just as a dancer, but as a person. We aim to nurture **Lasallians with strong character** and a passion for excellence. Through regular practice, rehearsals, and performances, students develop important values such as respect, resilience and responsibility. 
+
+#### What Students Will Experience 
+Students will: 
+1. Develop coordination, body control &amp; strength 
+2. Learn to move in sync with music, understand rhythm and timing
+3. Building confidence in performance 
+4. Learn to collaborate, support &amp; rely on each other as a team 
+
+#### Highlights and Opportunities 
+
+1.	**School events** : From National Day to Prize Giving ceremonies
+2.	**Public performances**: Community events and collaborations with other schools 
+3.	**Competitions** : Participated &amp; achieved distinction in Singapore Youth Festival since 2019
+4.	**Workshops**: Participated in Dance Camps 
+
 
 <img src="/images/MODERN DANCE.jpg" style="width:90%"><br>
-<img src="/images/Modern dance 1.jpeg" style="width:49%" align="left">
-<img src="/images/modern dance 2.jpeg" style="width:49%" align="right">
+<img src="/images/2025/Cca/md1.jpg" style="width:37%" align="left">
+<img src="/images/2025/Cca/md2.jpg" style="width:61%" align="right">
 <br clear="left">
 
-Our Vision is to nurture young aspiring Lasallians to fulfil their dreams as they seek to communicate and express themselves through dance.
-
-The Modern Dance CCA opens up a myriad of opportunities for pupils to learn and master a range of dance techniques and styles emphasizing strength, balance and endurance with importance placed on rhythmic awareness. The dancers have trained through various performances and competitions. This gives the Lasallians a platform to cultivate self-confidence and resilience enhancing their leadership qualities through teamwork.
-
-#### Find out more about Modern Dance CCA
-
-All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
-
-For CCAs that involve more physical exertion where the students are unmasked, a safe distance of at least two meters&nbsp;between students has been adhered to, and students are organised into groups with one meter&nbsp;between groups as safe management measures.&nbsp;
-
-Click&nbsp;**[here](https://youtu.be/9pQQz-1WssI)**&nbsp;to watch the video.
+<img src="/images/2025/Cca/md3.jpg" style="width:90%"><br>
+<img src="/images/2025/Cca/md4.jpg" style="width:39%" align="left">
+<img src="/images/2025/Cca/md5.jpg" style="width:59%" align="right">
+<br clear="left">
