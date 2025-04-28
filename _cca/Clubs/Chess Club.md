@@ -8,13 +8,23 @@ variant: markdown
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
 ### Chess Club
+#### Overview of CCA
+Chess club is a great way for Lasallians to meet friends who share their passion for the game and form a community of chess enthusiasts. Lasallians can socialise with other members, discuss chess strategies, and build relationships with fellow players. Being part of a chess club can provide a sense of community and belonging, making chess more enjoyable and rewarding. Benefits of playing chess include improved Cognitive Skills, enhanced Memory and Attention Span and development of Sportsmanship and teaches players to accept both wins and losses gracefully.  
 
-The Chess Club was set up with the objective of promoting intellectual games. It aims to introduce basic chess play skills to members. Pupils are taught to think and strategise carefully before they act. During training, we discuss various chess moves and their resulting consequences. Pupils were also given opportunities to collaborate and share their knowledge with their teammates.
+#### What Students Will Experience 
+1. Learn and apply the strategies and tactics in chess playing from the coach.
 
-<img src="/images/Chess Club.jpg" style="width:90%">
+2. To design game plans with winning strategies, to think outside the box and be able to envision different scenarios and outcomes, leading to development of creative problem solvers. 
 
-#### Find out more about Chess Club CCA
+#### Highlights and Opportunities 
+Our members take part in:
 
-All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
-  
-Click&nbsp;**[here](https://youtu.be/nZOhoeq_FJI)**&nbsp;to watch the video.
+- National schools individual chess championship
+- National schools team chess championship
+
+<img src="/images/2025/Cca/c1.png" style="width:29%" align="left">
+<img src="/images/2025/Cca/c2.png" style="width:29%" align="right">
+<br clear="left"><br>
+<img src="/images/2025/Cca/c3.png" style="width:29%" align="left">
+<img src="/images/2025/Cca/c4.png" style="width:39%" align="right">
+<br clear="left">
