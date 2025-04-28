@@ -8,10 +8,27 @@ variant: markdown
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
 ### Media Club
+#### Overview of CCA 
 
-To broaden our Lasallians’ learning experiences in the domain of Digital Arts, media club is introduced in 2021. During CCA sessions, members will acquire specific skills and knowledge pertaining to the use of camera equipment, composition techniques and how lighting can affect quality of photos. Members will also get to learn processing skills to enhance the quality of their work. School events will be some platforms for our members to practice and hone their technical skills. Learning journey will also be planned for members to bring their experience beyond school.  
+Media Club is a Co-Curricular Activity (CCA) that nurtures Lasallians’ passion for videography, photography, and animation. They immerse themselves in the world of visual storytelling through hands-on experience with camera equipment and digital animation tools. 
 
-As a form of showcase of their photography work, members will have the opportunity to plan and set up an exhibition in school to display their photography work and their acquired skills.
+Established in 2021, Media Club provides Lasallians with opportunities to learn camera operations, composition techniques, lighting principles, and animation fundamentals. Through practical sessions and guided instruction, they learn to create visual narratives and bring stories to life through various digital media platforms. 
+
+Throughout the year, Lasallians apply their media knowledge and skills through school events, project work, learning journeys, and participation in exhibitions. They gain valuable experience in collaborating with others, sharing creative insights, and supporting one another to develop their technical skills. This embodies our Lasallian values of Faith, Service and Community as Lasallians strive for excellence in their craft for digital media while serving the school and community. 
+
+#### What Students Will Experience 
+
+Students will: 
+1. Acquire the skills and tools to communicate their ideas through videography, photography and animation.
+2. Gain practical media experience through coverage of school events, collaboration in project work, and participation in learning journeys and exhibitions.
+3. Showcase their media progress on digital platforms.
+4. Learn to create media content responsibly. 
+
+#### Highlights and Opportunities 
+1. Learning journeys to broaden experience in digital media 
+2. Participation in exhibitions e.g., Ngee Ann Photographic Exhibition 
+3. Participation in “Our Schools, Our Stories” Photo and Video Contest
+4. School events coverage opportunities to apply media knowledge and skills
 
 <img src="/images/Media 1.jpeg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Media 2.jpeg" style="width:15%;margin-right:15px;" align="left">
