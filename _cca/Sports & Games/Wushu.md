@@ -26,4 +26,4 @@ Students will:
 
 <img src="/images/2025/Cca/w1.jpg" style="width:90%"><br>
 
-<img src="/images/2025/Cca/w2.png" style="width:90%"><br>
+<img src="/images/2025/Cca/w2.png" style="width:80%"><br>

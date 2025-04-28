@@ -30,7 +30,7 @@ At De La Salle School, our Basketball Co-Curricular Activity (CCA) offers studen
 <img src="/images/2025/Cca/bb1.jpg" style="width:80%"><br>
 <img src="/images/2025/Cca/bb2.jpg" style="width:80%"><br>
 <img src="/images/2025/Cca/bb3.jpg" style="width:80%">
-De La Salle School collaboration with New Town Primary School <br>
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; De La Salle School collaboration with New Town Primary School <br>
 <img src="/images/2025/Cca/bb4.jpg" style="width:80%"><br>
 <img src="/images/2025/Cca/bb5.jpg" style="width:80%">
-Ex- Lasallians from Bukit Panjang Government High School sharing their basketball CCA experiences in secondary school.
+ Ex- Lasallians from Bukit Panjang Government High School   sharing their basketball CCA experiences in secondary school.
