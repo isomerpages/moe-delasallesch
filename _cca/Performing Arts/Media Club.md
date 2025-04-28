@@ -30,6 +30,8 @@ Students will:
 3. Participation in “Our Schools, Our Stories” Photo and Video Contest
 4. School events coverage opportunities to apply media knowledge and skills
 
+<img src="/images/2025/Cca/m1.jpg" style="width:90%"><br>
+<img src="/images/2025/Cca/m2.jpg" style="width:90%"><br>
 <img src="/images/Media 1.jpeg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/Media 2.jpeg" style="width:15%;margin-right:15px;" align="left">
 <img src="/images/Media 3.jpeg" style="width:15%;margin-right:15px;" align="left">
