@@ -8,17 +8,26 @@ variant: markdown
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
 ### Discovery Club
+#### Overview of CCA
+##### Discovery Club: Inspiring Young Inventors!
 
-<img src="/images/Discovery Club.png" style="width:90%">
+In Discovery Club, learning comes alive through the joy of play and making. When students engage in hands-on projects, they explore their creativity while developing critical thinking, problem-solving skills, and resilience. Each session encourages them to embrace their inner inventors, take risks, and see failure as a stepping stone to success through both physical and digital making activities.
 
-The Discovery Club aims to:<br>
-(a) instil in the Lasallians a love and curiosity in Science and Mathematics by relating to the real world context.<br>
-(b) equip the Lasallians with problem solving and innovative skills for Entrepreneurial Dare.
+Rooted in Design Thinking, students are empowered to explore their interests—whether building, coding, or crafting—while collaborating, sharing ideas, and learning from one another. They empathize, define problems, brainstorm solutions, prototype, and test ideas in real-world scenarios. At Discovery Club, students are inspired to invent with heart, using creativity to make a positive impact on their communities and beyond.
+#### What Students Will Experience 
+Students will: 
+1. Grow in curiosity through exposure to different realms of making through learning journeys and expert workshops
+2. Learn skills for physical and digital making (eg: cardboard construction, coding)
+3. Cultivate critical and creative thinking through design challenges
+4. Develop communication and collaboration skills through group projects
+#### Highlights and Opportunities 
+1. Learning journeys to inspiring spaces (eg: maker spaces and science centre)
+2. Workshops by experts (eg: MicroBits workshop, Stick ‘em Workshop)
+3. VIA projects to mentor younger children in making
+4. Passion-based competitions (eg: National Thinker’s Challenge, Sony Creative Science Award, Global Robotics Games X Stick ‘em)
 
-Lasallians will be exposed to Math game like Math Warrior which requires them to use certain mathematical skills. They will be introduced to various problem solving and investigative activities. These programmes aim to achieve higher order thinking skills as well as providing them an opportunity to work with others and reflect on their learning.
+th Warrior which requires them to use certain mathematical skills. They will be introduced to various problem solving and investigative activities. These programmes aim to achieve higher order thinking skills as well as providing them an opportunity to work with others and reflect on their learning.
 
-#### Find out more about Discovery Club CCA
-
-All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
-  
-Click&nbsp;**[here](https://youtu.be/BmDi2hPrM8c)**&nbsp;to watch the video.
+<img src="/images/2025/Cca/d1.jpg" style="width:48%" align="left">
+<img src="/images/2025/Cca/d2.jpg" style="width:48%" align="right">
+<br clear="left">
