@@ -24,4 +24,4 @@ Throughout the year, Lasallians apply their knowledge and skills through partici
 3. Innovation, Design and Engineering Competition (IDE)
 4. National Robotics Competition (NRC)
 
-<img src="/images/2025/Cca/rb1.jpg" style="width:90%"><br>
+<img src="/images/2025/Cca/rb1.jpg" style="width:80%"><br>
