@@ -30,14 +30,12 @@ Students earn badges and awards such as the *Golden Bar, Chief Commissioner’s 
 4.	**Community Engagement** – Contributing meaningfully to society through service and outreach.
 
 <img src="/images/2025/Cca/b1.jpg" style="width:90%">
-3 Awards attained during West Division Day <br>
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3 Awards attained during West Division Day <br>
 <img src="/images/2025/Cca/b2.jpg" style="width:90%">
-First Aid lesson during Interpack Activites <br>
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; First Aid lesson during Interpack Activites <br>
 <img src="/images/2025/Cca/b3.jpg" style="width:90%">
-Games conducted by the Sixers to start off our weekly meeting.
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Games conducted by the Sixers to start off our weekly meeting.
 <img src="/images/2025/Cca/b4.jpg" style="width:90%">
-Outdoor activities organised by Girl Guides House
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Outdoor activities organised by Girl Guides House
 <img src="/images/2025/Cca/b5.jpg" style="width:90%">
-Yoeman service during World Thinking Day
-
-
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yoeman service during World Thinking Day
