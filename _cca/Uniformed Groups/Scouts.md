@@ -26,13 +26,13 @@ Here’s what students can look forward to in Cub Scouts:
 4.	Contribute meaningfully to school and community through service-learning projects.
 
 #### Highlights and Opportunities 
+Some key highlights and opportunities in the Cub Scouts journey include:
+
+1.	National Cub Scout Events – Participation in west area or island-wide camps and activities that connect Scouts from across Singapore.
+
+2.	Community Service Projects – VIA experiences that promote empathy and action.
 
 <img src="/images/Scouts-1.jpg" style="width:49%" align="left">
 <img src="/images/Scouts-2.jpg" style="width:47%" align="right">
 <br clear="left">
 
-#### Find out more about Scouts CCA
-
-All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
-  
-Click&nbsp;**[here](https://youtu.be/L8YxrnJnj9Y)**&nbsp;to watch the video.
