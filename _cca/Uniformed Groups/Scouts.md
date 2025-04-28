@@ -32,7 +32,16 @@ Some key highlights and opportunities in the Cub Scouts journey include:
 
 2.	Community Service Projects – VIA experiences that promote empathy and action.
 
-<img src="/images/Scouts-1.jpg" style="width:49%" align="left">
-<img src="/images/Scouts-2.jpg" style="width:47%" align="right">
-<br clear="left">
 
+<img src="/images/2025/Cca/s1.jpg" style="width:59%" align="left">
+<img src="/images/2025/Cca/s2.jpg" style="width:29%" align="right">
+<br clear="left">
+Building Scouting skills through hands-on activities
+<img src="/images/2025/Cca/s3.jpg" style="width:59%" align="left">
+<img src="/images/2025/Cca/s4.jpg" style="width:33%" align="right">
+<br clear="left">
+Outdoor challenges and teamwork
+<img src="/images/2025/Cca/s5.jpg" style="width:70%">
+        &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Serving the community through VIA projects
+				<img src="/images/2025/Cca/s6.jpg" style="width:70%">
+		 &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;		&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Participating in west area or island-wide Cub Scout events
