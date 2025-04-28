@@ -36,7 +36,4 @@ Students will
 <br clear="left"><br>
 <img src="/images/2025/Cca/n5.jpg" style="width:80%"><br>
 <img src="/images/2025/Cca/n6.jpg" style="width:80%"><br>
-<img src="/images/2025/Cca/n7.jpg" style="width:80%"><br>
-
-
-watch the video.
+<img src="/images/2025/Cca/n7.jpg" style="width:80%">
