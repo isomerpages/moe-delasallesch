@@ -24,7 +24,7 @@ Our members take part in:
 
 <img src="/images/2025/Cca/c1.png" style="width:29%" align="left">
 <img src="/images/2025/Cca/c2.png" style="width:29%" align="right">
-<br clear="left">
+<br clear="left"><br>
 <img src="/images/2025/Cca/c3.png" style="width:29%" align="left">
-<img src="/images/2025/Cca/c4.png" style="width:29%" align="right">
+<img src="/images/2025/Cca/c4.png" style="width:39%" align="right">
 <br clear="left">
