@@ -25,7 +25,7 @@ Here’s what students can look forward to in Cub Scouts:
 3.	Grow in resilience, confidence, and teamwork.
 4.	Contribute meaningfully to school and community through service-learning projects.
 
-
+#### Highlights and Opportunities 
 
 <img src="/images/Scouts-1.jpg" style="width:49%" align="left">
 <img src="/images/Scouts-2.jpg" style="width:47%" align="right">
