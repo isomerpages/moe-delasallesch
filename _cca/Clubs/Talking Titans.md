@@ -26,8 +26,7 @@ Students will:
 <img src="/images/2025/Cca/t1.jpg" style="width:80%"><br>
 <img src="/images/2025/Cca/t2.jpg" style="width:80%"><br>
 
-<img src="/images/Talking Titans.jpg" style="width:85%"><br>
-
-<img src="/images/talking (1).jpeg" style="width:49%" align="left">
-<img src="/images/talking 2.jpeg" style="width:49%" align="right">
+<img src="/images/2025/Cca/t3.jpg" style="width:80%"><br>
+<img src="/images/2025/Cca/t4.jpg" style="width:80%"><br>
+<img src="/images/2025/Cca/t5.jpg" style="width:80%"><br>
 <br clear="left">
