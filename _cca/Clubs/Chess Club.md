@@ -22,3 +22,6 @@ Our members take part in:
 - National schools individual chess championship
 - National schools team chess championship
 
+<img src="/images/2025/Cca/c1.png" style="width:49%" align="left">
+<img src="/images/2025/Cca/c2.jpg" style="width:49%" align="right">
+<br clear="left">
