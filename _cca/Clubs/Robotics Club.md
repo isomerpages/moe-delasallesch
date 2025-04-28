@@ -25,3 +25,8 @@ Throughout the year, Lasallians apply their knowledge and skills through partici
 4. National Robotics Competition (NRC)
 
 <img src="/images/2025/Cca/rb1.jpg" style="width:80%"><br>
+<img src="/images/2025/Cca/rb2.jpg" style="width:80%"><br>
+<img src="/images/2025/Cca/rb3.jpg" style="width:80%"><br>
+<img src="/images/2025/Cca/rb4.jpg" style="width:80%"><br>
+<img src="/images/2025/Cca/rb5.jpg" style="width:80%"><br>
+<img src="/images/2025/Cca/rb6.jpg" style="width:80%"><br>
