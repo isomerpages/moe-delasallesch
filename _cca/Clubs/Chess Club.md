@@ -17,8 +17,8 @@ Chess club is a great way for Lasallians to meet friends who share their passion
 2. To design game plans with winning strategies, to think outside the box and be able to envision different scenarios and outcomes, leading to development of creative problem solvers. 
 
 #### Highlights and Opportunities 
-#### Find out more about Chess Club CCA
+Our members take part in:
 
-All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
-  
-Click&nbsp;**[here](https://youtu.be/nZOhoeq_FJI)**&nbsp;to watch the video.
+- National schools individual chess championship
+- National schools team chess championship
+
