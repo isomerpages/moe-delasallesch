@@ -26,7 +26,11 @@ At De La Salle School, our Basketball Co-Curricular Activity (CCA) offers studen
 2. Engage in basketball exchange programmes with selected secondary schools to gain insights into higher-level training
 3. Receive guidance and support for Direct School Admission (DSA) applications to secondary schools with strong basketball programmes
 4. Develop skills, friendships, and character through the Basketball CCA experience at De La Salle School
+#### Find out more about Basketball CCA
 
+All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
+
+Click&nbsp; [here](https://youtu.be/Co851CgHHd4)&nbsp;to watch the video. <br>
 <img src="/images/2025/Cca/bb1.jpg" style="width:80%"><br>
 <img src="/images/2025/Cca/bb2.jpg" style="width:80%"><br>
 <img src="/images/2025/Cca/bb3.jpg" style="width:80%">
