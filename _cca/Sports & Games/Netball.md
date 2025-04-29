@@ -27,7 +27,11 @@ Students will
 2. Participate in National School Games (NSG).
 3. Exchange program with selected secondary schools.
 4. Application for Direct School Admission (DSA).
+#### Find out more about Netball CCA
 
+All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
+
+Click&nbsp; [**here**](https://youtu.be/YAlLAHb0rN4)&nbsp;to watch the video. <br>
 <img src="/images/2025/Cca/n1.jpg" style="width:49%" align="left">
 <img src="/images/2025/Cca/n2.jpg" style="width:49%" align="right">
 <br clear="left"><br>
