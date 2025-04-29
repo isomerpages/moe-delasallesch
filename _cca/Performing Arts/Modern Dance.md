@@ -27,6 +27,11 @@ Students will:
 3.	**Competitions** : Participated &amp; achieved distinction in Singapore Youth Festival since 2019
 4.	**Workshops**: Participated in Dance Camps 
 
+#### Find out more about Modern Dance CCA
+
+All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
+
+Click&nbsp; [**here**](https://youtu.be/9pQQz-1WssI)&nbsp;to watch the video.
 
 <img src="/images/MODERN DANCE.jpg" style="width:90%"><br>
 <img src="/images/2025/Cca/md1.jpg" style="width:37%" align="left">
