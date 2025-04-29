@@ -23,8 +23,11 @@ De La Salle School Percussion Ensemble, established in 2021, offers students a d
 2.	2024 performance at Singapore Conference Hall.
 3.	Contributions to school concerts and events.
 4.	Ensemble and sectional training to enhance collaboration and musicianship.
+#### Find out more about Modern Dance CCA
 
+All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
+
+Click&nbsp; [here](https://youtu.be/EYTk5G9o39M)&nbsp;to watch the video. <br>
 <img src="/images/2025/Cca/p1.png" style="width:90%"><br>
 <img src="/images/2025/Cca/p2.jpg" style="width:90%"><br>
 <img src="/images/2025/Cca/p3.jpg" style="width:90%"><br>
-
