@@ -24,7 +24,11 @@ Our choir members participate in a wide range of meaningful experiences: <br>
 2.	**Public performances**: Community events and collaborations with other schools <br>
 3.	**Competitions &amp; festivals**: Opportunities to shine in Singapore Youth Festival <br>
 4.	**Masterclasses &amp; workshops**: Learning from experienced conductors and vocalists <br>
+#### Find out more about Choir CCA
 
+All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
+
+Click&nbsp; [**here**](https://youtu.be/AqgavB1tryk)&nbsp;to watch the video.<br>
 School events &amp; concerts: Chinese New Year
 
 <img src="/images/2025/Cca/ch1.jpg" style="width:30%" align="left">
