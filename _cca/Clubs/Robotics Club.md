@@ -22,7 +22,7 @@ Throughout the year, Lasallians apply their knowledge and skills through partici
 1. FIRST Lego League (FLL)
 2. National Robotics Programming Competition (NRPC)
 3. Innovation, Design and Engineering Competition (IDE)
-4. National Robotics Competition (NRC)
+4. National Robotics Competition (NRC)<br>
 #### Find out more about Robotics CCA
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
