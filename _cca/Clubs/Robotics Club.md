@@ -23,7 +23,11 @@ Throughout the year, Lasallians apply their knowledge and skills through partici
 2. National Robotics Programming Competition (NRPC)
 3. Innovation, Design and Engineering Competition (IDE)
 4. National Robotics Competition (NRC)
+#### Find out more about Robotics CCA
 
+All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
+
+Click&nbsp; [**here**](https://youtu.be/n3Ov7clEyAo)&nbsp;to watch the video. <br>
 <img src="/images/2025/Cca/rb1.jpg" style="width:80%"><br>
 <img src="/images/2025/Cca/rb2.jpg" style="width:80%"><br>
 <img src="/images/2025/Cca/rb3.jpg" style="width:80%"><br>
