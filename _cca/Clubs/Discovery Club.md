@@ -26,7 +26,11 @@ Students will:
 3. VIA projects to mentor younger children in making
 4. Passion-based competitions (eg: National Thinker’s Challenge, Sony Creative Science Award, Global Robotics Games X Stick ‘em)
 
+#### Find out more about Discovery CCA
 
+All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
+
+Click&nbsp; [**here**](https://youtu.be/BmDi2hPrM8c)&nbsp;to watch the video. <br>
 
 <img src="/images/2025/Cca/d1.jpg" style="width:48%" align="left">
 <img src="/images/2025/Cca/d2.jpg" style="width:48%" align="right">
