@@ -20,6 +20,8 @@ Students will:
 2. Learn skills for physical and digital making (eg: cardboard construction, coding)
 3. Cultivate critical and creative thinking through design challenges
 4. Develop communication and collaboration skills through group projects
+
+
 #### Highlights and Opportunities 
 1. Learning journeys to inspiring spaces (eg: maker spaces and science centre)
 2. Workshops by experts (eg: MicroBits workshop, Stick ‘em Workshop)
