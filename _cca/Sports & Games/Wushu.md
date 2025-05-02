@@ -23,6 +23,8 @@ Students will:
 
 1. Gain opportunities to perform in both school and public events 
 2. Participate in NSG (National School Games) 
+
+
 #### Find out more about Wushu CCA
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
