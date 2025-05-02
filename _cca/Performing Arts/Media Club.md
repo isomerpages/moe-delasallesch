@@ -29,6 +29,8 @@ Students will:
 2. Participation in exhibitions e.g., Ngee Ann Photographic Exhibition 
 3. Participation in “Our Schools, Our Stories” Photo and Video Contest
 4. School events coverage opportunities to apply media knowledge and skills
+
+
 #### Find out more about Media Club CCA
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  

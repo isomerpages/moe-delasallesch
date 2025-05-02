@@ -21,6 +21,8 @@ Hit the ground running with Hockey, where precision meets adrenaline! Students d
 #### Highlights and Opportunities 
 1. National School Games
 2. Pitch Training at Northland Secondary School
+
+
 #### Find out more about Hockey CCA
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  

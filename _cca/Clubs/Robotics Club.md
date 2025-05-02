@@ -18,11 +18,15 @@ Throughout the year, Lasallians apply their knowledge and skills through partici
 1. To nurture members into technology enthusiasts who are intelligent and virtuous
 2. To develop students who are proficient and gracious users of technology, particularly in the field of Robotics.
 3. To equip and hone their problem solving, project skills and soft skills, using competitions as a platform to apply their learning and utilizing Lego Education and Robotics sets as tools to achieve their aim
+
+
 #### Highlights and Opportunities 
 1. FIRST Lego League (FLL)
 2. National Robotics Programming Competition (NRPC)
 3. Innovation, Design and Engineering Competition (IDE)
-4. National Robotics Competition (NRC)
+4. National Robotics Competition (NRC)<br>
+
+
 #### Find out more about Robotics CCA
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  

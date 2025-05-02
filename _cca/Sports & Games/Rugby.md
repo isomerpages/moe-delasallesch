@@ -31,6 +31,8 @@ With these exposures and trainings, we hope to develop our Lasallians who are an
 1. Rugby Ready Clinic
 2. National School Games- Rugby Senior/ Junior Boys
 3. CCA Leadership training for selected captains
+
+
 #### Find out more about Rugby CCA
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
