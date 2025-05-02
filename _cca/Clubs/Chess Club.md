@@ -21,6 +21,8 @@ Our members take part in:
 
 - National schools individual chess championship
 - National schools team chess championship
+
+
 #### Find out more about Chess CCA
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
