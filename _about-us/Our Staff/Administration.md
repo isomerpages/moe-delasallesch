@@ -18,7 +18,6 @@ variant: markdown
 |Management Support Officer | Mdm Nesren Binte Mohamad Rajab| nesren_mohamad_rajab@moe.edu.sg|
 |Corporate Support Officer| Ms Ong Pak Mui| ong_pak_mui@moe.edu.sg|
 |Operations Manager| Mr Mok Chee Wah| mok_chee_wah@moe.edu.sg|
-|Operations Manager| Mr Ravisanker| ravisanker_selvarajoo@moe.edu.sg|
 |Operations Support Officer| Mdm R Saroja Deve| - |
 |Operations Support Officer| Mr Koh Wing Yeap| - |
 |Operations Support Officer| Mr Koh Soon Teck| - |
