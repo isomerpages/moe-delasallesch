@@ -14,6 +14,16 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250128_Chinese_New_Year_Celebration.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/200250203_P1_and_P2_Extensive_Reading_Programme.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250203_LLB_Election.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250214_Buddy_Up_Day.jpg">
+</div>
+<p></p>
 <h1><strong>Term 2</strong></h1>
 <p></p>
 <p></p>
@@ -21,6 +31,8 @@ description: ""
 <p></p>
 <p></p>
 <h1><strong>Term 4</strong></h1>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <hr>
