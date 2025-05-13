@@ -29,8 +29,7 @@ description: ""
 </div>
 </details>
 </div>
-<p>&nbsp;</p>
-<h1><strong>Term 2</strong></h1>
+<h1>&nbsp;<strong>Term 2</strong></h1>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary></summary>
@@ -40,13 +39,28 @@ description: ""
 </details>
 </div>
 <h1><strong>Term 3</strong></h1>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
+</div>
+</details>
+</div>
 <h1><strong>Term 4</strong></h1>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
+<p>
+<br>
+</p>
 <hr>
 <h1><strong>2024</strong></h1>
 <h1><strong>Term 1</strong></h1>
