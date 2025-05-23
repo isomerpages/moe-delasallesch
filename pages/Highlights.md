@@ -52,6 +52,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250407_Hari_Raya_Celebration_Page_2.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250419_Earth_Day.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250425_Museum_Based_Learning.jpg">
+</div>
 </div>
 </details>
 </div>
