@@ -35,8 +35,23 @@ description: ""
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250312_P3_LJ_to_Bird_Paradise_Page_1.jpg">
+</div>
 </div>
 </details>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250312_P3_LJ_to_Bird_Paradise_Page_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250402_LSS_BKK_Visit_Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250402_LSS_BKK_Visit_Page_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250407_Hari_Raya_Celebration_Page_1.jpg">
 </div>
 <h1><strong>Term 3</strong></h1>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
