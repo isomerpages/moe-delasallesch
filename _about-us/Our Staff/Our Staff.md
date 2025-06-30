@@ -58,6 +58,10 @@ variant: markdown
     <td>Mdm Chen Weihua<br>chen_weihua@moe.edu.sg</td>
   </tr>
 	 <tr>
+    <td>HOD Physical and Health Education</td>
+    <td>Mdm Rozana Kamsari<br>rozana_kamsari@moe.edu.sg </td>
+  </tr>
+	 <tr>
     <td>HOD Student Management &amp; Leadership (SML)</td>
     <td>Ms Tay Li Wen<br>tay_li_wen@moe.edu.sg </td>
   </tr>
@@ -92,6 +96,10 @@ variant: markdown
   <tr>
     <td>Subject Head Physical and Health Education </td>
     <td>Mr Matthew Teo<br>teo_puay_liang@moe.edu.sg </td>
+  </tr>
+	 <tr>
+    <td>Subject Head Physical and Health Education </td>
+    <td>Ms Chang Si Ying<br>chang_si_ying@moe.edu.sg </td>
   </tr>
   <tr>
 		</tr><tr>
