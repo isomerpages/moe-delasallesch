@@ -156,7 +156,7 @@ variant: markdown
     <td><b>Netball<br>(Girls Only)</b></td>
     <td>P3 <br>P4 &amp; P5<br></td>
     <td>Thursday<br>Friday</td>
-    <td>Ms Sally Koh<br>koh_bee_shiow@moe.edu.sg</td>
+    <td>Ms Ch'ng Ying Hui<br>chng_ying_hui@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Hockey</b></td>
