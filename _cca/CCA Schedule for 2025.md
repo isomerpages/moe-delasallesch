@@ -148,13 +148,13 @@ variant: markdown
   <tr>
     <td rowspan="5"><b>Sports</b></td>
     <td><b>Basketball<br>(Boys Only)</b></td>
-    <td>P3<br>P4 &amp; P5</td>
-    <td>Thursday<br>Friday</td>
+    <td>P3, P4, P5</td>
+    <td>Friday</td>
     <td>Mr Alex Yao<br>yao_zhongde@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Netball<br>(Girls Only)</b></td>
-    <td>P3 &amp; P5<br>P4<br></td>
+    <td>P3 <br>P4 &amp; P5<br></td>
     <td>Thursday<br>Friday</td>
     <td>Ms Sally Koh<br>koh_bee_shiow@moe.edu.sg</td>
   </tr>
@@ -166,7 +166,7 @@ variant: markdown
   </tr>
   <tr>
     <td><b>Rugby<br>(Boys Only)</b></td>
-    <td>P5<br>P3 &amp; P4<br></td>
+    <td>P4 &amp; P5<br> P3<br></td>
     <td>Thursday<br>Friday</td>
     <td>Mr Patrick Low<br>low_kim_hong@moe.edu.sg</td>
   </tr>
