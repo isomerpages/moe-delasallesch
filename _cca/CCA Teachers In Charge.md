@@ -21,7 +21,7 @@ variant: markdown
   <tr>
     <td rowspan="5">Sports </td>
     <td>Hockey </td>
-    <td><b>Overall IC:  Mr Muhammad Hafiz </b><br><br>Mdm Aisah<br><br> Ms Joy Ng<br>Mr Muhammad Roshan Abdul Rahim</td>
+    <td><b>Overall IC:  Mr Muhammad Hafiz </b><br><br>Mdm Aisah<br><br> Ms Joy Ng<br><br>Mr Muhammad Roshan Abdul Rahim</td>
     <td><a href="mailto:muhammad_hafiz_azhari@moe.edu.sg">muhammad_hafiz_azhari@moe.edu.sg</a><br><br><br><a href="mailto:siti_aisah_mohamed_jasmin@moe.edu.sg">siti_aisah_mohamed_jasmin@moe.edu.sg</a><br><br><a href="mailto:joy_ng_d@moe.edu.sg">joy_ng_d@moe.edu.sg</a><br><br>
 		<a href="mailto:muhammad_roshan_abdul_rahim@moe.edu.sg">muhammad_roshan_abdul_rahim@moe.edu.sg</a></td>
   </tr>
