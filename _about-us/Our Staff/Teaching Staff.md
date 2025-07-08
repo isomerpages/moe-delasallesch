@@ -78,4 +78,4 @@ variant: markdown
 |**ST. DOMINIC 6**| Mrs Jasmine Chen<br>Mdm Noor Syakirah Jamal | tan_cai_yun_jasmine@moe.edu.sg <br>noor_syakirah_jamal@moe.edu.sg |
 |**ST. ELIZABETH 6**|Ms Ch'ng Ying Hui<br>Mdm Wang Yun | chng_ying_hui@moe.edu.sg<br>wang_yun@moe.edu.sg |
 |**ST. FRANCIS 6**| Mr Wee Qi-Rong Ronald<br>Mr Vikneswaran Narayanan|  wee_qi_rong_ronald@moe.edu.sg<br>vikneswaran_narayanan@moe.edu.sg |
-|**ST. GABRIEL 6**| Mrs Luanna Goh<br>Mdm Goh Lee Sim Eunice<br>Mr Abdul Gaffar Shaik Yusof | miller_goh_luanna_judith@moe.edu.sg<br>goh_lee_sim_eunice@moe.edu.sg <br>abdul_gaffar_shaik_yuso@moe.edu.sg |
+|**ST. GABRIEL 6**| Mdm Goh Lee Sim Eunice<br>Mr Abdul Gaffar Shaik Yusof | goh_lee_sim_eunice@moe.edu.sg <br>abdul_gaffar_shaik_yuso@moe.edu.sg |
