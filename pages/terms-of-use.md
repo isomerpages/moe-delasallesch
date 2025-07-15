@@ -66,3 +66,11 @@ These Terms of Use may be changed from time to time. Changes will be posted on t
 **9\. Governing Law**
 
 9.1 These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+
+
+[P6](/files/2024/P6_Book_List.pdf)
+[P5](/files/2024/P5_Book_List.pdf)
+[P4](/files/2024/P4_Book_List.pdf)
+[P3](/files/2024/P3_Book_List.pdf)
+[P2](/files/2024/P2_Book_List.pdf)
+[P1](/files/2024/P1_Book_List.pdf)
