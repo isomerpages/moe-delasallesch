@@ -86,8 +86,8 @@ variant: markdown
   <tr>
     <td rowspan="4">Clubs </td>
     <td>Talking Titans </td>
-    <td><b>Overall IC: Ms Muneera Begum Mohamed</b> <br><br>Mrs Luanna Goh<br><br>Mdm Azlina<br><br>Ms Mangala  <br></td>
-    <td><a href="mailto:muneera_begum_mohamed_iqbal@moe.edu.sg">muneera_begum_mohamed_iqbal@moe.edu.sg</a><br><br><br><a href="mailto:miller_goh_luanna_judith@moe.edu.sg">miller_goh_luanna_judith@moe.edu.sg</a><br><br><a href="mailto:nur_azlina_ngadi@moe.edu.sg">nur_azlina_ngadi@moe.edu.sg</a><br><br><a href="mailto:mangala_dharshini_harikrishan@moe.edu.sg">mangala_dharshini_harikrishan@moe.edu.sg</a></td>
+    <td><b>Overall IC: Ms Muneera Begum Mohamed</b> <br><br>Mdm Azlina<br><br>Ms Mangala  <br></td>
+    <td><a href="mailto:muneera_begum_mohamed_iqbal@moe.edu.sg">muneera_begum_mohamed_iqbal@moe.edu.sg</a><br><br><br><a href="mailto:nur_azlina_ngadi@moe.edu.sg">nur_azlina_ngadi@moe.edu.sg</a><br><br><a href="mailto:mangala_dharshini_harikrishan@moe.edu.sg">mangala_dharshini_harikrishan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Discovery Club </td>
