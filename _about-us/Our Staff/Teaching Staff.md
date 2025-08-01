@@ -29,7 +29,7 @@ variant: markdown
 | **ST.ANTHONY 2** | Mdm Siti Fadilah Saidi<br>Mdm Wang Xiaoxia | siti_fadilah_saidi@moe.edu.sg<br>wang_xiao_xia@moe.edu.sg<br> |
 | **ST.BERNADETTE 2** | Mdm Siti Aisah Mohamed Jasmin<br>Ms Tay Ai Suan <br> Mrs Jerine Poh | siti_aisah_mohamed_jasmin@moe.edu.sg<br>tay_ai_suan@moe.edu.sg<br>ewe_ai_hoon@moe.edu.sg |
 |**ST.CHRISTOPHER 2**|Mrs Lim-Ng Xiang Ling <br>Mdm Du Ping Ping | ng_xiang_ling@moe.edu.sg<br>du_pingping@moe.edu.sg |
-|**ST.DOMINIC 2**| Mdm Goh Sock Hongi<br>Mdm Rozana Kamsari|goh_sock_hong@moe.edu.sg<br>rozana_kamsari@moe.edu.sg |
+|**ST.DOMINIC 2**| Mdm Goh Sock Hong<br>Mdm Rozana Kamsari|goh_sock_hong@moe.edu.sg<br>rozana_kamsari@moe.edu.sg |
 |**ST. ELIZABETH 2**|Mdm Azizah Binte Ibrahim<br>Ms Jasmin Mohd Hannifa  | azizah_ibrahim@moe.edu.sg<br>jasmin_mohamed_hannifa@moe.edu.sg |
 |**ST. FRANCIS 2**| Miss Nur Arifah Adnan<br>Mdm Lai Chiat Pheng | nur_arifah_adnan@moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg |
 |**ST. GABRIEL 2**|Mrs Winnie Wong<br>Mrs Fam Seow Wee| ang_hwee_nee@moe.edu.sg<br>fam_seow_wee@moe.edu.sg |
