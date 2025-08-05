@@ -94,13 +94,26 @@ description: ""
 </div>
 </details>
 </div>
-<h1></h1>
 <h1><strong>Term 3</strong></h1>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250701_P3_MBL_Geylang_Serai_Heritage_Gallery.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250701_P6_LJ_to_SBW_an_LKC_Museum.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250721_Racial_Harmony_Day_2025_Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250721_Racial_Harmony_Day_2025_Page_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/202507112_P5_NE_Show.jpg">
+</div>
 </div>
 </details>
 </div>
