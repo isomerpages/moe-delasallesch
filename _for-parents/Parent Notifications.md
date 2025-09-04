@@ -27,3 +27,5 @@ variant: markdown
 [RE-OPENING OF SCHOOL IN TERM 3 ](/files/2025/27_Jun_2025_PN.pdf)
 
 [August 2025 Parent Notification](/files/2025/4_Aug_2025_PN.pdf)
+
+[September 2025 Parent Notification](/files/2025/4_Sep_2025_PN.pdf)
