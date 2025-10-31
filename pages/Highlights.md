@@ -114,6 +114,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/202507112_P5_NE_Show.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250808_National_Day_Celebration_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250808_National_Day_Celebration_2.jpg">
+</div>
 </div>
 </details>
 </div>
@@ -122,11 +128,16 @@ description: ""
 <details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250923_P2_VIA_Hosting_K2_children_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Highlights/20250923_P2_VIA_Hosting_K2_children_2.jpg">
+</div>
 <p></p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <p>
 <br>
