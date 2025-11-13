@@ -33,3 +33,5 @@ variant: markdown
 **Term 4 2025**
 
 [October 2025 Parent Notification](/files/2025/7_Oct_2025_PN.pdf)
+
+[November 2025 Parent Notification](/files/2025/7_Nov_2025_PN.pdf)
