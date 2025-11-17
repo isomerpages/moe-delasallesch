@@ -22,8 +22,7 @@ variant: markdown
 
 [DLS P6 2026](/files/2026/DLS_P6_2026.pdf)
 
-[De La Salle School sale schedule Y2025  ](/files/2026/De_La_Salle_School_sale_schedule_Y2025__.pdf)
 #### Uniform
 
 **Jeep Sing Fashion** <br>
-Click [**here**](/files/Uniform_Sale_Schedule_2024.pdf) to view the uniform sale schedule.
+Click [**here**](/files/2026/De_La_Salle_School_sale_schedule_Y2025__.pdf) to view the uniform sale schedule.
