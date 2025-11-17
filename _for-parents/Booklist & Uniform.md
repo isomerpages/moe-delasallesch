@@ -10,19 +10,19 @@ variant: markdown
 
 #### Booklist
 
-[DLS P1 2025](/files/2024/P1_Book_List.pdf)
+[DLS P1 2026](/files/2026/DLS_P1_2026.pdf)
 
-[DLS P2 2025](/files/2024/P2_Book_List.pdf)
+[DLS P2 2026](/files/2026/DLS_P2_2026.pdf)
 
-[DLS P3 2025](/files/2024/P3_Book_List.pdf)
+[DLS P3 2026](/files/2026/DLS_P3_2026.pdf)
 
-[DLS P4 2025](/files/2024/P4_Book_List.pdf)
+[DLS P4 2026](/files/2026/DLS_P4_2026.pdf)
 
-[DLS P5 2025](/files/2024/P5_Book_List.pdf)
+[DLS P5 2026](/files/2026/DLS_P5_2026.pdf)
 
-[DLS P6 2025](/files/2024/P6_Book_List.pdf)
+[DLS P6 2026](/files/2026/DLS_P6_2026.pdf)
 
-
+[De La Salle School sale schedule Y2025  ](/files/2026/De_La_Salle_School_sale_schedule_Y2025__.pdf)
 #### Uniform
 
 **Jeep Sing Fashion** <br>
