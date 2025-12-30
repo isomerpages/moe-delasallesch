@@ -47,11 +47,7 @@ variant: markdown
   </tr>
    <tr>
     <td>HOD English Language</td>
-    <td>Mr Fairuzaman Bin Haidzir<br>fairuzaman_haidzir@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td>HOD Science</td>
-    <td>Mrs Sally Yeo<br>tan_chui_lew@moe.edu.sg</td>
+    <td>Ms Shylaja Gopalan Nair<br>shylaja_gopalan_nair@moe.edu.sg</td>
   </tr>
   <tr>
     <td>HOD Mother Tongue Language</td>
@@ -86,8 +82,16 @@ variant: markdown
     <td>Mrs Choy-Ang Weiqi <br>ang_weiqi@moe.edu.sg</td>
   </tr>
 	<tr>
+    <td>Subject Head Mathematics</td>
+    <td>Ms Laavanyah Alagasamy <br>laavanyah_alagasamy@moe.edu.sg</td>
+  </tr>
+	<tr>
     <td>Subject Head Mother Tongue Language</td>
     <td>Ms Jasmin Mohd Hannifa <br>jasmin_mohamed_hannifa@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td>Subject Head Mother Tongue Language</td>
+    <td>Mr Chong Wee Tit <br>chong_wee_tit@moe.edu.sg</td>
   </tr>
 	<tr>
     <td>Subject Head Aesthetics</td>
@@ -96,10 +100,6 @@ variant: markdown
   <tr>
     <td>Subject Head Physical and Health Education </td>
     <td>Mr Matthew Teo<br>teo_puay_liang@moe.edu.sg </td>
-  </tr>
-	 <tr>
-    <td>Subject Head Physical and Health Education </td>
-    <td>Ms Chang Si Ying<br>chang_si_ying@moe.edu.sg </td>
   </tr>
   <tr>
 		</tr><tr>
