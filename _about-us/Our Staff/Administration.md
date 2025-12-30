@@ -25,4 +25,4 @@ variant: markdown
 |ICT Manager| Ms Vasanthy| mohanraj_vasantharany@moe.edu.sg|
 |Desktop Engineer| Ms Siti Rasyidah Rosman| - | 
 |Desktop Engineer| Mr Zul | - |
-|Library Assistant| Mdm Zainurul Shamira| - |
+|Library Assistant| Ms Sajja| - |
