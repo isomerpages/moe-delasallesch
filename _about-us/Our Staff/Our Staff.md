@@ -90,16 +90,16 @@ variant: markdown
     <td>Ms Jasmin Mohd Hannifa <br>jasmin_mohamed_hannifa@moe.edu.sg</td>
   </tr>
 	<tr>
+    <td>Subject Head Mother Tongue Language</td>
+    <td>Mr Chong Wee Tit <br>chong_wee_tit@moe.edu.sg</td>
+  </tr>
+	<tr>
     <td>Subject Head Aesthetics</td>
     <td>Ms Jenny Chew Gek Cheng <br>chew_gek_cheng_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Subject Head Physical and Health Education </td>
     <td>Mr Matthew Teo<br>teo_puay_liang@moe.edu.sg </td>
-  </tr>
-	 <tr>
-    <td>Subject Head Physical and Health Education </td>
-    <td>Ms Chang Si Ying<br>chang_si_ying@moe.edu.sg </td>
   </tr>
   <tr>
 		</tr><tr>
