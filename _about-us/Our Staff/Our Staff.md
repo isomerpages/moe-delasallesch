@@ -49,6 +49,10 @@ variant: markdown
     <td>HOD English Language</td>
     <td>Ms Shylaja Gopalan Nair<br>shylaja_gopalan_nair@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td>HOD Mathematics</td>
+    <td>Mr Vikneswaran Nair<br>vikneswaran_narayanan@moe.edu.sg</td>
+  </tr>
   <tr>
     <td>HOD Mother Tongue Language</td>
     <td>Mdm Chen Weihua<br>chen_weihua@moe.edu.sg</td>
@@ -68,10 +72,6 @@ variant: markdown
 	  <tr>
     <td>HOD Curriculum Innovation &amp; Technology </td>
     <td>Mrs Jasmine Chen<br>tan_cai_yun_jasmine@moe.edu.sg </td>
-  </tr>
-    <tr>
-    <td>Level Head Mathematics</td>
-    <td>Mr Vikneswaran<br>vikneswaran_narayanan@moe.edu.sg</td>
   </tr>
 	 <tr>
     <td>Level Head Science</td>
