@@ -90,7 +90,7 @@ variant: markdown
     <td>Ms Jasmin Mohd Hannifa <br>jasmin_mohamed_hannifa@moe.edu.sg</td>
   </tr>
 	<tr>
-    <td>Subject Head Mother Tongue Language</td>
+    <td>Subject Head Chinese Language</td>
     <td>Mr Chong Wee Tit <br>chong_wee_tit@moe.edu.sg</td>
   </tr>
 	<tr>
