@@ -63,8 +63,8 @@ variant: markdown
 |---|---|---|
 | **ST.ANTHONY 5** |Mrs Agnes Yu <br>Mr Chong Wee Tit |agnes_lee_ming_chyi@moe.edu.sg<br>chong_wee_tit@moe.edu.sg |
 |**ST. BERNADETTE 5**| Mr Errol Benedict Robert<br>Ms Afzal-En-Nisa  | @moe.edu.sg<br>afzal-en-nisa_mohamad_na@moe.edu.sg |
-|**ST. CHRISTOPHER 5**| Ms Nurul I'zzah Basiron <br>Mr Vikneswaran Narayanan<br> | nurul_izzah_basiron@moe.edu.sg<br>vikneswaran_narayanan@moe.edu.sg <br>nor_hashanah_mohammad_razif@moe.edu.sg |
-|**ST. DOMINIC 5**| Ms Nor Hashanah B M R  <br>Mdm Goh Sock Hong  | looi_xinye_grace@moe.edu.sg<br>goh_sock_hongl@moe.edu.sg <br>liu_dan@moe.edu.sg |
+|**ST. CHRISTOPHER 5**| Dr P Durka Devi <br>Mr Vikneswaran Narayanan<br> | p_durka_devi@moe.edu.sg<br>vikneswaran_narayanan@moe.edu.sg  |
+|**ST. DOMINIC 5**| Ms Nor Hashanah B M R  <br>Mdm Goh Sock Hong  | nor_hashanah_mohammad_razif@moe.edu.sg<br>goh_sock_hongl@moe.edu.sg <br>liu_dan@moe.edu.sg |
 |**ST. ELIZABETH 5**| Ms Laavanyah Alagasamy<br>Mr Muhammad Hafiz Azhari B Mohd Jamil  | laavanyah_alagasamy@moe.edu.sg<br>@moe.edu.sg |
 |**ST. FRANCIS 5**| Mr Wee Qi-Rong Ronald<br>Ms Tay Li Wen| wee_qi_rong_ronald@moe.edu.sg<br>tay_li_wen@moe.edu.sg  |
 
