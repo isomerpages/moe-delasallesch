@@ -54,14 +54,14 @@ variant: markdown
 |**ST.BERNADETTE 4**| Mr Daniel Lin Yuan Wei <br>Ms Joanne Li | lin_yuanwei_daniel@moe.edu.sg<br>li_wai_yee_joanne@moe.edu.sg |
 |**ST. CHRISTOPHER 4**| Mdm Low Ren Fong <br>Ms Woon Shio Ching| low_ren_fong@moe.edu.sg <br>woon_shio_ching@moe.edu.sg|
 |**ST. DOMINIC 4**| Mrs Judy Yip<br>Mdm Chen Weihua | ong_judy@moe.edu.sg<br>chen_weihua@moe.edu.sg  |
-|**ST. ELIZABETH 4**| Mrs Amy Liew<br>Ms Eu Hui Jun | amy_lee_may_chyou@moe.edu.sg<br>@moe.edu.sg |
+|**ST. ELIZABETH 4**| Mrs Amy Liew<br>Ms Liew Wen Rin  | amy_lee_may_chyou@moe.edu.sg<br>liew_wen_rin@moe.edu.sg |
 |**ST. FRANCIS 4**| Mrs Michelle Chian<br>Ms Cai Jueying| michelle_chian@moe.edu.sg<br>cai_jueying@moe.edu.sg |
 
 #### Primary 5 (2026)
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
-| **ST.ANTHONY 5** |Mrs Agnes Yu <br>Mdm Yusnizar |agnes_lee_ming_chyi@moe.edu.sg<br>yusnizar_yusman@moe.edu.sg |
+| **ST.ANTHONY 5** |Mrs Agnes Yu <br>Mr Chong Wee Tit |agnes_lee_ming_chyi@moe.edu.sg<br>chong_wee_tit@moe.edu.sg |
 |**ST. BERNADETTE 5**| Mr Errol Benedict Robert<br>Ms Afzal-En-Nisa  | @moe.edu.sg<br>afzal-en-nisa_mohamad_na@moe.edu.sg |
 |**ST. CHRISTOPHER 5**| Ms Nurul I'zzah Basiron <br>Mr Vikneswaran Narayanan<br> | nurul_izzah_basiron@moe.edu.sg<br>vikneswaran_narayanan@moe.edu.sg <br>nor_hashanah_mohammad_razif@moe.edu.sg |
 |**ST. DOMINIC 5**| Ms Nor Hashanah B M R  <br>Mdm Goh Sock Hong  | looi_xinye_grace@moe.edu.sg<br>goh_sock_hongl@moe.edu.sg <br>liu_dan@moe.edu.sg |
