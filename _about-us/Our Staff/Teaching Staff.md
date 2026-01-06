@@ -13,8 +13,8 @@ variant: markdown
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
-| **ST.ANTHONY 1** |  Ms Dewi Lee <br>Mdm Noor Syakirah Jamal|@moe.edu.sg<br>noor_syakirah_jamal@moe.edu.sg
-| **ST.BERNADETTE 1** | Mdm Wang Yun<br>Ms Teo Su Zhen Porcia| wang_yun@moe.edu.sg<br>@moe.edu.sg  |
+| **ST.ANTHONY 1** |  Ms Dewi Lee <br>Mdm Noor Syakirah Jamal|lee_jia_hui_dewi@moe.edu.sg<br>noor_syakirah_jamal@moe.edu.sg
+| **ST.BERNADETTE 1** | Mdm Wang Yun<br>Ms Estella <br>Ms Aisyah| wang_yun@moe.edu.sg<br>@moe.edu.sg  |
 |**ST.CHRISTOPHER 1** | Mdm Siti Aisah Mohamed Jasmin<br>Mdm Du Ping Ping  | siti_aisah_mohamed_jasmin@moe.edu.sg<br>du_pingping@moe.edu.sg  |
 |**ST.DOMINIC 1**| Mdm Siti Fadilah Saidi  <br>Mrs Fam Seow Wee  | @moe.edu.sg<br>fam_seow_wee@moe.edu.sg |
 |**ST.ELIZABETH 1** | Mr Muhd Hafiz Mohd Osman<br>Ms Jasmin Mohd Hannifa|khoo_li_ying@moe.edu.sg<br>soo_ling_ling@moe.edu.sg |
