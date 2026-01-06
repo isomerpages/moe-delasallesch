@@ -20,7 +20,7 @@ variant: markdown
 |**ST.ELIZABETH 1** | Ms Khoo Li Ying Lynn<br>Ms Soo Ling Ling |khoo_li_ying@moe.edu.sg<br>soo_ling_ling@moe.edu.sg |
 |**ST.FRANCIS 1** |Mrs Joanne Liou <br>Ms Moganeswary| lau_siew_yee@moe.edu.sg<br>moganeswary_ap_t@moe.edu.sg | 
 |**ST.GABRIEL 1** | Mdm Goh Lee Sim Eunice<br>Mdm Noraini Mohamed|  goh_lee_sim_eunice@moe.edu.sg<br>noraini_mohamed_a@moe.edu.sg |
-|**ST.HELEN 1** | Ms Joy Ng<br>Ms Florence Lim <br> Mdm Rabby | joy_ng_d@moe.edu.sg<br>lim_seok_yuen_florence@moe.edu.sg <br>tan_rabby@moe.edu.sg
+|**ST.HELEN 1** | Mrs Winnie Wong<br>Ms Florence Lim <br> Mdm Rabby | ang_hwee_nee@moe.edu.sg<br>@moe.edu.sg <br>tan_rabby@moe.edu.sg
 
 #### Primary 2 (2026)
 
@@ -33,7 +33,7 @@ variant: markdown
 |**ST. ELIZABETH 2**|Mdm Azizah Binte Ibrahim<br>Ms Jasmin Mohd Hannifa  | azizah_ibrahim@moe.edu.sg<br>jasmin_mohamed_hannifa@moe.edu.sg |
 |**ST. FRANCIS 2**| Miss Nur Arifah Adnan<br>Mdm Lai Chiat Pheng | nur_arifah_adnan@moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg |
 |**ST. GABRIEL 2**|Mrs Winnie Wong<br>Mrs Fam Seow Wee| ang_hwee_nee@moe.edu.sg<br>fam_seow_wee@moe.edu.sg |
-|**ST. HELEN 2**|  Mdm Ng Peiling<br>Mdm Noraini Mohamed | ng_peiling@moe.edu.sg <br> @moe.edu.sg<br> 
+|**ST. HELEN 2**| Ms Florence Lim<br>Ms Joy Ng | lim_seok_yuen_florence@moe.edu.sg <br> joy_ng_d@moe.edu.sg<br> 
 
 #### Primary 3 (2026)
 
