@@ -18,7 +18,7 @@ variant: markdown
 |**ST.CHRISTOPHER 1** | Mdm Siti Aisah Mohamed Jasmin<br>Mdm Du Ping Ping  | siti_aisah_mohamed_jasmin@moe.edu.sg<br>du_pingping@moe.edu.sg  |
 |**ST.DOMINIC 1**| Mdm Siti Fadilah Saidi  <br>Mrs Fam Seow Wee  |siti_fadilah_saidi@moe.edu.sg<br>fam_seow_wee@moe.edu.sg |
 |**ST.ELIZABETH 1** | Mr Muhd Hafiz Mohd Osman<br>Ms Jasmin Mohd Hannifa|@moe.edu.sg<br>jasmin_mohamed_hannifa@moe.edu.sg |
-|**ST.FRANCIS 1** |Ms Mun Choy Ling Hilda <br>Mdm Lai Chiat Pheng| @moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg | 
+|**ST.FRANCIS 1** |Ms Mun Choy Ling Hilda <br>Mdm Lai Chiat Pheng| mun_choy_ling_hilda@moe.edu.sg<br>lai_chiat_pheng@moe.edu.sg | 
 |**ST.GABRIEL 1** | Mdm Goh Lee Sim Eunice<br>Mdm Noraini Mohamed|  goh_lee_sim_eunice@moe.edu.sg<br>noraini_mohamed_a@moe.edu.sg |
 |**ST.HELEN 1** | Mrs Winnie Wong<br>Ms Nurul Mardiah Khir Johari  | ang_hwee_nee@moe.edu.sg<br>nurul_mardiah_khir_johari@moe.edu.sg |
 
