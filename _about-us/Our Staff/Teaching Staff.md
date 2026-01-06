@@ -54,7 +54,7 @@ variant: markdown
 |**ST.BERNADETTE 4**| Mr Daniel Lin Yuan Wei <br>Ms Joanne Li | lin_yuanwei_daniel@moe.edu.sg<br>li_wai_yee_joanne@moe.edu.sg |
 |**ST. CHRISTOPHER 4**| Mdm Low Ren Fong <br>Ms Woon Shio Ching| low_ren_fong@moe.edu.sg <br>woon_shio_ching@moe.edu.sg|
 |**ST. DOMINIC 4**| Mrs Judy Yip<br>Mdm Chen Weihua | ong_judy@moe.edu.sg<br>chen_weihua@moe.edu.sg  |
-|**ST. ELIZABETH 4**| Mrs Amy Liew<br>Ms Eu Hui Jun | amy_lee_may_chyou@moe.edu.sg<br>eu_hui_jun@moe.edu.sg |
+|**ST. ELIZABETH 4**| Mrs Amy Liew<br>Ms Eu Hui Jun | amy_lee_may_chyou@moe.edu.sg<br>@moe.edu.sg |
 |**ST. FRANCIS 4**| Mrs Michelle Chian<br>Ms Cai Jueying| michelle_chian@moe.edu.sg<br>cai_jueying@moe.edu.sg |
 
 #### Primary 5 (2026)
@@ -72,7 +72,7 @@ variant: markdown
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
-| **ST.ANTHONY 6** |Mdm Yusnizar Yusman  <br>Mr Patrick Low Kim Hong<br>Ms Eu Hui Jun| yusnizar_yusman@moe.edu.sg<br>low_kim_hong@moe.edu.sg |
+| **ST.ANTHONY 6** |Mdm Yusnizar Yusman  <br>Mr Patrick Low Kim Hong<br>Ms Eu Hui Jun| yusnizar_yusman@moe.edu.sg<br>low_kim_hong@moe.edu.sg<br>eu_hui_jun@moe.edu.sg |
 |**ST. BERNADETTE 6**| Mrs Choy-Ang Weiqi<br> Mr Alex Yao ZhongDe<br> Ms Mangala Dharishini D/O Harikrishnan| ang_weiqi@moe.edu.sg  <br>yao_zhongde@moe.edu.sg <br>mangala_dharshini_harikrishan@moe.edu.sg |
 |**ST. CHRISTOPHER 6**| Mrs Chai-Yeo Shin Hua<br>Ms Nurul I'zzah Basiron <br>Mdm Zhang Yao| agnes_lee_ming_chyi@moe.edu.sg<br>muhammad_hafiz_azhari@moe.edu.sg |
 |**ST. DOMINIC 6**| Ms Grace Looi Xinye<br>Mdm Liu Dan<br>Ms Lim Hwee Hong | looi_xinye_grace@moe.edu.sg <br>liu_dan@moe.edu.sg <br>lim_hwee_hong@moe.edu.sg |
