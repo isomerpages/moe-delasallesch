@@ -31,8 +31,8 @@ variant: markdown
     <td><a href="mailto:yao_zhongde@moe.edu.sg">yao_zhongde@moe.edu.sg</a><br><br><a href="mailto:errol_benedict_robert@moe.edu.sg">errol_benedict_robert@moe.edu.sg</a><br><br><a href="mailto:cai_jueying@moe.edu.sg">cai_jueying@moe.edu.sg</a><br><br><a href="mailto:muhammad_roshan_abdul_rahim@moe.edu.sg">muhammad_roshan_abdul_rahim@moe.edu.sg</a>
   </td></tr><tr>
     <td>Rugby</td>
-    <td><b>Overall IC: Mr Patrick Low </b><br><br>Mdm Siti Fadilah <br><br>Mdm Choo Lu Min<br></td>
-    <td><a href="mailto:low_kim_hong@moe.edu.sg">low_kim_hong@moe.edu.sg</a><br><br><a href="mailto:siti_fadilah_saidi@moe.edu.sg">siti_fadilah_saidi@moe.edu.sg</a><br><br><a href="mailto:choo_lu_min@moe.edu.sg">choo_lu_min@moe.edu.sg</a><br></td>
+    <td><b>Overall IC: Mr Patrick Low </b><br><br>Mdm Siti Fadilah <br><br>Mdm Choo Lu Min<br>Mr Muhammad Zulhilmi Mazli<br></td>
+    <td><a href="mailto:low_kim_hong@moe.edu.sg">low_kim_hong@moe.edu.sg</a><br><br><a href="mailto:siti_fadilah_saidi@moe.edu.sg">siti_fadilah_saidi@moe.edu.sg</a><br><br><a href="mailto:choo_lu_min@moe.edu.sg">choo_lu_min@moe.edu.sg</a><br><br><a href="mailto:muhammad_zulhilmi_mazli@moe.edu.sg">muhammad_zulhilmi_mazli@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Netball </td>
