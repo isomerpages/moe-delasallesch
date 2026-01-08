@@ -51,7 +51,7 @@ variant: markdown
   </tr>
 	<tr>
     <td>HOD Mathematics</td>
-    <td>Mr Vikneswaran Nair<br>vikneswaran_narayanan@moe.edu.sg</td>
+    <td>Mr Vikneswaran Narayanan<br>vikneswaran_narayanan@moe.edu.sg</td>
   </tr>
   <tr>
     <td>HOD Mother Tongue Language</td>
