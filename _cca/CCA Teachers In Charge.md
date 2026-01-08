@@ -31,19 +31,19 @@ variant: markdown
     <td><a href="mailto:yao_zhongde@moe.edu.sg">yao_zhongde@moe.edu.sg</a><br><br><a href="mailto:errol_benedict_robert@moe.edu.sg">errol_benedict_robert@moe.edu.sg</a><br><br><a href="mailto:cai_jueying@moe.edu.sg">cai_jueying@moe.edu.sg</a><br><br><a href="mailto:muhammad_roshan_abdul_rahim@moe.edu.sg">muhammad_roshan_abdul_rahim@moe.edu.sg</a>
   </td></tr><tr>
     <td>Rugby</td>
-    <td><b>Overall IC: Mr Patrick Low </b><br><br>Mdm Siti Fadilah <br><br>Mdm Choo Lu Min<br>Mr Muhammad Zulhilmi Mazli<br></td>
+    <td><b>Overall IC: Mr Patrick Low </b><br><br>Mdm Siti Fadilah <br><br>Mdm Choo Lu Min<br><br>Mr Muhammad Zulhilmi Mazli<br></td>
     <td><a href="mailto:low_kim_hong@moe.edu.sg">low_kim_hong@moe.edu.sg</a><br><br><a href="mailto:siti_fadilah_saidi@moe.edu.sg">siti_fadilah_saidi@moe.edu.sg</a><br><br><a href="mailto:choo_lu_min@moe.edu.sg">choo_lu_min@moe.edu.sg</a><br><br><a href="mailto:muhammad_zulhilmi_mazli@moe.edu.sg">muhammad_zulhilmi_mazli@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Netball </td>
     <td><b>Overall IC: Ms Nurul Mardiah Khir Johari</b> <br><br>Ms Vikneshwari <br>Ms Sharon Ker<br><br>Ms Norhamizah </td>
-    <td><a href="mailto:nurul_mardiah_khir_johari@moe.edu.sg">nurul_mardiah_khir_johari@moe.edu.sg</a><br><br><a href="mailto:vikneshwari_vijayakumar@moe.edu.sg">vikneshwari_vijayakumar@moe.edu.sg</a><br><a href="mailto:sharon_ker_kai_ling@moe.edu.sg">sharon_ker_kai_ling@moe.edu.sg</a><br><br><a href="mailto:@moe.edu.sg">@moe.edu.sg</a><br><br>
+    <td><a href="mailto:nurul_mardiah_khir_johari@moe.edu.sg">nurul_mardiah_khir_johari@moe.edu.sg</a><br><br><br><a href="mailto:vikneshwari_vijayakumar@moe.edu.sg">vikneshwari_vijayakumar@moe.edu.sg</a><br><a href="mailto:sharon_ker_kai_ling@moe.edu.sg">sharon_ker_kai_ling@moe.edu.sg</a><br><br><a href="mailto:@moe.edu.sg">@moe.edu.sg</a><br><br>
 		</td>
   </tr>
   <tr>
     <td>Wushu </td>
     <td><b>Overall IC: Mdm Wang Yun </b><br>Ms Afzal-En-Nisa<br><br>Mdm Liu Dan<br><br>Ms Liew Wen Rin<br></td>
-    <td><a href="mailto:wang_yun@moe.edu.sg">wang_yun@moe.edu.sg</a><br><br><a href="mailto:wang_yun@moe.edu.sg">wang_yun@moe.edu.sg</a><br><br><a href="mailto:afzal-en-nisa_mohamad_na@moe.edu.sg">afzal-en-nisa_mohamad_na@moe.edu.sg</a><br><br><a href="mailto:liew_wen_rin@moe.edu.sg">liew_wen_rin@moe.edu.sg</a><br></td>
+    <td><a href="mailto:wang_yun@moe.edu.sg">wang_yun@moe.edu.sg</a><br><br><a href="mailto:afzal-en-nisa_mohamad_na@moe.edu.sg">afzal-en-nisa_mohamad_na@moe.edu.sg</a><br><br><a href="mailto:liew_wen_rin@moe.edu.sg">liew_wen_rin@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td rowspan="5">Aesthetics </td>
