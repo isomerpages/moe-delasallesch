@@ -27,7 +27,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Basketball </td>
-    <td><b>Overall IC: Mr Alex Yao </b><br><br>Mr Errol Benedict Robert <br><br>Ms Cai Jueying  <br>Mr Muhammad Roshan Abdul Rahim</td>
+    <td><b>Overall IC: Mr Alex Yao </b><br><br>Mr Errol Benedict Robert <br><br>Ms Cai Jueying  <br><br>Mr Muhammad Roshan Abdul Rahim</td>
     <td><a href="mailto:yao_zhongde@moe.edu.sg">yao_zhongde@moe.edu.sg</a><br><br><a href="mailto:errol_benedict_robert@moe.edu.sg">errol_benedict_robert@moe.edu.sg</a><br><br><a href="mailto:cai_jueying@moe.edu.sg">cai_jueying@moe.edu.sg</a><br><br><a href="mailto:muhammad_roshan_abdul_rahim@moe.edu.sg">muhammad_roshan_abdul_rahim@moe.edu.sg</a>
   </td></tr><tr>
     <td>Rugby</td>
