@@ -123,10 +123,10 @@ variant: markdown
     <td>Ms Low Siok Hua<br>low_siok_hua@moe.edu.sg</td>
   </tr>
   <tr>
-    <td><b>Discovery Club</b></td>
+    <td><b>Makers Club</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
-    <td>Mrs Julia Boh<br>julia_zheng_xiu_fen@moe.edu.sg</td>
+    <td>Ms Grace Looi Xinye<br>looi_xinye_grace@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -177,7 +177,7 @@ variant: markdown
     <td>Mdm Ng Peiling<br>ng_peiling@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="4"><b>Performing Arts</b></td>
+    <td rowspan="5"><b>Visual And Performing Arts</b></td>
     <td><b>Percussion Ensemble</b></td>
     <td>P3, P4, P5</td>
     <td>Thursday</td>
@@ -194,6 +194,12 @@ variant: markdown
     <td>P3, P4, P5</td>
     <td>Thursday</td>
     <td>Mrs Porcia Heng<br>teo_su_zhen_porcia@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td><b>Media Club</b></td>
+    <td>P3, P4, P5</td>
+    <td>Friday</td>
+    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Modern Dance</b></td>
@@ -216,7 +222,7 @@ variant: markdown
     <td>Ms Annie Tan<br>tan_annie_b@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="5"><b>Clubs</b></td>
+    <td rowspan="4"><b>Clubs &amp; Societies</b></td>
     <td><b>Talking Titans</b></td>
     <td>P3, P4, P5</td>
     <td>Friday</td>
@@ -228,12 +234,7 @@ variant: markdown
     <td>Thursday</td>
     <td>Mr Mohamed Nadzri<br>mohamed_nadzri_md_nasir@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td><b>Media Club</b></td>
-    <td>P3, P4, P5</td>
-    <td>Friday</td>
-    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
-  </tr>
+ 
   <tr>
     <td><b>Chess Club</b></td>
     <td>P3, P4, P5</td>
@@ -241,10 +242,10 @@ variant: markdown
     <td>Ms Low Siok Hua<br>low_siok_hua@moe.edu.sg</td>
   </tr>
   <tr>
-    <td><b>Discovery Club</b></td>
+    <td><b>Makers Club</b></td>
     <td>P3, P4, P5</td>
     <td>Friday</td>
-    <td>Mrs Julia Boh<br>julia_zheng_xiu_fen@moe.edu.sg</td>
+    <td>Ms Grace Looi Xinye<br>looi_xinye_grace@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
