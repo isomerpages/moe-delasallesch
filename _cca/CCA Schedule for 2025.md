@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
-### CCA schedule for 2025
+### CCA schedule for 2026
 
 **Please note:**&nbsp;<br>
 • CCA are scheduled on both Thursday and Friday for Sports CCA. For all other CCA, CCA sessions are scheduled on either Thursday or Friday (refer to table below) &nbsp;<br>
@@ -21,7 +21,7 @@ variant: markdown
   <tr>
     <th>Domains</th>
     <th>CCA</th>
-    <th>Level (2025)</th>
+    <th>Level (2026)</th>
     <th>Days</th>
     <th>CCA Teacher-in-charge</th>
   </tr>
@@ -101,7 +101,7 @@ variant: markdown
     <td rowspan="5"><b>Clubs</b></td>
     <td><b>Talking Titans</b></td>
     <td>P4, P5 &amp; P6</td>
-    <td>Thursday</td>
+    <td>Friday</td>
     <td>Mdm Muneera Begum<br>muneera_begum_mohaned_iqbal@moe.edu.sg</td>
   </tr>
   <tr>
@@ -139,7 +139,7 @@ variant: markdown
   <tr>
     <th>Domains</th>
     <th>CCA</th>
-    <th>Level (2025)<br></th>
+    <th>Level (2026)<br></th>
     <th>Days<br></th>
     <th>CCA Teacher-in-charge</th>
   </tr>
@@ -219,7 +219,7 @@ variant: markdown
     <td rowspan="5"><b>Clubs</b></td>
     <td><b>Talking Titans</b></td>
     <td>P3, P4, P5</td>
-    <td>Thursday</td>
+    <td>Friday</td>
     <td>Mdm Muneera Begum<br>muneera_begum_mohaned_iqbal@moe.edu.sg</td>
   </tr>
   <tr>
