@@ -80,8 +80,8 @@ variant: markdown
   </tr>
   <tr>
     <td>Scouts </td>
-    <td><b>Overall IC: Mdm Annie Tan</b> <br><br>Mdm Lai Chiat Peng<br><br>Ms Arifah<br></td>
-    <td><a href="mailto:tan_annie_b@moe.edu.sg">tan_annie_b@moe.edu.sg</a><br><br><a href="mailto:lai_chiat_peng@moe.edu.sg">lai_chiat_peng@moe.edu.sg</a> <br><br><a href="mailto:nur_arifah_adnan@moe.edu.sg">nur_arifah_adnan@moe.edu.sg</a><br></td>
+    <td><b>Overall IC: Mdm Annie Tan</b> <br><br>Mdm Lai Chiat Peng<br><br>Mr Muhd Hafiz Mohd Osman <br></td>
+    <td><a href="mailto:tan_annie_b@moe.edu.sg">tan_annie_b@moe.edu.sg</a><br><br><a href="mailto:lai_chiat_peng@moe.edu.sg">lai_chiat_peng@moe.edu.sg</a> <br><br><a href="mailto:muhammad_hafiz_mohamed_osm@moe.edu.sg">muhammad_hafiz_mohamed_osm@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td rowspan="4">Clubs </td>
