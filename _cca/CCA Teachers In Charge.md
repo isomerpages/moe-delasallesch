@@ -63,8 +63,8 @@ variant: markdown
   </tr>
   <tr>
     <td>Choir </td>
-    <td><b>Overall IC: Mdm Porcia</b> <br><br>Mdm Wang Xiaoxia<br><br>Miss Thiviya Thulasidharan</td>
-    <td><a href="mailto:teo_su_zhen_porcia@moe.edu.sg">teo_su_zhen_porcia@moe.edu.sg</a><br><br><a href="mailto:wang_xiao_xia@moe.edu.sg">wang_xiao_xia@moe.edu.sg</a><br><br><a href="mailto:thiviya_thulasidharan@moe.edu.sg">thiviya_thulasidharan@moe.edu.sg</a></td>
+    <td><b>Overall IC: Mdm Porcia</b> <br><br>Mdm Wang Xiaoxia<br><br>Ms Xie Liling Jessica</td>
+    <td><a href="mailto:teo_su_zhen_porcia@moe.edu.sg">teo_su_zhen_porcia@moe.edu.sg</a><br><br><a href="mailto:wang_xiao_xia@moe.edu.sg">wang_xiao_xia@moe.edu.sg</a><br><br><a href="mailto:xie_liling_jessica@moe.edu.sg">xie_liling_jessica@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Modern Dance </td>
