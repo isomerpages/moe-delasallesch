@@ -36,8 +36,8 @@ variant: markdown
   </tr>
   <tr>
     <td>Netball </td>
-    <td><b>Overall IC: Ms Nurul Mardiah Khir Johari</b> <br><br>Ms Vikneshwari <br>Ms Sharon Ker<br><br>Ms Norhamizah </td>
-    <td><a href="mailto:nurul_mardiah_khir_johari@moe.edu.sg">nurul_mardiah_khir_johari@moe.edu.sg</a><br><br><br><a href="mailto:vikneshwari_vijayakumar@moe.edu.sg">vikneshwari_vijayakumar@moe.edu.sg</a><br><a href="mailto:sharon_ker_kai_ling@moe.edu.sg">sharon_ker_kai_ling@moe.edu.sg</a><br><br><a href="mailto:@moe.edu.sg">@moe.edu.sg</a><br><br>
+    <td><b>Overall IC: Ms Nurul Mardiah Khir Johari</b> <br><br>Ms Vikneshwari <br><br>Ms Sharon Ker<br><br>Ms Norhamizah </td>
+    <td><a href="mailto:nurul_mardiah_khir_johari@moe.edu.sg">nurul_mardiah_khir_johari@moe.edu.sg</a><br><br><br><a href="mailto:vikneshwari_vijayakumar@moe.edu.sg">vikneshwari_vijayakumar@moe.edu.sg</a><br><br><a href="mailto:sharon_ker_kai_ling@moe.edu.sg">sharon_ker_kai_ling@moe.edu.sg</a><br><br><a href="mailto:@moe.edu.sg">@moe.edu.sg</a><br><br>
 		</td>
   </tr>
   <tr>
