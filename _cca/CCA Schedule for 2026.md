@@ -1,12 +1,12 @@
 ---
-title: CCA Schedule for 2025
-permalink: /cca/cca-schedule-for-2025/
+title: CCA Schedule for 2026
+permalink: /cca/cca-schedule-for-2026/
 description: ""
 variant: markdown
 ---
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
-### CCA schedule for 2025
+### CCA schedule for 2026
 
 **Please note:**&nbsp;<br>
 • CCA are scheduled on both Thursday and Friday for Sports CCA. For all other CCA, CCA sessions are scheduled on either Thursday or Friday (refer to table below) &nbsp;<br>
@@ -21,7 +21,7 @@ variant: markdown
   <tr>
     <th>Domains</th>
     <th>CCA</th>
-    <th>Level (2025)</th>
+    <th>Level (2026)</th>
     <th>Days</th>
     <th>CCA Teacher-in-charge</th>
   </tr>
@@ -38,7 +38,7 @@ variant: markdown
     <td><b>Netball<br>(Girls Only)</b></td>
     <td>P5 &amp; P6<br>P4<br></td>
     <td>Thursday<br>Friday</td>
-    <td>Ms Sally Koh<br>koh_bee_shiow@moe.edu.sg</td>
+    <td>Ms Nurul Mardiah Khir Johari<br>nurul_mardiah_khir_johari@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Hockey</b></td>
@@ -56,10 +56,10 @@ variant: markdown
     <td><b>Wushu</b></td>
     <td>P4 &amp; P5<br>P6</td>
     <td>Thursday<br>Friday</td>
-    <td>Mdm Ng Peiling<br>ng_peiling@moe.edu.sg</td>
+    <td>Mdm Wang Yun<br>wang_yun@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="4"><b>Performing Arts</b></td>
+    <td rowspan="4"><b>Visual And Performing Arts</b></td>
     <td><b>Percussion Ensemble</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Thursday</td>
@@ -98,10 +98,10 @@ variant: markdown
     <td>Ms Annie Tan<br>tan_annie_b@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="5"><b>Clubs</b></td>
+    <td rowspan="5"><b>Clubs &amp; Societies</b></td>
     <td><b>Talking Titans</b></td>
     <td>P4, P5 &amp; P6</td>
-    <td>Thursday</td>
+    <td>Friday</td>
     <td>Mdm Muneera Begum<br>muneera_begum_mohaned_iqbal@moe.edu.sg</td>
   </tr>
   <tr>
@@ -111,22 +111,22 @@ variant: markdown
     <td>Mr Mohamed Nadzri<br>mohamed_nadzri_md_nasir@moe.edu.sg</td>
   </tr>
   <tr>
+    <td><b>Chess Club</b></td>
+    <td>P4, P5 &amp; P6</td>
+    <td>Friday</td>
+    <td>Ms Low Siok Hua<br>low_siok_hua@moe.edu.sg</td>
+  </tr>
+	 <tr>
     <td><b>Media Club</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
     <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
   </tr>
   <tr>
-    <td><b>Chess Club</b></td>
+    <td><b>Makers Club</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
-    <td>Ms Low Siok Hua<br>low_siok_hua@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td><b>Discovery Club</b></td>
-    <td>P4, P5 &amp; P6</td>
-    <td>Friday</td>
-    <td>Mrs Julia Boh<br>julia_zheng_xiu_fen@moe.edu.sg</td>
+    <td>Ms Grace Looi Xinye<br>looi_xinye_grace@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -139,7 +139,7 @@ variant: markdown
   <tr>
     <th>Domains</th>
     <th>CCA</th>
-    <th>Level (2025)<br></th>
+    <th>Level (2026)<br></th>
     <th>Days<br></th>
     <th>CCA Teacher-in-charge</th>
   </tr>
@@ -156,7 +156,7 @@ variant: markdown
     <td><b>Netball<br>(Girls Only)</b></td>
     <td>P3 <br>P4 &amp; P5<br></td>
     <td>Thursday<br>Friday</td>
-    <td>Ms Ch'ng Ying Hui<br>chng_ying_hui@moe.edu.sg</td>
+    <td>Ms Nurul Mardiah Khir Johari<br>nurul_mardiah_khir_johari@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Hockey</b></td>
@@ -177,7 +177,7 @@ variant: markdown
     <td>Mdm Ng Peiling<br>ng_peiling@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="4"><b>Performing Arts</b></td>
+    <td rowspan="4"><b>Visual And Performing Arts</b></td>
     <td><b>Percussion Ensemble</b></td>
     <td>P3, P4, P5</td>
     <td>Thursday</td>
@@ -216,10 +216,10 @@ variant: markdown
     <td>Ms Annie Tan<br>tan_annie_b@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="5"><b>Clubs</b></td>
+    <td rowspan="5"><b>Clubs &amp; Societies</b></td>
     <td><b>Talking Titans</b></td>
     <td>P3, P4, P5</td>
-    <td>Thursday</td>
+    <td>Friday</td>
     <td>Mdm Muneera Begum<br>muneera_begum_mohaned_iqbal@moe.edu.sg</td>
   </tr>
   <tr>
@@ -228,23 +228,24 @@ variant: markdown
     <td>Thursday</td>
     <td>Mr Mohamed Nadzri<br>mohamed_nadzri_md_nasir@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td><b>Media Club</b></td>
-    <td>P3, P4, P5</td>
-    <td>Friday</td>
-    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
-  </tr>
+ 
   <tr>
     <td><b>Chess Club</b></td>
     <td>P3, P4, P5</td>
     <td>Friday</td>
     <td>Ms Low Siok Hua<br>low_siok_hua@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td><b>Discovery Club</b></td>
+	 <tr>
+    <td><b>Media Club</b></td>
     <td>P3, P4, P5</td>
     <td>Friday</td>
-    <td>Mrs Julia Boh<br>julia_zheng_xiu_fen@moe.edu.sg</td>
+    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td><b>Makers Club</b></td>
+    <td>P3, P4, P5</td>
+    <td>Friday</td>
+    <td>Ms Grace Looi Xinye<br>looi_xinye_grace@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
