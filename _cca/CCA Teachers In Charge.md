@@ -91,8 +91,8 @@ variant: markdown
   </tr>
   <tr>
     <td>Makers Club </td>
-    <td><b>Overall IC: Mrs Grace Looi Xinyue</b> <br><br>Mr Ronald Wee <br><br>Mrs Grace Looi Xinyue<br></td>
-    <td><a href="mailto:grace_looi_xinyue@moe.edu.sg">grace_looi_xinyue@moe.edu.sg</a><br><br><a href="mailto:ronald_wee@moe.edu.sg">ronald_wee@moe.edu.sg</a><br><br><a href="mailto:grace_looi_xinyue@moe.edu.sg">grace_looi_xinyue@moe.edu.sg</a><br></td>
+    <td><b>Overall IC: Mrs Grace Looi Xinyue</b> <br><br>Mr Ronald Wee <br><br>Mrs Lim-Ng Xiang Ling<br></td>
+    <td><a href="mailto:grace_looi_xinyue@moe.edu.sg">grace_looi_xinyue@moe.edu.sg</a><br><br><a href="mailto:ronald_wee@moe.edu.sg">ronald_wee@moe.edu.sg</a><br><br><a href="mailto:ng_xiang_ling@moe.edu.sg">ng_xiang_ling@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Chess Club </td>
