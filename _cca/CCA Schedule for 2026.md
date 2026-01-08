@@ -59,7 +59,7 @@ variant: markdown
     <td>Mdm Wang Yun<br>wang_yun@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="5"><b>Visual And Performing Arts</b></td>
+    <td rowspan="4"><b>Visual And Performing Arts</b></td>
     <td><b>Percussion Ensemble</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Thursday</td>
@@ -76,12 +76,6 @@ variant: markdown
     <td>P4, P5 &amp; P6</td>
     <td>Thursday</td>
     <td>Mrs Porcia Heng<br>teo_su_zhen_porcia@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td><b>Media Club</b></td>
-    <td>P4, P5 &amp; P6</td>
-    <td>Friday</td>
-    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Modern Dance</b></td>
@@ -104,7 +98,7 @@ variant: markdown
     <td>Ms Annie Tan<br>tan_annie_b@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="4"><b>Clubs &amp; Societies</b></td>
+    <td rowspan="5"><b>Clubs &amp; Societies</b></td>
     <td><b>Talking Titans</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
@@ -121,6 +115,12 @@ variant: markdown
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
     <td>Ms Low Siok Hua<br>low_siok_hua@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td><b>Media Club</b></td>
+    <td>P4, P5 &amp; P6</td>
+    <td>Friday</td>
+    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Makers Club</b></td>
@@ -177,7 +177,7 @@ variant: markdown
     <td>Mdm Ng Peiling<br>ng_peiling@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="5"><b>Visual And Performing Arts</b></td>
+    <td rowspan="4"><b>Visual And Performing Arts</b></td>
     <td><b>Percussion Ensemble</b></td>
     <td>P3, P4, P5</td>
     <td>Thursday</td>
@@ -194,12 +194,6 @@ variant: markdown
     <td>P3, P4, P5</td>
     <td>Thursday</td>
     <td>Mrs Porcia Heng<br>teo_su_zhen_porcia@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td><b>Media Club</b></td>
-    <td>P3, P4, P5</td>
-    <td>Friday</td>
-    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Modern Dance</b></td>
@@ -222,7 +216,7 @@ variant: markdown
     <td>Ms Annie Tan<br>tan_annie_b@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="4"><b>Clubs &amp; Societies</b></td>
+    <td rowspan="5"><b>Clubs &amp; Societies</b></td>
     <td><b>Talking Titans</b></td>
     <td>P3, P4, P5</td>
     <td>Friday</td>
@@ -240,6 +234,12 @@ variant: markdown
     <td>P3, P4, P5</td>
     <td>Friday</td>
     <td>Ms Low Siok Hua<br>low_siok_hua@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td><b>Media Club</b></td>
+    <td>P3, P4, P5</td>
+    <td>Friday</td>
+    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Makers Club</b></td>
