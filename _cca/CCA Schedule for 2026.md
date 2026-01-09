@@ -174,7 +174,7 @@ variant: markdown
     <td><b>Wushu</b></td>
     <td>P4 &amp; P5<br>P3</td>
     <td>Thursday<br>Friday</td>
-    <td>Mdm Ng Peiling<br>ng_peiling@moe.edu.sg</td>
+    <td>Mdm Wang Yun<br>wang_yun@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="4"><b>Visual And Performing Arts</b></td>
@@ -207,7 +207,7 @@ variant: markdown
     <td><b>Brownies<br>(Girls Only)</b></td>
     <td>P3, P4, P5</td>
     <td>Friday</td>
-    <td>Mdm Koh Ting Ting<br>koh_ting_ting@moe.edu.sg</td>
+    <td>Mdm Siti Munira<br>siti_munira_batra@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Scouts<br>(Boys Only)</b></td>
