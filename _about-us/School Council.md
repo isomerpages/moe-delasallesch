@@ -10,16 +10,16 @@ variant: markdown
 
 | **Designation** | **Name** |
 |:---:|:---:|
-| Chairman | Mr Vincent Ong  |
-| Deputy Chairman/Alumni Representative | Mr Rene Chia |
+| Chairman | Mr Rene Chia  |
 | Brother Representative,CBS | Brother Lawrence Humphrey |
 | Treasurer | Mr Vincent Cheong |
 | Principal/Secretary | Mdm Cheryl Choo |
 | Community Representative | Mr Steven Tan |
 | Community Representative | Mr Benjamin Chua|
 | Alumni Representative | Mr Herald Bangras |
-| Parent Representative | Mr Jai Prakash |
+| Alumni Representative | Mr Benedict Leow |
 | Parent Representative | Mdm Janice Tay |
-| Ex-Officio | Mr David Ching |
+| Parent Representative | Mdm Lim Shi Yin |
 | Ex-Officio | Ms Cecilia Tan |
+| Ex-Officio | Ms Adeline Liu |
 | Ex-Officio | Ms Gwee Rong Rong |
