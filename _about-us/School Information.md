@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <h2>School Information</h2>
 <h4><strong>School Hours and After-School Schedule</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20information.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School hours" src="/images/2026/2026_school_hours.png">
+</div>
 <hr>
 <h4><strong>Gate Operating Hours</strong></h4>
 <table style="minWidth: 75px">
