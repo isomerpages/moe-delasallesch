@@ -123,10 +123,6 @@ a message via SMS.</p>
 <p>Bus Fares</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_Bus_Info_for_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2024</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Documents/School_Bus_Awarded_2025_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 to 2026</a>
 </p>
 </li>
