@@ -87,11 +87,8 @@ off Lasallians)</p>
 <p>6.45 a.m. – 7.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon to Wed</p>
-<p>1.20 pm – 1.50 p.m.</p>
-<p></p>
-<p>Thu and Fri</p>
-<p>12.50 pm – 1.20 p.m.</p>
+<p>Mon to Wed 1.20 pm – 1.50 p.m.</p>
+<p>Thu and Fri 12.50 pm – 1.20 p.m.</p>
 </td>
 </tr>
 </tbody>
