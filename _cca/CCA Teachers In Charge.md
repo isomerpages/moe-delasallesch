@@ -42,7 +42,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Wushu </td>
-    <td><b>Overall IC: Mdm Wang Yun </b><br>Ms Afzal-En-Nisa<br><br>Mdm Liu Dan<br><br>Ms Liew Wen Rin<br></td>
+    <td><b>Overall IC: Mdm Wang Yun </b><br><br>Ms Afzal-En-Nisa<br><br>Mdm Liu Dan<br><br>Ms Liew Wen Rin<br></td>
     <td><a href="mailto:wang_yun@moe.edu.sg">wang_yun@moe.edu.sg</a><br><br><a href="mailto:afzal-en-nisa_mohamad_na@moe.edu.sg">afzal-en-nisa_mohamad_na@moe.edu.sg</a><br><br><a href="mailto:liu_dan@moe.edu.sg">liu_dan@moe.edu.sg</a><br><br><a href="mailto:liew_wen_rin@moe.edu.sg">liew_wen_rin@moe.edu.sg</a><br></td>
   </tr>
   <tr>
