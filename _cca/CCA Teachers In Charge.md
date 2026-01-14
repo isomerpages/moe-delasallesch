@@ -74,8 +74,8 @@ variant: markdown
   <tr>
     <td rowspan="2">Uniformed Groups </td>
     <td>Brownies</td>
-    <td><b>Overall IC:Mdm Siti Munira</b><br><br>Mrs Fam Seow Wee <br><br>Mdm Soo Ling Ling<br></td>
-    <td><a href="mailto:siti_munira_batra@moe.edu.sg">siti_munira_batra@moe.edu.sg</a><br><br><a href="mailto:fam_seow_wee@moe.edu.sg">fam_seow_wee@moe.edu.sg</a><br><br><a href="mailto:soo_ling_ling@moe.edu.sg">soo_ling_ling@moe.edu.sg</a></td>
+    <td><b>Overall IC:Mdm Siti Munira</b><br><br>Mdm Soo Ling Ling <br><br>Mrs Fam Seow Wee<br></td>
+    <td><a href="mailto:siti_munira_batra@moe.edu.sg">siti_munira_batra@moe.edu.sg</a><br><br><a href="mailto:soo_ling_ling@moe.edu.sg">soo_ling_ling@moe.edu.sg</a><br><br><a href="mailto:fam_seow_wee@moe.edu.sg">fam_seow_wee@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Scouts </td>
@@ -100,8 +100,8 @@ variant: markdown
   </tr>
   <tr>
     <td>Robotics Club </td>
-    <td><b>Overall IC: Mr Mohamed Nadzri </b> <br><br>Mdm Goh Sock Hong   <br><br>Ms Nurul Ain <br><br>Ms Moganeswary </td>
-    <td><a href="mailto:Mohamed_nadzri_md_nasir@moe.edu.sg">Mohamed_nadzri_md_nasir@moe.edu.sg</a><br><br><br><a href="mailto:goh_sock_hong@moe.edu.sg">goh_sock_hong@moe.edu.sg</a><br><br><a href="mailto:nurulain_rashid@moe.edu.sg">nurulain_rashid@moe.edu.sg</a><br><br><a href="mailto:moganeswary_ap_t@moe.edu.sg">moganeswary_ap_t@moe.edu.sg</a></td>
+    <td><b>Overall IC: Mr Mohamed Nadzri </b> <br><br>Mdm Goh Sock Hong   <br><br>Ms Moganeswary <br><br>Ms Nurul Ain</td>
+    <td><a href="mailto:Mohamed_nadzri_md_nasir@moe.edu.sg">Mohamed_nadzri_md_nasir@moe.edu.sg</a><br><br><br><a href="mailto:goh_sock_hong@moe.edu.sg">goh_sock_hong@moe.edu.sg</a><br><br><a href="mailto:moganeswary_ap_t@moe.edu.sg">moganeswary_ap_t@moe.edu.sg</a><br><br><a href="mailto:nurulain_rashid@moe.edu.sg">nurulain_rashid@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
