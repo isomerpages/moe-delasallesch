@@ -90,7 +90,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Makers Club </td>
-    <td><b>Overall IC: Mrs Grace Looi Xinyue</b> <br><br>Mr Ronald Wee <br><br>Mrs Lim-Ng Xiang Ling<br></td>
+    <td><b>Overall IC: Mrs Grace Looi Xinye</b> <br><br>Mr Ronald Wee <br><br>Mrs Lim-Ng Xiang Ling<br></td>
     <td><a href="mailto:looi_xinye_grace@moe.edu.sg">looi_xinye_grace@moe.edu.sg</a><br><br><br><a href="mailto:wee_qi_rong_ronlad@moe.edu.sg">wee_qi_rong_ronlad@moe.edu.sg</a><br><br><a href="mailto:ng_xiang_ling@moe.edu.sg">ng_xiang_ling@moe.edu.sg</a><br></td>
   </tr>
   <tr>
