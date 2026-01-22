@@ -49,7 +49,7 @@ variant: markdown
     <td rowspan="5">Aesthetics </td>
     <td>Media Club </td>
     <td><b>Overall IC: Mdm Eunice Goh </b><br><br>Mdm Du Ping Ping <br><br>Mr Foo Yaosheng</td>
-    <td><a href="mailto:eunice_goh@moe.edu.sg">eunice_goh@moe.edu.sg</a><br><br><a href="mailto:du_pingping@moe.edu.sg">du_pingping@moe.edu.sg</a><br><br><a href="mailto:foo_yaosheng@moe.edu.sg">foo_yaosheng@moe.edu.sg</a><br></td>
+    <td><a href="mailto:goh_lee_sim_eunice@moe.edu.sg">goh_lee_sim_eunice@moe.edu.sg</a><br><br><a href="mailto:du_pingping@moe.edu.sg">du_pingping@moe.edu.sg</a><br><br><a href="mailto:foo_yaosheng@moe.edu.sg">foo_yaosheng@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Percussion Ensemble </td>
