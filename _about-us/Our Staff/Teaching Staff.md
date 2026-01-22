@@ -41,8 +41,8 @@ variant: markdown
 |---|---|---|
 | **ST.ANTHONY 3** |Mr Mohamed Nadzri<br>Mdm Bharathi Jaganathan| mohamed_nadzri_md_nasir@moe.edu.sg <br>bharathi_jaganathan@moe.edu.sg |
 | **ST.BERNADETTE 3** | Mdm Muneera Begum<br>Ms Tay Ai Suan | muneera_begum_mohamed_iqbal@moe.edu.sg<br>tay_ai_suan@moe.edu.sg |
-|**ST.CHRISTOPHER 3**| Mrs Lim-Ng Xiang Ling<br>Mdm Siti Munira Batra <br>Mdm Norhamizah Hithayathullah Khan | ng_xiang_ling@moe.edu.sg<br>siti_munira_batra@moe.edu.sg <br>@moe.edu.sg |
-|**ST.DOMINIC 3**| Ms Xie Liling Jessica <br>Mr Abdul Gaffar Shaik Yusof <br>Mr Muhammad Zulhilmi Mazli | xie_liling_jessica@moe.edu.sg<br>abdul_gaffar_shaik_yusof@moe.edu.sg <br>muhammad_zulhilmi_mazli@moe.edu.sg |
+|**ST.CHRISTOPHER 3**| Mrs Lim-Ng Xiang Ling<br>Mdm Siti Munira Batra <br>Mr Muhammad Zulhilmi Mazli  | ng_xiang_ling@moe.edu.sg<br>siti_munira_batra@moe.edu.sg <br>muhammad_zulhilmi_mazli@moe.edu.sg |
+|**ST.DOMINIC 3**| Ms Xie Liling Jessica <br>Mr Abdul Gaffar Shaik Yusof <br>Mdm Norhamizah Hithayathullah Khan| xie_liling_jessica@moe.edu.sg<br>abdul_gaffar_shaik_yusof@moe.edu.sg <br>@moe.edu.sg |
 |**ST. ELIZABETH 3**| Mr Pwee Kiat Ka  <br>Mdm Rozana Kamsari| pwee_kiat_kah@moe.edu.sg<br>rozana_kamsari@moe.edu.sg  |
 |**ST. FRANCIS 3**|Miss Nur Arifah Adnan<br>Mdm Wang Xiaoxia | nur_arifah_adnan@moe.edu.sg<br> wang_xiao_xia@moe.edu.sg |
 
