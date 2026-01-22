@@ -51,8 +51,8 @@ variant: markdown
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
 | **ST.ANTHONY 4** | Mr Phoon Yong Kang<br>Ms Vikneshwari D/O Vijayakumar | phoon_yong_kang@moe.edu.sg<br>vikneshwari_vijayakumar@moe.edu.sg |
-|**ST.BERNADETTE 4**| Mr Daniel Lin Yuan Wei <br>Ms Joanne Li | lin_yuanwei_daniel@moe.edu.sg<br>li_wai_yee_joanne@moe.edu.sg |
-|**ST. CHRISTOPHER 4**| Mdm Low Ren Fong <br>Ms Woon Shio Ching| low_ren_fong@moe.edu.sg <br>woon_shio_ching@moe.edu.sg|
+|**ST.BERNADETTE 4**| Mr Daniel Lin Yuan Wei <br>Ms Joanne Li <br>Ms Nalini| lin_yuanwei_daniel@moe.edu.sg<br>li_wai_yee_joanne@moe.edu.sg <br>nalini_subramaniam@moe.edu.sg|
+|**ST. CHRISTOPHER 4**| Mdm Low Ren Fong <br>Ms Woon Shio Ching <br>Ms Yeong Anna| low_ren_fong@moe.edu.sg <br>woon_shio_ching@moe.edu.sg<br>yeong_anna_nee_lim@moe.edu.sg|
 |**ST. DOMINIC 4**| Mrs Judy Yip<br>Mdm Chen Weihua | ong_judy@moe.edu.sg<br>chen_weihua@moe.edu.sg  |
 |**ST. ELIZABETH 4**| Mrs Amy Liew<br>Ms Liew Wen Rin  | amy_lee_may_chyou@moe.edu.sg<br>liew_wen_rin@moe.edu.sg |
 |**ST. FRANCIS 4**| Mrs Michelle Chian<br>Ms Cai Jueying| michelle_chian@moe.edu.sg<br>cai_jueying@moe.edu.sg |
