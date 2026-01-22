@@ -55,7 +55,7 @@ variant: markdown
 |**ST. CHRISTOPHER 4**| Mdm Low Ren Fong <br>Ms Woon Shio Ching| low_ren_fong@moe.edu.sg <br>woon_shio_ching@moe.edu.sg|
 |**ST. DOMINIC 4**| Mrs Judy Yip<br>Mdm Chen Weihua <br>Ms Yeong Anna | ong_judy@moe.edu.sg<br>chen_weihua@moe.edu.sg<br>yeong_anna_nee_lim@moe.edu.sg  |
 |**ST. ELIZABETH 4**| Mrs Amy Liew<br>Ms Liew Wen Rin<br>Mrs Jerine Poh  | amy_lee_may_chyou@moe.edu.sg<br>liew_wen_rin@moe.edu.sg<br>ewe_ai_hoon@moe.edu.sg |
-|**ST. FRANCIS 4**| Mrs Michelle Chian<br>Ms Cai Jueying| michelle_chian@moe.edu.sg<br>cai_jueying@moe.edu.sg |
+|**ST. FRANCIS 4**| Mrs Michelle Chian<br>Ms Cai Jueying<br>Ms Janet Thang| michelle_chian@moe.edu.sg<br>cai_jueying@moe.edu.sg<br> thang_kwan_chin_janet@moe.edu.sg|
 
 #### Primary 5 (2026)
 
