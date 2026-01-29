@@ -29,6 +29,10 @@ variant: markdown
     <td>Vice Principal (Academic)</td>
     <td>Ms Adeline Liu<br>dlss@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td>Vice Principal (Admin)</td>
+    <td>Mr Andrew Ong<br>dlss@moe.edu.sg</td>
+  </tr>
 	  <tr>
     <td>School Staff Developer</td>
     <td>Mdm Bharathi Jaganathan<br>bharathi_jaganathan@moe.edu.sg</td>
