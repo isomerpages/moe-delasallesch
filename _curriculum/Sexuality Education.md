@@ -17,7 +17,7 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>2. The Goals of Sexuality Education are:</p>
+<p>2. The <strong>Goals</strong> of Sexuality Education are:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -25,7 +25,7 @@ sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p>3. The Key Messages of Sexuality Education are:</p>
+<p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
@@ -41,7 +41,7 @@ more information on MOE Sexuality Education.</p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click<strong> <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a></strong> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
@@ -65,7 +65,7 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<p>For more information, please click <a href="/files/2025/2025_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For more information, please click <strong><a href="/files/2026/2026_SEXUALITY_EDUCATION_LESSONS_IN_CCE.pdf" rel="noopener nofollow" target="_blank">here</a></strong>.</p>
 <p></p>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
