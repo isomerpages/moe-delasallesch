@@ -7,13 +7,13 @@ variant: markdown
 ## Announcements
 
 
-### Parent Notification_28 Jan 2026 
+### March 2026 Parent Notification
 
 Dear Parents/Guardians,
 
 Greetings from De La Salle School.
 
-Please refer to the attached letter  [**here**](/files/2026/28_Jan_2026_PN.pdf) for important information from school.&nbsp;
+Please refer to the attached letter  [**here**](/files/2026/3_Mar_2026_PN.pdf) for important information from school.&nbsp;
 
 Thank you.
   
