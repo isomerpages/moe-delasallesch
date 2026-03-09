@@ -30,6 +30,10 @@ Students will:
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
 
 Click&nbsp; [**here**](https://youtu.be/R0OACzqCk7c)&nbsp;to watch the video.<br>
+
+Click&nbsp; [**here**](https://www.youtube.com/watch?v=BuhvV3HfyMA)&nbsp;to watch the Istana Open House video.<br>
+
+
 <img src="/images/2025/Cca/w1.jpg" style="width:90%"><br>
 
 <img src="/images/2025/Cca/w2.png" style="width:80%"><br>
