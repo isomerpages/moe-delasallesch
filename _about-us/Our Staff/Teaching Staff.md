@@ -66,7 +66,7 @@ variant: markdown
 |**ST. CHRISTOPHER 5**| Dr P Durka Devi <br>Mr Vikneswaran Narayanan<br> | p_durka_devi@moe.edu.sg<br>vikneswaran_narayanan@moe.edu.sg  |
 |**ST. DOMINIC 5**| Ms Nor Hashanah B M R  <br>Mdm Goh Sock Hong  | nor_hashanah_mohammad_razif@moe.edu.sg<br>goh_sock_hong@moe.edu.sg  |
 |**ST. ELIZABETH 5**| Ms Laavanyah Alagasamy<br>Mr Muhammad Hafiz Azhari B Mohd Jamil  | laavanyah_alagasamy@moe.edu.sg<br>muhammad_hafiz_azhari@moe.edu.sg |
-|**ST. FRANCIS 5**| Mr Wee Qi-Rong Ronald<br>Ms Tay Li Wen| wee_qi_rong_ronald@moe.edu.sg<br>tay_li_wen@moe.edu.sg  |
+|**ST. FRANCIS 5**| Mr Wee Qi-Rong Ronald<br>Ms Tay Li Wen<br>Mdm Ramalingam Gunavarasi| wee_qi_rong_ronald@moe.edu.sg<br>tay_li_wen@moe.edu.sg<br>ramalingam_gunavarasi@moe.edu.sg  |
 
 #### Primary 6 (2026)
 
