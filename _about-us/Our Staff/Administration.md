@@ -21,6 +21,7 @@ variant: markdown
 |Operations Support Officer| Mdm R Saroja Deve| - |
 |Operations Support Officer| Mr Koh Wing Yeap| - |
 |Operations Support Officer| Mr Koh Soon Teck| - |
+|Operations Support Officer| Mdm Rajaswari Thangaveloo| - |
 |ICT Manager| Mr Calvin Boh| boh_tse_chuang_calvin@moe.edu.sg|
 |ICT Manager| Ms Vasanthy| mohanraj_vasantharany@moe.edu.sg|
 |Desktop Engineer| Ms Siti Rasyidah Rosman| - | 
