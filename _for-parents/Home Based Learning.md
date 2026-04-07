@@ -18,7 +18,7 @@ variant: markdown
 
 | User Guides | Other Guides |  |
 |:---|:---|---|
-| <a href="/files/Annex%20A%20and%20Annex%20B.pdf" target="_blank">SLS-Guide-Getting Started</a> | <a href="/files/Zoom-Students%20Guide.pdf" target="_blank">Zoom Students' Guide</a> |  |
+| <a href="/files/Annex%20A%20and%20Annex%20B.pdf" target="_blank">SLS-Guide-Getting Started</a> | <a href="/files/Guide_to_Joining_Microsoft_Teams_Meeting.pdf" target="_blank">Guide to Joining Microsoft Teams Meeting</a> |  |
 | <a href="/files/SLS-Password%20Reset.pdf" target="_blank">SLS-Assigning Your Email To Your Child's Account</a>| <a href="/files/Resource%20Kit%20-%20HBL.pdf" target="_blank">Resource Kit - HBL</a> |  | |  |
 |  | <a href="/files/Resource%20Kit%20-%20HBL%20Part%203.pdf" target="_blank">Resource Kit - HBL (Part 3)</a> |  |
 
