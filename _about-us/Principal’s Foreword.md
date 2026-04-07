@@ -2,8 +2,9 @@
 title: Principal’s Foreword
 permalink: /about-us/principals-foreword/
 description: ""
+variant: markdown
 ---
-### Principal's Foreword
+### Principal's Message
 
 
 ![](/images/Principal's%20Foreword.jpg)
