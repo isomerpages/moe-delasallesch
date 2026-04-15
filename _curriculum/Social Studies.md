@@ -12,7 +12,7 @@ Social Studies is a student’s first introduction to humanities, where they are
 
 **Syllabus:  <br>**
 
-[https://www.moe.gov.sg/-/media/files/primary/2020-social-studies-primary.pdf](https://www.moe.gov.sg/-/media/files/primary/2020-social-studies-primary.pdf)
+[Social Studies Teaching and Learning Syllabus](https://www.moe.gov.sg/api/media/d8ea4817-c1b3-4217-84d4-82838d39d75c/2020-social-studies-primary.pdf)
 
 **Objectives** <br>
 •	Helps students to grow in knowledge, develop skills and learn values to better understand the interconnectedness of Singapore and the world they live in <br>
