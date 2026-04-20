@@ -102,7 +102,7 @@ variant: markdown
     <td>Ms Jenny Chew Gek Cheng <br>chew_gek_cheng_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Subject Head Physical and Health Education </td>
+    <td>Subject Head Physical Education </td>
     <td>Mr Matthew Teo<br>teo_puay_liang@moe.edu.sg </td>
   </tr>
   <tr>
