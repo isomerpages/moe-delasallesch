@@ -91,7 +91,7 @@ variant: markdown
   <tr>
     <td>Makers Club </td>
     <td><b>Overall IC: Mrs Grace Looi Xinye</b> <br><br>Mr Ronald Wee <br><br>Mrs Lim-Ng Xiang Ling<br><br>Mr Mohamed Nadzri<br></td>
-    <td><a href="mailto:looi_xinye_grace@moe.edu.sg">looi_xinye_grace@moe.edu.sg</a><br><br><br><a href="mailto:wee_qi_rong_ronlad@moe.edu.sg">wee_qi_rong_ronlad@moe.edu.sg</a><br><br><a href="mailto:ng_xiang_ling@moe.edu.sg">ng_xiang_ling@moe.edu.sg</a><br><br><br><a href="mailto:Mohamed_nadzri_md_nasir@moe.edu.sg">Mohamed_nadzri_md_nasir@moe.edu.sg</a><br></td>
+    <td><a href="mailto:looi_xinye_grace@moe.edu.sg">looi_xinye_grace@moe.edu.sg</a><br><br><br><a href="mailto:wee_qi_rong_ronlad@moe.edu.sg">wee_qi_rong_ronlad@moe.edu.sg</a><br><br><a href="mailto:ng_xiang_ling@moe.edu.sg">ng_xiang_ling@moe.edu.sg</a><br><br><a href="mailto:Mohamed_nadzri_md_nasir@moe.edu.sg">Mohamed_nadzri_md_nasir@moe.edu.sg</a><br></td>
   </tr>
   <tr>
     <td>Chess Club </td>
@@ -101,7 +101,7 @@ variant: markdown
   <tr>
     <td>Robotics Club </td>
     <td><b>Overall IC: Mdm Goh Sock Hong   </b> <br><br>Ms Moganeswary <br><br>Ms Nurul Ain</td>
-    <td><a href="mailto:goh_sock_hong@moe.edu.sg">goh_sock_hong@moe.edu.sg</a><br><br><a href="mailto:moganeswary_ap_t@moe.edu.sg">moganeswary_ap_t@moe.edu.sg</a><br><br><a href="mailto:nurulain_rashid@moe.edu.sg">nurulain_rashid@moe.edu.sg</a></td>
+    <td><a href="mailto:goh_sock_hong@moe.edu.sg">goh_sock_hong@moe.edu.sg</a><br><br><br><a href="mailto:moganeswary_ap_t@moe.edu.sg">moganeswary_ap_t@moe.edu.sg</a><br><br><a href="mailto:nurulain_rashid@moe.edu.sg">nurulain_rashid@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
