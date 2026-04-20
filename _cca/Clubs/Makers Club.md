@@ -1,19 +1,19 @@
 ---
-title: Discovery Club
-permalink: /cca/Clubs/discovery-club/
+title: Makers Club
+permalink: /cca/clubs/makers-club/
 description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
 ## Co-Curricular&nbsp;Activities&nbsp;(CCA)
 
-### Discovery Club
+### Makers Club
 #### Overview of CCA
-##### Discovery Club: Inspiring Young Inventors!
+##### Makers Club: Inspiring Young Inventors!
 
-In Discovery Club, learning comes alive through the joy of play and making. When students engage in hands-on projects, they explore their creativity while developing critical thinking, problem-solving skills, and resilience. Each session encourages them to embrace their inner inventors, take risks, and see failure as a stepping stone to success through both physical and digital making activities.
+In Makers Club, learning comes alive through the joy of play and making. When students engage in hands-on projects, they explore their creativity while developing critical thinking, problem-solving skills, and resilience. Each session encourages them to embrace their inner inventors, take risks, and see failure as a stepping stone to success through both physical and digital making activities.
 
-Rooted in Design Thinking, students are empowered to explore their interests—whether building, coding, or crafting—while collaborating, sharing ideas, and learning from one another. They empathize, define problems, brainstorm solutions, prototype, and test ideas in real-world scenarios. At Discovery Club, students are inspired to invent with heart, using creativity to make a positive impact on their communities and beyond.
+Rooted in Design Thinking, students are empowered to explore their interests—whether building, coding, or crafting—while collaborating, sharing ideas, and learning from one another. They empathize, define problems, brainstorm solutions, prototype, and test ideas in real-world scenarios. At Makers Club, students are inspired to invent with heart, using creativity to make a positive impact on their communities and beyond.
 #### What Students Will Experience 
 Students will: 
 1. Grow in curiosity through exposure to different realms of making through learning journeys and expert workshops
@@ -28,7 +28,7 @@ Students will:
 3. VIA projects to mentor younger children in making
 4. Passion-based competitions (eg: National Thinker’s Challenge, Sony Creative Science Award, Global Robotics Games X Stick ‘em)
 
-#### Find out more about Discovery CCA
+#### Find out more about Makers CCA
 
 All rights reserved. No part of this video may be reproduced or transmitted in any form or by any means, or stored in any retrieval system of any nature without prior written permission from De La Salle School.  
 
