@@ -62,7 +62,7 @@ variant: markdown
     <td>Mdm Chen Weihua<br>chen_weihua@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>HOD Physical and Health Education</td>
+    <td>HOD Physical Education</td>
     <td>Mdm Rozana Kamsari<br>rozana_kamsari@moe.edu.sg </td>
   </tr>
 	 <tr>
