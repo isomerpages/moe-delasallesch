@@ -53,7 +53,7 @@ variant: markdown
   </tr>
   <tr>
     <td>Percussion Ensemble </td>
-    <td><b>Overall IC: Mr Daniel Lin</b> <br><br>Ms Woon Shio Ching<br><br>Mdm Sykirah <br></td>
+    <td><b>Overall IC: Mr Daniel Lin</b> <br><br>Ms Woon Shio Ching<br><br>Mdm Syakirah <br></td>
     <td><a href="mailto:lin_yuanwei_daniel@moe.edu.sg">lin_yuanwei_daniel@moe.edu.sg</a><br><br><a href="mailto:woon_shio_ching@moe.edu.sg">woon_shio_ching@moe.edu.sg</a><br><br><a href="mailto:noor_syakirah_jamal@moe.edu.sg">noor_syakirah_jamal@moe.edu.sg</a><br></td>
   </tr>
   <tr>
