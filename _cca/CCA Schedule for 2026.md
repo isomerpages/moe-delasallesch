@@ -30,7 +30,7 @@ variant: markdown
   <tr>
     <td rowspan="5"><b>Sports</b></td>
     <td><b>Basketball<br>(Boys Only)</b></td>
-    <td>P6<br>P4 &amp; P5</td>
+    <td>P6<br>P4, P5  &amp; P6</td>
     <td>Thursday<br>Friday</td>
     <td>Mr Alex Yao<br>yao_zhongde@moe.edu.sg</td>
   </tr>
@@ -148,8 +148,8 @@ variant: markdown
   <tr>
     <td rowspan="5"><b>Sports</b></td>
     <td><b>Basketball<br>(Boys Only)</b></td>
-    <td>P3, P4, P5</td>
-    <td>Friday</td>
+    <td>P5 <br>P3, P4, P5</td>
+    <td>Thursday <br>Friday</td>
     <td>Mr Alex Yao<br>yao_zhongde@moe.edu.sg</td>
   </tr>
   <tr>

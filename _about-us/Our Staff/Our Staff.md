@@ -62,7 +62,7 @@ variant: markdown
     <td>Mdm Chen Weihua<br>chen_weihua@moe.edu.sg</td>
   </tr>
 	 <tr>
-    <td>HOD Physical Education</td>
+    <td>HOD Physical Education &amp; Co-Curricular Activities (PE/CCA) </td>
     <td>Mdm Rozana Kamsari<br>rozana_kamsari@moe.edu.sg </td>
   </tr>
 	 <tr>
@@ -102,7 +102,7 @@ variant: markdown
     <td>Ms Jenny Chew Gek Cheng <br>chew_gek_cheng_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Subject Head Physical Education </td>
+    <td>Subject Head Physical Education (PE)</td>
     <td>Mr Matthew Teo<br>teo_puay_liang@moe.edu.sg </td>
   </tr>
   <tr>
