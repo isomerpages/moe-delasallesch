@@ -7,7 +7,7 @@ variant: markdown
 ## Announcements
 
 
-### April 2026 Parent Notification
+### May 2026 Parent Notification
 
 Dear Parents/Guardians,
 
