@@ -13,7 +13,7 @@ Dear Parents/Guardians,
 
 Greetings from De La Salle School.
 
-Please refer to the attached letter  [**here**](/files/2026/2_Apr_2026_PN.pdf) for important information from school.&nbsp;
+Please refer to the attached letter [**here**](/files/2026/4_May_2026_PN.pdf)  for important information from school.&nbsp;
 
 Thank you.
   
