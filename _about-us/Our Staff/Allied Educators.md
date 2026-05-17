@@ -15,3 +15,4 @@ variant: markdown
 | Allied Educator (SENO)| Mdm Sreerenjini Sreekumaran Nair | sreerenjini_sreekumaran_nair@moe.edu.sg |
 | Allied Educator (SENO) | Ms Choy Haohua | choy_haohua@moe.edu.sg |
 | Allied Educator (SENO) | Ms Suhada Binte Mohamed Sani | suhada_mohamed_sani@moe.edu.sg |
+| Allied Educator (SENO) | Ms Haneyz Natasha | haneyz_natasha_mohd_helmi@moe.edu.sg |
