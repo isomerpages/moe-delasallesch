@@ -42,7 +42,7 @@ variant: markdown
 | **ST.ANTHONY 3** |Mr Mohamed Nadzri<br>Mdm Bharathi Jaganathan| mohamed_nadzri_md_nasir@moe.edu.sg <br>bharathi_jaganathan@moe.edu.sg |
 | **ST.BERNADETTE 3** | Mdm Muneera Begum<br>Ms Tay Ai Suan | muneera_begum_mohamed_iqbal@moe.edu.sg<br>tay_ai_suan@moe.edu.sg |
 |**ST.CHRISTOPHER 3**| Mrs Lim-Ng Xiang Ling<br>Mdm Siti Munira Batra <br>Mr Muhammad Zulhilmi Mazli  | ng_xiang_ling@moe.edu.sg<br>siti_munira_batra@moe.edu.sg <br>muhammad_zulhilmi_mazli@moe.edu.sg |
-|**ST.DOMINIC 3**| Ms Xie Liling Jessica <br>Mr Abdul Gaffar Shaik Yusof <br>Mdm Norhamizah Hithayathullah Khan| xie_liling_jessica@moe.edu.sg<br>abdul_gaffar_shaik_yusof@moe.edu.sg <br>norhamizah_hithayathullah_khan@moe.edu.sg |
+|**ST.DOMINIC 3**| Mdm Norhamizah Hithayathullah Khan <br>Mr Abdul Gaffar Shaik Yusof <br>Mdm Koh Ting Ting| norhamizah_hithayathullah_khan@moe.edu.sg<br>abdul_gaffar_shaik_yusof@moe.edu.sg <br>koh_ting_ting@moe.edu.sg |
 |**ST. ELIZABETH 3**| Mr Pwee Kiat Kah  <br>Mdm Rozana Kamsari| pwee_kiat_kah@moe.edu.sg<br>rozana_kamsari@moe.edu.sg  |
 |**ST. FRANCIS 3**|Miss Nur Arifah Adnan<br>Mdm Wang Xiaoxia | nur_arifah_adnan@moe.edu.sg<br> wang_xiao_xia@moe.edu.sg |
 
@@ -61,7 +61,7 @@ variant: markdown
 
 | **Class** | **Form Teachers** | **Email** |
 |---|---|---|
-| **ST.ANTHONY 5** |Mrs Agnes Yu <br>Mr Chong Wee Tit |agnes_lee_ming_chyi@moe.edu.sg<br>chong_wee_tit@moe.edu.sg |
+| **ST.ANTHONY 5** |Mrs Jasmine Chen <br>Mr Chong Wee Tit |tan_cai_yun_Jasmine@moe.edu.sg<br>chong_wee_tit@moe.edu.sg |
 |**ST. BERNADETTE 5**| Mr Errol Benedict Robert<br>Ms Afzal-En-Nisa  | errol_benedict_robert@moe.edu.sg<br>afzal-en-nisa_mohamad_na@moe.edu.sg |
 |**ST. CHRISTOPHER 5**| Dr P Durka Devi <br>Mr Vikneswaran Narayanan<br> | p_durka_devi@moe.edu.sg<br>vikneswaran_narayanan@moe.edu.sg  |
 |**ST. DOMINIC 5**| Ms Nor Hashanah B M R  <br>Mdm Goh Sock Hong  | nor_hashanah_mohammad_razif@moe.edu.sg<br>goh_sock_hong@moe.edu.sg  |
