@@ -12,7 +12,7 @@ variant: markdown
 
 | **SLS Hotline** | **School Contact** |
 |:---:|:---:|
-| SLS Helpdesk - 6702 6513<br>Mondays - Fridays: 4:00 pm - 9:00 pm<br>Saturdays: <br>9:00 am - 3:00 pm<br>\*Closed on Sundays &amp; Public Holidays<br><br>SLS Password Reset<br>School - 67667675<br>Mondays - Fridays: 8:00 am - 4:00 pm| General Office: 6766 7675<br><br>[SLS Password / Account Reset Form](https://form.gov.sg/5e3dfc284bfa3c0011351632) (Recommended) |
+| SLS Helpdesk - 6702 6513<br>Mondays - Fridays: 4:00 pm - 9:00 pm<br>Saturdays: <br>9:00 am - 3:00 pm<br>\*Closed on Sundays &amp; Public Holidays<br><br>SLS Password Reset<br>School - 67667675<br>Mondays - Fridays: 8:00 am - 4:00 pm| General Office: 6766 7675<br><br> [MIMS Password Reset / SLS Account Unlock Form](https://form.gov.sg/69c9d397fdcbf844149bc744)(Recommended) |
 
 #### Guides
 
