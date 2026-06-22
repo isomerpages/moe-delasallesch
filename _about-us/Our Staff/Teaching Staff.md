@@ -74,7 +74,7 @@ variant: markdown
 |---|---|---|
 | **ST.ANTHONY 6** |Mdm Yusnizar Yusman  <br>Mr Patrick Low Kim Hong<br>Ms Eu Hui Jun| yusnizar_yusman@moe.edu.sg<br>low_kim_hong@moe.edu.sg<br>eu_hui_jun@moe.edu.sg |
 |**ST. BERNADETTE 6**| Mrs Choy-Ang Weiqi<br> Mr Alex Yao ZhongDe<br> Ms Mangala Dharishini D/O Harikrishnan| ang_weiqi@moe.edu.sg  <br>yao_zhongde@moe.edu.sg <br>mangala_dharshini_harikrishan@moe.edu.sg |
-|**ST. CHRISTOPHER 6**| Mrs Chai-Yeo Shin Hua<br>Ms Nurul I'zzah Basiron <br>Mdm Zhang Yao| yeo_shin_hua@moe.edu.sg<br>nurul_izzah_basiron@moe.edu.sg<br>zhang_yao_a@moe.edu.sg |
+|**ST. CHRISTOPHER 6**| Mrs Chai-Yeo Shin Hua<br>Ms Nurul I'zzah Basiron | yeo_shin_hua@moe.edu.sg<br>nurul_izzah_basiron@moe.edu.sg |
 |**ST. DOMINIC 6**| Ms Grace Looi Xinye<br>Mdm Liu Dan<br>Ms Lim Hwee Hong | looi_xinye_grace@moe.edu.sg <br>liu_dan@moe.edu.sg <br>lim_hwee_hong@moe.edu.sg |
 |**ST. ELIZABETH 6**|Mdm Irene Leong<br>Mr Matthew Teo  | leong_foong_yee_irene@moe.edu.sg<br>teo_puay_liang@moe.edu.sg |
 |**ST. FRANCIS 6**| Ms Nur Azlina Ngadi <br>Ms Low Siok Hua|  nur_azlina_ngadi@moe.edu.sg<br>low_siok_hua@moe.edu.sg |
