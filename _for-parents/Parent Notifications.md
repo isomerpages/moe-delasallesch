@@ -21,3 +21,7 @@ variant: markdown
 [April 2026 Parent Notification](/files/2026/2_Apr_2026_PN.pdf)
 
 [May 2026 Parent Notification](/files/2026/4_May_2026_PN.pdf)
+
+**Term 3 2026**
+
+[RE-OPENING OF SCHOOL IN TERM 3 ](/files/2026/30_June_2026_PN.pdf)
