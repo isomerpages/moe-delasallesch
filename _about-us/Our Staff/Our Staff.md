@@ -117,5 +117,9 @@ variant: markdown
     <td>Subject Head SML</td>
     <td>Mr Abdul Gaffar Shaik Yusof<br>abdul_gaffar_shaik_yusof@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td>Subject Head CCE</td>
+    <td>Ms Wong Nicole Miin yi<br>wong_nicole_miin_yi@moe.edu.sg</td>
+  </tr>
 </tbody>
 </table>
