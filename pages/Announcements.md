@@ -7,13 +7,13 @@ variant: markdown
 ## Announcements
 
 
-### May 2026 Parent Notification
+### RE-OPENING OF SCHOOL IN TERM 3 
 
 Dear Parents/Guardians,
 
 Greetings from De La Salle School.
 
-Please refer to the attached letter [**here**](/files/2026/4_May_2026_PN.pdf)  for important information from school.&nbsp;
+Please refer to the attached letter [**here**](/files/2026/30_June_2026_PN.pdf)  for important information from school.&nbsp;
 
 Thank you.
   
