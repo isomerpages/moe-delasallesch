@@ -108,7 +108,7 @@ variant: markdown
     <td><b>Robotics</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Thursday</td>
-    <td>Mr Mohamed Nadzri<br>mohamed_nadzri_md_nasir@moe.edu.sg</td>
+    <td>Mdm Goh Sock Hong<br>goh_sock_hong@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Chess Club</b></td>
