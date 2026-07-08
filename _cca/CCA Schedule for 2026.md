@@ -120,7 +120,7 @@ variant: markdown
     <td><b>Media Club</b></td>
     <td>P4, P5 &amp; P6</td>
     <td>Friday</td>
-    <td>Mdm Eunice Goh<br>eunice_goh@moe.edu.sg</td>
+    <td>Mdm Eunice Goh<br>goh_lee_sim_eunice@moe.edu.sg</td>
   </tr>
   <tr>
     <td><b>Makers Club</b></td>
